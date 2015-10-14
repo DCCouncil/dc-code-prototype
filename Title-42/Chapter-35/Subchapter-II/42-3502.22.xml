@@ -32,7 +32,7 @@
       </level>
       <level>
         <num>(F)</num>
-        <text>All copies of housing code violation reports issued by the Department of Consumer and Regulatory Affairs for the housing accommodation or rental unit within the last 12 months, or previously issued reports for violations which have but not been abated;</text>
+        <text>All copies of housing code and property maintenance code violation reports issued by the Department of Consumer and Regulatory Affairs for the housing accommodation or rental unit within the last 12 months, or previously issued reports for violations which have but not been abated;</text>
       </level>
       <level>
         <num>(G)</num>
@@ -55,8 +55,20 @@
       </level>
       <level>
         <num>(J)</num>
-        <text>The disclosure of ownership information in the registration form required by § 42-3502.05(f) and (g)(1)(C).</text>
+        <text>The disclosure of ownership information in the registration form required by § 42-3502.05(f) and (g)(1)(C);</text>
       </level>
+      <level>
+        <num>(K)</num>
+        <text>Information known or that should have been known about the presence of indoor mold contamination as defined in § 8-241.01(5) in the rental unit or common areas in the previous 3 years, unless the mold has been remediated by an indoor mold remediation professional certified and licensed by the District; and</text>
+      </level>
+      <level>
+        <num>(L)</num>
+        <text>A Tenant Bill of Rights published by the Office of the Tenant Advocate pursuant to § 42-3531.07(8).</text>
+      </level>
+    </level>
+    <level>
+      <num>(1A)</num>
+      <text>The requirement in paragraph (1)(L) of this subsection shall apply to an application for a residential rental unit submitted 90 days after a Tenant Bill of Rights is noticed in the District of Columbia Register.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -98,11 +110,24 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 17, 1985, D.C. Law 6-10, § 222, as added Aug. 5, 2006, D.C. Law 16-145, § 2(g), 53 DCR 4889.)</text>
+      <text>(July 17, 1985, D.C. Law 6-10, § 222, as added Aug. 5, 2006, D.C. Law 16-145, § 2(g), 53 DCR 4889; Sept. 9, 2014, D.C. Law 20-135, § 301, 61 DCR 6767; Dec. 17, 2014, D.C. Law 20-147, § 3, 61 DCR 8310.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-135 added "and property maintenance code" in (b)(1)(F); made a minor stylistic change in (b)(1)(J); and added (b)(1)(K).</text>
+      <text>The 2014 amendment by D.C. Law 20-147 added the subsection designated herein as (b)(1)(L) and made related changes; and added (b)(1A).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-145</heading>
       <text>For Law 16-145, see notes following § 42-3502.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-135</heading>
+      <text>Law 20-135, the "Air Quality Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-368. The Bill was adopted on first and second readings on May 6, 2014, and June 3, 2014, respectively. Signed by the Mayor on June 23, 2014, it was assigned Act No. 20-365 and transmitted to Congress for its review. D.C. Law 20-135 became effective on Sept. 9, 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-147</heading>
+      <text>Law 20-147, the "Tenant Bill of Rights Act of 2014," was introduced in Council and assigned Bill No. 20-58. The Bill was adopted on first and second readings on June 24, 2014, and July 14, 2014, respectively. Signed by the Mayor on Aug. 1, 2014, it was assigned Act No. 20-415 and transmitted to Congress for its review. D.C. Law 20-147 became effective on Dec. 17, 2014.</text>
     </level>
   </level>
 </level>

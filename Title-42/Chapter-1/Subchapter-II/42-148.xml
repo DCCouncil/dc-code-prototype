@@ -5,122 +5,48 @@
   <level>
     <num>(1)</num>
     <text>For an acknowledgment in an individual capacity:</text>
-    <level type="form">
-      <text/>
-      <text>
-
-
- District of Columbia 
-
-
- This instrument was acknowledged before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s)). 
-
-</span>
- ________________________________________ 
-
-
- (Signature of notarial officer) 
-
-
- (Seal, if any) 
-
-
- ________________________________________ 
-
-
- Title (and Rank) 
-
-
- (My commission expires: ______________) 
- 
- (2) For an acknowledgment in a representative capacity: 
-
-
- District of Columbia 
-
-
- This instrument was acknowledged before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s)) </span> as <span style="font-weight: bold; ">(type of authority, e.g., officer, trustee, etc.) </span> of <span style="font-weight: bold; ">(name of party on behalf of whom instrument was executed). 
-
-</span>
- ________________________________________ 
-
-
- (Signature of notarial officer) 
-
-
- (Seal, if any) 
-
-
- ________________________________________ 
-
-
- Title (and Rank) 
-
-
- (My commission expires: ______________) 
- 
- (3) For a verification upon oath or affirmation: 
-
-
- District of Columbia 
-
-
- Signed and sworn to (or affirmed) before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s) making statement). 
-
-</span>
- ________________________________________ 
-
-
- (Signature of notarial officer) 
-
-
- (Seal, if any) 
-
-
- ________________________________________ 
-
-
- Title (and Rank) 
-
-
- (My commission expires: ______________)</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>For witnessing or attesting a signature:</text>
-      <level type="form">
-        <text/>
-        <text>
-
-
- District of Columbia 
-
-
- Signed or attested before me on <span style="font-weight: bold; ">(date) </span> by <span style="font-weight: bold; ">(name(s) of person(s)). 
-
-</span>
- ________________________________________ 
-
-
- (Signature of notarial officer) 
-
-
- (Seal, if any) 
-
-
- ________________________________________ 
-
-
- Title (and Rank) 
-
-
- (My commission expires: ______________)</text>
-      </level>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Repealed.</text>
-    </level>
+  </level>
+  <text>District of Columbia</text>
+  <text>This instrument was acknowledged before me on (date) by (name(s) of person(s)).</text>
+  <text>____________________</text>
+  <text>(Signature of notarial officer)</text>
+  <text>(Seal, if any)</text>
+  <text>____________________</text>
+  <text>Title (and Rank)</text>
+  <text>(My commission expires: ________)</text>
+  <text>For an acknowledgment in a representative capacity:</text>
+  <text>District of Columbia</text>
+  <text>This instrument was acknowledged before me on (date) by (name(s) of person(s)) as (type of authority, e.g., officer, trustee, etc.) of (name of party on behalf of whom instrument was executed).</text>
+  <text>____________________</text>
+  <text>(Signature of notarial officer)</text>
+  <text>(Seal, if any)</text>
+  <text>____________________</text>
+  <text>Title (and Rank)</text>
+  <text>(My commission expires: ________)</text>
+  <text>For a verification upon oath or affirmation:</text>
+  <text>District of Columbia</text>
+  <text>Signed and sworn to (or affirmed) before me on (date) by (name(s) of person(s) making statement).</text>
+  <text>____________________</text>
+  <text>(Signature of notarial officer)</text>
+  <text>(Seal, if any)</text>
+  <text>____________________</text>
+  <text>Title (and Rank)</text>
+  <text>(My commission expires: ________)</text>
+  <level>
+    <num>(4)</num>
+    <text>For witnessing or attesting a signature:</text>
+  </level>
+  <text>District of Columbia</text>
+  <text>Signed or attested before me on (date) by (name(s) of person(s)).</text>
+  <text>____________________</text>
+  <text>(Signature of notarial officer)</text>
+  <text>(Seal, if any)</text>
+  <text>____________________</text>
+  <text>Title (and Rank)</text>
+  <text>(My commission expires: ________)</text>
+  <level>
+    <num>(5)</num>
+    <text>Repealed.</text>
   </level>
   <level type="annotations">
     <level>
