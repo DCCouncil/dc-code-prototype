@@ -5,14 +5,6 @@
   <level>
     <num>(1)</num>
     <text>Vary any requirement, procedure, or other provision of this title pertaining to:</text>
-    <level>
-      <num>(A)</num>
-      <text>Registered agents; or</text>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>The Mayor, including provisions pertaining to records authorized or required to be delivered to the Mayor for filing under this title;</text>
-    </level>
   </level>
   <level>
     <num>(2)</num>
@@ -89,6 +81,14 @@
   <level>
     <num>(20)</num>
     <text>Restrict the rights under this chapter of a person other than a trustee, person designated under § 29-1201.03(e)(8) and (9), or beneficial owner.</text>
+    <level>
+      <num>(A)</num>
+      <text>Registered agents; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The Mayor, including provisions pertaining to records authorized or required to be delivered to the Mayor for filing under this title;</text>
+    </level>
   </level>
   <level type="annotations">
     <level>

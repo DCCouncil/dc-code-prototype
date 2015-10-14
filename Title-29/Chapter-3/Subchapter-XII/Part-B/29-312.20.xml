@@ -35,10 +35,6 @@
         <num>(D)</num>
         <text>The corporate assets are being misapplied or wasted;</text>
       </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>In a proceeding by a creditor if it is established that:</text>
       <level>
         <num>(A)</num>
         <text>The creditor's claim has been reduced to judgment, the execution on the judgment returned unsatisfied, and the corporation is insolvent; or</text>
@@ -47,6 +43,10 @@
         <num>(B)</num>
         <text>The corporation has admitted in writing that the creditor's claim is due and owing and the corporation is insolvent;</text>
       </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>In a proceeding by a creditor if it is established that:</text>
     </level>
     <level>
       <num>(4)</num>

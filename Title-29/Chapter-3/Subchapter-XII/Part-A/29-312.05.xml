@@ -24,10 +24,6 @@
       <num>(5)</num>
       <text>Doing every other act necessary to wind up and liquidate its activities and affairs.</text>
     </level>
-  </level>
-  <level>
-    <num>(b)</num>
-    <text>Dissolution of a corporation shall not:</text>
     <level>
       <num>(1)</num>
       <text>Transfer title to the corporation's property;</text>
@@ -68,6 +64,10 @@
       <num>(7)</num>
       <text>Terminate the authority of the registered agent of the corporation.</text>
     </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Dissolution of a corporation shall not:</text>
   </level>
   <level type="annotations">
     <level>

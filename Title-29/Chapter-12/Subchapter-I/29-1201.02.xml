@@ -46,10 +46,6 @@
       <text>The spouse of the party;</text>
     </level>
     <level>
-      <num>(B)</num>
-      <text>A child, parent, sibling, grandchild, or grandparent of the party, or the spouse of one of them;</text>
-    </level>
-    <level>
       <num>(C)</num>
       <text>An individual having the same residence as the party;</text>
     </level>
@@ -85,6 +81,10 @@
   <level>
     <num>(15)</num>
     <text>"Trustee" means a person designated, appointed, or elected as a trustee of a statutory trust or foreign statutory trust in accordance with the governing instrument or applicable law.</text>
+    <level>
+      <num>(B)</num>
+      <text>A child, parent, sibling, grandchild, or grandparent of the party, or the spouse of one of them;</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
@@ -101,7 +101,7 @@
     </level>
     <level>
       <heading>Legislative History of Law 19-210</heading>
-      <text>Law 19-210, the "'District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
+      <text>Law 19-210, the '"District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>
