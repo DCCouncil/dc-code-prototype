@@ -92,8 +92,9 @@
     <num>(d)</num>
     <level>
       <num>(1)</num>
-      <text>The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the government, seeks a continuance. Except for good cause, a continuance on motion of the person shall not exceed 5 days, and a continuance on motion of the attorney for the government shall not exceed 3 days. During a continuance, the person shall be detained, and the judicial officer, on motion of the attorney for the government or <span style="font-style: italic; ">sua sponte</span>, may order that, while in custody, a person who appears to be an addict receive a medical examination to determine whether the person is an addict, as defined in § 23-1331.</text>
+      <text>The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the government, seeks a continuance. Except for good cause, a continuance on motion of the person shall not exceed 5 days, and a continuance on motion of the attorney for the government shall not exceed 3 days. During a continuance, the person shall be detained, and the judicial officer, on motion of the attorney for the government or sua sponte, may order that, while in custody, a person who appears to be an addict receive a medical examination to determine whether the person is an addict, as defined in § 23-1331.</text>
     </level>
+    <text>sua sponte</text>
     <level>
       <num>(2)</num>
       <text>At the hearing, the person has the right to be represented by counsel and, if financially unable to obtain adequate representation, to have counsel appointed.</text>
@@ -369,6 +370,13 @@
     <level>
       <heading>Legislative History of Law 19-320</heading>
       <text>Law 19-320, the "Omnibus Criminal Code Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-645. The Bill was adopted on first and second readings on Dec. 4, 2012, and Dec. 18, 2012, respectively. Signed by the Mayor on Feb. 11, 2013, it was assigned Act No. 19-677 and transmitted to Congress for its review. D.C. Law 19-320 became effective on June 19, 2013.</text>
+    </level>
+    <level>
+      <heading>LAW REVIEWS AND JOURNAL COMMENTARIES</heading>
+      <text>Constitutional Rights, Due Process, And The Dissenting Voice, 40 How. L.J. 399.</text>
+      <text>Preventive Detention And United States v. Edwards: Burdening The Innocent, 32 American University Law Review, The 191.</text>
+      <text>Preventive Detention, A Species of Lydford Law. Sam J. Ervin, Jr., 52 Geo. Wash. L. Rev. 113 (1983).</text>
+      <text>"The unnecessary detention of children in the District of Columbia—Juvenile detention law in the District of Columbia: A practitioner's guide." 3 The District of Columbia Law Review 281 (1995).</text>
     </level>
   </level>
 </level>
