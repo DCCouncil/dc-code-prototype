@@ -35,18 +35,18 @@
         <text>Court testimony;</text>
       </level>
     </level>
-    <level>
-      <num>(B)</num>
-      <text>To police personnel for purposes of investigation of criminal offenses and complaints against police action;</text>
-    </level>
-    <level>
-      <num>(C)</num>
-      <text>To authorized personnel for purposes of pre-sentence reports; or</text>
-    </level>
-    <level>
-      <num>(D)</num>
-      <text>With the prior written consent of the client, for the purposes of and in accordance with Chapter 2A of this title.</text>
-    </level>
+  </level>
+  <level>
+    <num>(B)</num>
+    <text>To police personnel for purposes of investigation of criminal offenses and complaints against police action;</text>
+  </level>
+  <level>
+    <num>(C)</num>
+    <text>To authorized personnel for purposes of pre-sentence reports; or</text>
+  </level>
+  <level>
+    <num>(D)</num>
+    <text>With the prior written consent of the client, for the purposes of and in accordance with Chapter 2A of this title.</text>
   </level>
   <level>
     <num>(d)</num>

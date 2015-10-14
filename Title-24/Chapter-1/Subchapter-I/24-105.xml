@@ -4,7 +4,7 @@
   <level>
     <num>(a)</num>
     <heading>Liability</heading>
-    <text>The District of Columbia shall defend any civil action or proceeding brought in any court or other official Federal, state, or municipal forum against the Corrections Trustee, or against the District of Columbia or it [<span style="font-style: italic; ">sic</span>] officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding, if the action or proceeding arises from:</text>
+    <text>The District of Columbia shall defend any civil action or proceeding brought in any court or other official Federal, state, or municipal forum against the Corrections Trustee, or against the District of Columbia or it [sic] officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding, if the action or proceeding arises from:</text>
     <level>
       <num>(1)</num>
       <text>An inmate's confinement with the District of Columbia Department of Corrections;</text>
@@ -18,6 +18,7 @@
       <text>The District of Columbia's operations or activities occurring on any property not specifically transferred to the administrative control of the Federal Government pursuant to this chapter.</text>
     </level>
   </level>
+  <text>sic</text>
   <level>
     <num>(b)</num>
     <heading>Litigation</heading>

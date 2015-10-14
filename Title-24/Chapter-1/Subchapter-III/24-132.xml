@@ -160,34 +160,34 @@
       <level>
         <num>(B)</num>
         <heading>U.S. Attorney General</heading>
+        <level>
+          <num>(i)</num>
+          <heading>In general. —</heading>
+          <text>Notwithstanding subparagraph (A) of this paragraph, with respect to any litigation involving the Trustee, the Attorney General may:</text>
+          <level>
+            <num>(I)</num>
+            <text>Direct the litigation of the Trustee, and of the District of Columbia on behalf of the Trustee; and</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>Provide on a reimbursable or nonreimbursable basis litigation services for the Trustee at the Trustee's request or on the Attorney General's own initiative.</text>
+          </level>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <heading>Approval of settlement. —</heading>
+          <text>With respect to any litigation involving the Trustee, the Trustee may not agree to any settlement involving any form of equitable relief without the approval of the Attorney General. The Trustee shall provide to the Attorney General such notice and reports concerning litigation as the Attorney General may direct.</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <heading>Discretion. —</heading>
+          <text>Any decision to exercise any authority of the Attorney General under this paragraph shall be in the sole discretion of the Attorney General and shall not be reviewable in any court.</text>
+        </level>
       </level>
     </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <heading>In general</heading>
-    <text>Notwithstanding subparagraph (A) of this paragraph, with respect to any litigation involving the Trustee, the Attorney General may:</text>
-    <level>
-      <num>(I)</num>
-      <text>Direct the litigation of the Trustee, and of the District of Columbia on behalf of the Trustee; and</text>
-    </level>
-    <level>
-      <num>(II)</num>
-      <text>Provide on a reimbursable or nonreimbursable basis litigation services for the Trustee at the Trustee's request or on the Attorney General's own initiative.</text>
-    </level>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <heading>Approval of settlement</heading>
-    <text>With respect to any litigation involving the Trustee, the Trustee may not agree to any settlement involving any form of equitable relief without the approval of the Attorney General. The Trustee shall provide to the Attorney General such notice and reports concerning litigation as the Attorney General may direct.</text>
-  </level>
-  <level>
-    <num>(iii)</num>
-    <heading>Discretion</heading>
-    <text>Any decision to exercise any authority of the Attorney General under this paragraph shall be in the sole discretion of the Attorney General and shall not be reviewable in any court.</text>
     <level>
       <num>(3)</num>
-      <heading>Limitations</heading>
+      <heading>Limitations. —</heading>
       <text>Nothing in this section shall be construed:</text>
       <level>
         <num>(A)</num>
@@ -196,18 +196,18 @@
       <level>
         <num>(B)</num>
         <text>To obligate the District of Columbia to represent or indemnify the Corrections Trustee or any officer, employee, or agent where the Trustee (or any person employed by or acting under the authority of the Trustee) acts beyond the scope of his authority.</text>
-        <level>
-          <num>(i)</num>
-          <heading>Certification</heading>
-          <text>The Court Services and Offender Supervision Agency for the District of Columbia shall assume its duties pursuant to § 24-133 when, within the period beginning one year after August 5, 1997 and ending three years after August 5, 1997, the Trustee certifies to the Attorney General and the Attorney General concurs that the Agency can carry out the functions described in § 24-133 and the United States Parole Commission can carry out the functions described in § 24-133.</text>
-        </level>
-        <level>
-          <num>(j)</num>
-          <heading>Exercise of authority on behalf of Public Defender Service</heading>
-          <text>At the request of the Director of the District of Columbia Public Defender Service, the Trustee may exercise any of the powers and authorities of the Trustee on behalf of such Service in the same manner and to the same extent as the Trustee may exercise such powers and authorities in relation to any agency described in subsection (b) of this section.</text>
-        </level>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <heading>Certification. —</heading>
+    <text>The Court Services and Offender Supervision Agency for the District of Columbia shall assume its duties pursuant to § 24-133 when, within the period beginning one year after August 5, 1997 and ending three years after August 5, 1997, the Trustee certifies to the Attorney General and the Attorney General concurs that the Agency can carry out the functions described in § 24-133 and the United States Parole Commission can carry out the functions described in § 24-133.</text>
+  </level>
+  <level>
+    <num>(j)</num>
+    <heading>Exercise of authority on behalf of Public Defender Service. —</heading>
+    <text>At the request of the Director of the District of Columbia Public Defender Service, the Trustee may exercise any of the powers and authorities of the Trustee on behalf of such Service in the same manner and to the same extent as the Trustee may exercise such powers and authorities in relation to any agency described in subsection (b) of this section.</text>
   </level>
   <level type="annotations">
     <level>
