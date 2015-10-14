@@ -7,14 +7,41 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>If a person to whom a notice of infraction has been issued fails to appear at a hearing for which he or she received notice, the hearing examiner may enter a default judgment sustaining the charges, fix the appropriate fine, assess appropriate penalties, if any, and suspend the person's license or privilege to drive in the District until the fines and penalties are paid, if the commission of the infraction is established by clear and convincing evidence. The judgment and suspension shall take effect and notice shall be given in accordance with § 50-2302.05(f). The notice shall further indicate that the default judgment may only be vacated if there is received, within 60 days of the effective date of the judgment, a written application to vacate the default that sets forth:</text>
     <level>
       <num>(1)</num>
-      <text>A sufficient defense to the charge; and</text>
+      <text>If a person to whom a notice of infraction has been issued fails to appear at a hearing for which he or she received notice, the hearing examiner may enter a default judgment sustaining the charges, fix the appropriate fine, assess appropriate penalties, if any, and suspend the person's license or privilege to drive in the District until the fines and penalties are paid, if the commission of the infraction is established by clear and convincing evidence. The judgment and suspension shall take effect and notice shall be given in accordance with § 50-2302.05(f). The notice shall further indicate that the default judgment may only be vacated if there is received, within 60 days of the effective date of the judgment, a written application to vacate the default that sets forth:</text>
+      <level>
+        <num>(A)</num>
+        <text>A sufficient defense to the charge; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Excusable neglect as to the respondent's failure to attend the hearing.</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>Excusable neglect as to the respondent's failure to attend the hearing.</text>
+      <text>If the infraction underlying the default judgment involves a violation of §  31-2413(a)(3), the notice provided shall state that the default judgement may be vacated if the Department receives by mail or through the Department's website, within one calendar year of the date of the judgement, a written application to vacate the default judgement that sets forth:</text>
+      <level>
+        <num>(A)</num>
+        <text>A sufficient defense to the charge as described in §  50-2302.05(b)(2); or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Excusable neglect as to the respondent's failure to attend the hearing.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>If the infraction underlying the default judgment involves a violation of Chapter 17A of this title [§  50-1731.01 et seq.], the notice provided shall state that the default judgement may be vacated if the Department receives by mail or through the Department's website, within one year of the date of the judgement, a written application to vacate the default judgement that sets forth:</text>
+      <level>
+        <num>(A)</num>
+        <text>A sufficient defense to the charge as described in §  50-1731.06(a); or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Excusable neglect as to the respondent's failure to attend the hearing.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -31,7 +58,34 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>After due consideration of the evidence and arguments presented, the hearing examiner shall determine whether the infraction has been established. Where the infraction is not established, an order dismissing the charge shall be entered. Where a determination is made that an infraction has been established or where an answer admitting the commission of the infraction or admitting the commission of the infraction with explanation has been received, an appropriate order shall be entered in the Department's records.</text>
+    <text>After due consideration of the evidence and arguments presented, the hearing examiner shall determine whether the infraction has been established. Where the infraction is not established, an order dismissing the charge shall be entered. Where a determination is made that an infraction has been established or where an answer admitting the commission of the infraction or admitting the commission of the infraction with explanation has been received, an appropriate order shall be entered in the Department's records. Where a determination has been made that the infraction has been established, the Department shall provide written notice of the decision to the respondent, including an accompanying explanation of why any evidence provided was insufficient.</text>
+  </level>
+  <level>
+    <num>(d-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>The following facts shall be judicially noticed in a proceeding governed by the provisions of this title:</text>
+      <level>
+        <num>(A)</num>
+        <text>Facts that the courts of the District of Columbia find judicially cognizable;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Generally recognized technical or specialized facts within the knowledge and experience of the hearing examiners of the Department;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Facts contained in the records and files of the Department; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Any other matter or document that a hearing examiner finds is properly the subject of judicial notice.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A fact contained in a document belonging to a category enumerated in paragraph (1) of this subsection shall be considered to have been physically incorporated into and made part of the record in a proceeding.</text>
+    </level>
   </level>
   <level>
     <num>(e)</num>
@@ -63,12 +117,12 @@
   </level>
   <level>
     <num>(i)</num>
-    <text>Except where a stay is ordered, failure to pay any assessed civil fines and penalties due within 15 calendar days after final decision shall result in suspension of a respondent's operator's permit, in the case of a resident of the District or other person with a District operator's permit, or the person's privilege to drive within the District, in the case of a nonresident or resident licensed in another jurisdiction. The suspension shall take effect and notice shall be given in accordance with § 50-2302.05(f). All civil fines and other monies collected pursuant to the provisions of this title shall be paid into the General Fund of the District.</text>
+    <text>Except where a stay is ordered, failure to pay any assessed civil fines and penalties due within 30 calendar days after final decision shall result in suspension of a respondent's operator's permit, in the case of a resident of the District or other person with a District operator's permit, or the person's privilege to drive within the District, in the case of a nonresident or resident licensed in another jurisdiction. The suspension shall take effect and notice shall be given in accordance with § 50-2302.05(f). All civil fines and other monies collected pursuant to the provisions of this title shall be paid into the General Fund of the District.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 12, 1978, D.C. Law 2-104, § 206, 25 DCR 1275; Apr. 27, 2001, D.C. Law 13-289, § 302(f), 48 DCR 2057; Mar. 14, 2007, D.C. Law 16-279, § 301(d), 54 DCR 903.)</text>
+      <text>(Sept. 12, 1978, D.C. Law 2-104, § 206, 25 DCR 1275; Apr. 27, 2001, D.C. Law 13-289, § 302(f), 48 DCR 2057; Mar. 14, 2007, D.C. Law 16-279, § 301(d), 54 DCR 903; July 23, 2014, D.C. Law 20-127, §3(g), 61 DCR 5711.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -85,6 +139,13 @@
       <text>"(b) If a person to whom a notice of infraction has been issued fails to appear at a hearing where he is required to do so, the hearing examiner may suspend that person's license or privilege to drive until such person appears at a hearing or pays a civil fine pursuant to § 50-2302.05(c). Such suspension shall take effect and notice shall be given in accordance with § 50-2302.05(d)."</text>
       <text>"(i) All civil fines and other monies collected pursuant to the provisions of this title shall be paid into the General Fund of the District."</text>
       <text>D.C. Law 16-279, in subsec. (b), reduced the application to vacate time from within 90 days of the effective date of the judgment to from within 60 days of the effective date of the judgment; in subsec. (c), substituted "denied the commission of the infraction; except, no officer is required at the hearing when a violation is detected by an automated traffic enforcement system" for "denied the commission of the infraction"; and in subsec. (f)(2), substituted "The completion of traffic school in lieu of the assessment of the applicable points; or" for "The required completion of traffic school; or".</text>
+      <text>The 2014 amendment by D.C. Law 20-127 rewrote (b); added the last sentence in (d); added (d-1); and substituted "30 calendar days" for "15 calendar days" in (i).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of D.C. Law 20-127, § 5, see § 7009 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of D.C. Law 20-127, § 5, see § 7009 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of D.C. Law 20-127, § 5, see § 7009 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-104</heading>
@@ -99,9 +160,14 @@
       <text>For Law 16-279, see notes following § 50-312.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-127</heading>
+      <text>See note to § 50-2301.04.</text>
+    </level>
+    <level>
       <heading>Editor’s Notes</heading>
       <text>Chapter 10 of Title 18 of the DCMR (Vehicles and Traffic) (June, 1987) has replaced Chapter IX of Title 32 of the District of Columbia Rules and Regulations, referred to in (a) and (h).</text>
       <text>Chapter 3 of Title 18 of the DCMR (Vehicles and Traffic) (June, 1987) has replaced the provisions governing assessment of traffic points formerly contained in Chapter II of Title 32 of the District of Columbia Rules and Regulations, referred to in (e).</text>
+      <text>Applicability of D.C. Law 20-127: Section 5 of D.C. Law 20-127, as amended by D.C. Law 20-155, § 7009, provided that the act shall apply as of October 1, 2014.</text>
     </level>
   </level>
 </level>
