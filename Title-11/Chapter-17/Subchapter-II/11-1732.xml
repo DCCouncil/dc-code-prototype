@@ -79,8 +79,9 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>If in a case under paragraphs [<span style="font-style: italic; ">paragraph </span>] (A), the magistrate judge finds that a duty of support exists and makes a finding that the case involves complex issues requiring judicial resolution, the magistrate judge shall establish a temporary support obligation and refer unresolved issues to a judge of the Superior Court.</text>
+        <text>If in a case under paragraphs [paragraph ] (A), the magistrate judge finds that a duty of support exists and makes a finding that the case involves complex issues requiring judicial resolution, the magistrate judge shall establish a temporary support obligation and refer unresolved issues to a judge of the Superior Court.</text>
       </level>
+      <text>paragraph</text>
       <level>
         <num>(C)</num>
         <text>In cases under subparagraphs (A) and (B) in which the magistrate judge finds that there is a duty of support and the individual owing that duty has been served or given notice of the proceeding under any applicable statute or court rule, if that individual fails to appear or otherwise respond, the magistrate judge shall enter a default order, which shall constitute a final order of the Superior Court;</text>
@@ -120,20 +121,20 @@
         <num>(D)</num>
         <text>the compensation of, and other personnel matters pertaining to, hearing commissioners.</text>
       </level>
+      <text>Upon completion of the study, the chief judge shall report the findings of such study to the appropriate committees of the Congress.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>After the study required by paragraph (1), the chief judge shall, from time to time, make such studies as the Board of Judges shall deem expedient, giving consideration to suggestions of the District of Columbia Bar and other interested parties.</text>
     </level>
   </level>
-  <text>Upon completion of the study, the chief judge shall report the findings of such study to the appropriate committees of the Congress.</text>
   <level>
-    <num>(2)</num>
-    <text>After the study required by paragraph (1), the chief judge shall, from time to time, make such studies as the Board of Judges shall deem expedient, giving consideration to suggestions of the District of Columbia Bar and other interested parties.</text>
-    <level>
-      <num>(n)</num>
-      <text>With the concurrence of the District of Columbia Court of Appeals, the Board of Judges of the Superior Court may promulgate rules, not inconsistent with the terms of this section, which are necessary for the fair and effective utilization of magistrate judges in the Superior Court.</text>
-    </level>
-    <level>
-      <num>(o)</num>
-      <text>For purposes of this section, the term "Board of Judges" means the judges of the Superior Court of the District of Columbia. Any action of the Board of Judges shall require a majority vote of the sitting judges.</text>
-    </level>
+    <num>(n)</num>
+    <text>With the concurrence of the District of Columbia Court of Appeals, the Board of Judges of the Superior Court may promulgate rules, not inconsistent with the terms of this section, which are necessary for the fair and effective utilization of magistrate judges in the Superior Court.</text>
+  </level>
+  <level>
+    <num>(o)</num>
+    <text>For purposes of this section, the term "Board of Judges" means the judges of the Superior Court of the District of Columbia. Any action of the Board of Judges shall require a majority vote of the sitting judges.</text>
   </level>
   <level type="annotations">
     <level>
@@ -162,6 +163,10 @@
       <text>Section 5(b) of Pub. L. 107-114 provided:</text>
       <text>"(b) TRANSITION PROVISION REGARDING HEARING COMMISSIONERS. - Any individual serving as a hearing commissioner under section 11-1732 of the District of Columbia Code as of the date of the enactment of this Act Jan. 8, 2002 shall serve the remainder of such individual's term as a magistrate judge, and may be reappointed as a magistrate judge in accordance with section 11-1732(d), District of Columbia Code, except that any individual serving as a hearing commissioner as of the date of the enactment of this Act who was appointed as a hearing commissioner prior to the effective date of section 11-1732 of the District of Columbia Code shall not be required to be a resident of the District of Columbia to be eligible to be reappointed."</text>
       <text>Section 6(d)(2) of Pub. L. 107-114 provided for expedited initial appointments.</text>
+    </level>
+    <level>
+      <heading>LAW REVIEWS AND JOURNAL COMMENTARIES</heading>
+      <text>The District Of Columbia's Introduction Of Hearing Commissioners Into An Overburdened Judicial System, 33 How. L.J. 383.</text>
     </level>
   </level>
 </level>
