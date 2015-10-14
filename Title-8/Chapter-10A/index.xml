@@ -1,0 +1,19 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>10A</num>
+  <heading>Solid Waste Reduction and Recovery.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1031.14.xml"/>
+</level>

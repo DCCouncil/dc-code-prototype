@@ -1,0 +1,12 @@
+<level type="toc">
+  <prefix>Chapter</prefix>
+  <num>15A</num>
+  <heading>Management of Disposable Food Service Ware.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1531.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1532.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1533.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1534.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1535.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1536.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1537.xml"/>
+</level>

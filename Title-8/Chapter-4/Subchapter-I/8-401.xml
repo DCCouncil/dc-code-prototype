@@ -217,42 +217,42 @@
   <level>
     <num>(z)</num>
     <text>The term "pesticide applicator" means an individual who is a (1) commercial applicator; (2) private applicator; (3) public applicator; or (4) registered employee.</text>
-    <level>
-      <num>(aa)</num>
-      <text>The term "pesticide dealer" means any person who distributes to the ultimate user restricted use pesticides or any pesticide whose use or distribution are further restricted by the Mayor.</text>
-    </level>
-    <level>
-      <num>(bb)</num>
-      <text>The term "pesticide operator" means (1) any person who owns or manages a pesticide application business in which pesticides are applied upon the lands of another for hire or compensation; or (2) except as other wise provided under the definition of "private applicator", the owner or manager of any commercial firm, business, corporation, or private institution, who directly or through his employees uses restricted use pesticides on property owned, managed, or leased by such commercial firm, business, corporation, or private institution; or (3) any District or other governmental agency whose officials or employees apply pesticides as part of their normal duties.</text>
-    </level>
-    <level>
-      <num>(cc)</num>
-      <text>The term "plant regulator" means any substance or mixture of substances, intended through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, it shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.</text>
-    </level>
-    <level>
-      <num>(dd)</num>
-      <text>The term "private applicator" means any individual who uses any restricted use pesticide for purposes of producing any agricultural commodity on property owned or rented by him or his employer or (if applied without compensation other than trading of personal services between producers of agricultural commodities) on the property of another person.</text>
-    </level>
-    <level>
-      <num>(ee)</num>
-      <text>The term "public applicator" means a commercial applicator who is an employee of the District or of a governmental agency who is authorized to use or supervise the use of pesticides.</text>
-    </level>
-    <level>
-      <num>(ff)</num>
-      <text>The term "registered employee" means an individual who is registered with the Mayor, pursuant to § 8-404, and who works under the direct supervision of a licensed commercial or public applicator.</text>
-    </level>
-    <level>
-      <num>(gg)</num>
-      <text>The term "restricted use pesticides" means any pesticides or pesticide use classified by the Administrator for restricted use; or any pesticide, which when used as directed or in accordance with a commonly recognized practice, the Mayor determines, subsequent to a hearing, that additional restrictions for that use are necessary in order to prevent a hazard to the applicator or other persons, or to prevent unreasonable adverse effects upon the environment.</text>
-    </level>
-    <level>
-      <num>(hh)</num>
-      <text>The term "under the direct supervision of" means that unless otherwise prescribed by its labeling or other restrictions imposed by the Mayor, a pesticide shall be considered to be applied under the direct supervision of a certified applicator if it is applied by a competent registered employee acting under the instruction and control of a certified applicator who is available if and when needed, even though such certified applicator may not be physically present at the time and place the pesticide is applied.</text>
-    </level>
-    <level>
-      <num>(ii)</num>
-      <text>The term "weed" means any plant which grows where it is not wanted.</text>
-    </level>
+  </level>
+  <level>
+    <num>(aa)</num>
+    <text>The term "pesticide dealer" means any person who distributes to the ultimate user restricted use pesticides or any pesticide whose use or distribution are further restricted by the Mayor.</text>
+  </level>
+  <level>
+    <num>(bb)</num>
+    <text>The term "pesticide operator" means (1) any person who owns or manages a pesticide application business in which pesticides are applied upon the lands of another for hire or compensation; or (2) except as other wise provided under the definition of "private applicator", the owner or manager of any commercial firm, business, corporation, or private institution, who directly or through his employees uses restricted use pesticides on property owned, managed, or leased by such commercial firm, business, corporation, or private institution; or (3) any District or other governmental agency whose officials or employees apply pesticides as part of their normal duties.</text>
+  </level>
+  <level>
+    <num>(cc)</num>
+    <text>The term "plant regulator" means any substance or mixture of substances, intended through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, it shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.</text>
+  </level>
+  <level>
+    <num>(dd)</num>
+    <text>The term "private applicator" means any individual who uses any restricted use pesticide for purposes of producing any agricultural commodity on property owned or rented by him or his employer or (if applied without compensation other than trading of personal services between producers of agricultural commodities) on the property of another person.</text>
+  </level>
+  <level>
+    <num>(ee)</num>
+    <text>The term "public applicator" means a commercial applicator who is an employee of the District or of a governmental agency who is authorized to use or supervise the use of pesticides.</text>
+  </level>
+  <level>
+    <num>(ff)</num>
+    <text>The term "registered employee" means an individual who is registered with the Mayor, pursuant to § 8-404, and who works under the direct supervision of a licensed commercial or public applicator.</text>
+  </level>
+  <level>
+    <num>(gg)</num>
+    <text>The term "restricted use pesticides" means any pesticides or pesticide use classified by the Administrator for restricted use; or any pesticide, which when used as directed or in accordance with a commonly recognized practice, the Mayor determines, subsequent to a hearing, that additional restrictions for that use are necessary in order to prevent a hazard to the applicator or other persons, or to prevent unreasonable adverse effects upon the environment.</text>
+  </level>
+  <level>
+    <num>(hh)</num>
+    <text>The term "under the direct supervision of" means that unless otherwise prescribed by its labeling or other restrictions imposed by the Mayor, a pesticide shall be considered to be applied under the direct supervision of a certified applicator if it is applied by a competent registered employee acting under the instruction and control of a certified applicator who is available if and when needed, even though such certified applicator may not be physically present at the time and place the pesticide is applied.</text>
+  </level>
+  <level>
+    <num>(ii)</num>
+    <text>The term "weed" means any plant which grows where it is not wanted.</text>
   </level>
   <level type="annotations">
     <level>
