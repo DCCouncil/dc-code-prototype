@@ -53,14 +53,14 @@
       <level>
         <num>(C)</num>
         <text>Any expenditure of cash;</text>
-        <level>
-          <num>(E)</num>
-          <text>Sponsorships for political organizations; and</text>
-        </level>
-        <level>
-          <num>(F)</num>
-          <text>Any mass mailing within the 90-day period immediately preceding a primary, special, or general election by a member of the Council, or the Mayor, who is a candidate for office.</text>
-        </level>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Sponsorships for political organizations; and</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Any mass mailing within the 90-day period immediately preceding a primary, special, or general election by a member of the Council, or the Mayor, who is a candidate for office.</text>
       </level>
     </level>
   </level>

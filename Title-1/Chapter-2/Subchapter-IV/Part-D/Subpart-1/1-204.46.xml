@@ -1,7 +1,39 @@
 <level type="section">
   <num>1-204.46</num>
-  <heading>Enactment of appropriations by Congress.</heading>
-  <text>The Council, within 56 calendar days after receipt of the budget proposal from the Mayor, and after public hearing, shall by act adopt the annual budget for the District of Columbia government. Any supplements thereto shall also be adopted by act by the Council after public hearing. Such budget so adopted shall be submitted by the Mayor to the President for transmission by him to the Congress. Except as provided in §§ 1-204.45a(b), 1-204.46a, 1-204.46b, 1-204.67(d), 1-204.71(c), 1-204.72(d)(2), 1-204.75(e)(2), 1-204.83(d), and 1-204.90(f), (g), (h)(3), and (i)(3), no amount may be obligated or expended by any officer or employee of the District of Columbia government unless such amount has been approved by Act of Congress, and then only according to such Act. Notwithstanding any other provision of this chapter, the Mayor shall not transmit any annual budget or amendments or supplements thereto, to the President of the United States until the completion of the budget procedures contained in this chapter. After the adoption of the annual budget for a fiscal year (beginning with the annual budget for fiscal year 1995), no reprogramming of amounts in the budget may occur unless the Mayor submits to the Council a request for such reprogramming and the Council approves the request, but only if any additional expenditures provided under such request for an activity are offset by reductions in expenditures for another activity.</text>
+  <heading>Enactment of local budget by Council.</heading>
+  <level>
+    <num>(a)</num>
+    <heading>Adoption of budgets and supplements. —</heading>
+    <text>The Council, within 70 calendar days, or as otherwise provided by law, after receipt of the budget proposal from the Mayor, and after public hearing, and by a vote of a majority of the members present and voting, shall by act adopt the annual budget for the District of Columbia government. The federal portion of the annual budget shall be submitted by the Mayor to the President for transmission to Congress. The local portion of the annual budget shall be submitted by the Chairman of the Council to the Speaker of the House of Representatives pursuant to the procedure set forth in § 1-206.02(c). Any supplements to the annual budget shall also be adopted by act of the Council, after public hearing, by a vote of a majority of the members present and voting.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <heading>Transmission to President during control years. —</heading>
+    <text>In the case of a budget for a fiscal year which is a control year, the budget so adopted shall be submitted by the Mayor to the President for transmission by the President to the Congress; except, that the Mayor shall not transmit any such budget, or amendments or supplements to the budget, to the President until the completion of the budget procedures contained in this chapter and the District of Columbia Financial Responsibility and Management Assistance Act of 1995 [Pub. L. 104-8].</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <heading>Prohibiting obligations and expenditures not authorized under budget. —</heading>
+    <text>Except as provided in § 1-204.45a(b), § 1-204.46b, § 1-204.67(d), § 1-204.71(c), § 1-204.72(d)(2), § 1-204.75(e)(2), § 1-204.83(d), and subsections (f), (g), (h)(3), and (i)(3) of § 1-204.90, no amount may be obligated or expended by any officer or employee of the District of Columbia government unless —</text>
+    <level>
+      <num>(1)</num>
+      <text>such amount has been approved by an act of the Council (and then only in accordance with such authorization) and such act has been transmitted by the Chairman to the Congress and has completed the review process under § 1-206.02(c)(3); or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>in the case of an amount obligated or expended during a control year, such amount has been approved by an Act of Congress (and then only in accordance with such authorization).</text>
+    </level>
+    <level>
+      <num>(d)</num>
+      <heading>Restrictions on reprogramming of amounts. —</heading>
+      <text>After the adoption of the annual budget for a fiscal year (beginning with the annual budget for fiscal year 1995), no reprogramming of amounts in the budget may occur unless the Mayor submits to the Council a request for such reprogramming and the Council approves the request, but and only if any additional expenditures provided under such request for an activity are offset by reductions in expenditures for another activity.</text>
+    </level>
+    <level>
+      <num>(e)</num>
+      <heading>Definition. —</heading>
+      <text>In this part, the term "control year" has the meaning given such term in § 47-393(4).</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
@@ -23,7 +55,7 @@
       <text>Financing of retirement benefits, calculation of District payment to funds, see § 1-907.03.</text>
       <text>Financing of retirement benefits, federal and District payments, determination, certification, see § 1-722.</text>
       <text>Prison system, transfer to federal authority, expenditure of funds to carry out certain sewage agreements, see § 24-106.</text>
-      <text>Procurement organization, office of the inspector general, powers and duties, reports, see § 2-302.08.</text>
+      <text>Procurement organization, office of the inspector general, powers and duties, reports, see § 1-301.115a.</text>
       <text>Public school funding, hearings, see § 38-917.</text>
       <text>Self-government, initiatives and referenda, procedure, see § 1-204.102.</text>
       <text>Water and sewer authority, budget, see § 1-204.45a.</text>
@@ -42,11 +74,7 @@
       <text>Section 160(a)(2) of Public Law 106-522 inserted a reference to subsec. (i) (3) in § 1-204.90.</text>
       <text>Pub. L. 108-386, substituted "56" for "50".</text>
       <text>Pub. L. 109-356 made a technical correction to Pub. L. 108-386 by substituting "The Council, within 56 calendar days after receipt of the budget proposal from the Mayor," for "The Council, within 50 calendar days after receipt of the budget proposal from the Mayor," in the first sentence; and, in the second sentence, inserted references to §§ 1-204.46a and 1-204.46b.</text>
-    </level>
-    <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary provisions for the auction of excess police vehicles purchased for the Metropolitan Police Department, see § 1102 of the Fiscal Year 1999 Budget Support Emergency Act of 1998 (D.C. Act 12-401, July 13, 1998, 45 DCR 4794), § 1102 of the Fiscal Year 1999 Budget Support Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-564, January 12, 1999, 46 DCR 669), and § 1102 of the Fiscal year 1999 Budget Support Congressional Review Emergency Act of 1999 (D.C. Act 13-41, March 31, 1999, 46 DCR</text>
-      <text>For temporary amendment of section, see § 2(e) of the Local Budget Autonomy Emergency Amendment Act of 2012 (D.C. Act 19-566, January 7, 2013, 59 DCR 15061, applicable as of January 1, 2014, and effective as provided in § 1-203.03.</text>
+      <text>D.C. Law 19-321 rewrote this section.</text>
     </level>
     <level>
       <heading>Legislative History of Law 14-307</heading>
@@ -176,17 +204,10 @@
       <text>In the Fiscal Year 2014 Budget Request Act of 2013, D.C. Act 20-127, 60 DCR 11140 , the Council of the District of Columbia approved expenditure levels and appropriation language for the government of the District of Columbia for the fiscal year ending September 30, 2014.</text>
       <text>Section 127 of An Act Making continuing appropriations for the fiscal year ending September 30, 2014, and for other purposes, approved October 17, 2013 (Pub. L. 113-46; 127 Stat. 558), provided:</text>
       <text>"Notwithstanding any other provision of this joint resolution, the District of Columbia may expend local funds under the heading 'District of Columbia Funds' for such programs and activities under title IV of H.R. 2786 (113th Congress), as reported by the Committee on Appropriations of the House of Representatives, at the rate set forth under 'District of Columbia Funds-Summary of Expenses' as included in the Fiscal Year 2014 Budget Request Act of 2013 (D.C. Act 20-127), as modified as of the date of the enactment of this joint resolution.".</text>
-      <text>D.C. Law 19-321 would have rewritten this section to read as follows:</text>
-      <text>"Enactment of local budget by Council.</text>
-      <text>"(a) Adoption of Budgets and Supplements. The Council, within 70 calendar days, or as otherwise provided by law, after receipt of the budget proposal from the Mayor, and after public hearing, and by a vote of a majority of the members present and voting, shall by act adopt the annual budget for the District of Columbia government. The federal portion of the annual budget shall be submitted by the Mayor to the President for transmission to Congress. The local portion of the annual budget shall be submitted by the Chairman of the Council to the Speaker of the House of Representatives pursuant to the procedure set forth in § 1-206.02(c). Any supplements to the annual budget shall also be adopted by act of the Council, after public hearing, by a vote of a majority of the members present and voting.</text>
-      <text>"(b) Transmission to President During Control Years. In the case of a budget for a fiscal year which is a control year, the budget so adopted shall be submitted by the Mayor to the President for transmission by the President to the Congress; except, that the Mayor shall not transmit any such budget, or amendments or supplements to the budget, to the President until the completion of the budget procedures contained in this chapter and the District of Columbia Financial Responsibility and Management Assistance Act of 1995 [Pub. L. 104-8].</text>
-      <text>"(c) Prohibiting Obligations and Expenditures Not Authorized Under Budget. Except as provided in § 1-204.45a(b), § 1-204.46b, § 1-204.67(d), § 1-204.71(c), § 1-204.72(d)(2), § 1-204.75(e)(2), § 1-204.83(d), and subsections (f), (g), (h)(3), and (i)(3) of § 1-204.90, no amount may be obligated or expended by any officer or employee of the District of Columbia government unless -</text>
-      <text>"(1) such amount has been approved by an act of the Council (and then only in accordance with such authorization) and such act has been transmitted by the Chairman to the Congress and has completed the review process under § 1-206.02(c)(3); or</text>
-      <text>"(2) in the case of an amount obligated or expended during a control year, such amount has been approved by an Act of Congress (and then only in accordance with such authorization).</text>
-      <text>"(d) Restrictions on Reprogramming of Amounts. After the adoption of the annual budget for a fiscal year (beginning with the annual budget for fiscal year 1995), no reprogramming of amounts in the budget may occur unless the Mayor submits to the Council a request for such reprogramming and the Council approves the request, but and only if any additional expenditures provided under such request for an activity are offset by reductions in expenditures for another activity.</text>
-      <text>"(e) Definition. In this part, the term 'control year' has the meaning given such term in § 47-393(4)."</text>
       <text>Applicability of D.C. Law 19-321: Section 3 of D.C. Law 19-321 provided that section 2 of the act shall apply as of January 1, 2014.</text>
-      <text>D.C. Law 19-321 was declared invalid by the United States District Court for the District of Columbia in a memorandum opinion dated May 19, 2014, Civil Action No. 2014-0655.</text>
+      <text>D.C. Law 19-321 was declared invalid by the United States District Court for the District of Columbia in a memorandum opinion dated May 19, 2014, Civil Action No. 2014-0655. The court held that although the Council of the District of Columbia, the Mayor, and United States District Court for the District of Columbia are powerless to grant to the residents of the District of Columbia full budget autonomy, the United States Congress and the President of the United States are empowered to do so; and concluded that the Budget Autonomy Act was unlawful. See Council of the Dist. of Columbia v. Gray, 42 F. Supp. 3d 134, 2014 U.S. Dist. LEXIS 68055 (2014).</text>
+      <text>On May 27, 2015, the United States Court of Appeals for the District of Columbia Circuit issued Order No. 14-7067, vacating the lower court's judgment, dismissing the appeal, and remanding the case to the District Court with instructions to remand the case to the Superior Court of the District of Columbia. See Council of the Dist. of Columbia v. Bowser, 2015 U.S. App. LEXIS 8881 (2015). The amendments contained in D.C. Law 19-321 are codified in this section.</text>
+      <text>In the Fiscal Year 2015 Budget Request Act of 2014, D.C. Act 20-370, 61 DCR 7187 , the Council of the District of Columbia approved expenditure levels and appropriation language for the government of the District of Columbia for the fiscal year ending September 30, 2015.</text>
     </level>
   </level>
 </level>

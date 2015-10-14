@@ -151,6 +151,38 @@
         <text>Implement an annual inflation rate adjustment for nursing facilities.</text>
       </level>
     </level>
+    <level>
+      <num>(8)</num>
+      <text>Review and approval by the Council of the Fiscal Year 2015 Budget and Financial Plan shall constitute the Council review and approval required by paragraph (2) of this subsection of any amendment, modification, or waiver of the state plan required to:</text>
+      <level>
+        <num>(A)</num>
+        <text>Implement needed amendments to the Elderly and Individuals with Physical Disabilities waiver to ensure compliance with federal law and promote best practices;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Establish new payment rates for Federally-Qualified Health Centers;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Establish a new payment method and make other improvements to the payment methodology for hospital inpatient treatment;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Establish a new payment method and make other improvements to the payment methodology for hospital outpatient services;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Implement needed amendments to the Intellectual Disabilities/Developmental Disabilities waiver to ensure compliance with federal law and promote best practices;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Align specialty hospital payments with the complexity of their patient mixes and national best practices and to describe payment standards for sub-acute services for children who are inpatients in private psychiatric specialty hospitals; and</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>Update transplantation coverage standards and provide coverage for lung transplantation and autologous bone marrow transplantation.</text>
+      </level>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -322,10 +354,25 @@
       <text>The Mayor shall submit to the Council on an annual basis an assessment of the cost effectiveness of the managed care plan and its impact on the TANF and TANF-related Medicaid recipient's access to care of adequate quality.</text>
     </level>
   </level>
+  <level>
+    <num>(e)</num>
+    <level>
+      <num>(1)</num>
+      <text>The District state plan required under Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), may provide for reimbursement of chiropractic services.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The Mayor may develop and implement a reimbursement methodology for chiropractic services.</text>
+    </level>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>[Not funded].</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 27, 1967, 81 Stat. 744, Pub. L. 90-227, § 1; May 15, 1990, D.C. Law 8-124, § 2, 37 DCR 2087; Mar. 17, 1993, D.C. Law 9-247, § 2, 40 DCR 1150; Nov. 25, 1993, D.C. Law 10-65, § 101, 40 DCR 7351; Sept. 26, 1995, D.C. Law 11-52, § 501, 42 DCR 3684; Mar. 26, 1999, D.C. Law 12-175, § 102, 45 DCR 7193; Oct. 20, 1999, D.C. Law 13-38, § 2205, 46 DCR 6373; Apr. 24, 2007, D.C. Law 16-305, § 2, 53 DCR 6198; Mar. 3, 2010, D.C. Law 18-111, § 5031, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 5002, 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, § 5042, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 5152, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-169, § 2, 59 DCR 5567; Dec. 24, 2013, D.C. Law 20-61, § 5042, 60 DCR 12472.)</text>
+      <text>(Dec. 27, 1967, 81 Stat. 744, Pub. L. 90-227, § 1; May 15, 1990, D.C. Law 8-124, § 2, 37 DCR 2087; Mar. 17, 1993, D.C. Law 9-247, § 2, 40 DCR 1150; Nov. 25, 1993, D.C. Law 10-65, § 101, 40 DCR 7351; Sept. 26, 1995, D.C. Law 11-52, § 501, 42 DCR 3684; Mar. 26, 1999, D.C. Law 12-175, § 102, 45 DCR 7193; Oct. 20, 1999, D.C. Law 13-38, § 2205, 46 DCR 6373; Apr. 24, 2007, D.C. Law 16-305, § 2, 53 DCR 6198; Mar. 3, 2010, D.C. Law 18-111, § 5031, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 5002, 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, § 5042, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 5152, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-169, § 2, 59 DCR 5567; Dec. 24, 2013, D.C. Law 20-61, § 5042, 60 DCR 12472; Feb. 26, 2015, D.C. Law 20-155, § 5022, 61 DCR 9990; Mar. 11, 2015, D.C. Law 20-225, § 2, 62 DCR 234.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -355,6 +402,8 @@
       <text>The 2012 amendment by D.C. Law 19-168 added (a)(6).</text>
       <text>The 2012 amendment by D.C. Law 19-169 substituted "intellectual or developmental disabilities" for "mental retardation" in (d)(2)(B)(i).</text>
       <text>The 2013 amendment by D.C. Law 20-61 added (a)(7).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (a)(8) and (e).</text>
+      <text>The 2015 amendment by D.C. Law 20-225 would have added (f).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -383,6 +432,9 @@
       <text>For temporary (90 day) amendment of section, see § 5152 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
       <text>For temporary (90 days) amendment of this section, see § 5042 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) amendment of this section, see § 5042 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5022 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5022 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5022 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 8-124</heading>
@@ -435,6 +487,14 @@
     <level>
       <heading>Legislative History of Law 20-61</heading>
       <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 1-301.82.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-225</heading>
+      <text>Law 20-225, the "Copper Intrauterine Device Access Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-822. The Bill was adopted on first and second readings on Nov. 18, 2014, and Dec. 2, 2014, respectively. Signed by the Mayor on Dec. 23, 2014, it was assigned Act No. 20-540 and transmitted to Congress for its review. D.C. Law 20-225 became effective on Mar. 11, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>
@@ -511,6 +571,11 @@
       <text>"An agency head, deputy agency head, agency chief financial officer, agency budget director, agency controller, manager, or other employee may be subject to adverse personnel action, including removal, for not submitting the report required by section 5102 or by 5103."</text>
       <text>Section 35 of D.C. Law 19-169 provided that no provision of the act shall impair any right or obligation existing under law.</text>
       <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
+      <text>Section 3 of D.C. Law 20-225 provided:</text>
+      <text>"(a) This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <text>"(b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+      <text>"(c)(1) The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      <text>"(2) The date of publication of the notice of the certification shall not affect the applicability of this act."</text>
     </level>
     <level>
       <heading>Change in Government</heading>

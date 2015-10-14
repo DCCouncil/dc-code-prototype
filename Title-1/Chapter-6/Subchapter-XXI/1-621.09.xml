@@ -11,11 +11,19 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>There is established the Annuitants' Health and Life Insurance Employer Contribution Trust Fund ("Fund") from which the District's contribution for health and life insurance for annuitants shall be paid. The monies in the Fund shall not be a part of, or lapse into, the General Fund of the District or any other fund of the District.</text>
+    <text>There is established the Other Post-Employment Benefits Fund ("Fund") from which the District's contribution for health and life insurance for annuitants shall be paid. The monies in the Fund shall not be a part of, or lapse into, the General Fund of the District or any other fund of the District.</text>
   </level>
   <level>
     <num>(d)</num>
     <text>Every fiscal year, the Chief Financial Officer shall deposit into the Fund the amount that has been appropriated for the purpose of funding the District contribution for the health and life insurance premiums of annuitants. The Chief Financial Officer may also deposit into the Fund any balances in rate stabilization fund reserves that are refunded to the District by a health insurance carrier.</text>
+  </level>
+  <level>
+    <num>(d-1)</num>
+    <text>Each fiscal year, the District shall ensure that a sufficient amount is appropriated for the Fund, as the District of Columbia payment to the Fund, which shall be equal to, or greater than, the amount calculated as provided for in § 1-621.09a, and as determined by the enrolled actuary engaged pursuant to § 1-621.09a(a).</text>
+  </level>
+  <level>
+    <num>(d-2)</num>
+    <text>If at any time the balance of the Fund is not sufficient to meet all obligations against the Fund, the Fund shall have claims on the revenues of the District of Columbia to the extent necessary to meet the obligation, subject to appropriation.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -51,7 +59,7 @@
   </level>
   <level>
     <num>(j)</num>
-    <text>The District contribution to post-employment health benefits for an annuitant (and following the annuitant's death, the annuitant's eligible family members) shall be determined as follows:</text>
+    <text>The District contribution to post-employment health benefits for an annuitant described in subsection (i) of this section (and following the annuitant's death, the annuitant's eligible family members) shall be determined as follows:</text>
     <level>
       <num>(1)</num>
       <text>For annuitants hired before November 10, 1996, who retire with at least 5 years of creditable District service, the District contribution shall be an amount equal to 75% of the cost of the selected health benefit plan and the annuitant shall contribute 25% of the cost of the selected health benefit plan. For a covered family member of an annuitant, the District contribution shall be an amount equal to 60% of the cost of the selected health benefit plan and the covered family member shall contribute 40% of the cost of the selected health benefit plan.</text>
@@ -76,7 +84,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1979, D.C. Law 2-139, § 2109, as added Oct. 1, 1987, D.C. Law 7-27, § 2(d), 34 DCR 5079; Mar. 2, 1991, D.C. Law 8-190, § 2(c), 37 DCR 6721; Mar. 7, 2000, D.C. Law 13-54, § 2(a), 46 DCR 9915; Aug. 16, 2008, D.C. Law 17-219, § 7008, 55 DCR 7598; Mar. 3, 2010, D.C. Law 18-111, § 1201(b), 57 DCR 181; D.C. Law 18-223, § 1092(a), Sept. 24, 2010, 57 DCR 6242; Apr. 8, 2011, D.C. Law 18-370, § 102, 58 DCR 1008; Sept. 14, 2011, D.C. Law 19-21, § 1052, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 1012, 59 DCR 8025.)</text>
+      <text>(Mar. 3, 1979, D.C. Law 2-139, § 2109, as added Oct. 1, 1987, D.C. Law 7-27, § 2(d), 34 DCR 5079; Mar. 2, 1991, D.C. Law 8-190, § 2(c), 37 DCR 6721; Mar. 7, 2000, D.C. Law 13-54, § 2(a), 46 DCR 9915; Aug. 16, 2008, D.C. Law 17-219, § 7008, 55 DCR 7598; Mar. 3, 2010, D.C. Law 18-111, § 1201(b), 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 1092(a), 57 DCR 6242; Apr. 8, 2011, D.C. Law 18-370, § 102, 58 DCR 1008; Sept. 14, 2011, D.C. Law 19-21, § 1052, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 1012, 59 DCR 8025; Dec. 17, 2014, D.C. Law 20-151, § 2(b), 61 DCR 8893.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -97,6 +105,7 @@
       <text>"(3) For annuitants who are injured or killed in the line of duty, the District's contribution shall be an amount equal to 72% of the cost of the selected health benefit plan and the annuitant shall contribute 28% of the cost of the selected health benefit plan. For a covered family member of an annuitant, the District contribution shall be an amount equal to 72% of the cost of the selected health benefit plan and the family member shall contribute 28% of the cost of the selected health benefit plan. This paragraph shall apply as of October 1, 2009."</text>
       <text>"(l) For an individual covered by subsection (k) of this section, the District's contribution to the cost of the selected health benefits plan of the individual shall be an amount equal to 72% of the cost of the selected health benefit plan and the individual shall contribute 28% of the cost of the selected health benefit plan. For a covered family member of the individual, the District contribution to the cost of the selected health benefits plan of the family member shall be an amount equal to 72% of the cost of the selected health benefit plan and the family member shall contribute 28% of the cost of the selected health benefit plan."</text>
       <text>The 2012 amendment by D.C. Law 19-168 substituted "75%" for "72%" throughout (a), (h), (j), and (l); and substituted "25%" for "28%" in (h)(2), twice in (h)(3), (j)(1), and twice in (l).</text>
+      <text>The 2014 amendment by D.C. Law 20-151 substituted "Other Post-Employment Benefits Fund" for "Annuitants' Health and Life Insurance Employer Contribution Trust Fund" in (c); and added (d-1) and (d-2).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -153,6 +162,10 @@
     <level>
       <heading>Legislative History of Law 19-168</heading>
       <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-151</heading>
+      <text>Law 20-151, the "Other Post-Employment Benefits Trust Fund Jurisdiction Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-627. The Bill was adopted on first and second readings on June 3, 2014, and July 14, 2014, respectively. Signed by the Mayor on Aug. 19, 2014, it was assigned Act No. 20-421 and transmitted to Congress for its review. D.C. Law 20-151 became effective on Dec. 17, 2014.</text>
     </level>
     <level>
       <heading>Short Title</heading>

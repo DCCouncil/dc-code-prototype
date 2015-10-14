@@ -8,21 +8,12 @@
   <level>
     <num>(b)</num>
     <text>An individual appointed to the Management Supervisory Service pursuant to this section may be paid severance pay upon separation for non-disciplinary reasons according to the length of the individual's employment with the District government as follows:</text>
-    <level type="form">
-      <text/>
-      <text>
- 
- Length of Employment <span style="font-weight: bold; ">Maximum Severance 
- </span>
- Up to 6 months 2 weeks of the employee's basic pay 
- 
- 6 months to 1 year 4 weeks of the employee's basic pay 
- 
- 1 to 3 years 8 weeks of the employee's basic pay 
- 
- More than 3 years 10 weeks of the employee's basic pay.</text>
-    </level>
   </level>
+  <text>Length of Employment      Maximum Severance</text>
+  <text>Up to 6 months      2 weeks of the employee's basic pay</text>
+  <text>6 months to 1 year      4 weeks of the employee's basic pay</text>
+  <text>1 to 3 years      8 weeks of the employee's basic pay</text>
+  <text>More than 3 years      10 weeks of the employee's basic pay.</text>
   <level type="annotations">
     <level>
       <heading>History</heading>

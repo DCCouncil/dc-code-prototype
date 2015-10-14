@@ -52,7 +52,7 @@
   </level>
   <level>
     <num>(13)</num>
-    <text>The Executive Director and Deputy Director of the District of Columbia Lottery and Charitable Games Control Board.</text>
+    <text>The Executive Director and Deputy Director of the District of Columbia Lottery and Charitable Games Control Board;</text>
   </level>
   <level>
     <num>(14)</num>
@@ -60,16 +60,20 @@
   </level>
   <level>
     <num>(15)</num>
-    <text>The Chief Administrative Law Judge, the Administrative Law Judges, and the Executive Director of the Office of Administrative Hearings; and</text>
+    <text>The Chief Administrative Law Judge, the Administrative Law Judges, and the Executive Director of the Office of Administrative Hearings;</text>
   </level>
   <level>
     <num>(16)</num>
-    <text>The Chief Tenant Advocate of the Office of the Tenant Advocate.</text>
+    <text>The Chief Tenant Advocate of the Office of the Tenant Advocate; and</text>
+  </level>
+  <level>
+    <num>(17)</num>
+    <text>The Real Property Tax Ombudsman of the Office of the Real Property Tax Ombudsman.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1979, D.C. Law 2-139, § 908, 25 DCR 5740; Aug. 2, 1983, D.C. Law 5-24, § 12(c), 30 DCR 3341; Feb. 28, 1987, D.C. Law 6-205, § 2(c), 34 DCR 670; May 15, 1990, D.C. Law 8-127, § 2(f), 37 DCR 2093; June 10, 1998, D.C. Law 12-124,§ 101(j), 45 DCR 2464; Apr. 20, 1999, D.C. Law 12-260, § 2(e), 46 DCR 1318; Apr. 12, 2000. D.C. Law 13-91, § 103(l), 47 DCR 520; Mar. 6, 2002, D.C. Law 14-76, § 23(a), 48 DCR 11442; Oct. 20, 2005, D.C. Law 16-33, § 2069, 52 DCR 7503.)</text>
+      <text>(Mar. 3, 1979, D.C. Law 2-139, § 908, 25 DCR 5740; Aug. 2, 1983, D.C. Law 5-24, § 12(c), 30 DCR 3341; Feb. 28, 1987, D.C. Law 6-205, § 2(c), 34 DCR 670; May 15, 1990, D.C. Law 8-127, § 2(f), 37 DCR 2093; June 10, 1998, D.C. Law 12-124,§ 101(j), 45 DCR 2464; Apr. 20, 1999, D.C. Law 12-260, § 2(e), 46 DCR 1318; Apr. 12, 2000. D.C. Law 13-91, § 103(l), 47 DCR 520; Mar. 6, 2002, D.C. Law 14-76, § 23(a), 48 DCR 11442; Oct. 20, 2005, D.C. Law 16-33, § 2069, 52 DCR 7503; Dec. 4, 2014, D.C. Law 20-141, § 201, 61 DCR 7763; Feb. 26, 2015, D.C. Law 20-155, §§ 7103(a), 7104, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -93,6 +97,8 @@
       <text>"(10) General Counsel to the Council;"; and in par. (13), added "and".</text>
       <text>D.C. Law 14-76 added par. (15).</text>
       <text>D.C. Law 16-33, in subsec. (a), substituted a semicolon for "; and" at the end of the paragraph; in subsec. (b), substituted "; and" for period at the end of the paragraph; and added subsec. (c).</text>
+      <text>The 2014 amendment by D.C. Law 20-141, repealed before its effective date, would have added (18) and made related changes.</text>
+      <text>The 2015 amendment by D.C. Law 20-155 repealed D.C. Law 20-141; and added (17) and made related changes.</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -100,6 +106,9 @@
       <text>For temporary (90-day) amendment of section, see § 2(b) of the Legal Services Clarification and Technical Emergency Amendment Act of 1999 (D.C. Act 13-203, December 8, 1999, 46 DCR 10456).</text>
       <text>For temporary (90-day) amendment of section, see § 2(b) of the Legal Services Clarification and Technical Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-293, March 7, 2000, 47 DCR 2063).</text>
       <text>For temporary (90 day) amendment of section, see § 2069 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7113(a) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7103(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7103(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-139</heading>
@@ -136,6 +145,18 @@
     <level>
       <heading>Legislative History of Law 16-33</heading>
       <text>For Law 16-33, see notes following § 1-617.17.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-141</heading>
+      <text>Law 20-141, the "Residential Real Property Equity and Transparency Act of 2014," was introduced in Council and assigned Bill No. 20-23. The Bill was adopted on first and second readings on April 8, 2014, and May 6, 2014, respectively. Signed by the Mayor on July 15, 2014, it was assigned Act No. 20-378 and transmitted to Congress for its review. D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by § 7114 of emergency D.C. Act 20-377, effective July 14, 2014, by § 7104 of emergency D.C. Act 20-449, effective Oct. 10, 2014, by § 7104 of emergency D.C. Act 20-566, effective Jan. 9, 2015, and by D.C. Law 20-155, § 7104, effective Feb. 26, 2015.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 1-608.51a.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by D.C. Law 20-155, § 7104, 61 DCR 9990.</text>
     </level>
   </level>
 </level>

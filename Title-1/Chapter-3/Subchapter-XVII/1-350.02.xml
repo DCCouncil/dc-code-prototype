@@ -19,10 +19,10 @@
     <level>
       <num>(1)</num>
       <text>Documents that verify the existence and amount of the delinquent debt; (2) The name and last known address of the delinquent debtor; and</text>
-      <level>
-        <num>(3)</num>
-        <text>Any notices issued to the delinquent debtor demanding payment.</text>
-      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Any notices issued to the delinquent debtor demanding payment.</text>
     </level>
   </level>
   <level>

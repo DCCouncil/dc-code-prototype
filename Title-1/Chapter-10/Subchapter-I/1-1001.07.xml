@@ -52,12 +52,20 @@
       <text>Mail-in voter registration application forms approved by the Board shall meet the requirements of the National Voter Registration Act of 1993, approved May 20, 1993 (107 Stat. 77; 42 U.S.C. § 1973gg et seq.) and the Help America Vote Act of 2002, shall be designed to provide an easily understood method of registering to vote by mail, and shall be mailed to the Board with postage prepaid. These forms shall have printed on them, in bold face type, the penalties for fraudulently attempting to register to vote pursuant to § 1-1001.14(a) and the National Voter Registration Act of 1993 [42 U.S.C. § 1973gg et seq.]. If an applicant fails to properly complete the registration form, the Board's registrar shall notify the applicant and provide the applicant with an opportunity to complete the form in a timely manner prior to the next election.</text>
     </level>
     <level>
+      <num>(2A)</num>
+      <text>[Not funded].</text>
+    </level>
+    <level>
       <num>(3)</num>
       <text>The Board shall accept any application form that has been preapproved by the Board for the purpose of voter registration and meets the requirements of this subsection or has been approved for use by federal legislation or regulation.</text>
     </level>
     <level>
       <num>(4)</num>
       <text>The Board shall provide a field on voter registration forms to allow an applicant to indicate his or her interest in working as a polling place worker during the next election.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>[Not funded].</text>
     </level>
   </level>
   <level>
@@ -192,7 +200,7 @@
       <text>Each voter registration agency shall, on its own application, document, or on a separate form, provide to each applicant for service or assistance, recertification or renewal, or change of address the following information:</text>
       <level>
         <num>(A)</num>
-        <text>The question, "If you are not registered to vote where you live now, would you like to apply to register to vote here today?";</text>
+        <text>The question, "If you are not registered to vote where you live now, would you like to apply to register to vote here today";</text>
       </level>
       <level>
         <num>(B)</num>
@@ -356,18 +364,22 @@
     <num>(g)</num>
     <level>
       <num>(1)</num>
-      <text>At any time except during the 30-day period preceding any regularly scheduled election, a qualified elector or any individual who will be a qualified elector at the time of the next election may register to vote in the precinct in which the voter maintains residence by completing a voter registration application and submitting it in person at the Board's office or by mail. A registration that is received no later than 4:45 P.M. on the 30th day preceding any election, or such time on that day as the Board's office remains open to receive registrations, shall be accepted.</text>
+      <text>At any time except during the 30-day period preceding any regularly scheduled election, a qualified elector or any individual who will be a qualified elector at the time of the next election may register to vote in the precinct in which the voter maintains residence by completing a voter registration application and submitting it in person at the Board's office, or by mail. A registration that is received no later than 4:45 P.M. on the 30th day preceding any election, or such time on that day as the Board's office remains open to receive registrations, shall be accepted.</text>
     </level>
     <level>
       <num>(2)</num>
       <text>The Board shall process:</text>
       <level>
         <num>(A)</num>
-        <text>Mailed voter registration applications and registration update notifications received postmarked by not later than the 30th day preceding any election; and</text>
+        <text>Mailed voter registration applications and registration update notifications received postmarked by not later than the 30th day preceding any election;</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>Timely completed non-postmarked voter registration applications and registration update notifications mailed and received not later than the 23rd day preceding any election.</text>
+        <text>Timely completed non-postmarked voter registration applications and registration update notifications mailed and received not later than the 23rd day preceding any election; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>[Not funded].</text>
       </level>
     </level>
     <level>
@@ -510,12 +522,11 @@
         <num>(C)</num>
         <text>The notices prescribed in subparagraphs (A) and (B) of this paragraph shall include a pre-addressed and postage paid return notification postcard to enable the registrant to correct any address information obtained from the United States Postal Service. In addition, the notices shall include the following information:</text>
       </level>
+      <level>
+        <num>(D)</num>
+        <text>The Board may, in addition, utilize information obtained from the United States Postal Service, the National Change of Address System ("NCOA"), the Bureau of Motor Vehicle Services (subject to the provisions of subsection (c)(1)(D) of this section, which identifies registrants who have moved from the addresses listed on the Board's records. In these cases the Board shall issue the notices prescribed in subparagraph (B) of this paragraph.</text>
+      </level>
     </level>
-  </level>
-  <text>"If you did not change your residence, or changed residence but remained in the District, you should return the card not later than the deadline for mail registration for the next federal election (the 30th day before the election). If the card is not returned, affirmation of your address may be required before you are permitted to vote in any election during the period beginning on the date of the notice and ending on the day after the date of the second general election for federal office that occurs after the date of the notice, and if you do not vote in an election during that period, your name will be removed from the list of eligible voters.".</text>
-  <level>
-    <num>(D)</num>
-    <text>The Board may, in addition, utilize information obtained from the United States Postal Service, the National Change of Address System ("NCOA"), the Bureau of Motor Vehicle Services (subject to the provisions of subsection (c)(1)(D) of this section, which identifies registrants who have moved from the addresses listed on the Board's records. In these cases the Board shall issue the notices prescribed in subparagraph (B) of this paragraph.</text>
     <level>
       <num>(2)</num>
       <level>
@@ -569,40 +580,41 @@
       <level>
         <num>(D)</num>
         <text>Their names shall not be sold by the Board either in hard copy form or electronic media, except upon specific request of the purchaser and the fact that the registrations are designated as inactive is made known to the purchaser.</text>
-        <level>
-          <num>(k)</num>
-          <level>
-            <num>(1)</num>
-            <text>The Board shall cancel a voter registration upon receipt of a signed request from the registrant, upon notification of the death of a registrant, upon notification of a registrant's incarceration for conviction of a felony, upon notification that the registrant has registered to vote in another jurisdiction, or for any other reason specifically authorized in this subchapter.</text>
-          </level>
-          <level>
-            <num>(2)</num>
-            <text>The Board shall request at least monthly, and the Mayor shall furnish, the name, address, and date of birth, if known, of each District resident 18 years of age and over reported deceased within the District, together with the name and address of each District resident who has been reported deceased by other jurisdictions since the date of the previous report.</text>
-          </level>
-          <level>
-            <num>(3)</num>
-            <text>The Board shall request at least monthly, and the Superior Court of the District of Columbia shall furnish, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report, and the former and present names and address of each person whose name has been changed by decree or order of the Court since the date of the previous report.</text>
-          </level>
-          <level>
-            <num>(4)</num>
-            <text>The Board shall request from the United States District Court for the District of Columbia, at least monthly, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report.</text>
-          </level>
-          <level>
-            <num>(5)</num>
-            <text>Any individual whose registration has been cancelled shall not be permitted to vote except by re-registration as provided in this section.</text>
-          </level>
-        </level>
-        <level>
-          <num>(l)</num>
-          <text>Before May 1, 2010, the Board shall submit to the Council a report indicating the feasibility of implementing automatic voter registration in the District.</text>
-        </level>
       </level>
+      <text>"If you did not change your residence, or changed residence but remained in the District, you should return the card not later than the deadline for mail registration for the next federal election (the 30th day before the election). If the card is not returned, affirmation of your address may be required before you are permitted to vote in any election during the period beginning on the date of the notice and ending on the day after the date of the second general election for federal office that occurs after the date of the notice, and if you do not vote in an election during that period, your name will be removed from the list of eligible voters.".</text>
     </level>
+  </level>
+  <level>
+    <num>(k)</num>
+    <level>
+      <num>(1)</num>
+      <text>The Board shall cancel a voter registration upon receipt of a signed request from the registrant, upon notification of the death of a registrant, upon notification of a registrant's incarceration for conviction of a felony, upon notification that the registrant has registered to vote in another jurisdiction, or for any other reason specifically authorized in this subchapter.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The Board shall request at least monthly, and the Mayor shall furnish, the name, address, and date of birth, if known, of each District resident 18 years of age and over reported deceased within the District, together with the name and address of each District resident who has been reported deceased by other jurisdictions since the date of the previous report.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The Board shall request at least monthly, and the Superior Court of the District of Columbia shall furnish, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report, and the former and present names and address of each person whose name has been changed by decree or order of the Court since the date of the previous report.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The Board shall request from the United States District Court for the District of Columbia, at least monthly, the name and address of each person incarcerated as a result of a felony conviction since the date of the previous report.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Any individual whose registration has been cancelled shall not be permitted to vote except by re-registration as provided in this section.</text>
+    </level>
+  </level>
+  <level>
+    <num>(l)</num>
+    <text>Before May 1, 2010, the Board shall submit to the Council a report indicating the feasibility of implementing automatic voter registration in the District.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 12, 1955, 69 Stat. 700, ch. 862, § 7; Oct. 4, 1961, 75 Stat. 817, Pub. L. 87-389, § 1 (8, 9, 10, 11); July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1; Apr. 22, 1968, 82 Stat. 103, Pub. L. 90-292, § 4(4); July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a); Dec. 23, 1971, 85 Stat. 790, Pub. L. 92-220, § 1(8), (30), (31); 1973 Ed., § 1-1107; Dec. 16, 1975, D.C. Law 1-37, § 2(3)-(5), 22 DCR 3426; Apr. 23, 1977, D.C. Law 1-126, title III, § 301(g)-(i), title IV, § 402, 24 DCR 2372; Aug. 18, 1978, D.C. Law 2-101, § 2, 25 DCR 257; Mar. 16, 1982, D.C. Law 4-88, § 2(e), (n), (p), (q), 29 DCR 458; July 1, 1982, D.C. Law 4-120, § 2(b), 29 DCR 2064; Aug. 2, 1983, D.C. Law 5-17, § 5(c), 30 DCR 3196; Mar. 16, 1988, D.C. Law 7-92, § 3(d)-(g), 35 DCR 716; Aug. 17, 1991, D.C. Law 9-32, § 2, 38 DCR 4220; Mar. 11, 1992, D.C. Law 9-75, § 2(b), 39 DCR 310; Feb. 5, 1994, D.C. Law 10-68, § 7(a), 40 DCR 6311; Sept. 22, 1994, D.C. Law 10-173, § 2(b), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(b), 42 DCR 1547; Apr. 18, 1996, D.C. Law 11-110, § 5(a), 43 DCR 530; Apr. 12, 2000, D.C. Law 13-91, § 123(b), 47 DCR 520; Apr. 3, 2001, D.C. Law 13-251, § 2(a), 48 DCR 668; Dec. 7, 2004, D.C. Law 15-218, § 2(c), 51 DCR 9132; Apr. 7, 2006, D.C. Law 16-91, § 127(b), 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 48(l), 53 DCR 6794; Oct. 21, 2008, D.C. Law 17-236, § 2, 55 DCR 9019; Feb. 4, 2010, D.C. Law 18-103, § 2(e), 56 DCR 9169; May 31, 2012, D.C. Law 19-131,§ 2(a), 59 DCR 2389.)</text>
+      <text>(Aug. 12, 1955, 69 Stat. 700, ch. 862, § 7; Oct. 4, 1961, 75 Stat. 817, Pub. L. 87-389, § 1 (8, 9, 10, 11); July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1; Apr. 22, 1968, 82 Stat. 103, Pub. L. 90-292, § 4(4); July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a); Dec. 23, 1971, 85 Stat. 790, Pub. L. 92-220, § 1(8), (30), (31); 1973 Ed., § 1-1107; Dec. 16, 1975, D.C. Law 1-37, § 2(3)-(5), 22 DCR 3426; Apr. 23, 1977, D.C. Law 1-126, title III, § 301(g)-(i), title IV, § 402, 24 DCR 2372; Aug. 18, 1978, D.C. Law 2-101, § 2, 25 DCR 257; Mar. 16, 1982, D.C. Law 4-88, § 2(e), (n), (p), (q), 29 DCR 458; July 1, 1982, D.C. Law 4-120, § 2(b), 29 DCR 2064; Aug. 2, 1983, D.C. Law 5-17, § 5(c), 30 DCR 3196; Mar. 16, 1988, D.C. Law 7-92, § 3(d)-(g), 35 DCR 716; Aug. 17, 1991, D.C. Law 9-32, § 2, 38 DCR 4220; Mar. 11, 1992, D.C. Law 9-75, § 2(b), 39 DCR 310; Feb. 5, 1994, D.C. Law 10-68, § 7(a), 40 DCR 6311; Sept. 22, 1994, D.C. Law 10-173, § 2(b), 41 DCR 5154; July 25, 1995, D.C. Law 11-30, § 2(b), 42 DCR 1547; Apr. 18, 1996, D.C. Law 11-110, § 5(a), 43 DCR 530; Apr. 12, 2000, D.C. Law 13-91, § 123(b), 47 DCR 520; Apr. 3, 2001, D.C. Law 13-251, § 2(a), 48 DCR 668; Dec. 7, 2004, D.C. Law 15-218, § 2(c), 51 DCR 9132; Apr. 7, 2006, D.C. Law 16-91, § 127(b), 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 48(l), 53 DCR 6794; Oct. 21, 2008, D.C. Law 17-236, § 2, 55 DCR 9019; Feb. 4, 2010, D.C. Law 18-103, § 2(e), 56 DCR 9169; May 31, 2012, D.C. Law 19-131,§ 2(a), 59 DCR 2389; Feb. 26, 2015, D.C. Law 20-158, § 2(b), 61 DCR 10730.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -628,6 +640,7 @@
       <text>D.C. Law 17-236 added subsecs. (a-2), (b)(4); and, in subsec. (e)(2), inserted "The voter registration notification shall state that the applicant shall not vote before her or his 18th birthday."</text>
       <text>D.C. Law 18-103 rewrote subsecs. (a-2), (b)(4), and (g); in subsec. (d)(1)(B), substituted "the Department of Parks and Recreation, the Department of Corrections, the Department of Youth and Rehabilitative Services, and the Office of Aging" for "the Senior Citizens Branch of the Department of Recreation and Parks and the Office of Aging"; and added subsec. (l).</text>
       <text>D.C. Law 19-131, in subsec. (g)(1), substituted "4:45 P.M. on the 30th day preceding any election, or such time on that day as the Board's office remains open to receive registrations," for "5:00 p.m. on the 31st day preceding any election"; in subsec. (g)(5), substituted "law, District law, or Board regulation. Each individual who registers on Election Day shall cast a special ballot, subject to the Board's verification of residence." for "law; provided, that, for each election occurring before December 31, 2010, the individual shall cast a special ballot, subject to the Board's verification of residence; provided further, that for each election occurring after December 31, 2010, if the individual does not present a government-issued and valid photo identification card showing the individual's address, the individual shall cast a special ballot, subject to the Board's verification of residence"; and, in subsec. (g)(7)(A)(i), substituted "register and vote in the election, but" for "register but".</text>
+      <text>The 2015 amendment by D.C. Law 20-158 would have substituted "DMV-issued identification" for "driver's license" in (a-1)(1)(A), (a-1)(1)(B), (a-1)(2), and (i)(6)(A); substituted "mailable" for "mailed" in (b)(2); would have added (b)(2A) and (b)(5); would have substituted "DMV" for "Bureau of Motor Vehicle Services" throughout (c) and (j)(1)(D); would have repealed (c)(2); would have added "using the digital voter service system required by subsection (b)(2A) of this section" preceding "or by mail" at the end of the first sentence in (g)(1); and would have added (g)(2)(C) and made related changes.</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -730,9 +743,17 @@
       <text>Law 19-131, the "Board of Elections and Ethics Electoral Process Improvement Amendment Act of 2012", was introduced in Council and assigned Bill No. 19-479, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on February 7, 2011, and March 6, 2012, respectively. Signed by the Mayor on March 19, 2012, it was assigned Act No. 19-328 and transmitted to both Houses of Congress for its review. D.C. Law 19-131 became effective on May 31, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-158</heading>
+      <text>Law 20-158, the "Voter Registration Access And Modernization Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-264. The Bill was adopted on first and second readings on July 14, 2014, and Sept. 23, 2014, respectively. Signed by the Mayor on Oct. 7, 2014, it was assigned Act No. 20-437 and transmitted to Congress for its review. D.C. Law 20-158 became effective on Feb. 26, 2015.</text>
+    </level>
+    <level>
       <heading>References in Text</heading>
       <text>Pursuant to Mayor's Order 2000-20, the agency formerly known as the Department of Recreation and Parks shall be known as the Department of Parks and Recreation.</text>
       <text>The National Voter Registration Act, referred to in (b) and (d), is Pub. L. 103-31, May 20, 1993, 107 Stat 77 which is codified primarily as 42 U.S.C.§§ 1973gg et seq.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-158: Section 3 of D.C. Law 20-158 provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
     </level>
   </level>
 </level>
