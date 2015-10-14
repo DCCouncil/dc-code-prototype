@@ -18,14 +18,15 @@
     <level>
       <num>(1)</num>
       <text>When any citation or order finding the District government in violation of this chapter becomes final pursuant to § 32-1115 or § 32-1116, the Mayor shall post in various conspicuous sites around the relevant worksite, notices to read as follows:</text>
+      <level>
+        <heading>WARNING HAZARDOUS WORKSITE</heading>
+      </level>
+      <text>Pursuant to the District of Columbia Occupational Safety and Health Act of 1988, this worksite, located at (address), has been determined to be hazardous to the health of the employees required to work here. Accordingly, pursuant to Section 18(e) of that act, employees may not be discharged or otherwise disciplined for refusal to perform work under conditions which are in violation of the health and safety rules of the District or federal health and safety or environmental laws. For further information, contact your union representative or the D.C. Office of Occupational Safety and Health (Phone: 576-6339/Address: 950 Upshur St., N.W.)</text>
     </level>
-  </level>
-  <text class="centered">WARNING</text>
-  <text class="centered">HAZARDOUS WORKSITE</text>
-  <text>Pursuant to the District of Columbia Occupational Safety and Health Act of 1988, this worksite, located at (address), has been determined to be hazardous to the health of the employees required to work here. Accordingly, pursuant to Section 18(e) of that act, employees may not be discharged or otherwise disciplined for refusal to perform work under conditions which are in violation of the health and safety rules of the District or federal health and safety or environmental laws. For further information, contact your union representative or the D.C. Office of Occupational Safety and Health (Phone: 576-6339/Address: 950 Upshur St., N.W.)</text>
-  <level>
-    <num>(2)</num>
-    <text>The notices shall remain in place until the hazardous conditions are abated. The notices shall also be published daily in at least 2 newspapers of general circulation in the District, and the publication shall continue until the hazardous conditions are abated or the employees are moved to a worksite that complies with the District or federal health and safety or environmental laws.</text>
+    <level>
+      <num>(2)</num>
+      <text>The notices shall remain in place until the hazardous conditions are abated. The notices shall also be published daily in at least 2 newspapers of general circulation in the District, and the publication shall continue until the hazardous conditions are abated or the employees are moved to a worksite that complies with the District or federal health and safety or environmental laws.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
