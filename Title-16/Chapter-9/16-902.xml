@@ -9,23 +9,23 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>An action for divorce by persons of the same gender, even if neither party to the marriage is a bona fide resident of the District of Columbia at the time the action is commenced, shall be maintainable if the following apply:</text>
+      <text>An action for divorce or legal separation by persons of the same gender, even if neither party to the marriage is a bona fide resident of the District of Columbia at the time the action is commenced, shall be maintainable if the following apply:</text>
       <level>
         <num>(A)</num>
         <text>The marriage was performed in the District of Columbia; and</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>Neither party to the marriage resides in a jurisdiction that will maintain an action for divorce.</text>
+        <text>Neither party to the marriage resides in a jurisdiction that will maintain an action for divorce or legal separation.</text>
       </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>It shall be a rebuttable presumption that a jurisdiction will not maintain an action for divorce if the jurisdiction does not recognize the marriage.</text>
+      <text>It shall be a rebuttable presumption that a jurisdiction will not maintain an action for divorce or legal separation if the jurisdiction does not recognize the marriage.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>Any action for divorce as provided by this subsection shall be adjudicated in accordance with the laws of the District of Columbia.</text>
+      <text>Any action for divorce or legal separation as provided by this subsection, including any accompanying petition for alimony, assignment and equitable distribution of property, pendente lite relief, or child custody determination if the District has jurisdiction under § 16-4602.01 or § 16-4602.03, shall be adjudicated in accordance with the laws of the District of Columbia.</text>
     </level>
   </level>
   <level>
@@ -43,7 +43,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 23, 1963, Pub. L. 88-241, § 1, 77 Stat. 560; Sept. 29, 1965, 79 Stat. 889, Pub. L. 89-217, § 1; Apr. 7, 1977, D.C. Law 1-107, title I, § 101, 23 DCR 8737; May 31, 2012, D.C. Law 19-133, § 2, 59 DCR 2395.)</text>
+      <text>(Dec. 23, 1963, Pub. L. 88-241, § 1, 77 Stat. 560; Sept. 29, 1965, 79 Stat. 889, Pub. L. 89-217, § 1; Apr. 7, 1977, D.C. Law 1-107, title I, § 101, 23 DCR 8737; May 31, 2012, D.C. Law 19-133, § 2, 59 DCR 2395; Mar. 10, 2015, D.C. Law 20-183, § 2(a), 61 DCR 11834.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -54,6 +54,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 19-133 rewrote the section, which formerly read:</text>
       <text>"No action for divorce or legal separation shall be maintainable unless one of the parties to the marriage has been a bona fide resident of the District of Columbia for at least six months next preceding the commencement of the action. No action for annulment of a marriage performed outside the District of Columbia or for affirmance of any marriage shall be maintainable unless one of the parties is a bona fide resident of the District of Columbia at the time of the commencement of the action. The residence of the parties to an action for annulment of a marriage performed in the District of Columbia shall not be considered in determining whether such action shall be maintainable. If a member of the armed forces of the United States resides in the District of Columbia for a continuous period of six months during his or her period of military service, he or she shall be deemed to reside in the District of Columbia for purposes of this section only."</text>
+      <text>The 2015 amendment by D.C. Law 20-183 substituted "divorce or legal separation" for "divorce" throughout (b); and substituted "Any action for divorce or legal separation as provided by this subsection, including any accompanying petition for alimony, assignment and equitable distribution of property, pendent lite relief, or child custody determination if the District has jurisdiction under § 16-4602.01 or § 16.4602.03" for "Any action for divorce as provided by this subsection" in (b)(3).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-107</heading>
@@ -62,6 +63,10 @@
     <level>
       <heading>Legislative History of Law 19-133</heading>
       <text>Law 19-133, the "Civil Marriage Dissolution Equality Act of 2012", was introduced in Council and assigned Bill No. 19-526, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on February 7, 2012, and March 6, 2012, respectively. Signed by the Mayor on March 20, 2012, it was assigned Act No. 19-330 and transmitted to both Houses of Congress for its review. D.C. Law 19-133 became effective on May 31, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-183</heading>
+      <text>Law 20-183, the "Civil Marriage Dissolution Equality Clarification Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-793. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct 28, 2014, respectively. Signed by the Mayor on Nov. 6, 2014, it was assigned Act No. 20-467 and transmitted to Congress for its review. D.C. Law 20-183 became effective on Mar. 10, 2015.</text>
     </level>
   </level>
 </level>

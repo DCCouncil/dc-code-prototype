@@ -15,7 +15,7 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>If the Court determines that a hearing is required, the hearing shall be scheduled promptly.</text>
+    <text>If the Court determines that a hearing is required, the hearing shall be scheduled within 30 days of the prosecutor's response. If the Court determines that a hearing is not required, the Court shall dismiss, grant, or deny the motion within 30 days of the prosecutor's response.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -36,15 +36,23 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868.)</text>
+      <text>(May 5, 2007, D.C. Law 16-307, § 2(b), 54 DCR 868; Mar. 10, 2015, D.C. Law 20-186, § 2(c), 61 DCR 12108.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 16-804.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-186 rewrote (d).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 16-307</heading>
       <text>For Law 16-307, see notes following § 16-801.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-186</heading>
+      <text>See note to § 16-803.</text>
     </level>
   </level>
 </level>

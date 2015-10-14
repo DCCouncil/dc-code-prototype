@@ -18,22 +18,22 @@
     <level>
       <num>(1)</num>
       <text>Where the petition alleges a child is abandoned as referred to in section 16-2301(9)(A), as amended by this act, the following evidence shall be sufficient to justify an inference of neglect:</text>
-      <level>
-        <num>(A)</num>
-        <text>the child is a foundling whose parents have made no effort to maintain a parental relationship with the child and reasonable efforts have been made to identify the child and to locate the parents for a period of at least four (4) weeks since the child was found;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>the child's parent gave a false identity at the time of the child's birth, since then has made no effort to maintain a parental relationship with the child and reasonable efforts have been made to locate the parent for a period of at least four (4) weeks since his or her disappearance;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>the child's parent, guardian or custodian is known but has abandoned the child in that he or she has made no reasonable effort to maintain a parental relationship with the child for a period of at least four (4) months; or</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>the child has resided in a hospital located in the District of Columbia for at least 10 calendar days following the birth of the child, despite a medical determination that the child was ready for discharge from the hospital, and the parent, guardian, or custodian of the child did not undertake any action or make any effort to maintain a parental, guardianship, or custodial relationship or contact with the child.</text>
-      </level>
+    </level>
+    <level>
+      <num>(A)</num>
+      <text>the child is a foundling whose parents have made no effort to maintain a parental relationship with the child and reasonable efforts have been made to identify the child and to locate the parents for a period of at least four (4) weeks since the child was found;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>the child's parent gave a false identity at the time of the child's birth, since then has made no effort to maintain a parental relationship with the child and reasonable efforts have been made to locate the parent for a period of at least four (4) weeks since his or her disappearance;</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>the child's parent, guardian or custodian is known but has abandoned the child in that he or she has made no reasonable effort to maintain a parental relationship with the child for a period of at least four (4) months; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>the child has resided in a hospital located in the District of Columbia for at least 10 calendar days following the birth of the child, despite a medical determination that the child was ready for discharge from the hospital, and the parent, guardian, or custodian of the child did not undertake any action or make any effort to maintain a parental, guardianship, or custodial relationship or contact with the child.</text>
     </level>
     <level>
       <num>(2)</num>
