@@ -2,21 +2,28 @@
   <num>25-508</num>
   <heading>Minimum fee for permits and manager's license.</heading>
   <text>The minimum fees for permits and manager's license shall be as follows:</text>
-  <text>
-    <table>
-      <tr><td>Brew pub permit</td><td>$3,000/year</td></tr>
-      <tr><td>Tasting permit for class A licensees</td><td>$100/year</td></tr><tr><td>Importation permit</td><td>$5</td></tr>
-      <tr><td>Manager’s license</td><td>$100/year</td></tr>
-    </table>
-  </text>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959.)</text>
+      <text>(May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959; Feb. 26, 2015, D.C. Law 20-155, § 2002(d), 61 DCR 9990.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-155 added the last line in the table, the $1000 annual fee for an on-site sales and consumption permit.</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 2002(d) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2002(d) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2002(d) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-298</heading>
       <text>For D.C. Law 13-298, see notes following § 25-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 25-110.</text>
     </level>
   </level>
 </level>
