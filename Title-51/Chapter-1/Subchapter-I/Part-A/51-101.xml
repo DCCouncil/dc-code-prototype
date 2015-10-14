@@ -331,15 +331,15 @@
       <level>
         <num>(i)</num>
         <text>Any localized service performed for an employing unit, which is excluded under the definition of employment in paragraph (2) of this section and with respect to which no payments are required under the employment security law of another state or of the federal government may be deemed to constitute employment for all purposes of this subchapter; provided, that the Director has approved a written election to that effect filed by the employing unit for which the service is performed, as of the date stated in such approval. No election shall be approved by the Director unless it:</text>
+        <level>
+          <num>(I)</num>
+          <text>Includes all the service of the type specified in each establishment or place of business for which the election is made; and</text>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>Is made for not less than 2 calendar years.</text>
+        </level>
       </level>
-    </level>
-    <level>
-      <num>(I)</num>
-      <text>Includes all the service of the type specified in each establishment or place of business for which the election is made; and</text>
-    </level>
-    <level>
-      <num>(II)</num>
-      <text>Is made for not less than 2 calendar years.</text>
       <level>
         <num>(ii)</num>
         <text>Any service which, because of an election by an employing unit under paragraph (2)(H)(i) of this section, is employment subject to this subchapter shall cease to be employment subject to the subchapter as of January first of any calendar year subsequent to the 2 calendar years of the election, only if not later than March 15th of such year, either such employing unit has filed with the Director a written notice to that effect, or the Director on his own motion has given notice of termination of such coverage.</text>
@@ -529,7 +529,7 @@
       <text>For temporary (225 day) amendment of section, see § 101 of District of Columbia Unemployment Compensation Comprehensive Improvements Temporary Amendment Act of 1992 (D.C. Law 9-260, March 27, 1993, law notification 40 DCR 2330).</text>
       <text>For temporary (225 day) amendment of section, see § 1201 of Fiscal Year 1998 Revised Budget Support Temporary Act of 1997 (D.C. Law 12-59, March 20, 1998, law notification 45 DCR 2094).</text>
       <text>For temporary (225 day) amendment of section, see § 2(a) of Unemployment Compensation Terrorist Response Temporary Amendment Act of 2001 (D.C. Law 14-75, March 6, 2002, law notification 49 DCR 2809).</text>
-      <text>For temporary (225 day) amendment of section, see § 2(a) of Unemployment Compensation Terrorist Response Temporary Amendment Act of 2002 (D.C. Law 14-171, July 23, 2002, law notification 49 DCR ____).</text>
+      <text>For temporary (225 day) amendment of section, see § 2(a) of Unemployment Compensation Terrorist Response Temporary Amendment Act of 2002 (D.C. Law 14-171, July 23, 2002, law notification 49 DCR __).</text>
     </level>
     <level>
       <heading>Temporary Addition of Section</heading>
@@ -587,6 +587,7 @@
       <text>For temporary (90 day) amendment of section, see § 2(a) of Unemployment Compensation Terrorist Response Emergency Amendment Act of 2002 (D.C. Act 14-346, April 24, 2002, 49 DCR 4407).</text>
       <text>For temporary (90 day) amendment of section, see §§ 2202(a) and 2204 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002, 49 DCR 8026).</text>
       <text>For temporary (90 day) additions, see §§ 2 and 3 of Keep D.C. Working Emergency Act of 2010 (D.C. Act 18-388, May 5, 2010, 57 DCR 4327).</text>
+      <text>For temporary (90 days) amendment of this section, see § 268(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-129</heading>
@@ -636,7 +637,7 @@
     <level>
       <heading>Editor’s Notes</heading>
       <text>Section 2002 of D.C. Law 12-60 provided that the act shall apply as of October 1, 1997.</text>
-      <text>Section 2304 of D.C. Law 14-190 provided that this subtitle subtitle A of title XXIII, §§ 2301 to 2305 of D.C. Law 14-190 shall apply 180 calendar days after October 1, 2002.</text>
+      <text>Section 2304 of D.C. Law 14-190 provided that this subtitle [subtitle A of title XXIII, §§ 2301 to 2305 of D.C. Law 14-190] shall apply 180 calendar days after October 1, 2002.</text>
     </level>
   </level>
 </level>

@@ -9,8 +9,9 @@
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>An individual's "weekly benefit amount" shall be an amount equal to one twenty-sixth (computed to the next higher multiple of $1) of his total wages for insured work paid during that quarter of his base period in which such total wages were highest, with such other following limitations. The Director shall determine annually a maximum weekly benefit amount by computing 66<span style="font-style: italic; ">2</span>/<span style="">3</span>% of the average weekly wage paid to employees in insured work, and shall on or before January 1st of the calendar year in which it shall be effective announce by publication in at least 1 newspaper of general circulation in the District, the maximum weekly benefit amount so determined. Such computation shall be made by determining total wages reported as paid for insured work by employers in each 12-month period ending June 30th and dividing said total wages by a figure resulting from 52 times the average of mid-month employment reported by employers for the same period. For the period from March 30, 1962, to December 31, 1962, the maximum weekly benefit amount shall be determined and announced by the Director in accordance with the foregoing formula on the basis of wages and employment in the 12-month period ending June 30, 1961. The maximum weekly benefit amount so determined and announced for a calendar year shall apply only to those claims filed in that year qualifying for maximum payment under the foregoing formula. All claims qualifying for payment at the maximum weekly benefit amount shall be paid at the maximum weekly benefit amount in effect when the benefit year to which the claim relates was first established, notwithstanding a change in said amount for a subsequent calendar year. If the maximum weekly benefit amount is not a multiple of $1, then said maximum weekly benefit amount shall be computed to the next multiple of $1.</text>
+      <text>An individual's "weekly benefit amount" shall be an amount equal to one twenty-sixth (computed to the next higher multiple of $1) of his total wages for insured work paid during that quarter of his base period in which such total wages were highest, with such other following limitations. The Director shall determine annually a maximum weekly benefit amount by computing 662/3% of the average weekly wage paid to employees in insured work, and shall on or before January 1st of the calendar year in which it shall be effective announce by publication in at least 1 newspaper of general circulation in the District, the maximum weekly benefit amount so determined. Such computation shall be made by determining total wages reported as paid for insured work by employers in each 12-month period ending June 30th and dividing said total wages by a figure resulting from 52 times the average of mid-month employment reported by employers for the same period. For the period from March 30, 1962, to December 31, 1962, the maximum weekly benefit amount shall be determined and announced by the Director in accordance with the foregoing formula on the basis of wages and employment in the 12-month period ending June 30, 1961. The maximum weekly benefit amount so determined and announced for a calendar year shall apply only to those claims filed in that year qualifying for maximum payment under the foregoing formula. All claims qualifying for payment at the maximum weekly benefit amount shall be paid at the maximum weekly benefit amount in effect when the benefit year to which the claim relates was first established, notwithstanding a change in said amount for a subsequent calendar year. If the maximum weekly benefit amount is not a multiple of $1, then said maximum weekly benefit amount shall be computed to the next multiple of $1.</text>
     </level>
+    <text>23</text>
     <level>
       <num>(2)</num>
       <level>
@@ -91,8 +92,9 @@
   </level>
   <level>
     <num>(f-1)</num>
-    <text>For claims for benefit years commencing after August 9, 2009, and before January 1, 2011, in addition to benefits payable under subsections (a) through (e) of this section, each eligible individual who is unemployed in any week shall be paid with respect to that week $15 for each dependent relative, but no more than $50 or <span style="font-style: italic; ">1</span>/<span style="">2</span> of the individual's weekly benefit amount, whichever is less, with respect to any 1 week of unemployment. The amount of the dependent's allowance paid to an individual shall not be charged to the individual account of an employer. The number of dependents of an individual shall be determined as of the day with respect to which the individual first files a valid claim for benefits in any benefit year and shall remain fixed for the duration of the benefit year. The dependent's allowance shall not be taken into consideration in the total amount of benefits calculated pursuant to subsection (d) of this section.</text>
+    <text>For claims for benefit years commencing after August 9, 2009, and before January 1, 2011, in addition to benefits payable under subsections (a) through (e) of this section, each eligible individual who is unemployed in any week shall be paid with respect to that week $15 for each dependent relative, but no more than $50 or 1/2 of the individual's weekly benefit amount, whichever is less, with respect to any 1 week of unemployment. The amount of the dependent's allowance paid to an individual shall not be charged to the individual account of an employer. The number of dependents of an individual shall be determined as of the day with respect to which the individual first files a valid claim for benefits in any benefit year and shall remain fixed for the duration of the benefit year. The dependent's allowance shall not be taken into consideration in the total amount of benefits calculated pursuant to subsection (d) of this section.</text>
   </level>
+  <text>12</text>
   <level>
     <num>(g)</num>
     <text>Notwithstanding any other provisions of this section, this subsection provides a program of extended benefits on and after January 1, 1972.</text>
@@ -172,68 +174,68 @@
         </level>
         <level>
           <num>(iii)</num>
+          <level>
+            <num>(I)</num>
+            <text>Has no right to unemployment benefits or allowances, as the case may be, under the Railroad Unemployment Insurance Act, the Trade Expansion Act of 1962, the Automotive Products Trade Act of 1965, and such other federal laws as are specified in regulations issued by the Secretary of Labor; and</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>Has not received and is not seeking unemployment benefits under the unemployment compensation law of Canada; but if he is seeking such benefits and the appropriate agency finally determines that he is not entitled to benefits under such law he is considered an exhaustee.</text>
+          </level>
         </level>
       </level>
       <level>
         <num>(I)</num>
-        <text>Has no right to unemployment benefits or allowances, as the case may be, under the Railroad Unemployment Insurance Act, the Trade Expansion Act of 1962, the Automotive Products Trade Act of 1965, and such other federal laws as are specified in regulations issued by the Secretary of Labor; and</text>
+        <text>"State law" means the unemployment insurance law of any state, approved by the Secretary of Labor under § 3304 of the Internal Revenue Code of 1954.</text>
       </level>
       <level>
-        <num>(II)</num>
-        <text>Has not received and is not seeking unemployment benefits under the unemployment compensation law of Canada; but if he is seeking such benefits and the appropriate agency finally determines that he is not entitled to benefits under such law he is considered an exhaustee.</text>
+        <num>(J)</num>
+        <text>The provisions of subparagraphs (A)-(G) of this paragraph shall not apply to any time these provisions are suspended temporarily or permanently by federal law. If these provisions are suspended by federal law, the provisions of this subchapter which apply to claims for and the payment of regular benefits shall apply to claims for and the payment of extended benefits.</text>
+      </level>
+      <level>
+        <num>(K)</num>
         <level>
-          <num>(I)</num>
-          <text>"State law" means the unemployment insurance law of any state, approved by the Secretary of Labor under § 3304 of the Internal Revenue Code of 1954.</text>
-        </level>
-        <level>
-          <num>(J)</num>
-          <text>The provisions of subparagraphs (A)-(G) of this paragraph shall not apply to any time these provisions are suspended temporarily or permanently by federal law. If these provisions are suspended by federal law, the provisions of this subchapter which apply to claims for and the payment of regular benefits shall apply to claims for and the payment of extended benefits.</text>
-        </level>
-        <level>
-          <num>(K)</num>
+          <num>(i)</num>
+          <text>For weeks of unemployment commencing March 15, 2009, there is a state "on" indicator if:</text>
           <level>
-            <num>(i)</num>
-            <text>For weeks of unemployment commencing March 15, 2009, there is a state "on" indicator if:</text>
-            <level>
-              <num>(I)</num>
-              <text>The average rate of total unemployment (seasonally adjusted), as determined by the United States Secretary of Labor, for the period consisting of the 3 most recent months for which data for all states are published before the close of any such week equals or exceeds 6.5%; and</text>
-            </level>
-            <level>
-              <num>(II)</num>
-              <text>The average rate of total unemployment in the District (seasonally adjusted), as determined by the United States Secretary of Labor, for the 3 months referred to in sub-sub-subparagraph (I) of this sub-subparagraph equals or exceeds 110% of such average rate for either of the corresponding 3-month periods ending in the 2 preceding calendar years.</text>
-            </level>
+            <num>(I)</num>
+            <text>The average rate of total unemployment (seasonally adjusted), as determined by the United States Secretary of Labor, for the period consisting of the 3 most recent months for which data for all states are published before the close of any such week equals or exceeds 6.5%; and</text>
           </level>
           <level>
-            <num>(ii)</num>
-            <text>There is a state "off" indicator pursuant to this subparagraph for weeks of unemployment commencing December 6, 2009, or such other week as the Congress may specify in any subsequent amendment to section 2005 of the Assistance for Unemployed Workers and Struggling Families Act of 2009, approved February 17, 2009 (Pub. L. No. 111-5; 123 Stat. 436).</text>
+            <num>(II)</num>
+            <text>The average rate of total unemployment in the District (seasonally adjusted), as determined by the United States Secretary of Labor, for the 3 months referred to in sub-sub-subparagraph (I) of this sub-subparagraph equals or exceeds 110% of such average rate for either of the corresponding 3-month periods ending in the 2 preceding calendar years.</text>
           </level>
         </level>
         <level>
-          <num>(L)</num>
+          <num>(ii)</num>
+          <text>There is a state "off" indicator pursuant to this subparagraph for weeks of unemployment commencing December 6, 2009, or such other week as the Congress may specify in any subsequent amendment to section 2005 of the Assistance for Unemployed Workers and Struggling Families Act of 2009, approved February 17, 2009 (Pub. L. No. 111-5; 123 Stat. 436).</text>
+        </level>
+      </level>
+      <level>
+        <num>(L)</num>
+        <level>
+          <num>(i)</num>
+          <text>For weeks of unemployment commencing March 15, 2009, there is a state high unemployment period "on" indicator if the total unemployment insurance rate as established in subparagraph (K) of this paragraph equals or exceeds 8%.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Notwithstanding the provisions of paragraph 5(A) of this subsection, the total unemployment extended benefit amount payable to any individual pursuant to this subparagraph shall be the least of the following amounts:</text>
           <level>
-            <num>(i)</num>
-            <text>For weeks of unemployment commencing March 15, 2009, there is a state high unemployment period "on" indicator if the total unemployment insurance rate as established in subparagraph (K) of this paragraph equals or exceeds 8%.</text>
+            <num>(I)</num>
+            <text>Eighty percent of the total amount of regular benefits (including any applicable dependents' allowance) that were payable to the individual under this subchapter in the individual's applicable benefit year;</text>
           </level>
           <level>
-            <num>(ii)</num>
-            <text>Notwithstanding the provisions of paragraph 5(A) of this subsection, the total unemployment extended benefit amount payable to any individual pursuant to this subparagraph shall be the least of the following amounts:</text>
-            <level>
-              <num>(I)</num>
-              <text>Eighty percent of the total amount of regular benefits (including any applicable dependents' allowance) that were payable to the individual under this subchapter in the individual's applicable benefit year;</text>
-            </level>
-            <level>
-              <num>(II)</num>
-              <text>Twenty times the individual's weekly benefit amount (including any applicable dependents' allowance) which was payable to the individual under this subchapter for a week of total unemployment in the applicable benefit year; or</text>
-            </level>
-            <level>
-              <num>(III)</num>
-              <text>Forty-six times the individual's weekly benefit amount (including any applicable dependents allowances) for a week of total unemployment in the applicable benefit year, reduced by the total amount of regular benefits that were paid (or deemed paid) to the individual under this subchapter with respect to the benefit year.</text>
-            </level>
+            <num>(II)</num>
+            <text>Twenty times the individual's weekly benefit amount (including any applicable dependents' allowance) which was payable to the individual under this subchapter for a week of total unemployment in the applicable benefit year; or</text>
           </level>
           <level>
-            <num>(iii)</num>
-            <text>There is a state "off" indicator pursuant to this subparagraph for weeks of unemployment commencing December 6, 2009, or such other week as the Congress may specify in any subsequent amendment to section 2005 of the Assistance for Unemployed Workers and Struggling Families Act of 2009, approved February 17, 2009 (Pub. L. No. 111-5; 123 Stat. 436).</text>
+            <num>(III)</num>
+            <text>Forty-six times the individual's weekly benefit amount (including any applicable dependents allowances) for a week of total unemployment in the applicable benefit year, reduced by the total amount of regular benefits that were paid (or deemed paid) to the individual under this subchapter with respect to the benefit year.</text>
           </level>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>There is a state "off" indicator pursuant to this subparagraph for weeks of unemployment commencing December 6, 2009, or such other week as the Congress may specify in any subsequent amendment to section 2005 of the Assistance for Unemployed Workers and Struggling Families Act of 2009, approved February 17, 2009 (Pub. L. No. 111-5; 123 Stat. 436).</text>
         </level>
       </level>
     </level>
@@ -254,8 +256,9 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Notwithstanding any other provisions of this paragraph, an individual shall not be eligible for extended benefits if his monetary eligibility for regular benefits was based upon the total base period wages that did not exceed his highest quarterly wages by at least 1<span style="font-style: italic; ">1</span>/<span style="">2</span> times.</text>
+        <text>Notwithstanding any other provisions of this paragraph, an individual shall not be eligible for extended benefits if his monetary eligibility for regular benefits was based upon the total base period wages that did not exceed his highest quarterly wages by at least 11/2 times.</text>
       </level>
+      <text>12</text>
     </level>
     <level>
       <num>(4)</num>
@@ -444,7 +447,7 @@
       <text>For temporary (225 day) amendment of section, see § 2(b), (c) of District of Columbia Unemployment Compensation Tax Stabilization Temporary Amendment Act of 1997 (D.C. Law 12-2, May 7,1997, law notification 44 DCR 2988).</text>
       <text>For temporary (225 day) amendment of section, see § 2(b), (c) of Unemployment Compensation Tax Stabilization Second Temporary Amendment Act of 1998 (D.C. Law 12-95, April 30, 1998, law notification 44 DCR 2786).</text>
       <text>For temporary (225 day) amendment of section, see § 2(c) of Unemployment Compensation Terrorist Response Temporary Amendment Act of 2001 (D.C. Law 14-75, March 6, 2002, law notification 49 DCR 2809).</text>
-      <text>For temporary (225 day) amendment of section, see § 2(c) of Unemployment Compensation Terrorist Response Temporary Amendment Act of 2002 (D.C. Law 14-171, July 23, 2002, law notification 49 DCR ____).</text>
+      <text>For temporary (225 day) amendment of section, see § 2(c) of Unemployment Compensation Terrorist Response Temporary Amendment Act of 2002 (D.C. Law 14-171, July 23, 2002, law notification 49 DCR __).</text>
       <text>For temporary (225 day) amendment of section, see § 2 of Unemployment Compensation Pension Offset Reduction Temporary Amendment Act of 2004 (D.C. Law 15-222, March 16, 2005, law notification 52 DCR 3548).</text>
       <text>Section 2 of D.C. Law 18-24 added subsecs. (g)(1)(K) and (L) to read as follows:</text>
       <text>"(K)(i) For weeks of unemployment commencing March 15, 2009, there is a state 'on' indicator if:</text>
@@ -504,6 +507,7 @@
       <text>For temporary (90 day) amendment of section, see § 2 of Unemployment Compensation Federally Funded Extended Benefits Maximization Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-309, February 21, 2012, 59 DCR 1686).</text>
       <text>For temporary (90 day) amendment of section, see § 2002(b) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
       <text>For temporary (90 day) amendment of section, see § 2002(b) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+      <text>For temporary (90 days) amendment of this section, see § 268(c) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-129</heading>
@@ -606,7 +610,7 @@
       <text>Section 3(b) of D.C. Law 7-91 provided that the amendments to §§ 51-103 and 51-107 shall be effective beginning January 1, 1988.</text>
     </level>
     <level>
-      <heading>Expiration of law Expiration of Law 5-3</heading>
+      <heading>Expiration of Law 5-3</heading>
       <text>Section 4 of D.C. Law 5-3, as amended by § 4 of D.C. Law 5-124, provided that except for provisions of § 2(a), (b), (d), (f)(2), (g), (h), (j), (l)(3), (m), (n), (o), (p), (q), (r), and (s) of D.C. Law 5-3, D.C. Law 5-3 shall expire on December 31, 1985.</text>
     </level>
     <level>
