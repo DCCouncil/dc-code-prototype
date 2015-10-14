@@ -1,39 +1,23 @@
 <level type="section">
   <num>46-412</num>
   <heading>Form of license; return; coupons.</heading>
-  <level type="form">
-    <text> Licenses to perform the marriage ceremony shall be addressed to some particular minister, magistrate, or other person authorized by § 46-406 to perform or witness the marriage ceremony and shall be in the following form: 
-
-
- Number .......... 
- To ...................., authorized to celebrate (or witness) marriages in the 
-
-
- District of Columbia, greeting: 
-
-
- You are hereby authorized to celebrate (or witness) the rites of marriage between ...................., of .........., and ...................., of .........., and having done so, you are commanded to make return of the same to the Clerk's Office of the Superior Court of the District of Columbia within 10 days under a penalty of $50 for default therein. 
- Witness my hand and seal of said Court this .......... day of ............, 
- anno Domini ........... 
- ........................................Clerk. 
- By ................................... Assistant Clerk. 
-
-
- Said return shall be made in person or by mail on a coupon issued with said license and bearing a corresponding number therewith within 10 days from the time of said marriage, and shall be in the following form: 
- Number .......... 
-
-
- I, ...................., who have been duly authorized to celebrate (or witness) the rites of marriage in the District of Columbia, do hereby certify that, by authority of a license of corresponding number herewith, I solemnized (or witnessed) the marriage of .................... and ...................., named therein, on the .......... day of .........., at .........., in said District. 
-
-
- A 2nd coupon, of corresponding number with the license, shall be attached to and issued with said license, to be given to the contracting parties by the minister or other person to whom such license was addressed, and shall be in the following form: 
- Number .......... 
-
-
- I hereby certify that on this ....... day of .........., at .........., .................... and .................... were by (or before) me united in marriage in accordance with the license issued by the Clerk of the Superior Court of the District of Columbia. 
- Name ...................., 
- Residence ..............................................</text>
-  </level>
+  <text>Licenses to perform the marriage ceremony shall be addressed to some particular minister, magistrate, or other person authorized by § 46-406 to perform or witness the marriage ceremony and shall be in the following form:</text>
+  <text>Number ..........</text>
+  <text>To ...................., authorized to celebrate (or witness) marriages in the</text>
+  <text>District of Columbia, greeting:</text>
+  <text>You are hereby authorized to celebrate (or witness) the rites of marriage between ...................., of .........., and ...................., of .........., and having done so, you are commanded to make return of the same to the Clerk's Office of the Superior Court of the District of Columbia within 10 days under a penalty of $50 for default therein.</text>
+  <text>Witness my hand and seal of said Court this .......... day of ,</text>
+  <text>anno Domini ...........</text>
+  <text>Clerk.</text>
+  <text>By  Assistant Clerk.</text>
+  <text>Said return shall be made in person or by mail on a coupon issued with said license and bearing a corresponding number therewith within 10 days from the time of said marriage, and shall be in the following form:</text>
+  <text>Number ..........</text>
+  <text>I, ...................., who have been duly authorized to celebrate (or witness) the rites of marriage in the District of Columbia, do hereby certify that, by authority of a license of corresponding number herewith, I solemnized (or witnessed) the marriage of .................... and ....................., named therein, on the .......... day of .........., at .........., in said District.</text>
+  <text>A 2nd coupon, of corresponding number with the license, shall be attached to and issued with said license, to be given to the contracting parties by the minister or other person to whom such license was addressed, and shall be in the following form:</text>
+  <text>Number ..........</text>
+  <text>I hereby certify that on this ....... day of .........., at .........., .................... and .................... were by (or before) me united in marriage in accordance with the license issued by the Clerk of the Superior Court of the District of Columbia.</text>
+  <text>Name ....................,</text>
+  <text>Residence</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
