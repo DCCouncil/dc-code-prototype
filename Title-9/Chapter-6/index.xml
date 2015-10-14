@@ -5,8 +5,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-602.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-603.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-604.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-605.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-606.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-604~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-605~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-606~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-607.xml"/>
 </level>

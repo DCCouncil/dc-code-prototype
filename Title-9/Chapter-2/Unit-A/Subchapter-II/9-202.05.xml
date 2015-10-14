@@ -31,12 +31,14 @@
     <text>All or part of any alley when:</text>
     <level>
       <num>(A)</num>
-      <text>The closing is supported in writing by all of the owners of the property in <span style="font-style: italic; ">2</span>/<span style="">3</span> of the square;</text>
+      <text>The closing is supported in writing by all of the owners of the property in 2/3 of the square;</text>
     </level>
+    <text>23</text>
     <level>
       <num>(B)</num>
-      <text>The alley, all or part of which is to be closed, is located entirely within <span style="font-style: italic; ">2</span>/<span style="">3</span> of the square owned by the persons supporting the closing; and</text>
+      <text>The alley, all or part of which is to be closed, is located entirely within 2/3 of the square owned by the persons supporting the closing; and</text>
     </level>
+    <text>23</text>
     <level>
       <num>(C)</num>
       <text>The owners propose to develop the entire area of the square which they own; and</text>

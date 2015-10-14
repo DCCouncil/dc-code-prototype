@@ -4,14 +4,14 @@
   <level>
     <num>(a)</num>
     <text>On November 1st of each year, the Mayor shall submit to the Council a report on all District of Columbia Highway Trust Fund and Local Transportation Fund expenditures for the previous fiscal year. The report shall include, but not be limited to, the following:</text>
-    <level>
-      <num>(1)</num>
-      <text>The number and location of each street, alley, sidewalk, curb, gutter and streetlight renovated, repaired, or maintained during the past fiscal year; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The amount of the expenditure for each project.</text>
-    </level>
+  </level>
+  <level>
+    <num>(1)</num>
+    <text>The number and location of each street, alley, sidewalk, curb, gutter and streetlight renovated, repaired, or maintained during the past fiscal year; and</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The amount of the expenditure for each project.</text>
   </level>
   <level>
     <num>(b)</num>
