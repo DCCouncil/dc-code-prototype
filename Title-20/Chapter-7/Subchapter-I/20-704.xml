@@ -4,28 +4,16 @@
   <level>
     <num>(a)</num>
     <text>Within 20 days after appointment, the personal representative shall, unless notice has already been given under this subsection, publish a notice of the appointment in a newspaper of general circulation of the District of Columbia and any other publication the Court may order or provide by Rule once a week for 3 successive weeks. This notice shall announce the appointment and address of the personal representative, state whether administration is supervised or unsupervised, and notify creditors of the estate to present their claims. The personal representative shall file with the Register a certification specifying the date and content of the published notice. The notice shall be substantially in the following form:</text>
-    <level type="form">
-      <text>
-
- 
-
- To all persons interested in the estate of ________________________________
- 
- This is to give notice that the undersigned, ____________________________________ whose address is ________________ was, on ________________ appointed personal representative of the estate of ______________ who died on ______________ , (with) (without) a will, and that the personal representative will serve in (supervised) (unsupervised) administration. 
- 
- All persons having any objection to such appointment (or to the probate of the decedent's will) shall file an objection with the Register of Wills on or before ______________ (6 months from the date of the first publication of notice under this section). 
- 
- All persons having claims against the decedent shall present their claims to the undersigned or file their claims with the Register of Wills on or before 6 months from the date of the first publication of this notice. 
- 
- Any claim not so filed on or before such date shall be unenforceable thereafter. 
- 
- Any person who is related to the decedent and who does not receive notice of this appointment by mail within 25 days shall so inform the Register of Wills including such person's name, address, and relationship to the decedent. 
- _____________________________________________________________________
- Personal representative 
- Date of first publication: 
- __________________</text>
-    </level>
   </level>
+  <text>To all persons interested in the estate of</text>
+  <text>This is to give notice that the undersigned, __________________ whose address is _________ was, on _________ appointed personal representative of the estate of ________ who died on ________ , (with) (without) a will, and that the personal representative will serve in (supervised) (unsupervised) administration.</text>
+  <text>All persons having any objection to such appointment (or to the probate of the decedent's will) shall file an objection with the Register of Wills on or before ________ (6 months from the date of the first publication of notice under this section).</text>
+  <text>All persons having claims against the decedent shall present their claims to the undersigned or file their claims with the Register of Wills on or before 6 months from the date of the first publication of this notice.</text>
+  <text>Any claim not so filed on or before such date shall be unenforceable thereafter.</text>
+  <text>Any person who is related to the decedent and who does not receive notice of this appointment by mail within 25 days shall so inform the Register of Wills including such person's name, address, and relationship to the decedent.</text>
+  <text>Personal representative</text>
+  <text>Date of first publication:</text>
+  <text>__________</text>
   <level>
     <num>(b)</num>
     <text>Not later than 20 days after appointment, a personal representative (except when notice under this subsection has already been given) shall send, by registered or certified mail to the heirs and legatees of the decedent and to all creditors whose identities are known or whose identities are reasonably ascertainable by reasonably diligent efforts, the text of the first newspaper notice of the appointment of such representative, and the following general information in a form developed by the Court:</text>

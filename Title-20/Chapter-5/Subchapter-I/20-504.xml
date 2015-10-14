@@ -1,40 +1,16 @@
 <level type="section">
   <num>20-504</num>
   <heading>Form of letters.</heading>
-  <level type="form">
-    <text> Letters of administration shall be in substantially the following form: 
-
-
-
-
- 
-
- LETTERS OF ADMINISTRATION 
-
-
- 
- To all persons who may be interested in the estate of ______________________________, deceased: 
-
-
- 
- Administration of the estate of the deceased has been granted on ________________ to ________________ (and the will of the deceased was probated on ____________________________________________). This administration (is) (is not) (strike the inapplicable language) subject to continuing supervision of the Court. The powers of the personal representative (are not limited) (are limited as follows: ________________ ). The appointment is in full force and effect as of this date. 
-
-
- 
- (SEAL) 
-
-
- 
- Witness: 
-
-
- 
- Dated: 
-
-
- 
- Register of Wills.</text>
+  <text>Letters of administration shall be in substantially the following form:</text>
+  <level>
+    <heading>LETTERS OF ADMINISTRATION</heading>
   </level>
+  <text>To all persons who may be interested in the estate of _______________, deceased:</text>
+  <text>Administration of the estate of the deceased has been granted on _________ to _________ (and the will of the deceased was probated on ______________________). This administration (is) (is not) (strike the inapplicable language) subject to continuing supervision of the Court. The powers of the personal representative (are not limited) (are limited as follows: _________ ). The appointment is in full force and effect as of this date.</text>
+  <text>(SEAL)</text>
+  <text>Witness:</text>
+  <text>Dated:</text>
+  <text>Register of Wills.</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
