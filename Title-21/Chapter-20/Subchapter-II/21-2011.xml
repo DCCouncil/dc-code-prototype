@@ -16,6 +16,10 @@
   </level>
   <level>
     <num>(1A)</num>
+    <text>"Case reviewer" means a social worker who is licensed in the District of Columbia and appointed by the court under § 21-2045.01(a).</text>
+  </level>
+  <level>
+    <num>(1B)</num>
     <text>"Claims" in respect to a protected individual, means liabilities of the protected individual, whether arising in contract, tort, or otherwise, and liabilities of the estate that arise at or after the appointment of a conservator, including expenses of administration.</text>
   </level>
   <level>
@@ -24,7 +28,7 @@
   </level>
   <level>
     <num>(3)</num>
-    <text>"Conservator" means a person who is appointed by a court to manage the estate of a protected individual and includes a limited conservator described in section 21-2066(a).</text>
+    <text>"Conservator" means a person who is appointed by a court to manage the estate of a protected individual and includes a limited conservator described in § 21-2066(a).</text>
   </level>
   <level>
     <num>(4)</num>
@@ -59,14 +63,14 @@
     <text>"Guardian" means a person who has qualified as a guardian of an incapacitated individual pursuant to court appointment, not including a guardian ad litem, but including:</text>
     <level>
       <num>(A)</num>
-      <text>A temporary guardian appointed as described in section 21-2046 for a finite period of time to serve as:</text>
+      <text>A temporary guardian appointed as described in § 21-2046 for a finite period of time to serve as:</text>
       <level>
         <num>(i)</num>
         <text>An emergency guardian whose authority may not extend beyond 21 days and who may exercise any powers granted by court order and not prohibited by law;</text>
       </level>
       <level>
         <num>(ii)</num>
-        <text>A health-care guardian whose authority is granted for up to 90 days and may be extended for up to an additional 90 days to provide substituted consent in accordance with section 21-2210 for an individual certified as incapacitated for a health-care decision; or</text>
+        <text>A health-care guardian whose authority is granted for up to 90 days and may be extended for up to an additional 90 days to provide substituted consent in accordance with § 21-2210 for an individual certified as incapacitated for a health-care decision; or</text>
       </level>
       <level>
         <num>(iii)</num>
@@ -75,11 +79,11 @@
     </level>
     <level>
       <num>(B)</num>
-      <text>A general guardian not limited by the court in scope as described in section 21-2044(c) or in time as described in section 21-2046; and</text>
+      <text>A general guardian not limited by the court in scope as described in § 21-2044(c) or in time as described in § 21-2046; and</text>
     </level>
     <level>
       <num>(C)</num>
-      <text>A limited guardian whose powers are limited by the court as described in section 21-2044(c) and who is appointed for a finite period of time as described in section 21-2046 or for an indeterminate period of time.</text>
+      <text>A limited guardian whose powers are limited by the court as described in § 21-2044(c) and who is appointed for a finite period of time as described in § 21-2046 or for an indeterminate period of time.</text>
     </level>
   </level>
   <level>
@@ -257,7 +261,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Mar. 24, 1998, D.C. Law 12-81, § 14(r), 45 DCR 745; Apr. 4, 2006, D.C. Law 16-79, § 7(a), 53 DCR 1035; Apr. 24, 2007, D.C. Law 16-305, § 35(c)(1), 53 DCR 6198; Oct. 22, 2008, D.C. Law 17-249, § 2(b), 55 DCR; Sept. 26, 2012, D.C. Law 19-169, § 21(h)(2), 59 DCR 5567.)</text>
+      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Mar. 24, 1998, D.C. Law 12-81, § 14(r), 45 DCR 745; Apr. 4, 2006, D.C. Law 16-79, § 7(a), 53 DCR 1035; Apr. 24, 2007, D.C. Law 16-305, § 35(c)(1), 53 DCR 6198; Oct. 22, 2008, D.C. Law 17-249, § 2(b), 55 DCR; Sept. 26, 2012, D.C. Law 19-169, § 21(h)(2), 59 DCR 5567; Mar. 11, 2015, D.C. Law 20-230, § 2(b), 62 DCR 278.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -273,6 +277,7 @@
       <text>D.C. Law 16-305, in par. (24), substituted "individuals with mental retardation" for "mentally retarded individuals".</text>
       <text>D.C. Law 17-249 redesignated former par. (1) as par. (1A); added pars. (1), (5C), (11A), (25A); and rewrote par. (8), which had read as follows: "(8) 'Guardian' means a person who has qualified as a guardian of an incapacitated individual pursuant to court appointment and includes a limited guardian as described in section 21-2044(c), but excludes one who is merely a guardian ad litem."</text>
       <text>The 2012 amendment by D.C. Law 19-169 substituted "developmental disability" for "mental retardation" in (7) and in the introductory language of (24); and substituted "intellectual disabilities" for "mental retardation" wherever it appears in (24).</text>
+      <text>The 2015 amendment by D.C. Law 20-230 redesignated (1A) as (1B); and added (1A).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -363,6 +368,10 @@
     <level>
       <heading>Legislative History of Law 19-169</heading>
       <text>See note to § 21-2002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-230</heading>
+      <text>Law 20-230, the "Guardianship Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-710. The Bill was adopted on first and second readings on Dec. 2, 2014, and Dec. 17, 2014, respectively. Signed by the Mayor on Dec. 30, 2014, it was assigned Act No. 20-552 and transmitted to Congress for its review. D.C. Law 20-230 became effective on Mar. 11, 2015.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>
