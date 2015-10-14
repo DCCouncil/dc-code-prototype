@@ -21,8 +21,11 @@
   <level>
     <num>(5)</num>
     <text>"Deployment" means the period one month before a service member's departure from the home station on military orders through 6 months after return to the home station.</text>
+    <level>
+      <num>(6)</num>
+      <text>"Educational records" means those official records, files, and data directly related to a student and maintained by the school or local education agency, including records encompassing all the material kept in the student's cumulative folder such as general identifying data, records of attendance, records of academic work completed, records of achievement, and results of evaluative tests, health data, disciplinary status, test protocols, and individualized education programs.</text>
+    </level>
   </level>
-  <text>6) "Educational records" means those official records, files, and data directly related to a student and maintained by the school or local education agency, including records encompassing all the material kept in the student's cumulative folder such as general identifying data, records of attendance, records of academic work completed, records of achievement, and results of evaluative tests, health data, disciplinary status, test protocols, and individualized education programs.</text>
   <level>
     <num>(7)</num>
     <text>"Extracurricular activities" means a voluntary activity sponsored by the school or local education agency or an organization sanctioned by the local education agency. Extracurricular activities include preparation for and involvement in public performances, contests, athletic competitions, demonstrations, displays, and club activities.</text>
