@@ -103,7 +103,7 @@
   <level>
     <num>(d)</num>
     <heading>Apportionment of business income</heading>
-    <text>Except as provided in subsection (d-1), all business income shall be apportioned to the District by multiplying the income by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is 3.</text>
+    <text>Except as provided in subsection (d-1) or (d-2), whichever is applicable, all business income shall be apportioned to the District by multiplying the income by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is 3.</text>
   </level>
   <level>
     <num>(d-1)</num>
@@ -114,7 +114,19 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>This subsection shall be applicable for the tax years beginning after December 31, 2010.</text>
+      <text>This subsection shall be applicable for the tax years beginning after December 31, 2010, and before January 1, 2015.</text>
+    </level>
+  </level>
+  <level>
+    <num>(d-2)</num>
+    <heading>Apportionment of business income. —</heading>
+    <level>
+      <num>(1)</num>
+      <text>All business income shall be apportioned to the District by multiplying the income by the sales factor.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>This subsection shall be applicable for the tax years beginning after December 31, 2014.</text>
     </level>
   </level>
   <level>
@@ -186,14 +198,57 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Sales, other than sales of tangible personal property, are in the District if:</text>
       <level>
         <num>(A)</num>
-        <text>The income-producing activity is performed in the District; or</text>
+        <text>Sales, other than sales of tangible personal property, are in the District if the taxpayer's market for the sales is in the District. The taxpayer's market for sales is in the District:</text>
+        <level>
+          <num>(i)</num>
+          <text>In the case of sale, rental, lease, or license of real property, if and to the extent the property is located in the District;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>In the case of rental, lease, or license of tangible personal property, if and to the extent the property is located in the District;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>In the case of the sale of a service, if and to the extent the service is delivered to a location in the District; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>In the case of intangible property:</text>
+          <level>
+            <num>(I)</num>
+            <text>That is rented, leased, or licensed, if and to the extent the property is used in the District; provided, that intangible property utilized in marketing a good or service to a consumer is used in the District if that good or service is purchased by a consumer who is in the District; and</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>That is sold, if and to the extent the property is used in the District; provided, that:</text>
+            <level>
+              <num>(aa)</num>
+              <text>A contract right, government license, or similar intangible property that authorizes the holder to conduct a business activity in a specific geographic area is used in the District if the geographic area includes all or part of the District;</text>
+            </level>
+            <level>
+              <num>(bb)</num>
+              <text>Receipts from intangible property sales that are contingent on the productivity, use, or disposition of the intangible property shall be treated as receipts from the rental, lease, or licensing of such intangible property under sub-sub- subparagraph (I) of this sub-subparagraph; and</text>
+            </level>
+            <level>
+              <num>(cc)</num>
+              <text>All other receipts from a sale of intangible property shall be excluded from the numerator and denominator of the sales factor.</text>
+            </level>
+          </level>
+        </level>
       </level>
       <level>
         <num>(B)</num>
-        <text>The income-producing activity is performed both in and outside the District and a greater proportion of the income-producing activity is performed in the District than in any other state, based on costs of performance.</text>
+        <text>If the state or states of assignment under subparagraph (A) of this paragraph cannot be determined, the state or states of assignment shall be reasonably approximated.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>If the taxpayer is not taxable in a state in which a sale is assigned under subparagraph (A) or (B) of this paragraph, or if a state of assignment cannot be determined under subparagraph (A) of this paragraph or reasonably approximated under subparagraph (B) of this paragraph, the sale shall be excluded from the denominator of the sales factor.</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The Chief Financial Officer may prescribe regulations as necessary or appropriate to carry out the purposes of this subsection.</text>
       </level>
     </level>
   </level>
@@ -239,7 +294,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 16, 1947, 61 Stat. 349, ch. 258, art. I, title X, § 2; Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; Sept. 13, 1980, D.C. Law 3-95, § 106(b), 27 DCR 3509; July 24, 1982, D.C. Law 4-131, §§ 103, 108(a), (b), 29 DCR 2418; Feb. 28, 1987, D.C. Law 6-207, § 3, 34 DCR 677; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; June 9, 2001, D.C. Law 13-305, § 202(e), 48 DCR 334; Dec. 7, 2004, D.C. Law 15-205, § 1062(b), 51 DCR 8441; Sept. 14, 2011, D.C. Law 19-21, § 8022, 58 DCR 6226.)</text>
+      <text>(July 16, 1947, 61 Stat. 349, ch. 258, art. I, title X, § 2; Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; Sept. 13, 1980, D.C. Law 3-95, § 106(b), 27 DCR 3509; July 24, 1982, D.C. Law 4-131, §§ 103, 108(a), (b), 29 DCR 2418; Feb. 28, 1987, D.C. Law 6-207, § 3, 34 DCR 677; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; June 9, 2001, D.C. Law 13-305, § 202(e), 48 DCR 334; Dec. 7, 2004, D.C. Law 15-205, § 1062(b), 51 DCR 8441; Sept. 14, 2011, D.C. Law 19-21, § 8022, 58 DCR 6226; Feb. 26, 2015, D.C. Law 20-155, § 7012(c)(10), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -256,6 +311,7 @@
       <text>"(a) Allocation and apportionment. - The entire net income of any corporation, financial institution, or unincorporated business derived from any trade or business carried on or engaged in wholly within the District shall, for the purposes of this chapter, be deemed to be from sources within the District and shall, along with other income from sources within the District, be allocated to the District. When the net income of a corporation, financial institution, or unincorporated business is derived from sources within and without the District, the taxpayer shall apportion business income and allocate nonbusiness income as provided in this section."</text>
       <text>D.C. Law 15-205 rewrote subsec. (i) which had read as follows: "(i) Definition. - For purposes of this section, the term 'state' shall include the District of Columbia."</text>
       <text>D.C. Law 19-21, in subsec. (d), substituted "Except as provided in subsection (d-1), all business" for "All business"; and added subsec. (d-1).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 substituted "subsection (d-1) or (d-2), whichever is applicable" for "subsection (d-1)" in (d); substituted "after December 31, 2010, and before January 1, 2015" for "after December 31, 2010" in (d-1)(2); added (d-2); and rewrote (g)(3).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -263,6 +319,10 @@
       <text>For temporary (90 day) amendment of section, see § 1062(b) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004, 51 DCR 11725).</text>
       <text>For temporary (90 day) addition, see § 7231 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
       <text>For temporary (90 day) amendment of section, see § 7231 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7022(c)(10) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(c)(10) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(c)(10) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 2(d) and 3(b) of the Market-based Sourcing Inter Alia Clarification Emergency Amendment Act of 2014 (D.C. Act 20-585, January 13, 2015, 62 DCR 1288, 21 STAT 752).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-158</heading>
@@ -291,6 +351,10 @@
     <level>
       <heading>Legislative History of Law 19-21</heading>
       <text>For history of Law 19-21, see notes under § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1801.04.</text>
     </level>
     <level>
       <heading>Short Title</heading>

@@ -6,6 +6,9 @@
     <level>
       <num>(1)</num>
       <text>Unless otherwise provided in this title, if any amount of tax imposed by this title (whether required on a return or to be paid by stamp or by some method) is not paid on or before the last date prescribed for payment, interest on the unpaid amount, at the underpayment rate set forth in subsection (d) of this section, shall be paid for the period from the last date prescribed for payment to the date paid.</text>
+    </level>
+    <level>
+      <num>(2)</num>
       <level>
         <num>(A)</num>
         <text>The last date prescribed for payment shall be determined without regard to any extension of time for filing a return required under this title.</text>

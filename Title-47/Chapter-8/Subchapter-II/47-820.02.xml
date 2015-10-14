@@ -12,7 +12,15 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The base assessment amount shall be the amount paid by the current property owner in exchange for the property, not including any grants or other amounts received by the property owner from government agencies, housing organizations, and other entities that are not likely to be repaid (absent a violation of the terms of the limitations, encumbrances, or other restrictions attached to the sale).</text>
+        <text>The base assessment amount shall be the amount paid by the current property owner in exchange for the property, not including:</text>
+        <level>
+          <num>(i)</num>
+          <text>Any grants or other amounts received by the property owner from government agencies, housing organizations, and other entities that are not likely to be repaid (absent a violation of the terms of the limitations, encumbrances, or other restrictions attached to the sale); and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Any preexisting equity as defined in [§ 42-2801(8A)], in the case of resale restricted properties subject to [Chapter 28 of Title 42 (§  42-2801 et seq.)].</text>
+        </level>
       </level>
     </level>
     <level>
@@ -35,7 +43,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 20, 2005, D.C. Law 16-33, § 1281(a)(3), 52 DCR 7503.)</text>
+      <text>(Oct. 20, 2005, D.C. Law 16-33, § 1281(a)(3), 52 DCR 7503; Mar. 10, 2015, D.C. Law 20-190, § 3, 61 DCR 12156.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-190 added the (a)(1)(B)(i) designation; and added (a)(1)(B)(ii).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -44,6 +56,10 @@
     <level>
       <heading>Legislative History of Law 16-33</heading>
       <text>For Law 16-33, see notes following § 47-308.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-190</heading>
+      <text>Law 20-190, the "Affordable Homeownership Preservation and Equity Accumulation Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-604. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Returned without the Mayor's signature on Nov. 19, 2014, it was assigned Act No. 20-482 and transmitted to Congress for its review. D.C. Law 20-190 became effective on Mar. 10, 2015.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

@@ -36,7 +36,7 @@
   </level>
   <level>
     <num>(9)</num>
-    <text>"Capital Projects " means the payment of the cost of acquiring, undertaking, or financing capital projects authorized by § 1-204.90 for general governmental and enterprise purposes, including reimbursing amounts temporarily advanced from the General Fund of the District of Columbia, any enterprise fund, or other fund or account of the District.</text>
+    <text>"Capital Projects" means the payment of the cost of acquiring, undertaking, or financing capital projects authorized by § 1-204.90 for general governmental and enterprise purposes, and New Communities Initiative Projects, including reimbursing amounts temporarily advanced from the General Fund of the District of Columbia, any enterprise fund, or other fund or account of the District.</text>
   </level>
   <level>
     <num>(10)</num>
@@ -67,8 +67,12 @@
     <text>"Income Tax Secured Bond Fund" means the Income Tax Secured Bond Fund established by § 47-340.27.</text>
   </level>
   <level>
+    <num>(16A)</num>
+    <text>"New Communities Initiative Projects" means the projects approved in accordance with § 42-2812.03(e).</text>
+  </level>
+  <level>
     <num>(17)</num>
-    <text>"Outstanding Debt " means any tax-supported indebtedness of the District outstanding at any time, including any outstanding general obligation bonds and bond anticipation notes issued by the District, and certificates of participation issued on behalf of the District, but, unless expressly authorized by Council resolution, the term "Outstanding Debt " shall not include tax increment financing and payment in lieu of taxation debt.</text>
+    <text>"Outstanding Debt" means any tax-supported indebtedness of the District outstanding at any time, including any outstanding general obligation bonds and bond anticipation notes issued by the District, and certificates of participation issued on behalf of the District, excluding debt from the District's Deed Tax Revenue Bonds issued before May 1, 2013, but, unless expressly authorized by Council resolution, the term "Outstanding Debt" shall not include tax increment financing and payment in lieu of taxation debt.</text>
   </level>
   <level>
     <num>(18)</num>
@@ -97,7 +101,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2008, D.C. Law 17-254, § 2(b), 55 DCR 9275; Nov. 16, 2011, D.C. Law 19-39, § 2(a), 58 DCR 8471.)</text>
+      <text>(Oct. 22, 2008, D.C. Law 17-254, § 2(b), 55 DCR 9275; Nov. 16, 2011, D.C. Law 19-39, § 2(a), 58 DCR 8471; June 26, 2014, D.C. Law 20-117, § 10(a), 61 DCR 2032.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -106,6 +110,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 19-39, in par. (9), substituted "undertaking, or financing" for "undertaking or financing" and deleted ", and the refunding of Outstanding Debt" following "account of the District".</text>
+      <text>The 2014 amendment by D.C. Law 20-117 added "and New Communities Initiative Projects" in (9); added (16A); and added "excluding debt from the District's Deed Tax Revenue Bonds issued before May 1, 2013" in (17).</text>
     </level>
     <level>
       <heading>Temporary Addition of Section</heading>
@@ -131,9 +136,17 @@
       <text>Law 19-39, the "Income Tax Secured Bond Authorization Act of 2011", was introduced in Council and assigned Bill No. 19-193, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on July 12, 2011, and September 20, 2011, respectively. Signed by the Mayor on September 27, 2011, it was assigned Act No. 19-154 and transmitted to both Houses of Congress for its review. D.C. Law 19-39 became effective on November 16, 2011.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-117 </heading>
+      <text>Law 20-117, the "Fiscal Year 2014 Budget Support Technical Clarification Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-482. The Bill was adopted on first and second readings on December 3, 2013, and February 4, 2014, respectively. Signed by the Mayor on March 7, 2014 it was assigned Act No. 20-291 and transmitted to Congress for its review. D.C. Law 20-117 became effective on June 26, 2014.</text>
+    </level>
+    <level>
       <heading>Delegation of Authority</heading>
       <text>Delegation of Authority Under the Income Tax Secured Bond Authorization Act of 2008, effective October 22, 2008 (D.C. Law 17-254, D.C. Official Code §§ 47-340.26-36), see Mayor's Order 2009-30, March 18, 2009 (56 DCR 6766).</text>
       <text>Delegation of Authority Under the Income Tax Secured Bond Authorization Act of 2008, effective October 22, 2008 (D.C. Law 17-254; D.C. Official Code §§ 47-340.26 - 47-340.36), see Mayor's Order 2011-159, September 20, 2011 (58 DCR 8413).</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-117: Section 18 of D.C. Law 20-117 provided that the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

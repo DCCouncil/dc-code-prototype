@@ -55,11 +55,11 @@
         </level>
         <level>
           <num>(iii)</num>
-          <text>For exemptions or abatements related to a specific individual or entity, a review and analysis of the financial condition of the recipient of the proposed exemption or abatement and an advisory opinion stating whether or not it is likely that the recipient could be reasonably expected to meet its fiscal needs without the proposed exemption or abatement; and</text>
+          <text>For exemptions or abatements related to a person or group of persons that can be readily identified, a review and analysis of the financial condition of the recipient of the proposed exemption or abatement and an advisory opinion stating whether or not it is likely that the recipient could be reasonably expected to meet its fiscal needs without the proposed exemption or abatement. If individual financial information is not available, the requirements of this sub-subparagraph may be met through an advisory opinion on whether the proposed exemption or abatement can reasonably be expected to meet the proposed public policy goal[;and]</text>
         </level>
         <level>
           <num>(iv)</num>
-          <text>For exemptions or abatements related to a category or group of property owners or taxpayers, a review and analysis of the public policy goal intended to be addressed, if applicable, by the exemption or abatement, including whether the exemption or abatement is appropriately targeted and likely to achieve the intended goal.</text>
+          <text>For exemptions or abatements related to a category or group of property owners or taxpayers that cannot be readily identified, a review and analysis of the public policy goal intended to be addressed, if applicable, by the exemption or abatement, including whether the exemption or abatement is appropriately targeted and likely to achieve the intended goal.</text>
         </level>
       </level>
     </level>
@@ -67,7 +67,7 @@
       <num>(2)</num>
       <level>
         <num>(A)</num>
-        <text>In addition to the requirements described in paragraph (1) of this subsection, for a bill that grants an exemption or abatement to a housing development, the TAFA shall include in the summary of the proposed community benefits:</text>
+        <text>In addition to the requirements described in paragraph (1) of this subsection, where applicable, the TAFA shall include in the summary of the proposed community benefits:</text>
         <level>
           <num>(i)</num>
           <text>The number of affordable housing units to be developed;</text>
@@ -122,7 +122,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 14, 2011, D.C. Law 19-21, § 7142(b), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 114(f), 59 DCR 6190; Dec. 24, 2013, D.C. Law 20-61, § 7162(a), 60 DCR 12472.)</text>
+      <text>(Sept. 14, 2011, D.C. Law 19-21, § 7142(b), 58 DCR 6226; Sept. 26, 2012, D.C. Law 19-171, § 114(f), 59 DCR 6190; Dec. 24, 2013, D.C. Law 20-61, § 7162(a), 60 DCR 12472; June 26, 2014, D.C. Law 20-117, § 16, 61 DCR 2032.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -132,6 +132,7 @@
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in (b)(3)(A)(ii).</text>
       <text>The 2013 amendment by D.C. Law 20-61 rewrote the section.</text>
+      <text>The 2014 amendment by D.C. Law 20-117 rewrote (b)(1)(F)(iii) and (iv); and substituted "where applicable" for "for a bill that grants an exemption or abatement to a housing development" in the introductory language of (b)(2)(A).</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -139,7 +140,7 @@
     </level>
     <level>
       <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) amendment of this section, see §§ 2(b), 3(b), and 6 of the Fiscal Year 2014 Budget Support Technical Clarification Emergency Amendment Act of 2013 (D.C. Act 20-180, October 4, 2013, 60 DCR 14949).</text>
+      <text>For temporary (90 day) amendment of this section, see §§ 2(b), 3(b), and 6 of the Fiscal Year 2014 Budget Support Technical Clarification Emergency Amendment Act of 2013 (D.C. Act 20-180, October 4, 2013, 60 DCR 1949).).</text>
       <text>For temporary (90 days) amendment of this section, see § 7162(a) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) amendment of this section, see § 7162(a) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
     </level>
@@ -156,6 +157,10 @@
       <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-117</heading>
+      <text>Law 20-117, the "Fiscal Year 2014 Budget Support Technical Clarification Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-482. The Bill was adopted on first and second readings on December 3, 2013, and February 4, 2014, respectively. Signed by the Mayor on March 7, 2014 it was assigned Act No. 20-291 and transmitted to Congress for its review. D.C. Law 20-117 became effective on June 26, 2014.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 7141 of D.C. Law 19-21 provided that subtitle O of title I of the act may be cited as "Exemptions and Abatements Information Requirements Act of 2011".</text>
       <text>Section 7161 of D.C. Law 20-61 provided that Subtitle P of Title VII of the act may be cited as the "Tax Abatement Financial Analysis Requirements Act of 2013".</text>
@@ -163,6 +168,7 @@
     <level>
       <heading>Editor’s Notes</heading>
       <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
+      <text>Applicability of D.C. Law 20-117: Section 18 of D.C. Law 20-117 provided that the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

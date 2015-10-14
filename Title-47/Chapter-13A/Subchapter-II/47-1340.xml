@@ -3,7 +3,7 @@
   <heading>Notice to agencies; certification of taxes due agencies; General Fund; disbursement.</heading>
   <level>
     <num>(a)</num>
-    <text>At least 60 days before the mailing of the notices required by § 47-1341, the Mayor shall notify all taxing agencies (other than the agency to whom the Mayor has delegated his authority under § 47-1332) of the Mayor's intention to hold a tax sale and shall state the time and place of the sale. Each of the taxing agencies shall, within 30 days after receiving the notice, submit a statement to the Mayor certifying all taxes appearing on its records then due to the District as of the date of the Mayor's notice that have not been previously certified to the Mayor. The statement shall be in the form and medium, and shall contain the information, that the Mayor requires. In addition to the real property taxes due, the Mayor shall include in the notice of delinquency required by § 47-1341 and in the public notice required by § 47-1342 the taxes certified to him by the taxing agencies.</text>
+    <text>At least 60 days before the mailing of the notices required by § 47-1341, the Mayor shall notify all taxing agencies (other than the agency to whom the Mayor has delegated his authority under § 47-1332) of the Mayor's intention to hold a tax sale and shall state the time and place of the sale. Subject to the limitation set forth in § 34-2407.02, each of the taxing agencies shall, within 30 days after receiving the notice, submit a statement to the Mayor certifying all taxes appearing on its records then due to the District as of the date of the Mayor's notice that have not been previously certified to the Mayor. The statement shall be in the form and medium, and shall contain the information, that the Mayor requires. In addition to the real property taxes due, the Mayor shall include in the notices required by § 47-1341 and § 47-1353.01 and in the public notice required by § 47-1342 the taxes certified to him by the taxing agencies.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -11,11 +11,11 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>If a taxing agency does not certify a tax which is due to the District as of the date of the Mayor's notice under subsection (a) of this section, the tax shall not be collected through a tax sale under this chapter unless the taxing agency files a lien with the Recorder of Deeds within the time required for certification. If such lien is filed, the taxing agency may later certify such lien for collection in accordance with subsection (a) of this section.</text>
+    <text>If a taxing agency does not certify a tax that is due to the District as of the date of the Mayor's notice under subsection (a) of this section, the tax shall not be collected through such tax sale.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>The Mayor shall not sell a real property for which taxes have not been certified by a taxing agency. Unpaid real property taxes shall not be required to be certified.</text>
+    <text>The Mayor shall not sell a real property for which taxes have not been certified by a taxing agency. Unpaid real property taxes, business improvement district taxes, and vault rents shall not be required to be certified.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -23,7 +23,14 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>If (1) a taxing agency certifies taxes (for which real property is offered for sale) to the Mayor under subsection (a) of this section, and (2) the real property sold for such taxes has been redeemed or a deed therefor issued to the purchaser, the taxing agency may submit an accounting to the designated agency under § 47-1332(b) in the form that the Mayor requires. Upon receipt of the accounting and verification of the redemption or delivery of the deed, the amount of the certified taxes collected, to the extent that it is available after application of all amounts collected according to the priority of the taxes before certification, shall be disbursed from the General Fund for the purpose designated by, and in accordance with, the law creating the obligation for the certified tax.</text>
+    <level>
+      <num>(1)</num>
+      <text>If a taxing agency certifies taxes (for which real property is offered for sale) to the Mayor under subsection (a) of this section, and the payment of taxes to the Mayor as specified in § 47-1361(a) or by a purchaser under § 47-1382(c) has occurred for the real property, or the amount in the notices under § 47-1341 is paid before the tax sale, the taxing agency may submit an accounting to the designated agency under § 47-1332(b) in the form that the Mayor requires.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Upon receipt of the accounting and verification of the payment of taxes to the Mayor as specified in § 47-1361(a) or if payment to the Mayor is made by a purchaser under § 47-1382(c), or the amount in the notices under § 47-1341 is paid before the tax sale, the amount of taxes collected that are not imposed under Chapter 8 of this title shall be disbursed regardless of lien priority from the General Fund for the purpose designated by, and in accordance with, the law creating the obligation for such taxes; provided, that, in the case of a sale under § 47-1353(b), the disbursement shall be limited to the amount available after application of lien priorities to such taxes before certification.</text>
+    </level>
   </level>
   <level>
     <num>(g)</num>
@@ -36,7 +43,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(aa), 50 DCR 896.)</text>
+      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(aa), 50 DCR 896; Dec. 4, 2014, D.C. Law 20-141, § 101(c)(6), 61 DCR 7763; Feb. 26, 2015, D.C. Law 20-155, §§  7102(c)(6), 7104, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -45,22 +52,28 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 14-282 added subsec. (h).</text>
-    </level>
-    <level>
-      <heading>Temporary Amendment of Section</heading>
-      <text>For temporary (225 day) amendment of section, see § 12(ff) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
-      <text>For temporary (225 day) amendment of section, see § 12(ff) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
+      <text>The 2014 amendment by D.C. Law 20-141, repealed before its effective date, would have, in (a), substituted "Subject to the limitation set forth in section 104(a) of the District of Columbia Public Works Act of 1954, approved May 18, 1954 (68 Stat. 102; D.C. Official Code § 34-2407.02), each of the taxing" for "Each of the taxing" at the beginning of the second sentence and "notices required by § 47-1341 and § 47-1353.01" for "notice of delinquency required by § 47-1341" in the last sentence; in (c), deleted "sale under this chapter unless the taxing agency files a lien with the Recorder of Deeds within the time required for certification. If such lien is filed, the taxing agency may later certify such lien for collection in accordance with subsection (a) of this section" at the end and made minor stylistic changes; substituted "Unpaid real property taxes, business improvement district taxes, and vault rents" for "Unpaid real property taxes" in (d); and would have rewritten (f).</text>
+      <text>The 2015 amendment by D.C. Law 20-155, in (a), added "Subject to the limitation set forth in Section 34-2407.02" and substituted "notices required by Section 47-1341 and Section 47-1353.01" for "notice of delinquency required by Section 47-1341"; rewrote (c); added "business improvement district taxes, and vault rents" in (d); and rewrote (f).</text>
     </level>
     <level>
       <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 12(ff) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
+      <text>For temporary (225 day) amendment of section, see § 12(ff) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
       <text>For temporary (225 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (D.C. Law 14-8, June 13, 2001, law notification 48 DCR 5916).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001, 48 DCR 2706).</text>
-      <text>For temporary (90 day) amendment of section, see § 12(ee) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
-      <text>For temporary (90 day) amendment of section, see § 12(ff) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
-      <text>For temporary (90 day) amendment of section, see § 12(ff) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(oo) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(pp) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(pp) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
+      <text>For temporary (90 days) amendment of this section, see § 101(c)(6) of the Residential Real Property Equity and Transparency Emergency Amendment Act of 2014, (D.C. Act 20-342, May 28, 2014, 61 DCR 5691).</text>
+      <text>For temporary (90 days) amendment of this section, see § 101(c)(6) of the Residential Real Property Equity and Transparency Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-409, Aug. 1, 2014, 61 DCR 8281).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7112(c)(6) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7102(c)(6) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7102(c), see the first § 2(q) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7102(c)(6) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7102(c), see the first § 2(q) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-305</heading>
@@ -69,6 +82,18 @@
     <level>
       <heading>Legislative History of Law 14-282</heading>
       <text>For Law 14-282, see notes following § 47-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-141</heading>
+      <text>See note to § 47-1330.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1330.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014,  61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014,  61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015,  62 DCR 884, and by D.C. Law 20-155, § 7104,  61 DCR 9990.</text>
     </level>
   </level>
 </level>

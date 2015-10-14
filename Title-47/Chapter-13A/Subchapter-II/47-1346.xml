@@ -51,7 +51,26 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>A potential purchaser, including a natural person or business entity, who is delinquent in payment of taxes to the District, may not bid on real property offered at a sale held under this chapter or otherwise acquire an interest in real property sold under this chapter. For purposes of this paragraph, a potential purchaser shall include a person owning a 10% or more equity interest in, or an officer of, an entity that owns a 10% or more equity interest in real property on which taxes are delinquent. The certificate of sale held by the purchaser in violation of this paragraph shall be void and monies paid for the real property as described in the certificate of sale shall be forfeited to the District. This paragraph shall not be circumvented by a purchaser through the use of one or more business entities to avoid its intended application.</text>
+      <level>
+        <num>(A)</num>
+        <text>A potential purchaser, including a natural person or business entity, who is delinquent in payment of taxes to the District or who has been convicted of a felony involving fraud, deceit, moral turpitude, or anti-competitive behavior may not bid on real property offered at a sale held under this chapter or otherwise acquire an interest in real property sold under this chapter.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A potential purchaser, including a natural person or business entity, shall certify under oath, subject to the penalties of perjury, that the potential purchaser is not more than one year in arrears in any jurisdiction in payment of taxes not being contested in good faith and has not been convicted in any jurisdiction of a felony involving fraud, deceit, moral turpitude, or anti-competitive behavior.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A certificate of sale held by a purchaser that willfully and materially violates the provisions of this paragraph shall be voidable at the discretion of the Mayor; provided, that after the issuance of a final order by the Superior Court of the District of Columbia foreclosing the right of redemption, the certificate is no longer voidable. A certificate that is voided by the Mayor pursuant to this subparagraph shall be subject to the provisions of § 47-1355(b).</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The intent of this paragraph shall not be circumvented by a purchaser through the use of one or more business entities to avoid its intended application.</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>For the purposes of this paragraph, a potential purchaser shall include a person owning a 10% or more equity interest in, or an officer of, an entity that owns a 10% or more equity interest in real property on which taxes are delinquent.</text>
+      </level>
     </level>
   </level>
   <level>
@@ -65,7 +84,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(dd), 50 DCR 896.)</text>
+      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(dd), 50 DCR 896; Dec. 4, 2014, D.C. Law 20-141, § 101(c)(11), 61 DCR 7763; Feb. 26, 2015, D.C. Law 20-155, §§  7102(c)(11), 7104, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -74,22 +93,32 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 14-282, in subsec. (b), substituted "have on deposit" for "deposit the greater of $100 or".</text>
-    </level>
-    <level>
-      <heading>Temporary Amendment of Section</heading>
-      <text>For temporary (225 day) amendment of section, see § 12(ii) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
-      <text>For temporary (225 day) amendment of section, see § 12(ii) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
+      <text>The 2014 amendment by D.C. Law 20-141, repealed before its effective date, would have rewritten (a)(5).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (a)(5).</text>
     </level>
     <level>
       <heading>Temporary Addition of Section</heading>
+      <text>For temporary (225 day) amendment of section, see § 12(ii) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
+      <text>For temporary (225 day) amendment of section, see § 12(ii) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
       <text>For temporary (225 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (D.C. Law 14-8, June 13, 2001, law notification 48 DCR 5916).</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(r)(9) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001, 48 DCR 2706).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(oo) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(pp) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(pp) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
       <text>For temporary (90 day) amendment of section, see § 12(hh) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
       <text>For temporary (90 day) amendment of section, see § 12(ii) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
       <text>For temporary (90 day) amendment of section, see § 12(ii) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
+      <text>For temporary (90 days) amendment of this section, see § 101(c)(11) of the Residential Real Property Equity and Transparency Emergency Amendment Act of 2014, (D.C. Act 20-342, May 28, 2014, 61 DCR 5691).</text>
+      <text>For temporary (90 days) amendment of this section, see § 101(c)(11) of the Residential Real Property Equity and Transparency Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-409, Aug. 1, 2014, 61 DCR 8281).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7112(c)(11) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7102(c)(11) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7102(c), see the first § 2(q) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7102(c)(11) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7102(c), see the first § 2(q) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-305</heading>
@@ -98,6 +127,18 @@
     <level>
       <heading>Legislative History of Law 14-282</heading>
       <text>For Law 14-282, see notes following § 47-902.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-141</heading>
+      <text>See note to § 47-1330.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1330.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by D.C. Law 20-155, § 7104, 61 DCR 9990.</text>
     </level>
   </level>
 </level>

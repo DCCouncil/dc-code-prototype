@@ -34,6 +34,10 @@
     <text>"District" means the District of Columbia.</text>
   </level>
   <level>
+    <num>(e-1)</num>
+    <text>"e-cigarette" means an electronic vaporizer that produces an aerosol that simulates tobacco smoking.</text>
+  </level>
+  <level>
     <num>(f)</num>
     <text>"Engaging in business" means commencing, conducting, or continuing in business, as well as liquidating a business when the liquidator thereof holds himself out to the public as conducting such a business.</text>
   </level>
@@ -63,7 +67,7 @@
   </level>
   <level>
     <num>(h-3)</num>
-    <text>"Other tobacco products" means any product containing tobacco that is intended or expected to be consumed, other than a cigarette, cigar, premium cigar, or pipe tobacco.</text>
+    <text>"Other tobacco product" means any product containing, made, or derived from tobacco, other than a cigarette or a premium cigar, that is intended or expected to be consumed. The term "other tobacco product" does not include an e-cigarette or any product that has been approved by the United States Food and Drug Administration for sale as a tobacco cessation product, a tobacco dependence product, or for other medical purposes and is being marketed and sold solely for the approved purpose.</text>
   </level>
   <level>
     <num>(i)</num>
@@ -413,11 +417,65 @@
       </level>
       <level>
         <num>(T)</num>
-        <text>The sale of a prepaid telephone calling card, even if no card has been issued. Notwithstanding any other provision of law, any sale of a prepaid telephone calling card on or after October 1, 1997, shall be deemed the sale of tangible personal property subject only to such taxes as are imposed on the sale of food for immediate consumption as defined under subsection (g-1) of this section, even where no card has been issued. Gross receipts or charges from the sale of the telecommunication service purchased through the use of a prepaid telephone calling card, even if no card has been issued, shall not be subject to the taxes imposed under § 47-2501 et seq.; or § 47-3901 et seq.; or</text>
+        <text>The sale of a prepaid telephone calling card, even if no card has been issued. Notwithstanding any other provision of law, any sale of a prepaid telephone calling card on or after October 1, 1997, shall be deemed the sale of tangible personal property subject only to such taxes as are imposed on the sale of food for immediate consumption as defined under subsection (g-1) of this section, even where no card has been issued. Gross receipts or charges from the sale of the telecommunication service purchased through the use of a prepaid telephone calling card, even if no card has been issued, shall not be subject to the taxes imposed under § 47-2501 et seq.; or § 47-3901 et seq.;</text>
       </level>
       <level>
         <num>(U)</num>
-        <text>The sale of or charges for armored car service, private investigation service, and security service; provided, that an armored-car-services vendor may reasonably apportion any charges for any out-of-state delivery component, including the apportionment of distance, time, or number of stops within and outside of the District; provided further, that application of the sales and use tax to charges for security services is controlled by the delivery point of the services; provided further, that the reimbursement of incidental expenses paid to a third party and incurred in connection with providing a taxable private detective service shall not be included.</text>
+        <text>The sale of or charges for armored car service, private investigation service, and security service; provided, that an armored-car-services vendor may reasonably apportion any charges for any out-of-state delivery component, including the apportionment of distance, time, or number of stops within and outside of the District; provided further, that application of the sales and use tax to charges for security services is controlled by the delivery point of the services; provided further, that the reimbursement of incidental expenses paid to a third party and incurred in connection with providing a taxable private detective service shall not be included;</text>
+      </level>
+      <level>
+        <num>(V)</num>
+        <text>The sale by a bottled water delivery service of bottled water by the gallon generally for use with and to be dispensed from a water cooler or similar type of water dispenser;</text>
+      </level>
+      <level>
+        <num>(W)</num>
+        <text>The sale of or charge for the service of the storage of household goods through renting or leasing space for self-storage, including rooms, compartments, lockers, containers, or outdoor space, except general merchandise warehousing and storage and coin-operated lockers;</text>
+      </level>
+      <level>
+        <num>(X)</num>
+        <text>The sale of or charge for the service of carpet and upholstery cleaning, including the cleaning or dyeing of used rugs, carpets, or upholstery, or for rug repair;</text>
+      </level>
+      <level>
+        <num>(Y)</num>
+        <level>
+          <num>(i)</num>
+          <text>The sale of or charge for health-club services or a tanning studio;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>For the purposes of this subparagraph, the term:</text>
+          <level>
+            <num>(I)</num>
+            <text>"Health-club services" includes the use of, access to, or membership to, an athletic club, fitness center, gym, recreational sports facilities featuring exercise and other active physical fitness conditioning or recreational sports activities including swimming, skating, or racquet sports, or other facility for the purpose of physical exercise. The term "health club services" does not include the use of facilities for non-fitness-related purposes, including room rentals, or for other services or charges covered by a separate contract with the user, such as a lease or occupancy agreement.</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>"Tanning studio" means a business the purpose of which is to provide individuals a manmade tan, including sun tanning salons and spray tanning salons;</text>
+          </level>
+        </level>
+      </level>
+      <level>
+        <num>(Z)</num>
+        <text>The sale of or charge for the service of car washing, including cleaning, washing, waxing, polishing, or detailing an automotive vehicle, except not for coin- operated self-service carwashes; or</text>
+      </level>
+      <level>
+        <num>(AA)</num>
+        <level>
+          <num>(i)</num>
+          <text>The sale of or charge for the service of a bowling alley or a billiard parlor;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>For the purposes of this subparagraph, the term:</text>
+          <level>
+            <num>(I)</num>
+            <text>"Billiard parlor" means the structure where the game of striking balls on a cloth-covered table with a cue stick for amusement and recreation takes place, including a billiard room, pool room, and pool parlor.</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>"Bowling alley" means a structure where the game of rolling a ball down a wooden alley to knock down pins for amusement and recreation takes place, including candle-pin, duck-pin, five-pin, and ten-pin bowling.</text>
+          </level>
+        </level>
       </level>
     </level>
     <level>
@@ -473,7 +531,7 @@
       </level>
       <level>
         <num>(J)</num>
-        <text>Sales of cigarettes, as defined in § 47-2401(1A).</text>
+        <text>Sales of cigarettes, as defined in § 47-2401(1A), and other tobacco product, as defined in § 47-2401(5A).</text>
       </level>
     </level>
   </level>
@@ -641,7 +699,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 27, 1949, 63 Stat. 112, ch. 146, title I, §§ 101-124; May 18, 1954, 68 Stat. 117, ch. 218, title XIII, §§ 1301, 1302; Mar. 31, 1956, 70 Stat. 80, ch. 154, title II, §§ 201-203; Sept. 2, 1964, 78 Stat. 847, Pub. L. 88-564, § 1; Aug. 2, 1968, 82 Stat. 613, Pub. L. 90-450, title III, §§ 301, 302, 303; Oct. 31, 1969, 83 Stat. 169, Pub. L. 91-106, title I, §§ 101, 102, 103; Jan. 5, 1971, 84 Stat. 1932, Pub. L. 91-650, title II, § 201(a)(1); Sept. 3, 1974, 88 Stat. 1064, Pub. L. 93-407, title IV, § 473; Jan. 3, 1975, 88 Stat. 2177, Pub. L. 93-635, § 8(b); Oct. 21, 1975, D.C. Law 1-23, title III, § 301(1)-(6), 22 DCR 2097; Apr. 9, 1976, D.C. Law 1-61, § 2, 22 DCR 5893; June 15, 1976, D.C. Law 1-70, title IV, §§ 401, 402, 23 DCR 533; June 24, 1977, D.C. Law 2-11, § 2, 24 DCR 1773; Sept. 13, 1980, D.C. Law 3-92, § 201(a), 27 DCR 3390; Apr. 30, 1982, D.C. Law 4-105, § 2, 29 DCR 1405; July 24, 1982, D.C. Law 4-131, §§ 201, 202, 223, 29 DCR 2418; Sept. 26, 1984, D.C. Law 5-113, § 201(a), (d), 31 DCR 3974; Apr. 30, 1988, D.C. Law 7-104, § 38, 35 DCR 147; July 26, 1989, D.C. Law 8-17, § 4(a), 36 DCR 4160; May 4, 1990, D.C. Law 8-119, § 3, 37 DCR 1738; Sept. 10, 1992, D.C. Law 9-145, § 107(a), 39 DCR 4895; Sept. 30, 1993, D.C. Law 10-25, § 111(a)-(d), 40 DCR 5489; Feb. 5, 1994, D.C. Law 10-68, § 46, 40 DCR 6311; Apr. 30, 1994, D.C. Law 10-115, § 203(a), 41 DCR 1216; June 14, 1994, D.C. Law 10-128, § 104(a), 41 DCR 2096; Mar. 21, 1995, D.C. Law 10-242, § 14(a), 42 DCR 86; Apr. 18, 1996, D.C. Law 11-110, § 59, 43 DCR 530; Apr. 12, 1997, D.C. Law 11-257, § 6, 44 DCR 1247; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 30, 1998, D.C. Law 12-100, § 2(b), 45 DCR 1533; Oct. 20, 1999, D.C. Law 13-38, § 2702(k), 46 DCR 6373; Apr. 3, 2001, D.C. Law 13-256, § 402(a), 48 DCR 730; June 9, 2001, D.C. Law 13-305, § 102(a), 202(f), 48 DCR 334; June 25, 2002, D.C. Law 14-157, § 2(a), 49 DCR 4279; Oct. 1, 2002, D.C. Law 14-190, § 852, 49 DCR 6968; Oct. 19, 2002, D.C. Law 14-213, § 33(u), 49 DCR 8140; Mar. 13, 2004, D.C. Law 15-105, § 85(a), 51 DCR 881; Oct. 20, 2005, D.C. Law 16-33, § 1232, 52 DCR 7503; May 12, 2006, D.C. Law 16-94, § 2(a), 53 DCR 1649; Sept. 23, 2009, D.C. Law 18-48, § 2(a)(1), 56 DCR 5482; Sept. 23, 2009, D.C. Law 18-55, § 9(a)(4), 56 DCR 5703; Mar. 3, 2010, D.C. Law 18-111, § 7241(e), 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 7172, 57 DCR 6242; Apr. 8, 2011, D.C. Law 18-364, § 2(a), 58 DCR 976; Sept. 14, 2011, D.C. Law 19-21, §§ 7002(a)(1), 8032(a), 8052(a), 8162, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 7112, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, §§ 114(m), 120, 59 DCR 6190.)</text>
+      <text>(May 27, 1949, 63 Stat. 112, ch. 146, title I, §§ 101-124; May 18, 1954, 68 Stat. 117, ch. 218, title XIII, §§ 1301, 1302; Mar. 31, 1956, 70 Stat. 80, ch. 154, title II, §§ 201-203; Sept. 2, 1964, 78 Stat. 847, Pub. L. 88-564, § 1; Aug. 2, 1968, 82 Stat. 613, Pub. L. 90-450, title III, §§ 301, 302, 303; Oct. 31, 1969, 83 Stat. 169, Pub. L. 91-106, title I, §§ 101, 102, 103; Jan. 5, 1971, 84 Stat. 1932, Pub. L. 91-650, title II, § 201(a)(1); Sept. 3, 1974, 88 Stat. 1064, Pub. L. 93-407, title IV, § 473; Jan. 3, 1975, 88 Stat. 2177, Pub. L. 93-635, § 8(b); Oct. 21, 1975, D.C. Law 1-23, title III, § 301(1)-(6), 22 DCR 2097; Apr. 9, 1976, D.C. Law 1-61, § 2, 22 DCR 5893; June 15, 1976, D.C. Law 1-70, title IV, §§ 401, 402, 23 DCR 533; June 24, 1977, D.C. Law 2-11, § 2, 24 DCR 1773; Sept. 13, 1980, D.C. Law 3-92, § 201(a), 27 DCR 3390; Apr. 30, 1982, D.C. Law 4-105, § 2, 29 DCR 1405; July 24, 1982, D.C. Law 4-131, §§ 201, 202, 223, 29 DCR 2418; Sept. 26, 1984, D.C. Law 5-113, § 201(a), (d), 31 DCR 3974; Apr. 30, 1988, D.C. Law 7-104, § 38, 35 DCR 147; July 26, 1989, D.C. Law 8-17, § 4(a), 36 DCR 4160; May 4, 1990, D.C. Law 8-119, § 3, 37 DCR 1738; Sept. 10, 1992, D.C. Law 9-145, § 107(a), 39 DCR 4895; Sept. 30, 1993, D.C. Law 10-25, § 111(a)-(d), 40 DCR 5489; Feb. 5, 1994, D.C. Law 10-68, § 46, 40 DCR 6311; Apr. 30, 1994, D.C. Law 10-115, § 203(a), 41 DCR 1216; June 14, 1994, D.C. Law 10-128, § 104(a), 41 DCR 2096; Mar. 21, 1995, D.C. Law 10-242, § 14(a), 42 DCR 86; Apr. 18, 1996, D.C. Law 11-110, § 59, 43 DCR 530; Apr. 12, 1997, D.C. Law 11-257, § 6, 44 DCR 1247; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 30, 1998, D.C. Law 12-100, § 2(b), 45 DCR 1533; Oct. 20, 1999, D.C. Law 13-38, § 2702(k), 46 DCR 6373; Apr. 3, 2001, D.C. Law 13-256, § 402(a), 48 DCR 730; June 9, 2001, D.C. Law 13-305, § 102(a), 202(f), 48 DCR 334; June 25, 2002, D.C. Law 14-157, § 2(a), 49 DCR 4279; Oct. 1, 2002, D.C. Law 14-190, § 852, 49 DCR 6968; Oct. 19, 2002, D.C. Law 14-213, § 33(u), 49 DCR 8140; Mar. 13, 2004, D.C. Law 15-105, § 85(a), 51 DCR 881; Oct. 20, 2005, D.C. Law 16-33, § 1232, 52 DCR 7503; May 12, 2006, D.C. Law 16-94, § 2(a), 53 DCR 1649; Sept. 23, 2009, D.C. Law 18-48, § 2(a)(1), 56 DCR 5482; Sept. 23, 2009, D.C. Law 18-55, § 9(a)(4), 56 DCR 5703; Mar. 3, 2010, D.C. Law 18-111, § 7241(e), 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 7172, 57 DCR 6242; Apr. 8, 2011, D.C. Law 18-364, § 2(a), 58 DCR 976; Sept. 14, 2011, D.C. Law 19-21, §§ 7002(a)(1), 8032(a), 8052(a), 8162, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 7112, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, §§ 114(m), 120, 59 DCR 6190; Feb. 26, 2015, D.C. Law 20-155, § 7012(d), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -687,6 +745,7 @@
       <text>D.C. Law 19-21 added subsecs. (a-1), (a-2), (h-1), (h-2), (i-2), (n)(1)(U), (n)(2)(J), (o-1), and (q-1); in subsec. (n)(1), substituted "mean the sale in any quantity or quantities of any tangible personal property or service, including any such sales effected via the internet by a nexus-vendor, taxable" for "means the sale in any quantity or quantities of any tangible personal property or service taxable" and substituted "These terms mean" for "Said term shall mean"; in subsec. (n)(2)(C), substituted "is not in the District at the time of the execution and is not sold by a nexus-vendor;" for "is not in the District at the time of such execution; attempted to make a change accomplished earlier by D.C. Law 18-364;"; and, in subsec. (w), substituted "retailer, including a nexus vendor, selling" for "retailer selling".</text>
       <text>The 2012 amendment by D.C. Law 19-168 substituted "sale or charge receipts" for "gross receipts from the sale of or charges for any room or accommodations" in (a-1); substituted "sale or charge receipts for any room or rooms, lodgings, or accommodations furnished to transients" for "gross receipts from the sale of or charges for any room or accommodations" in (h-1); deleted the (n)(1)(C)(i) designation; deleted the former second sentence of (n)(1)(C); deleted former (n)(1)(C)(ii); added (v-2); and made a stylistic change.</text>
       <text>The 2012 amendment by D.C. Law 19-171 substituted "this subchapter" for "this chapter" in the introductory language of (n)(1)(C)(ii); redesignated (v-1), defining "Other tobacco products," as (h-1); however, because of the previous addition of (h-1) and (h-2), the subsection was redesignated as (h-3).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (e-1); rewrote (h-3); added (n)(1)(V) to (AA) and made related changes; and rewrote (n)(2)(J).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -715,6 +774,9 @@
       <text>For temporary (90 day) amendment of section, see § 8 of Revised Fiscal Year 2012 Budget Support Technical Clarification Emergency Amendment Act of 2011 (D.C. Act 19-157, October 4, 2011, 58 DCR 8688).</text>
       <text>For temporary (90 day) amendment of section, see § 7112 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
       <text>For temporary (90 day) amendment of section, see § 7112 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7022(d) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(d) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(d) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-23</heading>
@@ -867,6 +929,10 @@
     <level>
       <heading>Legislative History of Law 19-171</heading>
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>Law 20-155, the "Fiscal Year 2015 Budget Support Act of 2014," was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor's signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>

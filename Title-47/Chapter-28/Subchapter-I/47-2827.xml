@@ -52,24 +52,11 @@
     <level>
       <num>(1)</num>
       <text>Owners or managers of restaurants or private clubs shall pay a license fee based upon seating capacity as follows:</text>
-      <level type="form">
-        <text/>
-      </level>
-      <level>
-        <num>(A)</num>
-        <text>0-10 seats .......................................... $133 per annum; </text>
-        <level type="form">
-          <text> 
- (B) 11-50 seats ......................................... $166 per annum; 
- 
-
- (C) 51-100 seats .................................... $199 per annum; and 
- 
-
- (D) 101 seats and over .................................. $232 per annum.</text>
-        </level>
-      </level>
     </level>
+    <text>0-10 seats  $133 per annum;</text>
+    <text>11-50 seats  $166 per annum;</text>
+    <text>51-100 seats  $199 per annum; and</text>
+    <text>101 seats and over  $232 per annum.</text>
     <level>
       <num>(2)</num>
       <text>Within the meaning of this subsection a restaurant shall be any place where food or refreshments are served to transient customers to be eaten on the premises where sold.</text>

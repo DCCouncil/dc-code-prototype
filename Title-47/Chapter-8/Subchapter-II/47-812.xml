@@ -39,7 +39,7 @@
   </level>
   <level>
     <num>(b-1)</num>
-    <text>Notwithstanding the provisions of section 413, subsection (a) of this section, or any other law imposing requirements on the enactment of these tax rates, the following real property tax rates are established for taxable real property in the District of Columbia for the real property tax year beginning October 1, 1996, and ending September 30, 1997:</text>
+    <text>Notwithstanding the provisions of section 413 [Pub. L. 93-407, title IV, § 413], subsection (a) of this section, or any other law imposing requirements on the enactment of these tax rates, the following real property tax rates are established for taxable real property in the District of Columbia for the real property tax year beginning October 1, 1996, and ending September 30, 1997:</text>
     <level>
       <num>(1)</num>
       <text>$0.3936 (for each $100 of assessed value) for Class One Property;</text>
@@ -150,18 +150,6 @@
       <num>(2)</num>
       <text>Repealed.</text>
     </level>
-    <level>
-      <num>(3)</num>
-      <text>$1.1450 for each $100 of assessed value for Class 3 Property;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>$1.3306 for each $100 of assessed value for Class 4 Property; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>$3.0945 for each $100 of assessed value for Class 5 Property.</text>
-    </level>
   </level>
   <level>
     <num>(b-6)</num>
@@ -239,7 +227,7 @@
           <num>(iv)</num>
           <level>
             <num>(I)</num>
-            <text>For the tax year beginning October 1, 2009, and each tax year thereafter, the Mayor shall compute the real property tax rate (rounded up to the nearest penny) for Class 1 Properties calculated to yield in the tax year the same amount of taxes estimated to be collected, as certified in the latest revenue estimate, during the preceding tax year, plus the lesser of:</text>
+            <text>For the tax year beginning October 1, 2009, and each tax year thereafter, the Mayor shall compute the real property tax rate (rounded up to the nearest penny) for Class 1 Properties calculated to yield in the tax year the same amount of taxes estimated to be collected during the preceding tax year, plus the lesser of:</text>
             <level>
               <num>(aa)</num>
               <text>Seven percent; or</text>
@@ -251,7 +239,7 @@
           </level>
           <level>
             <num>(II)</num>
-            <text>Before September 16, 2009, and each anniversary thereafter, the Mayor shall submit to the Council the real property tax rate computed under sub-sub-subparagraph (I) of this sub-subparagraph.</text>
+            <text>By January 5 of the tax year, the Mayor shall submit to the Council the real property tax rate computed under sub-sub-sub-paragraph (I) of this sub-subparagraph.</text>
           </level>
         </level>
       </level>
@@ -262,15 +250,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Notwithstanding the provisions of subsection (a) of this section, the sum of the real property tax rates and special real property tax rates for taxable Class 2 and 3 Properties in the District of Columbia for the tax year beginning October 1, 2006, and each tax year thereafter, shall be:</text>
-      <level>
-        <num>(A)</num>
-        <text>Repealed.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>$5.00 for each $100 of assessed value for Class 3 Property.</text>
-      </level>
+      <text>Repealed.</text>
     </level>
   </level>
   <level>
@@ -320,11 +300,11 @@
           <text>The Chief Financial Officer shall compute the real property tax rate for the first $3 million of assessed value for taxable Class 2 Properties in the District of Columbia, for the tax year beginning October 1, 2010, and each tax year thereafter, as follows:</text>
           <level>
             <num>(I)</num>
-            <text>The Chief Financial Officer shall multiply the total amount of taxes received for taxable Class 2 Properties in the District of Columbia for the prior fiscal year by 110%.</text>
+            <text>The Chief Financial Officer shall multiply the total amount of taxes estimated to be received for taxable Class 2 Properties in the District of Columbia for the prior fiscal year by 110%.</text>
           </level>
           <level>
             <num>(II)</num>
-            <text>The Chief Financial Officer shall subtract the amount yielded by sub-sub-subparagraph (I) of this sub-subparagraph from the estimated real property taxes to be collected for Class 2 Properties based upon a rate of $1.85 of each $100 of assessed value.</text>
+            <text>The Chief Financial Officer shall subtract the amount yielded by sub-sub-subparagraph (I) of this sub-subparagraph from the estimated real property taxes to be collected in the tax year based upon the applicable rates in effect for Class 2 Properties during the prior tax year.</text>
           </level>
           <level>
             <num>(III)</num>
@@ -333,7 +313,7 @@
         </level>
         <level>
           <num>(iii)</num>
-          <text>Before September 16 of each year, the Chief Financial Officer shall submit to the Council the real property tax rate computed under this subparagraph.</text>
+          <text>By January 5 of each tax year, the Chief Financial Officer shall submit to the Council the real property tax rate computed under this subparagraph.</text>
         </level>
       </level>
     </level>
@@ -433,10 +413,25 @@
     <num>(e)</num>
     <text>The Mayor of the District of Columbia shall issue rules necessary to implement subsections (b) through (d) of this section.</text>
   </level>
+  <level>
+    <num>(f)</num>
+    <level>
+      <num>(1)</num>
+      <text>When the last day prescribed under this section for performing any act falls on Saturday, Sunday, or a legal holiday, the performance of the act shall be considered timely if it is performed on the next succeeding day that is not a Saturday, Sunday, or a legal holiday.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The last day for the performance of any act shall be determined by including any authorized extension of time.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>For the purposes of this subsection, the term "legal holiday" means a legal holiday in the District of Columbia.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 3, 1974, 88 Stat. 1052, Pub. L. 93-407, title IV, § 412; June 15, 1976, D.C. Law 1-70, title III, §§ 302(a), 305, 23 DCR 538, 540; Mar. 3, 1979, D.C. Law 2-130, § 3(a), 25 DCR 2517; Nov. 20, 1979, D.C. Law 3-37, § 2(a), 26 DCR 1564; Mar. 13, 1985, D.C. Law 5-125, § 2, 31 DCR 5180; Nov. 19, 1985, D.C. Law 6-51, § 3(a), 32 DCR 5681; Oct. 1, 1987, D.C. Law 7-28, § 2, 34 DCR 5094; Sept. 29, 1988, D.C. Law 7-161, § 2(a), (b), 35 DCR 5730; Oct. 19, 1989, D.C. Law 8-46, § 2(b), (c), 36 DCR 5783; Sept. 27, 1990, D.C. Law 8-172, § 2(d), 37 DCR 4844; Mar. 7, 1992, D.C. Law 9-62, § 2(b), (c), 38 DCR 7291; Oct. 7, 1992, D.C. Law 9-177, § 2, 39 DCR 5868; Jan. 26, 1994, D.C. Law 10-66, § 2, 40 DCR 7358; June 14, 1994, D.C. Law 10-127,§ 5(a), 41 DCR 2050; Sept. 26, 1995, D.C. Law 11-52, § 104(a), 42 DCR 3684; Mar. 5, 1996, D.C. Law 11-98, § 1301, 43 DCR 5; Apr. 26, 1996, 110 Stat. 1321 211, Pub. L. 104-134, § 135(1); Apr. 9, 1997, D.C. Law 11-222, § 2, 44 DCR 108; Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; June 10, 1998, D.C. Law 12-122, § 2(a), 45 DCR 2300; Oct. 20, 1999, D.C. Law 13-38, § 2702(b), 46 DCR 6373; Apr. 12, 2000, D.C. Law 13-91, § 156(b), 47 DCR 520; June 5, 2003, D.C. Law 14-307, § 1303(a), 49 DCR 11664; Oct. 20, 2005, D.C. Law 16-33, §§ 1262(a), 1272, 52 DCR 7503; Mar. 20, 2008, D.C. Law 17-123, § 3(a), 55 DCR 1513; Aug. 15, 2008, D.C. Law 17-216, § 4(a), 55 DCR 7500; Aug. 16, 2008, D.C. Law 17-219, § 7006, 55 DCR 7598; Sept. 24, 2010, D.C. Law 18-223, § 2043(a), 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, § 8102,; Sept. 20, 2012, D.C. Law 19-168, § 7092, 59 DCR 8025.)</text>
+      <text>(Sept. 3, 1974, 88 Stat. 1052, Pub. L. 93-407, title IV, § 412; June 15, 1976, D.C. Law 1-70, title III, §§ 302(a), 305, 23 DCR 538, 540; Mar. 3, 1979, D.C. Law 2-130, § 3(a), 25 DCR 2517; Nov. 20, 1979, D.C. Law 3-37, § 2(a), 26 DCR 1564; Mar. 13, 1985, D.C. Law 5-125, § 2, 31 DCR 5180; Nov. 19, 1985, D.C. Law 6-51, § 3(a), 32 DCR 5681; Oct. 1, 1987, D.C. Law 7-28, § 2, 34 DCR 5094; Sept. 29, 1988, D.C. Law 7-161, § 2(a), (b), 35 DCR 5730; Oct. 19, 1989, D.C. Law 8-46, § 2(b), (c), 36 DCR 5783; Sept. 27, 1990, D.C. Law 8-172, § 2(d), 37 DCR 4844; Mar. 7, 1992, D.C. Law 9-62, § 2(b), (c), 38 DCR 7291; Oct. 7, 1992, D.C. Law 9-177, § 2, 39 DCR 5868; Jan. 26, 1994, D.C. Law 10-66, § 2, 40 DCR 7358; June 14, 1994, D.C. Law 10-127,§ 5(a), 41 DCR 2050; Sept. 26, 1995, D.C. Law 11-52, § 104(a), 42 DCR 3684; Mar. 5, 1996, D.C. Law 11-98, § 1301, 43 DCR 5; Apr. 26, 1996, 110 Stat. 1321 211, Pub. L. 104-134, § 135(1); Apr. 9, 1997, D.C. Law 11-222, § 2, 44 DCR 108; Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; June 10, 1998, D.C. Law 12-122, § 2(a), 45 DCR 2300; Oct. 20, 1999, D.C. Law 13-38, § 2702(b), 46 DCR 6373; Apr. 12, 2000, D.C. Law 13-91, § 156(b), 47 DCR 520; June 5, 2003, D.C. Law 14-307, § 1303(a), 49 DCR 11664; Oct. 20, 2005, D.C. Law 16-33, §§ 1262(a), 1272, 52 DCR 7503; Mar. 20, 2008, D.C. Law 17-123, § 3(a), 55 DCR 1513; Aug. 15, 2008, D.C. Law 17-216, § 4(a), 55 DCR 7500; Aug. 16, 2008, D.C. Law 17-219, § 7006, 55 DCR 7598; Sept. 24, 2010, D.C. Law 18-223, § 2043(a), 57 DCR 6242; Sept. 14, 2011, D.C. Law 19-21, § 8102,; Sept. 20, 2012, D.C. Law 19-168, § 7092, 59 DCR 8025; Feb. 26, 2015, D.C. Law 20-155, § 7082, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -463,6 +458,7 @@
       <text>D.C. Law 17-219 rewrote subsec. (b-9).</text>
       <text>D.C. Law 18-223 rewrote subsec. (b-10), which had read as follows: "(b-10) Notwithstanding the provisions of subsection (a) of this section, the sum of the real property tax rates and special real property tax rates for taxable Class 3 Properties in the District of Columbia for the tax year beginning October 1, 2008, and each tax year thereafter, shall be $10 for each $100 of assessed value."</text>
       <text>D.C. Law 19-21, in subsec. (b-9)(2)(A)(i), substituted "subparagraph (B) of this paragraph; provided, that for the tax year beginning October 1, 2011, the tax rate shall be $1.65 of each $100 of assessed value; and" for "subparagraph (B) of this paragraph; and".</text>
+      <text>The 2015 amendment by D.C. Law 20-155 deleted "as certified in the latest revenue estimate" following "taxes estimated to be collected" in (b-8)(1)(A)(iv)(I); rewrote (b-8)(1)(A)(iv)(II); repealed (b-8)(2); rewrote (b-9)(1)(A) and (b-9)(2)(A)(i); substituted "estimated to be received" for "received" in (b-9)(2)(B)(ii)(I); substituted "in the tax year based upon the applicable rates in effect for Class 2 Properties during the prior tax year" for "for Class 2 Properties based upon a rate of $ 1.85 of each $ 100 of assessed value" in in (b-9)(2)(B)(ii)(II); substituted "By January 5 of each tax year" for "Before September 16 of each year" in in (b-9)(2)(B)(iii); and added (f).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -487,6 +483,9 @@
       <text>For temporary (90 day) amendment of section, see §§ 1303(a) and 1304 of Fiscal Year 2003 Budget Support Amendment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-103, June 20, 2003, 50 DCR 5499).</text>
       <text>For temporary (90 day) amendment of section, see §§ 1262(a), 1263, 1264, 1272 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
       <text>For temporary (90 day) amendment of section, see § 2043(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7092 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7082 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7082 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-70</heading>
@@ -546,7 +545,7 @@
     </level>
     <level>
       <heading>Legislative History of Law 11-98</heading>
-      <text>Law 11-98, the 'Budget Support Act of 1995,' was introduced in Council and assigned Bill No. 11-440, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1995, and December 5, 1995, respectively. Signed by the Mayor on December 26, 1995, it was assigned Act No. 11-181 and transmitted to both Houses of Congress for its review. D.C. Law 11-98 became effective on March 5, 1996.</text>
+      <text>Law 11-98, the "Budget Support Act of 1995," was introduced in Council and assigned Bill No. 11-440, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1995, and December 5, 1995, respectively. Signed by the Mayor on December 26, 1995, it was assigned Act No. 11-181 and transmitted to both Houses of Congress for its review. D.C. Law 11-98 became effective on March 5, 1996.</text>
     </level>
     <level>
       <heading>Legislative History of Law 11-222</heading>
@@ -558,11 +557,11 @@
     </level>
     <level>
       <heading>Legislative History of Law 13-38</heading>
-      <text>Law 13-38, the 'Service Improvement and Fiscal Year 2000 Budget Support Act of 1999,' was introduced in Council and assigned Bill No. 13-161, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 11, 1999, and June 22, 1999, respectively. Signed by the Mayor on July 8, 1999, it was assigned Act No. 13-111 and transmitted to both Houses of Congress for its review. D.C. Law 13-38 became effective on October 20, 1999.</text>
+      <text>Law 13-38, the "Service Improvement and Fiscal Year 2000 Budget Support Act of 1999," was introduced in Council and assigned Bill No. 13-161, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 11, 1999, and June 22, 1999, respectively. Signed by the Mayor on July 8, 1999, it was assigned Act No. 13-111 and transmitted to both Houses of Congress for its review. D.C. Law 13-38 became effective on October 20, 1999.</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-91</heading>
-      <text>Law 13-91, the 'Technical Amendments Act of 1999,' was introduced in Council and assigned Bill No. 13-435, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 2, 1999, and December 7, 1999, respectively. Signed by the Mayor on December 29, 1999, it was assigned Act No. 13-234 and transmitted to both Houses of Congress for its review. D.C. Law 13-91 became effective on April 12, 2000.</text>
+      <text>Law 13-91, the "Technical Amendments Act of 1999," was introduced in Council and assigned Bill No. 13-435, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 2, 1999, and December 7, 1999, respectively. Signed by the Mayor on December 29, 1999, it was assigned Act No. 13-234 and transmitted to both Houses of Congress for its review. D.C. Law 13-91 became effective on April 12, 2000.</text>
     </level>
     <level>
       <heading>Legislative History of Law 14-307</heading>
@@ -578,7 +577,7 @@
     </level>
     <level>
       <heading>Legislative History of Law 17-216</heading>
-      <text>Law 17-216, the 'Nuisance Properties Abatement Reform and Real Property Classification Amendment Act of 2008', was introduced in Council and assigned Bill No.17-86 which was referred to Finance and Revenue and Public Services and Consumer Affairs. The Bill was adopted on first and second readings on March 4, 2008, and June 3, 2008, respectively. Signed by the Mayor on June 24, 2008, it was assigned Act No. 17-416 and transmitted to both Houses of Congress for its review. D.C. Law 17-216 became effective on August 15, 2008.</text>
+      <text>Law 17-216, the "Nuisance Properties Abatement Reform and Real Property Classification Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-86 which was referred to Finance and Revenue and Public Services and Consumer Affairs. The Bill was adopted on first and second readings on March 4, 2008, and June 3, 2008, respectively. Signed by the Mayor on June 24, 2008, it was assigned Act No. 17-416 and transmitted to both Houses of Congress for its review. D.C. Law 17-216 became effective on August 15, 2008.</text>
     </level>
     <level>
       <heading>Legislative History of Law 17-219</heading>
@@ -595,6 +594,10 @@
     <level>
       <heading>Legislative History of Law 19-168</heading>
       <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-802.</text>
     </level>
     <level>
       <heading>Short Title</heading>

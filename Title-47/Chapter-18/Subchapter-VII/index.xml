@@ -12,4 +12,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.11.xml"/>
 </level>
