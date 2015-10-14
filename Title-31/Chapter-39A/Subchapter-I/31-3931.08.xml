@@ -3,28 +3,32 @@
   <heading>Reinsurance.</heading>
   <level>
     <num>(a)</num>
-    <text>A captive insurer or segregated account may provide reinsurance on risks ceded by any other insurer, captive insurer, or segregated account.</text>
+    <text>A captive insurer or protected cell may provide reinsurance on risks ceded by any other insurer, captive insurer, or protected cell.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>A captive insurer or segregated account may take credit for the reinsurance of risks or portions of risks ceded to reinsurers in compliance with Chapter 5 of this title. Prior approval of the Commissioner shall be required for ceding or taking credit for the reinsurance of risks or portions of risks ceded to reinsurers not complying with Chapter 5 of this title, except for business written by an alien captive insurer outside of the United States.</text>
+    <text>A captive insurer or protected cell may take credit for the reinsurance of risks or portions of risks ceded to reinsurers in compliance with Chapter 5 of this title. Prior approval of the Commissioner shall be required for ceding or taking credit for the reinsurance of risks or portions of risks ceded to reinsurers not complying with Chapter 5 of this title, except for business written by an alien captive insurer outside of the United States.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>In addition to reinsurers authorized under Chapter 5 of this title, a captive insurer or segregated account may take credit for the reinsurance of risks or portions of risks ceded to a pool, exchange, or association acting as a reinsurer which has been authorized by the Commissioner. The Commissioner may require any other documents, financial information, or other evidence that the pool, exchange, or association will be able to provide adequate security for its financial obligations. The Commissioner may deny authorization or impose any limitations on the activities of a reinsurance pool, exchange, or association that, in the Commissioner's judgment, are necessary and proper to provide adequate security for the ceding captive insurer or segregated account and for the protection and consequent benefit of the public at large.</text>
+    <text>In addition to reinsurers authorized under Chapter 5 of this title, a captive insurer or protected cell may take credit for the reinsurance of risks or portions of risks ceded to a pool, exchange, or association acting as a reinsurer which has been authorized by the Commissioner. The Commissioner may require any other documents, financial information, or other evidence that the pool, exchange, or association will be able to provide adequate security for its financial obligations. The Commissioner may deny authorization or impose any limitations on the activities of a reinsurance pool, exchange, or association that, in the Commissioner's judgment, are necessary and proper to provide adequate security for the ceding captive insurer or protected cell and for the protection and consequent benefit of the public at large.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>For all purposes of this chapter, insurance written by a captive insurer or segregated account of any workers' compensation qualified self-insured plan of its parent or affiliates shall be deemed to be reinsurance.</text>
+    <text>For all purposes of this chapter, insurance written by a captive insurer or protected cell of any workers' compensation qualified self-insured plan of its parent or affiliates shall be deemed to be reinsurance.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 9, 52 DCR 1205.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 9, 52 DCR 1205; Mar. 10, 2015, D.C. Law 20-203, § 2(e), 61 DCR 12572.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 31-3931.02.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted "insurer" for "insurance company" in (6); substituted "branch captive insurer, protected cell" for "segregated account" in (9); added (13A); substituted "protected cell" for "segregated account" throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -33,6 +37,10 @@
     <level>
       <heading>Legislative History of Law 15-262</heading>
       <text>For Law 15-262, see notes following § 31-3931.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>

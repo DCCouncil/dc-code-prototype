@@ -24,7 +24,7 @@
       <text>This section shall not apply to the following:</text>
       <level>
         <num>(A)</num>
-        <text>An acquisition subject to approval or disapproval by the Mayor pursuant to § 31-703;</text>
+        <text>Repealed;</text>
       </level>
       <level>
         <num>(B)</num>
@@ -98,26 +98,8 @@
       <level>
         <num>(A)</num>
         <text>Any acquisition covered under subsection (b) of this section involving 2 or more insurers competing in the same market is prima facie evidence of violation of the competitive standards if the market is highly concentrated and the involved insurers possess the following shares of the market:</text>
-        <text>
-          <table>
-            <tr><th>Insurer A</th><th>Insurer B</th></tr>
-            <tr><td>4%</td><td>4% or more</td></tr>
-            <tr><td>10%</td><td>2% or more</td></tr>
-            <tr><td>15%</td><td>1% or more</td></tr>
-          </table>
-        </text>
-        <text>or, if the market is not highly concentrated and the involved insurers possess the following shares of the market:</text>
-        <text>
-          <table>
-            <tr><th>Insurer A</th><th>Insurer B</th></tr>
-            <tr><td>5%</td><td>5% or more</td></tr>
-            <tr><td>10%</td><td>4% or more</td></tr>
-            <tr><td>15%</td><td>3% or more</td></tr>
-            <tr><td>19%</td><td>1% or more.</td></tr>
-          </table>
-        </text>
-        <text>A highly concentrated market is one in which the share of the 4 largest insurers is 75% or more of the market. Percentages not shown in the tables are interpolated proportionately to the percentages that are shown. If more than 2 insurers are involved, exceeding the total of the 2 columns in the table is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection. For the purposes of this subparagraph, the insurer with the largest share of the market shall be deemed to be Insurer A.</text>
       </level>
+      <text>or, if the market is not highly concentrated and the involved insurers possess the following shares of the market:</text>
       <level>
         <num>(B)</num>
         <text>There is a significant trend toward increased concentration when the aggregate market share of any grouping of the largest insurers in the market, from the 2 largest to the 8 largest, has increased by 7% or more of the market over a period of time extending from any base year 5 to 10 years prior to the acquisition up to the time of the acquisition. Any acquisition or merger covered under subsection (b) of this section involving 2 or more insurers competing in the same market is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection if:</text>
@@ -154,6 +136,7 @@
         <num>(E)</num>
         <text>Even though an acquisition is not prima facie violative of the competitive standard under subparagraphs (A) and (B) of this paragraph, the Mayor may establish the requisite anticompetitive effect based upon other substantial evidence. Even though an acquisition is prima facie violative of the competitive standard under subparagraphs (A) and (B) of this paragraph, a party may establish the absence of the requisite anticompetitive effect based upon other substantial evidence. Relevant factors in making a determination under this paragraph include, but are not limited to, the following: market shares, volatility of ranking of market leaders, number of competitors, concentration, trend of concentration in the industry, and ease of entry and exit into the market.</text>
       </level>
+      <text>A highly concentrated market is one in which the share of the 4 largest insurers is 75% or more of the market. Percentages not shown in the tables are interpolated proportionately to the percentages that are shown. If more than 2 insurers are involved, exceeding the total of the 2 columns in the table is prima facie evidence of violation of the competitive standard in paragraph (1) of this subsection. For the purposes of this subparagraph, the insurer with the largest share of the market shall be deemed to be Insurer A.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -230,7 +213,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 21, 1993, D.C. Law 10-44, § 5, 40 DCR 6027; May 16, 1995, D.C. Law 10-255, § 32(a), 41 DCR 5193; Apr. 18, 1996, D.C. Law 11-110, § 42, 43 DCR 530.)</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-44, § 5, 40 DCR 6027; May 16, 1995, D.C. Law 10-255, § 32(a), 41 DCR 5193; Apr. 18, 1996, D.C. Law 11-110, § 42, 43 DCR 530; Mar. 11, 2015, D.C. Law 20-235, § 2(c), 62 DCR 461.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -239,6 +222,10 @@
     <level>
       <heading>Prior Codifications</heading>
       <text>1981 Ed., § 35-3704.</text>
+    </level>
+    <level>
+      <heading>Effect of amendments -</heading>
+      <text>The 2015 amendment by D.C. Law 20-235 repealed (b)(2)(A).</text>
     </level>
     <level>
       <heading>Legislative History of Law 10-44</heading>
@@ -251,6 +238,10 @@
     <level>
       <heading>Legislative History of Law 11-110</heading>
       <text>Law 11-110, the "Technical Amendment Acts of 1996," was introduced in Council and assigned Bill No. 11-485, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 5, 1995, and January 4, 1996, respectively. Signed by the Mayor on January 26, 1996, it was assigned Act No. 11-199 and transmitted to both Houses of Congress for its review. D.C. Law 11-110 became effective on April 18, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>See note to § 31-701.</text>
     </level>
   </level>
 </level>

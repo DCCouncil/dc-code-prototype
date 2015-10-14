@@ -26,7 +26,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Report to the Board of Directors when the Mayor has reasonable cause to believe, from any examination, whether completed or in process, of any member company, that the company may be an impaired or insolvent insurer; and</text>
+      <text>Report to the Board of Directors when the Mayor has reasonable cause to believe, from any examination, whether completed or in process, of any member insurer, that the insurer may be an impaired or insolvent insurer; and</text>
     </level>
     <level>
       <num>(4)</num>
@@ -95,7 +95,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-129, § 10, 39 DCR 4036.)</text>
+      <text>(July 22, 1992, D.C. Law 9-129, § 10, 39 DCR 4036; July 23, 2014, D.C. Law 20-130, § 2(f), 61 DCR 5900.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -106,8 +106,16 @@
       <text>1981 Ed., § 35-1949.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-130 substituted "insurer" for "company" throughout (a)(3).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 9-129</heading>
       <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-130</heading>
+      <text>See note to § 31-5401.</text>
     </level>
   </level>
 </level>

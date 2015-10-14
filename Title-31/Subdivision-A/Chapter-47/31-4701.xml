@@ -214,14 +214,17 @@
       <level>
         <num>(A)</num>
         <text>For life insurance, the equation for determining the calendar year statutory valuation interest rates is the following:</text>
-        <text class="centered"> I = .03 + W (R - .03) + <span style="font-style: italic; ">w</span>/2 (R2 - .09).</text>
       </level>
+      <text>I = .03 + W (R - .03) + w    /2 (R2 - .09).</text>
       <level>
         <num>(B)</num>
         <text>For single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options,</text>
-        <text class="centered"> I = .03 + W (R - .03)</text>
-        <text>where <span style="font-style: italic; ">R</span>/1 is the lesser of R and .09, <span style="font-style: italic; ">R</span>/2 is the greater of R and .09, R is the reference interest rate described in paragraph (4) of this subsection, and W is the weighting factor.</text>
       </level>
+      <text>I = .03 + W (R - .03)</text>
+      <text>where R   /1 is the lesser of R and .09,</text>
+      <text>R    /2 is the greater of R and .09,</text>
+      <text>R is the reference interest rate described in paragraph (4) of this subsection,</text>
+      <text>and W is the weighting factor.</text>
       <level>
         <num>(C)</num>
         <text>Where cash settlement options are valued on an issue year basis, the formula in subparagraph (A) of this paragraph shall apply to annuities and guaranteed interest contracts with guarantee duration exceeding 10 years and the formula in subparagraph (B) of this paragraph shall apply to annuities and guaranteed interest contracts with guarantee duration of 10 years or less.</text>
@@ -238,7 +241,7 @@
         <num>(F)</num>
         <level>
           <num>(i)</num>
-          <text>If the calendar year statutory valuation interest rate for life insurance policies for a calendar year differs from the actual interest rate for similar policies issued in the preceding calendar year by less than 1/2%, the calendar year statutory valuation interest rate shall equal the corresponding actual interest rate for the preceding calendar year.</text>
+          <text>If the calendar year statutory valuation interest rate for life insurance policies for a calendar year differs from the actual interest rate for similar policies issued in the preceding calendar year by less than 1⁄2%, the calendar year statutory valuation interest rate shall equal the corresponding actual interest rate for the preceding calendar year.</text>
         </level>
         <level>
           <num>(ii)</num>
@@ -252,28 +255,8 @@
       <level>
         <num>(A)</num>
         <text>Weighting factors for life insurance:</text>
-        <text>
-          <table>
-            <tr>
-              <th>Guarantee Duration (Years)</th>
-              <th>Weighting Factors</th>
-            </tr>
-            <tr>
-              <td>10 or less</td>
-              <td>.50</td>
-            </tr>
-            <tr>
-              <td>More than 10, but not more than 20</td>
-              <td>.45</td>
-            </tr>
-            <tr>
-              <td>More than 20</td>
-              <td>.35</td>
-            </tr>
-          </table>
-        </text>
-        <text>For life insurance, the guarantee duration is the maximum number of years the life insurance can remain in force on a basis guaranteed in the policy or under options to convert to plans of life insurance with premium rates or nonforfeiture values, or both, which are guaranteed in the original policy.</text>
       </level>
+      <text>For life insurance, the guarantee duration is the maximum number of years the life insurance can remain in force on a basis guaranteed in the policy or under options to convert to plans of life insurance with premium rates or nonforfeiture values, or both, which are guaranteed in the original policy.</text>
       <level>
         <num>(B)</num>
         <text>Weighting factor for single premium immediate annuities and for annuity benefits involving life contingencies arising from other annuities with cash settlement options and from guaranteed interest contracts with cash settlement options: .80.</text>
@@ -284,101 +267,25 @@
         <level>
           <num>(i)</num>
           <text>For purposes of this subsection, the following plan types apply:</text>
-          <text>"Plan Type A" means that, unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without adjustment, but in installments for 5 years or more; or as an immediate life annuity.</text>
-          <text>"Plan Type B" means that, before the interest rate guarantee expires, and unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without the adjustment, but in installments for 5 years or more; or, after the interest rate guarantee ends, in a lump sum without the adjustment or in installments lasting less than 5 years. </text>
-          <text>"Plan Type C" means that, before the interest rate guarantee expires, the policyholder may withdraw funds in a lump sum or in installments lasting less than 5 years, and either without the withdrawal being adjusted to reflect changes in interest rates or asset values since the company received the funds or with the withdrawal subject only to a fixed surrender charge stipulated in the contract as a percentage of the fund.</text>
         </level>
+        <text>"Plan Type A" means that, unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without adjustment, but in installments for 5 years or more; or as an immediate life annuity.</text>
+        <text>"Plan Type B" means that, before the interest rate guarantee expires, and unless the company prohibits a withdrawal, the policyholder may withdraw funds with an adjustment to reflect changes in interest rates or asset values since the company received the funds; without the adjustment, but in installments for 5 years or more; or, after the interest rate guarantee ends, in a lump sum without the adjustment or in installments lasting less than 5 years.</text>
+        <text>"Plan Type C" means that, before the interest rate guarantee expires, the policyholder may withdraw funds in a lump sum or in installments lasting less than 5 years, and either without the withdrawal being adjusted to reflect changes in interest rates or asset values since the company received the funds or with the withdrawal subject only to a fixed surrender charge stipulated in the contract as a percentage of the fund.</text>
         <level>
           <num>(ii)</num>
           <text>Weighting factors for annuities and guaranteed interest contracts valued on an issue year basis:</text>
-          <text>
-            <table>
-              <tr>
-                <th>Guarentee Duration(Years)</th>
-                <th colspan="3">Weighting Factor for plan type</th>
-              </tr>
-              <tr>
-                <th/>
-                <th>A</th>
-                <th>B</th>
-                <th>C</th>
-              </tr>
-              <tr>
-                <td>5 or less:</td>
-                <td>.80</td>
-                <td>.60</td>
-                <td>.50</td>
-              </tr>
-              <tr>
-                <td>More than 5, but not more than 10:</td>
-                <td>.75</td>
-                <td>.60</td>
-                <td>.50</td>
-              </tr>
-              <tr>
-                <td>More than 10, but not more than 20:</td>
-                <td>.65</td>
-                <td>.50</td>
-                <td>.45</td>
-              </tr>
-              <tr>
-                <td>More than 20:</td>
-                <td>.45</td>
-                <td>.35</td>
-                <td>.35.</td>
-              </tr>
-            </table>
-          </text>
         </level>
         <level>
           <num>(iii)</num>
           <text>For annuities and guaranteed interest contracts valued on a change in fund basis, the factors shown in sub-subparagraph (ii) of this subparagraph increased by:</text>
-          <text>
-            <table>
-              <tr>
-                <th colspan="3">Plan Type</th>
-              </tr>
-              <tr>
-                <th>A</th>
-                <th>B</th>
-                <th>C</th>
-              </tr>
-              <tr>
-                <td>.15</td>
-                <td>.25</td>
-                <td>.05.</td>
-              </tr>
-            </table>
-          </text>
         </level>
         <level>
           <num>(iv)</num>
           <text>For annuities and guaranteed interest contracts valued on an issue year basis (other than those with no cash settlement options) and which do not guarantee interest on considerations received more than one year after issue or purchase, and for annuities and guaranteed interest contracts valued on a change in fund basis and which do not guarantee interest rates on considerations received more than 12 months beyond the valuation date, the factors shown in sub-subparagraph (ii) of this subparagraph or derived in sub-subparagraph (iii) of this subparagraph increased by:</text>
-          <text>
-            <table>
-              <tr>
-                <th colspan="3">Plan Type</th>
-              </tr>
-              <tr>
-                <th>A</th>
-                <th>B</th>
-                <th>C</th>
-              </tr>
-              <tr>
-                <td>.05</td>
-                <td>.05</td>
-                <td>.05.</td>
-              </tr>
-            </table>
-          </text>
         </level>
         <level>
           <num>(v)</num>
-          <text>Where cash settlement options apply to annuities and guaranteed interest contracts, the guarantee duration is the number of years that the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years. &#xA7; 31-4720, the reserves held under the plan shall:</text>
-          <level>
-            <type>form</type>
-            <text> </text>
-          </level>
+          <text>Where cash settlement options apply to annuities and guaranteed interest contracts, the guarantee duration is the number of years that the contract guarantees interest rates in excess of the calendar year statutory valuation interest rate for life insurance policies with guarantee duration in excess of 20 years.</text>
         </level>
         <level>
           <num>(vi)</num>
@@ -435,6 +342,7 @@
     </level>
     <level>
       <num>(5)</num>
+      <text>The reference interest rate referred to in paragraph (2) of this subsection shall be as follows:</text>
       <level>
         <num>(A)</num>
         <text>Moody's Corporate Bond Yield Average - Monthly Average Corporate published by Moody's Investors Service, Inc., shall set the reference rates described in paragraph (4) of this subsection.</text>
@@ -447,7 +355,7 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>For life insurance plans which require the company to fix future premium determination according to the then present estimates of future experience, and for life insurance plans or annuities with minimum reserves that cannot be determined by the methods described in subsection (c)(5) and (6) of this section and in</text>
+    <text>For life insurance plans which require the company to fix future premium determination according to the then present estimates of future experience, and for life insurance plans or annuities with minimum reserves that cannot be determined by the methods described in subsection (c)(5) and (6) of this section and in § 31-4720, the reserves held under the plan shall:</text>
     <level>
       <num>(1)</num>
       <text>Be appropriated in relation to the benefits and the pattern of premiums for the plan.</text>

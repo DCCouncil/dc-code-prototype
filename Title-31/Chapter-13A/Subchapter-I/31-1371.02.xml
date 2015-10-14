@@ -80,12 +80,14 @@
   </level>
   <level>
     <num>(12)</num>
-    <text>"Class one bond mutual fund" means a bond mutual fund that at all times qualifies for investment using the bond class one reserve factor under the <span style="font-style: italic; ">Purposes and Procedures of the Securities Valuation Office </span>or any successor publication.</text>
+    <text>"Class one bond mutual fund" means a bond mutual fund that at all times qualifies for investment using the bond class one reserve factor under the Purposes and Procedures of the Securities Valuation Office or any successor publication.</text>
   </level>
+  <text>Purposes and Procedures of the Securities Valuation Office</text>
   <level>
     <num>(13)</num>
-    <text>"Class one money market mutual fund" means a money market mutual fund that at all times qualifies for investment using the bond class one reserve factor under the <span style="font-style: italic; ">Purposes and Procedures of the Securities Valuation Office </span>or any successor publication.</text>
+    <text>"Class one money market mutual fund" means a money market mutual fund that at all times qualifies for investment using the bond class one reserve factor under the Purposes and Procedures of the Securities Valuation Office or any successor publication.</text>
   </level>
+  <text>Purposes and Procedures of the Securities Valuation Office</text>
   <level>
     <num>(14)</num>
     <text>"Code" means the laws relating to insurance which are codified in this title of the D.C. Official Code.</text>
@@ -128,7 +130,7 @@
       </level>
       <level>
         <num>(ii)</num>
-        <text>If over-the-counter derivative instruments are entered into under a written master agreement which provides for netting of payments owed by the respective parties, and the domiciliary jurisdiction of the counterparty is either within the United States or, if not within the United States, within a foreign jurisdiction listed in the <span style="font-style: italic; ">Purposes and Procedures of the Securities Valuation Office </span>as eligible for netting, the net amount of credit risk shall be the greater of zero or the net sum of:</text>
+        <text>If over-the-counter derivative instruments are entered into under a written master agreement which provides for netting of payments owed by the respective parties, and the domiciliary jurisdiction of the counterparty is either within the United States or, if not within the United States, within a foreign jurisdiction listed in the Purposes and Procedures of the Securities Valuation Office as eligible for netting, the net amount of credit risk shall be the greater of zero or the net sum of:</text>
         <level>
           <num>(I)</num>
           <text>The market value of the over-the-counter derivative instruments entered into under the agreement, the liquidation of which would result in a final cash payment to the insurer; and</text>
@@ -138,6 +140,7 @@
           <text>The market value of the over-the-counter derivative instruments entered into under the agreement, the liquidation of which would result in a final cash payment by the insurer to the business entity.</text>
         </level>
       </level>
+      <text>Purposes and Procedures of the Securities Valuation Office</text>
       <level>
         <num>(iii)</num>
         <text>For open transactions, market value shall be determined at the end of the most recent quarter of the insurer's fiscal year and shall be reduced by the market value of acceptable collateral held by the insurer or placed in escrow by one or both parties.</text>
@@ -323,8 +326,9 @@
     </level>
     <level>
       <num>(B)</num>
-      <text>Qualified for investment without a reserve under the <span style="font-style: italic; ">Purposes and Procedures of the Securities Valuation Office </span>or any successor publication.</text>
+      <text>Qualified for investment without a reserve under the Purposes and Procedures of the Securities Valuation Office or any successor publication.</text>
     </level>
+    <text>Purposes and Procedures of the Securities Valuation Office</text>
   </level>
   <level>
     <num>(36)</num>
@@ -416,8 +420,9 @@
   </level>
   <level>
     <num>(50)</num>
-    <text>"Letter of credit" means a clean, irrevocable, and unconditional letter of credit issued or confirmed by, and payable and presentable at, a financial institution on the list of financial institutions meeting the standards for issuing letters of credit under the <span style="font-style: italic; ">Purposes and Procedures of the Securities Valuation Office</span>, or any successor publication. To constitute acceptable collateral for the purposes of § 31-1372.08 and § 31-1373.02, a letter of credit shall have an expiration date beyond the term of the subject transaction.</text>
+    <text>"Letter of credit" means a clean, irrevocable, and unconditional letter of credit issued or confirmed by, and payable and presentable at, a financial institution on the list of financial institutions meeting the standards for issuing letters of credit under the Purposes and Procedures of the Securities Valuation Office, or any successor publication. To constitute acceptable collateral for the purposes of § 31-1372.08 and § 31-1373.02, a letter of credit shall have an expiration date beyond the term of the subject transaction.</text>
   </level>
+  <text>Purposes and Procedures of the Securities Valuation Office</text>
   <level>
     <num>(51)</num>
     <text>"Limited liability company" means an entity that is an unincorporated association, having perpetual duration, having one or more members that is organized and existing under Chapter 8 of Title 29, or under the laws of the United States or any state thereof that limits the personal liability of each member to the equity investment of the member in the business entity.</text>

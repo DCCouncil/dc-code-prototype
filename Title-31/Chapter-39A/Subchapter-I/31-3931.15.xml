@@ -3,7 +3,7 @@
   <heading>Revocation, suspension, or fine.</heading>
   <level>
     <num>(a)</num>
-    <text>The Commissioner may revoke or suspend the certificate of authority to transact insurance business in the District of a captive insurer which:</text>
+    <text>The Commissioner may revoke or suspend the certificate of authority to transact insurance business in the District of a captive insurer, including, if applicable, a protected cell, which:</text>
     <level>
       <num>(1)</num>
       <text>Has failed or refused to comply with any provision or requirement of this chapter;</text>
@@ -39,16 +39,20 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Commissioner may also impose a fine not to exceed $5,000 for each violation by a captive insurer of any of the provisions found in subsection (a) of this section.</text>
+    <text>The Commissioner may also impose a fine not to exceed $5,000 for each violation by a captive insurer, including, if applicable, a protected cell, of any of the provisions found in subsection (a) of this section.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 16, 52 DCR 1205.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 16, 52 DCR 1205; Mar. 10, 2015, D.C. Law 20-203, § 2(j), 61 DCR 12572.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 31-3932.03 and § 31-3932.14.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted "insurer" for "insurance company" in (6); substituted "branch captive insurer, protected cell" for "segregated account" in (9); added (13A); substituted "protected cell" for "segregated account" throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -57,6 +61,10 @@
     <level>
       <heading>Legislative History of Law 15-262</heading>
       <text>For Law 15-262, see notes following § 31-3931.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>

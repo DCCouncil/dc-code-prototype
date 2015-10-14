@@ -36,6 +36,10 @@
     </level>
   </level>
   <level>
+    <num>(c-1)</num>
+    <text>As a creditor of the impaired or insolvent insurer as established in subsection (c) of this section and consistent with Chapter 13 of this title [§ 31-1301 et seq.], the Association and other similar associations shall be entitled to receive a disbursement of assets out of the marshaled assets, as the assets become available to reimburse it, as a credit against contractual obligations under this chapter. If the liquidator has not, within 120 days of a final determination of insolvency of an insurer by the receivership court, made an application to the court for the approval of a proposal to disburse assets out of marshaled assets to guaranty associations having obligations because of the insolvency, then the Association shall be entitled to make application to the receivership court for approval of its own proposal to disburse the assets.</text>
+  </level>
+  <level>
     <num>(d)</num>
     <level>
       <num>(1)</num>
@@ -83,15 +87,23 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-129, § 12, 39 DCR 4036.)</text>
+      <text>(July 22, 1992, D.C. Law 9-129, § 12, 39 DCR 4036; July 23, 2014, D.C. Law 20-130, § 2(g), 61 DCR 5900.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
       <text>1981 Ed., § 35-1951.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-130 added (c-1).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 9-129</heading>
       <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-130</heading>
+      <text>See note to § 31-5401.</text>
     </level>
   </level>
 </level>

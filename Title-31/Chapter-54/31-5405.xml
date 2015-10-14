@@ -79,7 +79,7 @@
       <num>(1)</num>
       <level>
         <num>(A)</num>
-        <text>Guarantee, assume, or reinsure, or cause to be guaranteed, assumed, or reinsured, the policies, contracts, and certificates of the insolvent insurer;</text>
+        <text>Guarantee, assume, or reinsure, or cause to be guaranteed, assumed, or reinsured, the policies, contracts, and certificates of the insolvent insurer; or</text>
       </level>
       <level>
         <num>(B)</num>
@@ -100,7 +100,7 @@
     <text>When proceeding under subsection (b)(1)(B) or (c)(2) of this section, the Association shall, with respect only to life and health insurance policies and certificates:</text>
     <level>
       <num>(1)</num>
-      <text>Assure payment of benefits for premiums identical to the premiums and benefits, except for terms of conversion and renewability, that would have been payable under the policies of the insolvent insurer for claims insured. The payment of benefits required by this paragraph shall be made:</text>
+      <text>Assure payment of benefits for premiums identical to the premiums and benefits, except for terms of conversion and renewability, that would have been payable under the policies of the insolvent insurer for claims incurred. The payment of benefits required by this paragraph shall be made:</text>
       <level>
         <num>(A)</num>
         <text>With respect to group policies, not later than the earlier of the next renewal date under the policies or 45 days, but in no event less than 30 days after the date on which the Association becomes obligated with respect to the policies; or</text>
@@ -182,8 +182,12 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Impose temporary moratoriums on liens on payments of cash values and policy loans, or any other right to withdraw funds held in conjunction with policies or contracts, in addition to any contractual provisions for deferral of cash or policy loan value.</text>
+      <text>Impose temporary moratoriums on liens on payments of cash values and policy loans, or any other right to withdraw funds held in conjunction with policies or contracts, in addition to any contractual provisions for deferral of cash or policy loan value. In the event of a temporary moratorium or moratorium charge imposed by the receivership court on payment of cash values or policy loans, or on any other right to withdraw funds held in conjunction with policies or contracts, out of the assets of the impaired or insolvent insurer, the Association may defer the payment of cash values, policy loans or other rights by the Association for the period of the moratorium or moratorium charge imposed by the receivership court, except for claims covered by the Association to be paid in accordance with a hardship procedure established by the liquidator or rehabilitator and approved by the receivership court.</text>
     </level>
+  </level>
+  <level>
+    <num>(m-1)</num>
+    <text>A deposit in the District held pursuant to law or required by the Commissioner for the benefit of creditors, including policy owners, not turned over to the domiciliary liquidator upon the entry of a final order of liquidation or order approving a rehabilitation plan of an insurer domiciled in the District or in a reciprocal state, pursuant to Chapter 13 of this title [§  31-1301 et seq.], shall be promptly paid to the Association. The Association shall be entitled to retain a portion of any amount so paid to it equal to the percentage determined by dividing the aggregate amount of policy owners claims related to that insolvency for which the Association has provided statutory benefits by the aggregate amount of all policy owners' claims in this state related to that insolvency and shall remit to the domiciliary receiver the amount so paid to the Association less the amount retained pursuant to this subsection. Any amount so paid to the Association and retained by it shall be treated as a distribution of the liquidator's assets pursuant to Chapter 13 of this title [§  31-1301 et seq.], dealing with early access disbursements.</text>
   </level>
   <level>
     <num>(n)</num>
@@ -195,13 +199,13 @@
   </level>
   <level>
     <num>(p)</num>
-    <text>The Association shall have standing to appear before any court in the District of Columbia with jurisdiction over an impaired or insolvent insurer for which the Association is or may become obligated under this chapter. Standing shall extend to all matters germane to the powers and duties of the Association, including, but not limited to, proposals for reinsuring, modifying, or guaranteeing the policies or contracts of the impaired or insolvent insurer and the determination of the policies or contracts and contractual obligations. The Association shall also have the right to appear before a court in another state with jurisdiction over an impaired or insolvent insurer for which the Association is or may become obligated or a court with jurisdiction over a 3rd party against whom the Association may have rights through subrogation of the insurer's policyholders.</text>
+    <text>The Association shall have standing to appear or intervene before any court in the District of Columbia with jurisdiction over an impaired or insolvent insurer for which the Association is or may become obligated under this chapter or with jurisdiction over any person or property against which the Association may have rights through subrogation or otherwise. Standing shall extend to all matters germane to the powers and duties of the Association, including, but not limited to, proposals for reinsuring, modifying, or guaranteeing the policies or contracts of the impaired or insolvent insurer and the determination of the policies or contracts and contractual obligations. The Association shall also have the right to appear or intervene before a court in another state with jurisdiction over an impaired or insolvent insurer for which the Association is or may become obligated or a court with jurisdiction over any person or property against whom the Association may have rights through subrogation or otherwise of the insurer's policyholders.</text>
   </level>
   <level>
     <num>(q)</num>
     <level>
       <num>(1)</num>
-      <text>Any person receiving benefits under this chapter shall be deemed to have assigned the rights under, and any causes of action relating to, the covered policy or contract to the Association, whether the benefits are payments of, or on account of, contractual obligations, continuation of coverage, or provision of substitute or alternative coverages. The Association may require an assignment to it of the rights and causes of action by any payee, policy or contract owner, beneficiary, insured, or annuitant as a condition precedent to the receipt of any rights or benefits conferred by this chapter upon such a person.</text>
+      <text>Any person receiving benefits under this chapter shall be deemed to have assigned the rights under, and any causes of action against any person for losses arising under, resulting from, or otherwise relating to, the covered policy or contract to the Association, whether the benefits are payments of, or on account of, contractual obligations, continuation of coverage, or provision of substitute or alternative coverages. The Association may require an assignment to it of the rights and causes of action by any payee, policy or contract owner, beneficiary, insured, or annuitant as a condition precedent to the receipt of any rights or benefits conferred by this chapter upon such a person.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -210,6 +214,14 @@
     <level>
       <num>(3)</num>
       <text>In addition to paragraphs (1) and (2) of this subsection, the Association shall have all common law rights of subrogation and any other equitable or legal remedy which would have been available to the impaired or insolvent insurer or holder of a policy or contract with respect to the policy or contracts.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>If the preceding provisions of this subsection are invalid or ineffective with respect to any person or claim for any reason, the amount payable by the Association with respect to the related covered obligations shall be reduced by the amount realized by any other person with respect to the person or claim that is attributable to the policies (or portion thereof) covered by the Association.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>If the Association has provided benefits with respect to a covered obligation and a person recovers amounts as to which the Association has rights as described in the preceding paragraphs of this subsection, the person shall pay to the Association the portion of the recovery attributable to the policies (or portion thereof) covered by the Association.</text>
     </level>
   </level>
   <level>
@@ -233,21 +245,147 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>Take legal action necessary to avoid payment of improper claims; and</text>
+      <text>Take legal action necessary to avoid payment of improper claims;</text>
     </level>
     <level>
       <num>(6)</num>
-      <text>Exercise, for the purposes of this chapter and to the extent approved by the Mayor, the powers of a domestic life or health insurer, but in no case may the Association issue insurance policies or annuity contracts other than those issued to perform its obligations under this chapter.</text>
+      <text>Exercise, for the purposes of this chapter and to the extent approved by the Mayor, the powers of a domestic life or health insurer, but in no case may the Association issue insurance policies or annuity contracts other than those issued to perform its obligations under this chapter; and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Take other necessary or appropriate action to discharge its duties and obligations under this chapter or to exercise its powers under this chapter.</text>
     </level>
   </level>
   <level>
     <num>(s)</num>
     <text>The Association may join an organization of 1 or more other state associations of similar purposes to further the purposes and administration of the powers and duties of the Association.</text>
   </level>
+  <level>
+    <num>(t)</num>
+    <level>
+      <num>(1)</num>
+      <level>
+        <num>(A)</num>
+        <text>At any time within 180 days of the date of the order of liquidation, the Association may elect to succeed to the rights and obligations of the ceding member insurer that relate to policies or annuities covered, in whole or in part, by the Association, in each case under any one or more reinsurance contracts entered into by the insolvent insurer and its reinsurers and selected by the Association. Any such assumption shall be effective as of the date of the order of liquidation. The election shall be effected by the Association or the National Organization of Life and Health Insurance Guaranty Associations ("NOLHGA") on its behalf sending written notice, return receipt requested, to the affected reinsurers.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>To facilitate the earliest practicable decision about whether to assume any of the contracts of reinsurance, and in order to protect the financial position of the estate, the receiver and each reinsurer of the ceding member insurer shall make available upon request to the Association or to NOLHGA on its behalf as soon as possible after commencement of formal delinquency proceedings:</text>
+        <level>
+          <num>(i)</num>
+          <text>Copies of in-force contracts of reinsurance and all related files and records relevant to the determination of whether such contracts should be assumed; and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Notices of any defaults under the reinsurance contracts or any known event or condition which with the passage of time could become a default under the reinsurance contracts.</text>
+        </level>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The following provisions shall apply to reinsurance contracts so assumed by the Association:</text>
+        <level>
+          <num>(i)</num>
+          <text>The Association shall be responsible for all unpaid premiums due under the reinsurance contracts for periods both before and after the date of the order of liquidation, and shall be responsible for the performance of all other obligations to be performed after the date of the order of liquidation, which relate to policies or annuities covered, in whole or in part, by the Association. The Association may charge policies or annuities covered in part by the Association, through reasonable allocation methods, the costs for reinsurance in excess of the obligations of the Association and shall provide notice and an accounting of these charges to the liquidator.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The Association shall be entitled to any amounts payable by the reinsurer under the reinsurance contracts with respect to losses or events that occur in periods after the date of the order of liquidation and that relate to policies or annuities covered, in whole or in part, by the Association; provided, that upon receipt of any such amounts, the Association shall be obliged to pay to the beneficiary under the policy or annuity on account of which the amounts were paid a portion of the amount equal to the lesser of:</text>
+          <level>
+            <num>(I)</num>
+            <text>The amount received by the Association; and</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>The excess of the amount received by the Association over the amount equal to the benefits paid by the Association on account of the policy or annuity, less the retention of the insurer applicable to the loss or event.</text>
+          </level>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Within 30 days following the Association's election ("election date"), the Association and each reinsurer under contracts assumed by the Association shall calculate the net balance due to or from the Association under each reinsurance contract as of the election date with respect to policies or annuities covered, in whole or in part, by the Association, which calculation shall give full credit to all items paid by either the insurer or its receiver or the reinsurer before the election date. The reinsurer shall pay the receiver any amounts due for losses or events before the date of the order of liquidation, subject to any set-off for premiums unpaid for periods before the date, and the Association or reinsurer shall pay any remaining balance due the other, within 5 days of the completion of the aforementioned calculation. Any disputes over the amounts due to either the Association or the reinsurer shall be resolved by arbitration pursuant to the terms of the affected reinsurance contracts or, if the contract contains no arbitration clause, as otherwise provided by law. If the receiver has received any amounts due the Association pursuant to sub-subparagraph (ii) of this subparagraph, the receiver shall remit the same to the Association as promptly as practicable.</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>If the Association or receiver, on the Association's behalf, within 60 days of the election date, pays the unpaid premiums due for periods both before and after the election date that relate to policies or annuities covered, in whole or in part, by the Association, the reinsurer shall not be entitled to terminate the reinsurance contracts for failure to pay the premium insofar as the reinsurance contracts relate to policies or annuities covered, in whole or in part, by the Association, and shall not be entitled to set off any unpaid amounts due under other contracts, or unpaid amounts due from parties other than the Association, against amounts due the Association.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>During the period from the date of the order of liquidation until the election date or, if the election date does not occur, until 180 days after the date of the order of liquidation:</text>
+      <level>
+        <num>(A)</num>
+        <text>Neither the Association nor the reinsurer shall have any rights or obligations under reinsurance contracts that the Association has the right to assume under paragraph (1) of this subsection, whether for periods before or after the date of the order of liquidation; provided, that once the Association has elected to assume a reinsurance contract, the parties' rights and obligations shall be governed by paragraph (1) of this subsection; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The reinsurer, the receiver, and the Association shall, to the extent practicable, provide each other data and records reasonably requested.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>If the Association does not elect to assume a reinsurance contract by the election date pursuant to paragraph (1) of this subsection, the Association shall have no rights or obligations, in each case for periods both before and after the date of the order of liquidation, with respect to the reinsurance contract.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>When policies or annuities, or covered obligations with respect thereto, are transferred to an assuming insurer, reinsurance on the policies or annuities may also be transferred by the Association, in the case of contracts assumed under paragraph (1) of this subsection, subject to the following:</text>
+      <level>
+        <num>(A)</num>
+        <text>Unless the reinsurer and the assuming insurer agree otherwise, the reinsurance contract transferred shall not cover any new policies of insurance or annuities in addition to those transferred;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The obligations described in paragraph (1) of this subsection shall no longer apply with respect to matters arising after the effective date of the transfer; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Notice shall be given in writing, return receipt requested, by the transferring party to the affected reinsurer not less than 30 days before the effective date of the transfer.</text>
+      </level>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>The provisions of subsection (t) of this section shall supersede the provisions of any District law and any affected reinsurance contract that provides for or requires any payment of reinsurance proceeds, on account of losses or events that occur in periods after the date of the order of liquidation, to the receiver of the insolvent insurer or any other person. The receiver shall remain entitled to any amounts payable by the reinsurer under the reinsurance contracts with respect to losses or events that occur in periods before the date of the order of liquidation, subject to applicable setoff provisions.</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Except as otherwise provided, nothing in this subsection shall:</text>
+      <level>
+        <num>(A)</num>
+        <text>Alter or modify the terms and conditions of any reinsurance contract;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Abrogate or limit any rights of any reinsurer to claim that it is entitled to rescind a reinsurance contract;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Give a policyholder or beneficiary an independent cause of action against a reinsurer that is not otherwise set forth in the reinsurance contract;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Limit or affect the Association's rights as a creditor of the estate against the assets of the estate; or</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Apply to reinsurance agreements covering property or casualty risks.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(u)</num>
+    <text>The Board of Directors of the Association shall have discretion and may exercise reasonable business judgment to determine the means by which the Association is to provide the benefits of this chapter in an economical and efficient manner.</text>
+  </level>
+  <level>
+    <num>(v)</num>
+    <text>Where the Association has arranged or offered to provide the benefits of this chapter to a covered person under a plan or arrangement that fulfills the Association's obligations under this chapter, the person shall not be entitled to benefits from the Association in addition to or other than those provided under the plan or arrangement.</text>
+  </level>
+  <level>
+    <num>(w)</num>
+    <text>Venue in a suit against the Association arising under the chapter shall be in the District. The Association shall not be required to give an appeal bond in an appeal that relates to a cause of action arising under this chapter.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-129, § 6, 39 DCR 4036; Mar. 24, 1998, D.C. Law 12-81, § 31(a), 45 DCR 745.)</text>
+      <text>(July 22, 1992, D.C. Law 9-129, § 6, 39 DCR 4036; Mar. 24, 1998, D.C. Law 12-81, § 31(a), 45 DCR 745; July 23, 2014, D.C. Law 20-130, § 2(c), 61 DCR 5900; Mar. 11, 2015, D.C. Law 20-235, § 5, 62 DCR 461.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -258,12 +396,25 @@
       <text>1981 Ed., § 35-1945.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-130 added "or" at the end of (c)(1)(A); substituted "incurred" for "insured" in (d)(1); added the last sentence in (m)(2); added (m-1); in (p), added "or with jurisdiction over any person or property against which the Association may have rights through subrogation or otherwise" and substituted "appear or intervene" for "appear," "any person or property" for "ard [sic] party", and "subrogation or otherwise" for "subrogation"; added "against any person for losses arising under, resulting from, or otherwise" in (q)(1); rewrote (q)(3); added (q)(4) and (q)(5); made minor stylistic changes in (r)(5) and (r)(6); and added (r)(7), (t), (u), (v), and (w).</text>
+      <text>The 2015 amendment by D.C. Law 20-235 rewrote (q)(3).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 9-129</heading>
       <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
     </level>
     <level>
       <heading>Legislative History of Law 12-81</heading>
       <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-130</heading>
+      <text>See note to § 31-5401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>See note to § 31-2101.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

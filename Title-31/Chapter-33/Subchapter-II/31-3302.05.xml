@@ -34,24 +34,25 @@
     <heading>Requirements for uniform termination of coverage</heading>
     <level>
       <num>(1)</num>
-      <heading>Discontinuance of a particular type of health insurance coverage</heading>
+      <text>Discontinuance of a particular type of health insurance coverage.</text>
+      <level>
+        <num>(i)</num>
+        <text>The health insurer provides notice to each covered individual provided coverage of this type in such market of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The health insurer offers to each individual in the individual market provided coverage of this type the option to purchase any other individual health insurance coverage currently being marketed by the health insurer for individuals in such market; and</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>In exercising the option to discontinue coverage of this type, and in offering the option of coverage under this subsection, the health insurer acts uniformly without regard to any health status-related factor of enrolled individuals or individuals who may become eligible for such coverage.</text>
+      </level>
     </level>
-  </level>
-  <text>In any case in which a health insurer decides to discontinue offering a particular type of health insurance coverage offered in the individual market, coverage of such type may be discontinued by the health insurer only if:</text>
-  <level>
-    <num>(i)</num>
-    <text>The health insurer provides notice to each covered individual provided coverage of this type in such market of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>The health insurer offers to each individual in the individual market provided coverage of this type the option to purchase any other individual health insurance coverage currently being marketed by the health insurer for individuals in such market; and</text>
-  </level>
-  <level>
-    <num>(iii)</num>
-    <text>In exercising the option to discontinue coverage of this type, and in offering the option of coverage under this subsection, the health insurer acts uniformly without regard to any health status-related factor of enrolled individuals or individuals who may become eligible for such coverage.</text>
+    <text>Discontinuance of a particular type of health insurance coverage.</text>
+    <text>In any case in which a health insurer decides to discontinue offering a particular type of health insurance coverage offered in the individual market, coverage of such type may be discontinued by the health insurer only if:</text>
     <level>
       <num>(2)</num>
-      <heading>Discontinuance of all coverage</heading>
+      <text>Discontinuance of all coverage.</text>
       <level>
         <num>(A)</num>
         <text>Subject to paragraph (1)(iii) of this subsection, in any case in which a health insurer elects to discontinue offering all health insurance coverage in the individual market in the District of Columbia, health insurance coverage may be discontinued by the health insurer only if:</text>
@@ -67,16 +68,17 @@
       <level>
         <num>(B)</num>
         <text>In the case of discontinuation under paragraph (1) of this subsection in the individual market, the health insurer may not provide for the issuance of any health insurance coverage in the individual market in the District of Columbia during the 5-year period beginning on the date of the discontinuation of the last health insurance coverage not so renewed.</text>
-        <level>
-          <num>(d)</num>
-          <text>At the time of coverage renewal, a health insurer may modify the health insurance coverage for a policy form offered to individuals in the individual market so long as such modification is consistent with the laws of the District of Columbia and effective on a uniform basis among all individuals with that policy form.</text>
-        </level>
-        <level>
-          <num>(e)</num>
-          <text>In applying this section in the case of health insurance coverage that is made available by health insurers in the individual market to individuals only through one or more associations, a reference to an "individual" is deemed to include a reference to such an association of which the individual is a member.</text>
-        </level>
       </level>
     </level>
+    <text>Discontinuance of all coverage.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>At the time of coverage renewal, a health insurer may modify the health insurance coverage for a policy form offered to individuals in the individual market so long as such modification is consistent with the laws of the District of Columbia and effective on a uniform basis among all individuals with that policy form.</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>In applying this section in the case of health insurance coverage that is made available by health insurers in the individual market to individuals only through one or more associations, a reference to an "individual" is deemed to include a reference to such an association of which the individual is a member.</text>
   </level>
   <level type="annotations">
     <level>

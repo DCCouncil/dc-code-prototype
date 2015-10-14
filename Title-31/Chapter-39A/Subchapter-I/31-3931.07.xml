@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>A captive insurer or segregated account may make a loan to its parent or affiliated company if the loan:</text>
+    <text>A captive insurer or protected cell may make a loan to its parent or affiliated company if the loan:</text>
     <level>
       <num>(1)</num>
       <text>Is first approved in writing by the Commissioner;</text>
@@ -28,11 +28,12 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 8, 52 DCR 1205; Mar. 14, 2012, D.C. Law 19-103, § 2(c), 59 DCR 432.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 8, 52 DCR 1205; Mar. 14, 2012, D.C. Law 19-103, § 2(c), 59 DCR 432; Mar. 10, 2015, D.C. Law 20-203, § 2(d), 61 DCR 12572.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 19-103 added subsec. (c).</text>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted "insurer" for "insurance company" in (6); substituted "branch captive insurer, protected cell" for "segregated account" in (9); added (13A); substituted "protected cell" for "segregated account" throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -45,6 +46,10 @@
     <level>
       <heading>Legislative History of Law 19-103</heading>
       <text>For history of Law 19-103, see notes under § 31-3931.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,6 @@
 <level type="section">
   <num>31-3171.01</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this chapter, the term:</text>
   <level>
     <num>(1)</num>
     <text>"American Health Benefit Exchange" means an entity established pursuant to § 31-3171.04, and section 1311(b) of the Federal Act.</text>
@@ -134,6 +133,14 @@
     <text>"Internal Revenue Code of 1986" means the Internal Revenue Code of 1986, approved August 16, 1954 (100 Stat. 2095; 26 U.S.C. § 1 et seq.).</text>
   </level>
   <level>
+    <num>(8A)</num>
+    <text>) "Metal level" means the bronze, silver, gold, and platinum levels of coverage as defined in section 1302(d)(1) of the Federal Act.</text>
+  </level>
+  <level>
+    <num>(8B)</num>
+    <text>"Navigator" refers to the entities described in section 1311(i) of the Federal Act.</text>
+  </level>
+  <level>
     <num>(9)</num>
     <text>"PHSA" means the Public Health Service Act, approved July 1, 1944 (58 Stat. 682; 42 U.S.C. § 201 et seq.).</text>
   </level>
@@ -220,23 +227,35 @@
     <num>(17)</num>
     <text>"Social Security Act" means the Social Security Act, approved August 14, 1935 (49 Stat. 620; 42 U.S.C. § 301 et seq.), as amended.</text>
   </level>
+  <level>
+    <num>(18)</num>
+    <text>"Standardized plan" means a plan with defined benefits and cost sharing as determined by the executive board for the Authority.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 2, 2012, D.C. Law 19-94, § 2, 59 DCR 213.)</text>
+      <text>(March 2, 2012, D.C. Law 19-94, §  2, 59 DCR 213; July 16, 2014, D.C. Law 20-123, §  2(a), 61 DCR 5379.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-123 added (8A), (8B), and (18).</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) amendment of this section, see § 2(a) of the Health Benefit Exchange Authority Financial Sustainability Temporary Amendment Act of 2014 (D.C. Law 20-133, Aug. 8, 2014, 61 DCR 6340).</text>
       <text>For temporary (225 days) amendment of this section, see § 2(a) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013, 60 DCR 10880).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) amendment of this section, see § 2(a) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Act of 2013 (D.C. Act 20-87, June 19, 2013, 60 DCR 9542, 20 DCSTAT 1446).</text>
       <text>For temporary (90 days) amendment of this section, see §§ 2(a) and 3 of the Better Prices, Better Quality, Better Choices for Health Coverage Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-170, September 26, 2013, 60 DCR 14742).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Health Benefit Exchange Authority Financial Sustainability Emergency Amendment Act of 2014, (D.C. Act 20-329, May 22, 2014, 61 DCR 5363).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Amendment Act of 2014, (D.C. Act 20-335, May 22, 2014, 61 DCR 5375).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Health Benefit Exchange Authority Financial Sustainability Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-395, July 29, 2014, 61 DCR 8078).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-94</heading>
-      <text>Law 19-94, the "Health Benefit Exchange Authority Establishment Act of 2011", was introduced in Council and assigned Bill No. 19-2, which was referred to the Committee on Health, Public Services and Consumer Affairs. The Bill was adopted on first and second readings on December 2, 2012, and December 20, 2012, respectively. Signed by the Mayor on January 17, 2012, it was assigned Act No. 19-269 and transmitted to both Houses of Congress for its review. D.C. Law 19-94 became effective on March 2, 2012.</text>
+      <heading>Legislative History of Law 20-123</heading>
+      <text>Law 20-123, the "Better Prices, Better Quality, Better Choices for Health Coverage Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-240. The Bill was adopted on first and second readings on April 8, 2014, and May 6, 2014, respectively. Signed by the Mayor on May 22, 2014, it was assigned Act No. 20-336 and transmitted to Congress for its review. D.C. Law 20-123 became effective on July 16, 2014.</text>
     </level>
   </level>
 </level>

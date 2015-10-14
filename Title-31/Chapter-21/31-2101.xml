@@ -6,19 +6,19 @@
     <text>In order to determine whether the continued operation of any insurer transacting an insurance business in the District of Columbia might be deemed to be hazardous to the policyholders, creditors, or the general public, the Mayor may consider the following standards, either singly or in combination of 2 or more:</text>
     <level>
       <num>(1)</num>
-      <text>Adverse findings reported in financial condition and market conduct examination reports;</text>
+      <text>Adverse findings reported in financial condition and market conduct examination reports, audit reports, and actuarial opinions, reports or summaries;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>The National Association of Insurance Commissioners Insurance Regulatory Information System and its related reports;</text>
+      <text>The National Association of Insurance Commissioners Insurance Regulatory Information System and its other financial analysis solvency tools and reports;</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>The ratios of commission expense, general insurance expense, policy benefits, and reserve increases as to annual premium and net investment income which could lead to an impairment of capital and surplus;</text>
+      <text>Repealed.</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>The insurer's asset portfolio, when viewed in light of current economic conditions, is not of sufficient value, liquidity, or diversity to assure the company's ability to meet its outstanding obligations as they mature;</text>
+      <text>Whether the insurer has made adequate provision, according to presently accepted actuarial standards of practice, for the anticipated cash flows required by the contractual obligations and related expenses of the insurer and related actuarial items, including the investment earnings on such assets and the considerations anticipated to be received and retained under such policies and contracts;</text>
     </level>
     <level>
       <num>(5)</num>
@@ -29,8 +29,12 @@
       <text>The insurer's operating loss in the last 12-month period or any shorter period of time, including, but not limited to, net capital gain or loss, change in nonadmitted assets, and cash dividends paid to shareholders, is greater than 50% of the insurer's remaining surplus as regards policyholders in excess of the minimum required;</text>
     </level>
     <level>
+      <num>(6A)</num>
+      <text>Whether the insurer's operating loss in the last 12-month period or any shorter period of time, excluding net capital gain, is greater than 20% of the insurer's remaining surplus as regards policyholders in excess of the minimum required;</text>
+    </level>
+    <level>
       <num>(7)</num>
-      <text>Whether any affiliate, subsidiary, or reinsurer is insolvent, threatened with insolvency, or delinquent in payment of its monetary or other obligation;</text>
+      <text>Whether a reinsurer, obligor, or an entity within the insurer's insurance holding company system is insolvent, threatened with insolvency, or delinquent in payment of its monetary or other obligations, and which in the opinion of the Mayor may affect the solvency of the insurer;</text>
     </level>
     <level>
       <num>(8)</num>
@@ -53,16 +57,36 @@
       <text>Whether management of an insurer has failed to respond to inquiries relative to the condition of the insurer or has furnished false and misleading information concerning an inquiry;</text>
     </level>
     <level>
+      <num>(12A)</num>
+      <text>Whether the insurer has failed to meet financial and holding company filing requirements in the absence of a reason satisfactory to the Mayor;</text>
+    </level>
+    <level>
       <num>(13)</num>
       <text>Whether management of an insurer either has filed any false or misleading sworn financial statement, has released any false or misleading financial statement to lending institutions or to the general public, has made a false or misleading entry, or has omitted an entry of material amount in the books of the insurer;</text>
     </level>
     <level>
       <num>(14)</num>
-      <text>Whether the insurer has grown so rapidly and to such an extent that it lacks adequate financial and administrative capacity to meet its obligations in a timely manner; or</text>
+      <text>Whether the insurer has grown so rapidly and to such an extent that it lacks adequate financial and administrative capacity to meet its obligations in a timely manner;</text>
     </level>
     <level>
       <num>(15)</num>
-      <text>Whether the company has experienced or will experience in the foreseeable future cash flow or liquidity problems.</text>
+      <text>Whether the company has experienced or will experience in the foreseeable future cash flow or liquidity problems;</text>
+    </level>
+    <level>
+      <num>(16)</num>
+      <text>Whether management has established reserves that do not comply with minimum standards established by state insurance laws, regulations, statutory accounting standards, sound actuarial principles, and standards of practice;</text>
+    </level>
+    <level>
+      <num>(17)</num>
+      <text>Whether management persistently engages in material under reserving that results in adverse development;</text>
+    </level>
+    <level>
+      <num>(18)</num>
+      <text>Whether transactions among affiliates, subsidiaries, or controlling persons for which the insurer receives assets or capital gains, or both, do not provide sufficient value, liquidity, or diversity to assure the insurer's ability to meet its outstanding obligations as they mature; or</text>
+    </level>
+    <level>
+      <num>(19)</num>
+      <text>Any other finding determined by the Mayor to be hazardous to the insurer's policyholders, creditors, or general public.</text>
     </level>
   </level>
   <level>
@@ -88,7 +112,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 21, 1993, D.C. Law 10-43, § 2, 40 DCR 6023.)</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-43, § 2, 40 DCR 6023; Mar. 11, 2015, D.C. Law 20-235, § 4(a), 62 DCR 461.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -103,8 +127,16 @@
       <text>1981 Ed., § 35-3501.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-234 rewrote (a)(1), (a)(4), and (a)(7); substituted "other financial analysis solvency tools and reports" for "related reports" in (a)(2); repealed (a)(3); added (a)(6A), (a)(12A), (a)(16), (a)(17), (a)(18), and (a)(19) and made related changes; and substituted "insurer" for "company" in (a)(15).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 10-43</heading>
       <text>Law 10-43, the "Standards to Identify Insurance Companies Deemed to Be in Hazardous Financial Condition Act of 1993," was introduced in Council and assigned Bill No. 10-130, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 4, 1993, it was assigned Act No. 10-78 and transmitted to both Houses of Congress for its review. D.C. Law 10-43 became effective on October 21, 1993.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>Law 20-235, the "Insurance Holding Company and Credit for Reinsurance Modernization Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-537. The Bill was adopted on first and second readings on Oct. 28, 2014, and Nov. 18, 2014, respectively. Signed by the Mayor on Jan. 6, 2015, it was assigned Act No. 20-559 and transmitted to Congress for its review. D.C. Law 20-235 became effective on Mar. 11, 2015.</text>
     </level>
     <level>
       <heading>Delegation of Authority</heading>

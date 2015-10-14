@@ -11,6 +11,10 @@
       <num>(2)</num>
       <text>No person shall enter into an agreement to merge with or otherwise to acquire control of a domestic insurer or any person controlling a domestic insurer unless, at the time the offer, request, or invitation is made or any agreement is entered into, or prior to the acquisition of the securities if no offer or agreement is involved, the person has filed with the Mayor and has sent to the insurer, a statement containing the information required by this section and the offer, request, invitation, agreement, or acquisition has been approved by the Mayor in the manner prescribed by this subchapter.</text>
     </level>
+    <level>
+      <num>(3)</num>
+      <text>For the purposes of this section, any controlling person of a domestic insurer seeking to divest its controlling interest in the domestic insurer, in any manner, shall file with the Mayor, with a copy to the insurer, confidential notice of its proposed divestiture at least 30 days before the cessation of control. The Mayor shall determine those instances in which the party or parties seeking to divest or to acquire a controlling interest in an insurer will be required to file for and obtain approval of the transaction. The information shall remain confidential until the conclusion of the transaction unless the Mayor, in the Mayor's discretion, determines that confidential treatment will interfere with enforcement of this subchapter. If the statement referred to in paragraph (2) of this subsection is otherwise filed, this paragraph shall not apply.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -76,7 +80,15 @@
     </level>
     <level>
       <num>(11)</num>
-      <text>The terms of any agreement, contract, or understanding made with or proposed to be made with any broker-dealer as to solicitation of securities referred to in subsections (a) and (b) of this section for tender, and the amount of any resulting fees, commissions, or other compensation to be paid to broker-dealers; and</text>
+      <text>The terms of any agreement, contract, or understanding made with or proposed to be made with any broker-dealer as to solicitation of securities referred to in subsections (a) and (b) of this section for tender, and the amount of any resulting fees, commissions, or other compensation to be paid to broker-dealers;</text>
+    </level>
+    <level>
+      <num>(11A)</num>
+      <text>An agreement by the person required to file the statement referred to in subsection (a) of this section that it will provide the annual report, specified in § 31-705(k-1), for so long as control exists;</text>
+    </level>
+    <level>
+      <num>(11B)</num>
+      <text>An acknowledgement by the person required to file the statement referred to in subsection (a) of this section that the person and all subsidiaries within its control in the insurance holding company system will provide information to the Mayor upon request as necessary to evaluate enterprise risk to the insurer; and</text>
     </level>
     <level>
       <num>(12)</num>
@@ -159,6 +171,25 @@
       <num>(3)</num>
       <text>The Mayor may retain, at the acquiring person's expense, any attorneys, actuaries, accountants, and other experts not otherwise a part of the Mayor's staff as may be reasonably necessary to assist the Mayor in reviewing the proposed acquisition of control. For this purpose, the Mayor shall be exempt from the provisions of Unit A of Chapter 3 of Title 2.</text>
     </level>
+    <level>
+      <num>(4)</num>
+      <level>
+        <num>(A)</num>
+        <text>If the proposed acquisition of control will require the approval of more than one commissioner, the public hearing referred to in paragraph (1) of this subsection may be held on a consolidated basis upon request of the person filing the statement referred to in subsection (a) of this section. A person shall file the statement referred to in subsection (a) of this section with the National Association of Insurance Commissioners within 5 days of making the request for a public hearing.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A commissioner may opt out of a consolidated hearing, and shall provide notice to the applicant of the opt-out within 10 days of the receipt of the statement referred to in subsection (a) of this section.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A hearing conducted on a consolidated basis shall be public and shall be held within the United States before the commissioners of the states in which the insurers are domiciled.</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The commissioners shall hear and receive evidence. A commissioner may attend a hearing in person or by telecommunication.</text>
+      </level>
+    </level>
   </level>
   <level>
     <num>(h)</num>
@@ -189,7 +220,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The effectuation, or any attempt to effectuate, an acquisition of control of, or merger with, a domestic insurer unless the Mayor has given approval.</text>
+      <text>The effectuation, or any attempt to effectuate, an acquisition of control of, divestiture of, or merger with, a domestic insurer unless the Mayor has given approval.</text>
     </level>
   </level>
   <level>
@@ -199,7 +230,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 21, 1993, D.C. Law 10-44, § 4, 40 DCR 6027; Mar. 24, 1998, D.C. Law 12-81, § 40(b), 45 DCR 745; Mar. 25, 2003, D.C. Law 14-236, § 2, 49 DCR 10483; Dec. 9, 2003, D.C. Law 15-56, § 2(b), 50 DCR 9188.)</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-44, § 4, 40 DCR 6027; Mar. 24, 1998, D.C. Law 12-81, § 40(b), 45 DCR 745; Mar. 25, 2003, D.C. Law 14-236, § 2, 49 DCR 10483; Dec. 9, 2003, D.C. Law 15-56, § 2(b), 50 DCR 9188; Mar. 11, 2015, D.C. Law 20-235, § 2(b), 62 DCR 461.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -213,6 +244,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 14-236, in subsec. (g)(3), added the last sentence.</text>
       <text>D.C. Law 15-56, in subsec. (g), rewrote par. (1), and in par. (2), substituted "The public hearing referred to in paragraph (1) of this subsection shall be held within 120 days after the statement required by subsections (a) and (b) of this section is filed, and at least 20-days notice shall be given by the Mayor to the person filing the statement; provided, that the Mayor may extend the 120-day period if all parties consent to the extension." for "The public hearing referred to in paragraph (1) of this subsection shall be held within 30 days after the statement required by subsections (a) and (b) of this section is filed, and at least 20-days notice shall be given by the Mayor to the person filing the statement.", substituted "The Mayor shall make a determination within 120 days after the conclusion of the hearing; provided, that the Mayor may extend this period if all parties consent to the extension." for "The Mayor shall make a determination within 30 days after the conclusion of the hearing.", and substituted "and any party" for "any person to whom notice of hearing was sent, and any other person whose interest may be affected".</text>
+      <text>The 2015 amendment by D.C. Law 20-235 added (a)(3); added (c)(11A) and (c)(11B) and made related changes; added (g)(4); and added "divestiture of" in (i)(2).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -240,6 +272,10 @@
     <level>
       <heading>Legislative History of Law 14-236</heading>
       <text>Law 14-236, the "Department of Insurance and Securities Regulation Procurement Amendment Act of 2002", was introduced in Council and assigned Bill No. 14-571, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on July 2, 2002, and October 1, 2002, respectively. Signed by the Mayor on October 23, 2002, it was assigned Act No. 14-515 and transmitted to both Houses of Congress for its review. D.C. Law 14-236 became effective on March 25, 2003.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>See note to § 31-701.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

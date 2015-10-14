@@ -20,11 +20,19 @@
   </level>
   <level>
     <num>(5)</num>
-    <text>"Association captive insurer" means a captive insurer that only insures risks of the member organizations of an association and the affiliated companies of those members, including groups formed pursuant to the Product Liability Risk Retention Act of 1981, approved September 25, 1981 (95 Stat. 949; 15 U.S.C. § 3901 et seq.), and the employee benefit plans or trusts of such organizations or companies.</text>
+    <text>"Association captive insurer" means a captive insurer that only insures risks of the member organizations of an association and the affiliated companies of those members, including:</text>
+    <level>
+      <num>(A)</num>
+      <text>Groups formed pursuant to the Product Liability Risk Retention Act of 1981, approved September 25, 1981 (95 Stat. 949; 15 U.S.C. § 3901 et seq.), and the employee benefit plans or trusts of such organizations or companies; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Risk retention groups chartered pursuant to Chapter 41 of this title [§ 31-4101 et seq.].</text>
+    </level>
   </level>
   <level>
     <num>(6)</num>
-    <text>"Branch business" means any insurance business transacted by a branch captive insurance company in the District.</text>
+    <text>"Branch business" means any insurance business transacted by a branch captive insurer in the District.</text>
   </level>
   <level>
     <num>(7)</num>
@@ -36,7 +44,7 @@
   </level>
   <level>
     <num>(9)</num>
-    <text>"Captive insurer" means any insurer that insures the risks of its parent or affiliated companies of its parent, any member organizations of an association and the affiliated companies of the member organizations, or any other policyholders or participants that have entered into a contractual relationship with the insurer for the purchase of insurance, including any pure captive insurer, association captive insurer, agency captive insurer, segregated account captive insurer, and rental captive insurer licensed pursuant to this chapter.</text>
+    <text>"Captive insurer" means any insurer that insures the risks of its parent or affiliated companies of its parent, any member organizations of an association and the affiliated companies of the member organizations, or any other policyholders or participants that have entered into a contractual relationship with the insurer for the purchase of insurance, including any pure captive insurer, association captive insurer, agency captive insurer, branch captive insurer, protected cell captive insurer, and rental captive insurer licensed pursuant to this chapter.</text>
   </level>
   <level>
     <num>(10)</num>
@@ -71,6 +79,10 @@
     </level>
   </level>
   <level>
+    <num>(13A)</num>
+    <text>"Incorporated protected cell" means a protected cell that is established as a corporation or other legal entity separate from the protected cell captive insurer of which it is a part.</text>
+  </level>
+  <level>
     <num>(14)</num>
     <text>"Member organization" means any individual, corporation, partnership, association, or other form of business organization that belongs to an association.</text>
   </level>
@@ -88,15 +100,35 @@
   </level>
   <level>
     <num>(18)</num>
-    <text>"Participant" means any individual or organization, and any affiliates thereof, that are insured by a segregated account captive insurer if the losses of the person are limited through a participant contract to the assets of a segregated account.</text>
+    <text>"Participant" means any individual or organization, and any affiliates thereof, that are insured by a protected cell captive insurer if the losses of the person are limited through a participant contract to the assets of a protected cell.</text>
   </level>
   <level>
     <num>(19)</num>
-    <text>"Participant contract" means a contract by which a segregated account captive insurer insures the risks of a participant and limits the losses of the participant to the assets of the segregated account.</text>
+    <text>"Participant contract" means a contract by which a protected cell captive insurer insures the risks of a participant and limits the losses of the participant to the assets of the protected cell.</text>
   </level>
   <level>
     <num>(20)</num>
     <text>"Person" means any individual, corporation, partnership, limited liability company, limited liability partnership, joint venture, an association, joint stock company, trust, unincorporated organization, similar entity, or any combination of the foregoing.</text>
+  </level>
+  <level>
+    <num>(20A)</num>
+    <text>"Protected cell" means a separate account established and maintained by a protected cell captive insurer and includes an incorporated protected cell.</text>
+  </level>
+  <level>
+    <num>(20B)</num>
+    <text>"Protected cell captive insurer" means a captive insurer that:</text>
+    <level>
+      <num>(A)</num>
+      <text>Is formed and licensed under the provisions of this chapter;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Insures the risks of separate participants through a contract; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Segregates each participant's liability through one or more protected cells.</text>
+    </level>
   </level>
   <level>
     <num>(21)</num>
@@ -120,27 +152,7 @@
   </level>
   <level>
     <num>(26)</num>
-    <text>"Segregated account" means a separate account established and maintained by any captive insurer:</text>
-    <level>
-      <num>(A)</num>
-      <text>In which the minimum capital and surplus required by applicable law is provided by one or more persons;</text>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>That is formed or licensed under the provisions of this chapter;</text>
-    </level>
-    <level>
-      <num>(C)</num>
-      <text>That insures risks of separate participants through contract;</text>
-    </level>
-    <level>
-      <num>(D)</num>
-      <text>That is comprised of one or more participants who are authorized to act on matters relating to the segregated account; and</text>
-    </level>
-    <level>
-      <num>(E)</num>
-      <text>That segregates each participant's liability through one or more segregate accounts.</text>
-    </level>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(27)</num>
@@ -149,7 +161,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 2, 52 DCR 1205.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 2, 52 DCR 1205; Mar. 10, 2015, D.C. Law 20-203, § 2(a), 61 DCR 12572.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -160,6 +172,10 @@
       <text>This section is referenced in § 31-3931.22, § 31-3932.02, and § 31-4102.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted "insurer" for "insurance company" in (6); substituted "branch captive insurer, protected cell" for "segregated account" in (9); added (13A); substituted "protected cell" for "segregated account" throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
+    </level>
+    <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition of section, see § 2 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
       <text>For temporary (90 day) additions, see §§ 2 to 17 of District of Columbia Free Clinic Captive Insurance Company Establishment Emergency Act of 2007 (D.C. Act 17-113, October 3, 2007, 54 DCR 9977).</text>
@@ -167,6 +183,10 @@
     <level>
       <heading>Legislative History of Law 15-262</heading>
       <text>Law 15-262, the "Captive Insurance Company Act of 2004", was introduced in Council and assigned Bill No. 15-834, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on October 5, 2004, and November 9, 2004, respectively. Signed by the Mayor on November 30, 2004, it was assigned Act No. 15-638 and transmitted to both Houses of Congress for its review. D.C. Law 15-262 became effective on March 17, 2005.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>
