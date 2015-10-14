@@ -66,29 +66,29 @@
       <level>
         <num>(E)</num>
         <text>One representative concerned with pediatric trauma care;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>One representative of a commercial ambulance service; and</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Four community representatives, including at least one person representing each of the following:</text>
         <level>
-          <num>(E)</num>
-          <text>One representative of a commercial ambulance service; and</text>
+          <num>(i)</num>
+          <text>Seniors or elders;</text>
         </level>
         <level>
-          <num>(F)</num>
-          <text>Four community representatives, including at least one person representing each of the following:</text>
-          <level>
-            <num>(i)</num>
-            <text>Seniors or elders;</text>
-          </level>
-          <level>
-            <num>(ii)</num>
-            <text>Persons with disabilities;</text>
-          </level>
-          <level>
-            <num>(iii)</num>
-            <text>The Latino community; and</text>
-          </level>
-          <level>
-            <num>(iv)</num>
-            <text>The Gay, Lesbian, Bisexual, and Transgendered community.</text>
-          </level>
+          <num>(ii)</num>
+          <text>Persons with disabilities;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>The Latino community; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>The Gay, Lesbian, Bisexual, and Transgendered community.</text>
         </level>
       </level>
     </level>
