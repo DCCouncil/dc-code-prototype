@@ -81,17 +81,6 @@
       <level>
         <num>(A)</num>
         <text>Receive compensation for negotiating, placing, or finding a mortgage loan where a mortgage broker, or any person affiliated with such mortgage broker, has otherwise acted as a real estate broker, agent, or salesperson in connection with the sale of the real estate which secures the mortgage loan and such mortgage broker or affiliated person has received or will receive any other compensation or thing of value from the lender, borrower, seller, or any other person, unless the borrower is given the following notice in writing at the time the mortgage broker's services are first offered to the borrower:</text>
-        <level type="form">
-          <text/>
-          <text class="centered"> DISCLOSURE OF DUAL CAPACITY</text>
-          <text> WE HAVE OFFERED TO ASSIST YOU IN OBTAINING A MORTGAGE LOAN. IF WE ARE SUCCESSFUL IN OBTAINING A LOAN FOR YOU, WE WILL CHARGE AND COLLECT FROM YOU A FEE NOT TO EXCEED ________ % OF THE LOAN AMOUNT. THIS FEE IS IN ADDITION TO ANY OTHER FEE WE MAY RECEIVE IN CONNECTION WITH THE SALE OR PURCHASE OF THE REAL ESTATE THAT WILL SECURE THE LOAN. WE DO NOT REPRESENT ALL OF THE LENDERS IN THE MARKET AND THE LENDERS WE DO REPRESENT MAY NOT OFFER THE LOWEST INTEREST RATES OR BEST TERMS AVAILABLE TO YOU. YOU ARE FREE TO SEEK A LOAN WITHOUT OUR ASSISTANCE, IN WHICH EVENT YOU WILL NOT BE REQUIRED TO PAY US A FEE FOR THAT SERVICE. THE BORROWER ACKNOWLEDGES HAVING READ AND UNDERSTOOD THIS DISCLOSURE OF DUAL CAPACITY AND HAVING RECEIVED A COPY HEREOF. 
- 
- ____________________________________ _____________ 
- BORROWER'S SIGNATURE DATE 
- 
- ____________________________________ _____________ 
- BROKER'S SIGNATURE DATE</text>
-        </level>
       </level>
       <level>
         <num>(B)</num>
@@ -100,6 +89,14 @@
       <level>
         <num>(C)</num>
         <text>The phrase "person affiliated with such mortgage broker" means any person which is a subsidiary, stockholder, partner, trustee, director, member, officer, or employee of a mortgage broker, and any corporation, 10% or more of the capital stock of which is owned by a mortgage broker or by any person which is a subsidiary, stockholder, partner, trustee, director, member, officer, or employee of a mortgage broker.</text>
+        <level>
+          <heading>DISCLOSURE OF DUAL CAPACITY</heading>
+        </level>
+        <text>WE HAVE OFFERED TO ASSIST YOU IN OBTAINING A MORTGAGE LOAN. IF WE ARE SUCCESSFUL IN OBTAINING A LOAN FOR YOU, WE WILL CHARGE AND COLLECT FROM YOU A FEE NOT TO EXCEED % OF THE LOAN AMOUNT. THIS FEE IS IN ADDITION TO ANY OTHER FEE WE MAY RECEIVE IN CONNECTION WITH THE SALE OR PURCHASE OF THE REAL ESTATE THAT WILL SECURE THE LOAN. WE DO NOT REPRESENT ALL OF THE LENDERS IN THE MARKET AND THE LENDERS WE DO REPRESENT MAY NOT OFFER THE LOWEST INTEREST RATES OR BEST TERMS AVAILABLE TO YOU. YOU ARE FREE TO SEEK A LOAN WITHOUT OUR ASSISTANCE, IN WHICH EVENT YOU WILL NOT BE REQUIRED TO PAY US A FEE FOR THAT SERVICE. THE BORROWER ACKNOWLEDGES HAVING READ AND UNDERSTOOD THIS DISCLOSURE OF DUAL CAPACITY AND HAVING RECEIVED A COPY HEREOF.</text>
+        <text>_________________________</text>
+        <text>BORROWER'S SIGNATURE DATE</text>
+        <text>_________________________</text>
+        <text>BROKER'S SIGNATURE DATE</text>
       </level>
     </level>
   </level>
