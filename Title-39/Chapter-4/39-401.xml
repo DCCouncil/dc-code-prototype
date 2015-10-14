@@ -13,10 +13,10 @@
   <level>
     <num>(3)</num>
     <text>"Capital costs" means the costs of materials and supplies for the construction, rehabilitation, renovation, or preparation of architectural or engineering plans for a physical facility located in the District.</text>
-    <level>
-      <num>(5)</num>
-      <text>"Economic assistance" means a loan, grant, investment, or other form of expenditure of District monies.</text>
-    </level>
+  </level>
+  <level>
+    <num>(5)</num>
+    <text>"Economic assistance" means a loan, grant, investment, or other form of expenditure of District monies.</text>
   </level>
   <level type="annotations">
     <level>
