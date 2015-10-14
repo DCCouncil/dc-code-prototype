@@ -153,14 +153,15 @@
       <num>(1)</num>
       <text>The Registry shall retain information and documents collected until the date specified by the registrant or for 99 years, whichever occurs first.</text>
     </level>
-    <level>
-      <num>(2)</num>
-      <text>) (A) Registry documents and information shall be destroyed in accordance with the District procedure for disposal of confidential information.</text>
-      <level>
-        <num>(B)</num>
-        <text>Information in the Registry may not be disclosed except as provided by this subchapter or regulations issued pursuant to this subchapter, or pursuant to a court order.</text>
-      </level>
-    </level>
+    <text>(2))</text>
+  </level>
+  <level>
+    <num>(A)</num>
+    <text>Registry documents and information shall be destroyed in accordance with the District procedure for disposal of confidential information.</text>
+  </level>
+  <level>
+    <num>(B)</num>
+    <text>Information in the Registry may not be disclosed except as provided by this subchapter or regulations issued pursuant to this subchapter, or pursuant to a court order.</text>
   </level>
   <level>
     <num>(h)</num>
