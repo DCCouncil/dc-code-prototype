@@ -19,6 +19,10 @@
     <text>"Agency" means any agency, employee, or instrumentality of the District government.</text>
   </level>
   <level>
+    <num>(2A)</num>
+    <text>"Alternative technical concept" means a proposed change to an agency-supplied base design configuration, project scope, design criterion, or construction criterion that the agency determines is equal to or better than a requirement in a request for proposals.</text>
+  </level>
+  <level>
     <num>(3)</num>
     <text>"Architectural and engineering services" means:</text>
     <level>
@@ -76,7 +80,7 @@
   </level>
   <level>
     <num>(13)</num>
-    <text>"Construction" means the process of building, altering, repairing, improving, or demolishing any public infrastructure facility, including any public structure, public building, or other public improvements of any kind to real property. The term "construction" shall not include the routine operation, routine repair, or routine maintenance of an existing public infrastructure facility, including structures, buildings, or real property.</text>
+    <text>"Construction" means the process of building, altering, repairing, improving, or demolishing any public infrastructure facility. The term "construction" does not include the routine operation, routine repair, or routine maintenance of an existing public infrastructure facility.</text>
   </level>
   <level>
     <num>(14)</num>
@@ -266,6 +270,10 @@
     <text>"Human care agreement" means a written agreement for the procurement of education, special education, health, human, or social services, pursuant to § 2-354.06, to be provided directly to individuals who have disabilities or are disadvantaged, displaced, elderly, indigent, mentally ill, physically ill, unemployed, or minors in the custody of the District.</text>
   </level>
   <level>
+    <num>(37A)</num>
+    <text>"Public infrastructure facility" includes any public structure, public building, any element of the Integrated Premium Transit System, as that term is defined in § 50-921.04(b)(2), and other public improvements of any kind to real property.</text>
+  </level>
+  <level>
     <num>(38)</num>
     <text>"Invitation for Bids" means all documents, including documents attached or incorporated by reference, used for soliciting bids pursuant to § 2-354.02.</text>
   </level>
@@ -396,15 +404,29 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 8, 2011, D.C. Law 18-371, § 104, 58 DCR 1185.)</text>
+      <text>(Apr. 8, 2011, D.C. Law 18-371, § 104, 58 DCR 1185; Feb. 26, 2015, D.C. Law 20-155, § 6034(a), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 2-351.05 and § 7-1831.03.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-155 added (2A) and (37A); and rewrote (13).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 6044(a) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 6034(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 6034(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 18-371</heading>
       <text>For history of Law 18-371, see notes under § 2-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>Law 20-155, the "Fiscal Year 2015 Budget Support Act of 2014," was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor's signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</text>
     </level>
   </level>
 </level>

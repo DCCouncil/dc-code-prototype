@@ -1,11 +1,26 @@
 <level type="section">
   <num>2-1802.05</num>
   <heading>Service.</heading>
-  <text>Any notice or order served upon a respondent or other person pursuant to this chapter may be personally served, electronically served, delivered to the respondent's or other person's last known home or business address and left with a person of suitable age and discretion residing or employed therein, or mailed to the respondent or other person by first class mail to the respondent's last known home or business address. When service is by mail, 5 additional days shall be added to the time period within which the respondent or other person may, or is required to, take any action specified in the notice or order.</text>
+  <level>
+    <num>(a)</num>
+    <text>Any notice or order served upon a respondent or other person pursuant to this chapter may be personally served, electronically served, delivered to the respondent's or other person's last known home or business address and left with a person of suitable age and discretion residing or employed therein, or mailed to the respondent or other person by first class mail to the respondent's last known home or business address. When service is by mail, 5 additional days shall be added to the time period within which the respondent or other person may, or is required to, take any action specified in the notice or order.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Where property unlawfully occupies public space, including a public right-of-way, in violation of part B of subchapter II of Chapter 3 of Title 1 [§ 1-303.21 et seq.], subchapter I of Chapter 11 of Title 10 [§ 10-1101.01 et seq.], subchapter II of Chapter 11 of Title 10 [§ 10-1121.01 et seq.], subchapter III of Chapter 11 of Title 10 [§ 10-1141.01 et seq.], Chapter 11A of Title 10 [§ 10-1181.01 et seq.], or Chapter 9A of Title 50 [§ 50-921.01 et seq.], or another law regulating the occupancy or use of public space, including the public right-of-way, and the identity or location of the property owner is unknown, service may also be made by:</text>
+    <level>
+      <num>(1)</num>
+      <text>Conspicuously posting the notice or order on the property alleged to be in violation; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Posting the information regarding the notice or order on the website of the agency issuing the notice or order.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 5, 1985, D.C. Law 6-42, § 205, 32 DCR 4450; Sept. 24, 2010, D.C. Law 18-223, § 2052, 57 DCR 6242.)</text>
+      <text>(Oct. 5, 1985, D.C. Law 6-42, § 205, 32 DCR 4450; Sept. 24, 2010, D.C. Law 18-223, § 2052, 57 DCR 6242; Mar. 11, 2015, D.C. Law 20-207, § 10, 61 DCR 12690.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -14,6 +29,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 18-223 substituted "personally served, electronically served," for "personally served,".</text>
+      <text>The 2015 amendment by D.C. Law 20-207 designated the existing text as (a); and added (b).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -28,8 +44,16 @@
       <text>For Law 18-223, see notes following § 2-218.76.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-207</heading>
+      <text>Law 20-207, the "Public Space Enforcement Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-905. The Bill was adopted on first and second readings on Oct. 28, 2014, and Nov. 18, 2014, respectively. Signed by the Mayor on Dec. 8, 2014, it was assigned Act No. 20-503 and transmitted to Congress for its review. D.C. Law 20-207 became effective on Mar. 11, 2015.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 2051 of D.C. Law 18-223 provided that subtitle E of title II of the act may be cited as the "Electronic Service of Notice Amendment Act of 2010".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-207: Section 12(a) of D.C. Law 20-207 provided that §§ 2(a), 2(b)(1), 2(b)(2)(A), 2(b)(2)(B), 2(b)(2)(C), 2(c), 3, 4, 6, 7, 8, 9, 10, and 11 shall apply as of March 11, 2015.</text>
     </level>
   </level>
 </level>

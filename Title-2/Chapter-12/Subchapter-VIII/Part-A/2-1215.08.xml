@@ -7,14 +7,17 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Board, by a 2/3 vote at a meeting called for such purposes, may adopt amendments to the BID bylaws, BID plan, and BID taxes authorized by this or any other act of the Council to reflect the changing needs of the BID corporation, which shall be duly ratified by a majority vote of the members present and voting at a regularly scheduled meeting at which a quorum is present.</text>
     <level>
       <num>(1)</num>
-      <text>Amendments shall comply with all applicable provisions of this subchapter and any regulation adopted pursuant to this subchapter.</text>
+      <text>The Board, by a [] vote at a meeting called for such purposes, may adopt amendments to the BID bylaws, BID plan, and BID taxes authorized by this or any other act of the Council to reflect the changing needs of the BID corporation, which shall be duly ratified by a majority vote of the members present or voting or voting by proxy, to the extent not otherwise provided for in BID bylaws, at a regularly scheduled meeting at which a quorum is present.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Adopted amendments to the BID plan, including, but not limited to, any proposed amendment to the BID taxes, shall be filed with the Mayor within 15 days of adoption. The Mayor may designate the Deputy City Administrator for Business Services and Economic Development to perform the review functions described by this section.</text>
+      <text>Amendments shall comply with all applicable provisions of this subchapter and any regulation adopted pursuant to this subchapter.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Adopted amendments to the BID plan, including, but not limited to, any proposed amendment to the BID taxes, shall be filed with the Mayor within 15 days of adoption. The Mayor may designate the Department of Small and Local Business Development, or a successor thereto, to perform the review functions described by this section.</text>
       <level>
         <num>(A)</num>
         <text>The Mayor shall have 30 days after receipt of a revised BID plan to review such revisions and determine if they are in conformity with the terms of this subchapter.</text>
@@ -45,14 +48,14 @@
       </level>
     </level>
     <level>
-      <num>(3)</num>
+      <num>(4)</num>
       <text>BID taxes can only be amended once annually.</text>
     </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 29, 1996, D.C. Law 11-134, § 8, 43 DCR 1684; renumbered as § 9, Oct. 8, 1997, D.C. Law 12-26, § 2, 44 DCR 4320.)</text>
+      <text>(May 29, 1996, D.C. Law 11-134, § 8, 43 DCR 1684; renumbered as § 9, Oct. 8, 1997, D.C. Law 12-26, § 2, 44 DCR 4320; Feb. 26, 2015, D.C. Law 20-161, § 2(g), 61 DCR 10741.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -63,12 +66,18 @@
       <text>1981 Ed., § 1-2278.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-161 redesignated the introductory paragraph of (b) as (b)(1), and redesignated the remaining subdivisions accordingly; substituted "present or voting or voting by proxy, to the extent not otherwise provided for in BID bylaws" for "present and voting" in (b)(1); and substituted "Department of Small and Local Business Development, or a successor thereto" for "Deputy City Administrator for Business Services and Economic Development" in (b)(3).</text>
+    </level>
+    <level>
       <heading>Temporary Amendment of Section</heading>
       <text>For temporary (225 day) amendment of section, see § 2 of the Business Improvement Districts Temporary Amendment Act of 1997 (D.C. Law 12-23, September 23, 1997, law notification 44 DCR 5762).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary amendment of section, see § 2 of the Business Improvement Districts Emergency Amendment Act of 1997 (D.C. Act 12-89, June 19, 1997, 44 DCR 3747), and § 2 of the Business Improvement Districts Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-146, August 12, 1997, 44 DCR 5054).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(g) of the Business Improvement Districts Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-582, Jan. 13, 2015, 62 DCR 1269, 21 STAT 735).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(g) of the Business Improvement Districts Emergency Amendment Act of 2014 (D.C. Act 20-435, Oct. 7, 2014, 61 DCR 10717, 20 STAT 4154).</text>
     </level>
     <level>
       <heading>Legislative History of Law 11-134</heading>
@@ -79,7 +88,11 @@
       <text>For legislative history of D.C. Law 12-26, see Historical and Statutory Notes following § 2-1215.01.</text>
     </level>
     <level>
-      <heading>Expiration of law Expiration of Law 11-134</heading>
+      <heading>Legislative History of Law 20-161</heading>
+      <text>See note to § 2-1215.01.</text>
+    </level>
+    <level>
+      <heading>Expiration of Law 11-134</heading>
       <text>See Historical and Statutory Notes following § 2-1215.01.</text>
     </level>
   </level>

@@ -35,16 +35,16 @@
       <num>(1)</num>
       <text>Whenever any applicable law or regulation requires or permits the filing in the Office of an affidavit or other writing subscribed to under oath, the subscriber, in lieu of a sworn or notarized statement, may submit a written declaration subscribed as true under penalty of perjury in substantially the following form:</text>
     </level>
-  </level>
-  <text>"I declare (or certify, verify, or state), under penalty of perjury, that the foregoing is true and correct. Executed on (date).</text>
-  <text>"(Signature)".</text>
-  <level>
-    <num>(2)</num>
-    <text>Signing such a statement shall be considered the taking of an oath or affirmation for purposes of §§ 22-2402 and 22-2404.</text>
+    <text>"I declare (or certify, verify, or state), under penalty of perjury, that the foregoing is true and correct. Executed on (date).</text>
+    <text>"(Signature)".</text>
     <level>
-      <num>(i)</num>
-      <text>No person outside the Office shall participate in or in any way influence or attempt to influence, except through the ordinary litigation process, the fair and independent decisionmaking process in an adjudicated case before the Office.</text>
+      <num>(2)</num>
+      <text>Signing such a statement shall be considered the taking of an oath or affirmation for purposes of §§ 22-2402 and 22-2404.</text>
     </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>No person outside the Office shall participate in or in any way influence or attempt to influence, except through the ordinary litigation process, the fair and independent decisionmaking process in an adjudicated case before the Office.</text>
   </level>
   <level type="annotations">
     <level>
