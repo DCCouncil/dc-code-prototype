@@ -48,15 +48,15 @@
   </level>
   <level>
     <num>(12)</num>
-    <text>Repealed.</text>
+    <text>Repealed;</text>
   </level>
   <level>
     <num>(13)</num>
-    <text>Identify systemic concerns and recommend to the State Board of Education policy changes, staff training, and strategies to improve public education; and</text>
+    <text>Identify systemic concerns and recommend to the State Board of Education policy changes, staff training, and strategies to improve public education;</text>
   </level>
   <level>
     <num>(14)</num>
-    <text>Repealed.</text>
+    <text>Repealed;</text>
   </level>
   <level>
     <num>(15)</num>
@@ -87,13 +87,17 @@
     </level>
     <level>
       <num>(G)</num>
-      <text>Recommendations that were followed, to the extent that it can be determined.</text>
+      <text>Recommendations that were followed, to the extent that it can be determined; and</text>
     </level>
+  </level>
+  <level>
+    <num>(16)</num>
+    <text>Identify school-level concerns based upon a pattern of complaints or concerns and recommend changes to improve the delivery of public education services.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 12, 2007, D.C. Law 17-9, § 604, 54 DCR 4102; Apr. 27, 2013, D.C. Law 19-284, § 3(b), 60 DCR 2312; Feb. 22, 2014, D.C. Law 20-76, § 102(b), 61 DCR 39.)</text>
+      <text>(June 12, 2007, D.C. Law 17-9, § 604, 54 DCR 4102; Apr. 27, 2013, D.C. Law 19-284, § 3(b), 60 DCR 2312; Feb. 22, 2014, D.C. Law 20-76, § 102(b), 61 DCR 39; Mar 10, 2015, D.C. Law 20-196, § 302(a), 61 DCR 12425.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -103,6 +107,7 @@
       <heading>Effect of Amendments</heading>
       <text>The 2013 amendment by D.C. Law 19-284 rewrote (12); and in the introductory language of (15), substituted "45 days" for "90 days", and substituted "Deputy Mayor for Education, the Council, the State Board of Education a report, which shall be posted on their websites" for "Deputy Mayor for Education a report".</text>
       <text>The 2014 amendment by D.C. Law 20-74 deleted the subsection (a) designation; substituted "current and prospective public school students and their parents or guardians" for "residents and parents" in (1); substituted "current and prospective public school students and their parents or guardians" for "citizens" in (3); rewrote (2), (5), (9), (10), (11), and (15); and repealed (12) and (14).</text>
+      <text>The 2015 amendment by D.C. Law 20-196 added (16) and made related changes.</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -120,6 +125,10 @@
     <level>
       <heading>Legislative History of Law 20-76</heading>
       <text>See note to § 38-351.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-196</heading>
+      <text>Law 20-196, the "Special Education Quality Improvement Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-725. The Bill was adopted on first and second readings on Oct. 7, 2014 and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 18, 2014, it was assigned Act No. 20-488 and transmitted to Congress for its review. D.C. Law 20-196 became effective on Mar. 10, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>

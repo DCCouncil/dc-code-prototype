@@ -22,12 +22,20 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Within 2 business days of a minor student's 10th unexcused absence during a school year, the educational institution shall, under the signature of the Chief of the Metropolitan Police Department, send the minor student's parent a letter notifying the parent that he or she may be in violation of the school attendance requirements under this subchapter and may be subject to prosecution.</text>
+    <text>Within 2 business days of a minor student's 10th unexcused absence during a school year, the educational institution shall send the minor's parent:</text>
+    <level>
+      <num>(1)</num>
+      <text>Information from the Chief of Police about the compulsory attendance requirements and criminal penalties for violations of this chapter; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A letter notifying the parent that he or she may be in violation of the school attendance requirements under this chapter and may be subject to prosecution.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 4, 1925, ch. 140, Art. II, § 6, as added Aug. 25, 1994, D.C. Law 10-159, § 3, 41 DCR 4884; Oct. 20, 1999, D.C. Law 13-38, § 1906, 46 DCR 6373; Aug. 16, 2008, D.C. Law 17-219, § 4014, 55 DCR 7598; Sept. 19, 2013, D.C. Law 20-17, § 101(b)(1), 60 DCR 9839.)</text>
+      <text>(Feb. 4, 1925, ch. 140, Art. II, § 6, as added Aug. 25, 1994, D.C. Law 10-159, § 3, 41 DCR 4884; Oct. 20, 1999, D.C. Law 13-38, § 1906, 46 DCR 6373; Aug. 16, 2008, D.C. Law 17-219, § 4014, 55 DCR 7598; Sept. 19, 2013, D.C. Law 20-17, § 101(b)(1), 60 DCR 9839; June 26, 2014, D.C. Law 20-117, § 17, 61 DCR 2032.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -39,6 +47,7 @@
       <text>D.C. Law 13-38 rewrote this section which formerly required a law enforcement officer to take a student or child into custody and deliver him to the appropriate school and also provided for sealing records pertaining thereto.</text>
       <text>D.C. Law 17-219 rewrote subsecs. (a)(1) and (2).</text>
       <text>The 2013 amendment by D.C. Law 20-17 added (c).</text>
+      <text>The 2014 amendment by D.C. Law 20-117 rewrote (c).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -64,8 +73,16 @@
       <text>See note to § 38-201.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-117</heading>
+      <text>Law 20-117, the "Fiscal Year 2014 Budget Support Technical Clarification Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-482. The Bill was adopted on first and second readings on December 3, 2013, and February 4, 2014, respectively. Signed by the Mayor on March 7, 2014 it was assigned Act No. 20-291 and transmitted to Congress for its review. D.C. Law 20-117 became effective on June 26, 2014.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 4013 of D.C. Law 17-219 provided that subtitle G of title IV of the act may be cited as the "Truancy Centers Amendment Act of 2008".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-117: Section 18 of D.C. Law 20-117 provided that the act shall apply as of October 1, 2013.</text>
     </level>
   </level>
 </level>

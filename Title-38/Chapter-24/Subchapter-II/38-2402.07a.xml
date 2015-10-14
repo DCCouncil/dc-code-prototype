@@ -31,7 +31,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <heading>Investments</heading>
+    <text>Investments.</text>
     <level>
       <num>(1)</num>
       <text>Except as provided in subsection (e) of this section, the University and NTID, respectively, shall invest its federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of the Internal Revenue Code of 1986, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.</text>
@@ -45,6 +45,7 @@
       <text>Neither the University nor NTID may invest its federal endowment fund corpus or income in real estate, or in instruments or securities issued by an organization in which an executive officer, a member of the Board of Trustees of the University or of the host institution, or a member of the advisory group established under § 38-2401.12 is a controlling shareholder, director, or owner within the meaning of federal securities laws and other applicable laws. Neither the University nor NTID may assign, hypothecate, encumber, or create a lien on the federal endowment fund corpus without specific written authorization of the Secretary.</text>
     </level>
   </level>
+  <text>Investments.</text>
   <level>
     <num>(d)</num>
     <heading>Withdrawals and expenditures</heading>

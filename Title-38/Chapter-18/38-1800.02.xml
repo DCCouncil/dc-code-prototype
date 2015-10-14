@@ -61,6 +61,11 @@
     <text>The term "Board of Trustees" means the governing board of a public charter school, the members of which are selected pursuant to the charter granted to the school and in a manner consistent with this chapter.</text>
   </level>
   <level>
+    <num>(6A)</num>
+    <heading>Charter school facility incubator.—</heading>
+    <text>The term "charter school facility incubator" means a nonprofit organization that uses its facility or property to house a charter school for 5 years or until the charter school can acquire its own property, whichever occurs first.</text>
+  </level>
+  <level>
     <num>(7)</num>
     <heading>Consensus Commission</heading>
     <text>The term "Consensus Commission" means the Commission on Consensus Reform in the District of Columbia public schools established under subchapter VIII of this chapter.</text>
@@ -69,6 +74,11 @@
     <num>(8)</num>
     <heading>Core curriculum</heading>
     <text>The term "core curriculum" means the concepts, factual knowledge, and skills that students in the District of Columbia should learn in kindergarten through grade 12 in academic content areas, including, at a minimum, English, mathematics, science, and history.</text>
+  </level>
+  <level>
+    <num>(8A)</num>
+    <heading>DCPS. —</heading>
+    <text>The term "DCPS" means the District of Columbia Public Schools, established by §  38-171.</text>
   </level>
   <level>
     <num>(9)</num>
@@ -214,6 +224,32 @@
     </level>
   </level>
   <level>
+    <num>(17A)</num>
+    <heading>Eligible entity. —</heading>
+    <text>The term "eligible entity" means:</text>
+    <level>
+      <num>(A)</num>
+      <text>A public charter school;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>An eligible applicant whose petition to establish a public charter school has been conditionally approved pursuant to §  38–1802.03(d)(2);</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>A Board of Trustees; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>A charter school facility incubator.</text>
+    </level>
+  </level>
+  <level>
+    <num>(17B)</num>
+    <heading>Excess. —</heading>
+    <text>The term "excess" means no longer needed for operational purposes for DCPS or another District agency.</text>
+  </level>
+  <level>
     <num>(18)</num>
     <heading>Family resource center</heading>
     <text>The term "family resource center" means an information desk:</text>
@@ -227,9 +263,19 @@
     </level>
   </level>
   <level>
+    <num>(18A)</num>
+    <heading>IDEA. —</heading>
+    <text>The term " IDEA" means the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1400et seq.), and its implementing regulations.</text>
+  </level>
+  <level>
     <num>(19)</num>
     <heading>Individual career path</heading>
     <text>The term "individual career path" means a program of study that provides a secondary school student the skills necessary to compete in the 21st century workforce.</text>
+  </level>
+  <level>
+    <num>(19A)</num>
+    <heading>Individualized education program or IEP. —</heading>
+    <text>The term "individualized education plan" or "IEP" means a written plan that specifies the special education programs and services to be provided to meet the unique educational needs of a child with a disability, as required under section 614(d) of IDEA (20 U.S. C. § 1414(d)).</text>
   </level>
   <level>
     <num>(20)</num>
@@ -345,6 +391,25 @@
     <text>The term "Public Charter School Board" means the Public Charter School Board established under § 38-1802.14.</text>
   </level>
   <level>
+    <num>(30A)</num>
+    <heading>Rehabilitation Act. —</heading>
+    <text>The term "Rehabilitation Act" means the Rehabilitation Act of 1973, approved September 26, 1973 (87 Stat. 355; 29 U.S. C. § 701et seq.).</text>
+  </level>
+  <text>et seq.</text>
+  <level>
+    <num>(30B)</num>
+    <heading>School facility. —</heading>
+    <text>The term "school facility" means a structure or real property that:</text>
+    <level>
+      <num>(A)</num>
+      <text>Is under the control of DCPS; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Was previously under the control of DCPS or the Board of Education and is now under the control of the Mayor or another agency of the District government.</text>
+    </level>
+  </level>
+  <level>
     <num>(31)</num>
     <heading>Secondary school</heading>
     <text>The term "secondary school" means an institutional day or residential school that provides secondary education, as determined by District of Columbia law, except that such term does not include any education beyond grade 12.</text>
@@ -367,7 +432,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 26, 1996, 110 Stat. 1321 226, Pub. L. 104-134, § 2002; Apr. 13, 2005, D.C. Law 15-348, § 102(a), 52 DCR 1991; Mar. 14, 2007, D.C. Law 16-268, § 4(a), 54 DCR 833; Sept. 18, 2007, D.C. Law 17-20, § 4032(a), 54 DCR 7052; July 2, 2011, D.C. Law 18-378, § 3(dd)(1), 58 DCR 1720.)</text>
+      <text>(Apr. 26, 1996, 110 Stat. 1321 226, Pub. L. 104-134, § 2002; Apr. 13, 2005, D.C. Law 15-348, § 102(a), 52 DCR 1991; Mar. 14, 2007, D.C. Law 16-268, § 4(a), 54 DCR 833; Sept. 18, 2007, D.C. Law 17-20, § 4032(a), 54 DCR 7052; July 2, 2011, D.C. Law 18-378, § 3(dd)(1), 58 DCR 1720; June 21, 2014, D.C. Law 20-114, § 2(a), 61 DCR 4669; Mar. 10, 2015, D.C. Law 20-196, § 102(a), 61 DCR 12425.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -387,6 +452,8 @@
       <text>D.C. Law 16-268 added par. (24A).</text>
       <text>D.C. Law 17-20 added par. (25A).</text>
       <text>D.C. Law 18-378, in par. (24A), substituted "Chapter 4 of Title 29" for "subchapter I of Chapter 3 of Title 29".</text>
+      <text>The 2014 amendment by D.C. Law 20-114 added (6A), (8A), (17A), (17B), and (30A).</text>
+      <text>The 2015 amendment by D.C. Law 20-196 added (18A), (19A), and (30A).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -404,7 +471,7 @@
       <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Emergency Amendment Act of 2001 (D.C. Act 14-86, July 9, 2001, 48 DCR 6373).</text>
       <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-192, November 29, 2001, 48 DCR 11239).</text>
       <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Emergency Amendment Act of 2003 (D.C. Act 15-174, October 6, 2003, 50 DCR 9181).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-282, December 18, 2003, 51 DCR 191).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-282, December 18, 2003 51 DCR 191).</text>
       <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Emergency Amendment Act of 2004 (D.C. Act 15-519, August 2, 2004, 51 DCR 8995).</text>
       <text>For temporary (90 day) amendment of section, see § 4032(a) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
     </level>
@@ -431,6 +498,14 @@
     <level>
       <heading>Legislative History of Law 18-378</heading>
       <text>For history of Law 18-378, see notes under § 38-1202.08.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-114</heading>
+      <text>Law 20-114, the "Comprehensive Planning and Utilization of School Facilities Act of 2013," was introduced in Council and assigned Bill No. 20-313. The Bill was adopted on first and second readings on Mar. 4, 2014, and April 8, 2014, respectively. Signed by the Mayor on April 28, 2014, it was assigned Act No. 20-319 and transmitted to Congress for its review. D.C. Law 20-114 became effective on June 21. 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-196</heading>
+      <text>Law 20-196, the "Special Education Quality Improvement Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-725. The Bill was adopted on first and second readings on Oct. 7, 2014 and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 18, 2014, it was assigned Act No. 20-488 and transmitted to Congress for its review. D.C. Law 20-196 became effective on Mar. 10, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>

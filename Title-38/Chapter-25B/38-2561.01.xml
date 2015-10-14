@@ -40,7 +40,7 @@
   </level>
   <level>
     <num>(2)</num>
-    <text>"DCPS" means the public local education system under the control of the Board of Education. The term "DCPS" does not include public charter schools.</text>
+    <text>"DCPS" means the District of Columbia Public Schools, established by § 38-171.</text>
   </level>
   <level>
     <num>(3)</num>
@@ -59,7 +59,7 @@
     </level>
     <level>
       <num>(D)</num>
-      <text>Are provided in conformity with the individualized education plan.</text>
+      <text>Are provided in conformity with the individualized education program.</text>
     </level>
   </level>
   <level>
@@ -68,7 +68,7 @@
   </level>
   <level>
     <num>(5)</num>
-    <text>"Individualized education plan" or "IEP" means a written plan that specifies the special education programs and services to be provided to meet the unique educational needs of a student with a disability, as required under section 614(d) of the IDEA [20 U.S.C. § 1414(d)].</text>
+    <text>"Individualized education program" or "IEP" means a written plan that specifies the special education programs and services to be provided to meet the unique educational needs of a student with a disability, as required under section 614(d) of the IDEA [20 U.S.C. § 1414(d)].</text>
   </level>
   <level>
     <num>(6)</num>
@@ -91,6 +91,10 @@
     </level>
   </level>
   <level>
+    <num>(6A)</num>
+    <text>"Local education agency" or "LEA" means an educational institution at the local level that exists primarily to operate a publicly funded school or schools in the District of Columbia, including the District of Columbia Public Schools and a District of Columbia public charter school.</text>
+  </level>
+  <level>
     <num>(7)</num>
     <level>
       <num>(A)</num>
@@ -104,6 +108,10 @@
   <level>
     <num>(8)</num>
     <text>"Panel" means the Rate Reconsideration Panel established by § 38-2561.14.</text>
+  </level>
+  <level>
+    <num>(8A)</num>
+    <text>"Public charter school" means a publicly funded public school established pursuant to Chapter 18 of this title [§ 38-1800 et seq.], and is not part of DCPS.</text>
   </level>
   <level>
     <num>(9)</num>
@@ -188,12 +196,13 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 14, 2007, D.C. Law 16-269, § 101, 54 DCR 841; Mar. 20, 2009, D.C. Law 17-304, § 2(a), 55 DCR 12806; Sept. 26, 2012, D.C. Law 19-169, § 25, 59 DCR 5567.)</text>
+      <text>(Mar. 14, 2007, D.C. Law 16-269, § 101, 54 DCR 841; Mar. 20, 2009, D.C. Law 17-304, § 2(a), 55 DCR 12806; Sept. 26, 2012, D.C. Law 19-169, § 25, 59 DCR 5567; Mar. 10, 2015, D.C. Law 20-195, § 202(a), 61 DCR 12419.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-304 redesignated former par. (1) as par. (1A); added par. (1); and, in par. (13), substituted "Office of the State Superintendent of Education," for "District of Columbia Public Schools,".</text>
       <text>The 2012 amendment by D.C. Law 19-169 substituted "An intellectual disability" for "Mental retardation" in (14)(E).</text>
+      <text>The 2015 amendment by D.C. Law 20-195 rewrote (2); substituted "program" for "plan" in (3)(D); substituted "Individualized education program" for "Individualized education plan" in (5); added (6A); and added (8A).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -210,6 +219,10 @@
     <level>
       <heading>Legislative History of Law 19-169</heading>
       <text>Law 19-169, the "People First Respectful Language Modernization Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-189. The Bill was adopted on first and second readings on Mar. 6, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 15, 2012, it was assigned Act No. 19-361 and transmitted to Congress for its review. D.C. Law 19-169 became effective on Sept. 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-195</heading>
+      <text>Law 20-195, the "Enhanced Special Education Services Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-724. The Bill was adopted on first and second readings on Oct. 7, 2014 and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 18, 2014, it was assigned Act No. 20-487 and transmitted to Congress for its review. D.C. Law 20-195 became effective on Mar. 10, 2015.</text>
     </level>
     <level>
       <heading>References in Text</heading>

@@ -60,23 +60,20 @@
     </level>
   </level>
   <level>
-    <num>(d)</num>
+    <num>(1)</num>
+    <text>The Chief Financial Officer shall provide authority to obligate funds to the OFM to modernize and make capital improvements to District of Columbia Public Schools under this chapter if:</text>
     <level>
-      <num>(1)</num>
-      <text>The Chief Financial Officer shall provide authority to obligate funds to the OFM to modernize and make capital improvements to District of Columbia Public Schools under this chapter if:</text>
-      <level>
-        <num>(A)</num>
-        <text>The Facilities Master Plan is submitted as required by subsection (b) of this section and certified as required by paragraph (2) of this subsection; or</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>The work program is submitted as required by subsection (c) or subsection (c-1) of this section, if applicable, of this section and certified as required by paragraph (2) of this subsection.</text>
-      </level>
+      <num>(A)</num>
+      <text>The Facilities Master Plan is submitted as required by subsection (b) of this section and certified as required by paragraph (2) of this subsection; or</text>
     </level>
     <level>
-      <num>(2)</num>
-      <text>The Chief Financial Officer shall transfer funds pursuant to this section only upon receipt of written certification from the Secretary to the Council of the District of Columbia that the requirements of § 38-2973.03 have been met.</text>
+      <num>(B)</num>
+      <text>The work program is submitted as required by subsection (c) or subsection (c-1) of this section, if applicable, of this section and certified as required by paragraph (2) of this subsection.</text>
     </level>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>The Chief Financial Officer shall transfer funds pursuant to this section only upon receipt of written certification from the Secretary to the Council of the District of Columbia that the requirements of § 38-2973.03 have been met.</text>
   </level>
   <level type="annotations">
     <level>
