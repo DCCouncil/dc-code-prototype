@@ -193,18 +193,18 @@
       <level>
         <num>(D)</num>
         <text>"Remuneration" means a member's wages as defined in section 3401(a) of the Internal Revenue Code of 1986 and other payments of salary to the member from the District, for which the District is required to furnish the member a written statement under sections 6041(d) and 6051(a)(3) of the Internal Revenue Code of 1986. For this purpose:</text>
-        <level>
-          <num>(A)</num>
-          <text>Remuneration shall be determined without regard to rules that limit the remuneration included in wages based on the nature or location of the employment or the services performed.</text>
-        </level>
-        <level>
-          <num>(B)</num>
-          <text>Remuneration shall include an amount that would otherwise be deemed remuneration under this definition but for the fact that it is subject to a salary reduction agreement under a plan described in sections 457(b), 132(f) or 125 of the Internal Revenue Code of 1986.</text>
-        </level>
-        <level>
-          <num>(C)</num>
-          <text>Remuneration with respect to any limitation year shall in no event exceed the dollar limit specified in section 401(a)(17) of the Internal Revenue Code of 1986, as adjusted from time to time by the Secretary of the Treasury. The cost-of-living adjustment in effect for a calendar year applies to remuneration for the limitation year that begins with or within such calendar year.</text>
-        </level>
+      </level>
+      <level>
+        <num>(A)</num>
+        <text>Remuneration shall be determined without regard to rules that limit the remuneration included in wages based on the nature or location of the employment or the services performed.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Remuneration shall include an amount that would otherwise be deemed remuneration under this definition but for the fact that it is subject to a salary reduction agreement under a plan described in sections 457(b), 132(f) or 125 of the Internal Revenue Code of 1986.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Remuneration with respect to any limitation year shall in no event exceed the dollar limit specified in section 401(a)(17) of the Internal Revenue Code of 1986, as adjusted from time to time by the Secretary of the Treasury. The cost-of-living adjustment in effect for a calendar year applies to remuneration for the limitation year that begins with or within such calendar year.</text>
       </level>
     </level>
   </level>

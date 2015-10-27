@@ -136,32 +136,32 @@
       <level>
         <num>(A)</num>
         <text>No premium pay provided by this section shall be paid to, and no compensatory time is authorized for, any officer or member of the United States Park Police whose rate of basic pay, combined with any applicable locality-based comparability payment, equals or exceeds the lesser of:</text>
+        <level>
+          <num>(i)</num>
+          <text>One hundred-fifty percent of the minimum rate payable for grade GS-15 of the General Schedule (including any applicable locality-based comparability payment under section 5304 of title 5, United States Code or any similar provision of law, and any applicable special rate of pay under section 5305 of title 5, United States Code or any similar provision of law); or</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The rate of payable for level V of the Executive Schedule contained in subchapter II of chapter 3 of title 5, United States Code.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>In the case of any officer or member of the United States Park Police whose rate of basic pay, combined with any applicable locality-based comparability payment, is less than the lesser of—</text>
+        <level>
+          <num>(i)</num>
+          <text>One hundred-fifty percent of the minimum rate payable for grade GS-15 of the General Schedule (including any applicable locality-based comparability payment under section 5304 of title 5, United States Code or any similar provision of law, and any applicable special rate of pay under section 5305 of title 5, United States Code or any similar provision of law); or</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The rate payable for level V of the Executive Schedule contained in subchapter II of chapter 53 of title 5, United States Code, such premium pay may be paid only to the extent that such payment would not cause such officer or member's aggregate rate of compensation to exceed such lesser amount with respect to any pay period.</text>
+        </level>
       </level>
     </level>
   </level>
   <level>
     <num>(i)</num>
-    <text>One hundred-fifty percent of the minimum rate payable for grade GS-15 of the General Schedule (including any applicable locality-based comparability payment under section 5304 of title 5, United States Code or any similar provision of law, and any applicable special rate of pay under section 5305 of title 5, United States Code or any similar provision of law); or</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>The rate of payable for level V of the Executive Schedule contained in subchapter II of chapter 3 of title 5, United States Code.</text>
-    <level>
-      <num>(B)</num>
-      <text>In the case of any officer or member of the United States Park Police whose rate of basic pay, combined with any applicable locality-based comparability payment, is less than the lesser of -</text>
-      <level>
-        <num>(i)</num>
-        <text>One hundred-fifty percent of the minimum rate payable for grade GS-15 of the General Schedule (including any applicable locality-based comparability payment under section 5304 of title 5, United States Code or any similar provision of law, and any applicable special rate of pay under section 5305 of title 5, United States Code or any similar provision of law); or</text>
-      </level>
-      <level>
-        <num>(ii)</num>
-        <text>The rate payable for level V of the Executive Schedule contained in subchapter II of chapter 53 of title 5, United States Code, such premium pay may be paid only to the extent that such payment would not cause such officer or member's aggregate rate of compensation to exceed such lesser amount with respect to any pay period.</text>
-        <level>
-          <num>(i)</num>
-          <text>Each authorizing official is authorized to promulgate such regulations and issue such orders as are necessary to carry out the intent and purpose of this section, and to delegate to a designated agent or agents any of the functions vested in the authorizing official by this section.</text>
-        </level>
-      </level>
-    </level>
+    <text>Each authorizing official is authorized to promulgate such regulations and issue such orders as are necessary to carry out the intent and purpose of this section, and to delegate to a designated agent or agents any of the functions vested in the authorizing official by this section.</text>
   </level>
   <level type="annotations">
     <level>
