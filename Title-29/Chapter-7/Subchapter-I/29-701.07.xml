@@ -92,14 +92,14 @@
       <num>(17)</num>
       <text>Vary any requirement, procedure, or other provision of this title pertaining to:</text>
       <level>
-        <num>(A)</num>
-        <text>Registered agents; or</text>
-      </level>
-      <level>
         <num>(B)</num>
         <text>The Mayor, including provisions pertaining to records authorized or required to be delivered to the Mayor for filing under this title.</text>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(A)</num>
+    <text>Registered agents; or</text>
   </level>
   <level>
     <num>(c)</num>

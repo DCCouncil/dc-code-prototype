@@ -4,10 +4,6 @@
   <level>
     <num>(a)</num>
     <text>The legality of a proposed or completed corporate action described in § 29-311.02(a) shall not be contested and the corporate action shall not be enjoined, set aside, or rescinded, in a legal or equitable proceeding by a shareholder after the shareholders have approved the corporate action.</text>
-  </level>
-  <level>
-    <num>(b)</num>
-    <text>Subsection (a) of this section shall not apply to a corporate action that:</text>
     <level>
       <num>(1)</num>
       <text>Was not authorized and approved in accordance with the applicable provisions of:</text>
@@ -44,6 +40,10 @@
         <text>The proceeding challenging the corporate action is commenced within 10 days after notice of the approval of the corporate action is effective as to the shareholder bringing the proceeding.</text>
       </level>
     </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Subsection (a) of this section shall not apply to a corporate action that:</text>
   </level>
   <level type="annotations">
     <level>

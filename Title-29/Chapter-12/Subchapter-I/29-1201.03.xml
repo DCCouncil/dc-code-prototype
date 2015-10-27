@@ -24,6 +24,10 @@
   <level>
     <num>(d)</num>
     <text>The governing instrument may be amended with the approval of all the beneficial owners.</text>
+    <level>
+      <num>(16)</num>
+      <text>Limit the duration of the statutory trust.</text>
+    </level>
   </level>
   <level>
     <num>(e)</num>
@@ -159,10 +163,6 @@
     <level>
       <num>(15)</num>
       <text>Grant to, or withhold from, a trustee or beneficial owner, or class of trustees or beneficial owners, the right to vote, separately or with any or all other trustees or beneficial owners, or class of trustees or beneficial owners, on any matter; and</text>
-    </level>
-    <level>
-      <num>(16)</num>
-      <text>Limit the duration of the statutory trust.</text>
     </level>
   </level>
   <level type="annotations">

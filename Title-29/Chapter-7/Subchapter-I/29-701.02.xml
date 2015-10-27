@@ -13,22 +13,6 @@
   <level>
     <num>(3)</num>
     <text>"Distribution" means a transfer of money or other property from a limited partnership to a person on account of a transferable interest or in the person's capacity as a partner.</text>
-    <level>
-      <num>(A)</num>
-      <text>The term includes:</text>
-      <level>
-        <num>(i)</num>
-        <text>A redemption or other purchase by a limited partnership of a transferable interest; and</text>
-      </level>
-      <level>
-        <num>(ii)</num>
-        <text>A transfer to a partner in return for the partner's relinquishment of any right to participate as a partner in the management or conduct of the partnership's activities and affairs or to have access to records or other information concerning the partnership's activities and affairs; and</text>
-      </level>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>The term does not include amounts constituting reasonable compensation for present or past service or payments made in the ordinary course of business under a bona fide retirement plan or other bona fide benefits program.</text>
-    </level>
   </level>
   <level>
     <num>(4)</num>
@@ -109,6 +93,22 @@
   <level>
     <num>(15)</num>
     <text>"Transferee" means a person to which all or part of a transferable interest has been transferred, whether or not the transferor is a partner. The term includes a person that owns a transferable interest under § 29-706.02(a)(3) or § 29-706.05(a)(5).</text>
+    <level>
+      <num>(A)</num>
+      <text>The term includes:</text>
+      <level>
+        <num>(i)</num>
+        <text>A redemption or other purchase by a limited partnership of a transferable interest; and</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>A transfer to a partner in return for the partner's relinquishment of any right to participate as a partner in the management or conduct of the partnership's activities and affairs or to have access to records or other information concerning the partnership's activities and affairs; and</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The term does not include amounts constituting reasonable compensation for present or past service or payments made in the ordinary course of business under a bona fide retirement plan or other bona fide benefits program.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
@@ -129,7 +129,7 @@
     </level>
     <level>
       <heading>Legislative History of Law 19-210</heading>
-      <text>Law 19-210, the "'District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
+      <text>Law 19-210, the '"District of Columbia Official Code Title 29 Technical and Harmonizing Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-532. The Bill was adopted on first and second readings on July 10, 2012, and Oct. 2, 2012, respectively. Signed by the Mayor on Oct. 31, 2012, it was assigned Act No. 19-512 and transmitted to Congress for its review. D.C. Law 19-210 became effective on Mar. 5, 2013.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

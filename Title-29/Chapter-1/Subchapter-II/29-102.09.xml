@@ -24,10 +24,10 @@
       <num>(2)</num>
       <text>The person to deliver the record to the Mayor for filing; or</text>
     </level>
-    <level>
-      <num>(3)</num>
-      <text>The Mayor to file the record unsigned.</text>
-    </level>
+  </level>
+  <level>
+    <num>(3)</num>
+    <text>The Mayor to file the record unsigned.</text>
   </level>
   <level>
     <num>(e)</num>

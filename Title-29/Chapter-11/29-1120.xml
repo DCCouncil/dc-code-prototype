@@ -20,10 +20,10 @@
   <level>
     <num>(5)</num>
     <text>Participation by managers in a manager meeting by telephone or other means of electronic communication.</text>
-    <level>
-      <num>(b)</num>
-      <text>If the governing principles do not provide for a matter described in subsection (a) of this section, customary usages and principles of parliamentary law and procedure apply.</text>
-    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>If the governing principles do not provide for a matter described in subsection (a) of this section, customary usages and principles of parliamentary law and procedure apply.</text>
   </level>
   <level type="annotations">
     <level>
