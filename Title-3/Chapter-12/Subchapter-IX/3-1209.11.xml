@@ -62,18 +62,15 @@
     <text>A person shall not practice as a speech-language pathology clinical fellow or use the title of speech-language pathology clinical fellow unless he or she:</text>
     <level>
       <num>(1)</num>
-      <level>
-        <num>(1)</num>
-        <text>Is registered with the Board to practice as a speech-language pathology clinical fellow under this chapter;</text>
-      </level>
-      <level>
-        <num>(2)</num>
-        <text>Practices under the supervision of a licensed speech-language pathologist, except as provided for in subsection (e)(1) of this section; and</text>
-      </level>
-      <level>
-        <num>(3)</num>
-        <text>Wears a name tag bearing the title "speech-language pathology clinical fellow" while acting in a professional capacity and displays his or her current registration in a conspicuous place in the office where the speech-language pathology clinical fellow is employed.</text>
-      </level>
+      <text>(1) Is registered with the Board to practice as a speech-language pathology clinical fellow under this chapter;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Practices under the supervision of a licensed speech-language pathologist, except as provided for in subsection (e)(1) of this section; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Wears a name tag bearing the title "speech-language pathology clinical fellow" while acting in a professional capacity and displays his or her current registration in a conspicuous place in the office where the speech-language pathology clinical fellow is employed.</text>
     </level>
   </level>
   <level>

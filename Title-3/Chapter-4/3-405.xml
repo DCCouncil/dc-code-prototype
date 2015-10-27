@@ -197,7 +197,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Each application for a funeral director's and apprentice funeral director's license shall be accompanied by a recent photograph of the applicant's face, measuring approximately 1" x 1<span style="font-style: italic; ">1</span>/<span style="">2</span>".</text>
+      <text>Each application for a funeral director's and apprentice funeral director's license shall be accompanied by a recent photograph of the applicant's face, measuring approximately 1 x 11/2.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -248,32 +248,32 @@
       <level>
         <num>(C)</num>
         <text>The oral portion of the funeral director's license examination shall consist of questions on District and federal laws and regulations governing the practice of funeral directing, including, but not limited to, the following subjects:</text>
+        <level>
+          <num>(i)</num>
+          <text>The Anatomical Board, human tissue banks, and anatomical gifts;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Vital statistics and containers for cremated human remains;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Trafficking in dead bodies;</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Cemeteries and crematories;</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>Licensing of funeral directors; and</text>
+        </level>
+        <level>
+          <num>(vi)</num>
+          <text>Penalty provisions.</text>
+        </level>
       </level>
     </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <text>The Anatomical Board, human tissue banks, and anatomical gifts;</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>Vital statistics and containers for cremated human remains;</text>
-  </level>
-  <level>
-    <num>(iii)</num>
-    <text>Trafficking in dead bodies;</text>
-  </level>
-  <level>
-    <num>(iv)</num>
-    <text>Cemeteries and crematories;</text>
-  </level>
-  <level>
-    <num>(v)</num>
-    <text>Licensing of funeral directors; and</text>
-  </level>
-  <level>
-    <num>(vi)</num>
-    <text>Penalty provisions.</text>
     <level>
       <num>(5)</num>
       <text>The oral portion of the funeral director's license examination shall be administered to an applicant in the presence of 2 or more members of the Board, at least 2 of whom shall be licensed funeral directors.</text>
@@ -289,28 +289,28 @@
     <level>
       <num>(8)</num>
       <text>The Mayor shall monitor the implementation of the nationally approved examination for a funeral director's license to ensure that there are no anticompetitive or discriminatory effects. If the Mayor reasonably determines by rulemaking that the examination is producing anticompetitive or discriminatory effects, the Mayor shall develop a local examination and, after proper notice and publication, shall substitute it for the nationally approved examination.</text>
+    </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <level>
+      <num>(1)</num>
+      <text>The Board may issue a license to practice as a funeral director in the District to an applicant who is licensed by another state by waiver of the examination and apprenticeship requirements of subsection (a) of this section.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>An applicant for a license to practice as a funeral director in the District shall furnish proof to the Board that he or she:</text>
       <level>
-        <num>(i)</num>
-        <level>
-          <num>(1)</num>
-          <text>The Board may issue a license to practice as a funeral director in the District to an applicant who is licensed by another state by waiver of the examination and apprenticeship requirements of subsection (a) of this section.</text>
-        </level>
-        <level>
-          <num>(2)</num>
-          <text>An applicant for a license to practice as a funeral director in the District shall furnish proof to the Board that he or she:</text>
-          <level>
-            <num>(A)</num>
-            <text>Is currently licensed in good standing as a funeral director in a state or territory of the United States with requirements for licensure that are substantially similar to those in effect in the District;</text>
-          </level>
-          <level>
-            <num>(B)</num>
-            <text>Has practiced continuously in the state or territory of licensure as a funeral director for at least 5 years preceding his or her application; and</text>
-          </level>
-          <level>
-            <num>(C)</num>
-            <text>Meets the qualifications specified in subsection (a)(1), (2), (5), and (6) of this section.</text>
-          </level>
-        </level>
+        <num>(A)</num>
+        <text>Is currently licensed in good standing as a funeral director in a state or territory of the United States with requirements for licensure that are substantially similar to those in effect in the District;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Has practiced continuously in the state or territory of licensure as a funeral director for at least 5 years preceding his or her application; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Meets the qualifications specified in subsection (a)(1), (2), (5), and (6) of this section.</text>
       </level>
     </level>
   </level>

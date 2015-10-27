@@ -56,23 +56,23 @@
       <level>
         <num>(A)</num>
         <text>Require that all collaborative practice agreements include:</text>
+        <level>
+          <num>(i)</num>
+          <text>Specification of the drug therapy to be provided and any tests that may be necessarily incident to its provision;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The conditions for initiating, modifying, or discontinuing a drug therapy; and</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Directions concerning the monitoring of a drug therapy, including the conditions that would warrant a modification to the dose, dosage regime, or dosage form of the drug therapy; and</text>
+        </level>
       </level>
-    </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <text>Specification of the drug therapy to be provided and any tests that may be necessarily incident to its provision;</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>The conditions for initiating, modifying, or discontinuing a drug therapy; and</text>
-  </level>
-  <level>
-    <num>(iii)</num>
-    <text>Directions concerning the monitoring of a drug therapy, including the conditions that would warrant a modification to the dose, dosage regime, or dosage form of the drug therapy; and</text>
-    <level>
-      <num>(B)</num>
-      <text>Establish policies and procedures for approving, disapproving, and revoking collaborative practice agreements.</text>
+      <level>
+        <num>(B)</num>
+        <text>Establish policies and procedures for approving, disapproving, and revoking collaborative practice agreements.</text>
+      </level>
     </level>
   </level>
   <level type="annotations">
