@@ -11,11 +11,11 @@
     <level>
       <num>(2)</num>
       <text>International Plumbing Code/1995;</text>
-      <level>
-        <num>(a)</num>
-        <text>The Mayor shall establish and maintain a searchable electronic database available through the Internet that, at a minimum, contains the Construction Codes Supplement, set forth in Title 12 of the District of Columbia Municipal Regulations, and any amendments made thereto, to the:</text>
-      </level>
     </level>
+  </level>
+  <level>
+    <num>(a)</num>
+    <text>The Mayor shall establish and maintain a searchable electronic database available through the Internet that, at a minimum, contains the Construction Codes Supplement, set forth in Title 12 of the District of Columbia Municipal Regulations, and any amendments made thereto, to the:</text>
     <level>
       <num>(3)</num>
       <text>International Mechanical Code/1996;</text>
@@ -69,6 +69,10 @@
     <level>
       <heading>Legislative History of Law 14-162</heading>
       <text>For Law 14-162, see notes following § 6-1401.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-289</heading>
+      <text>See note to § 6-1403.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

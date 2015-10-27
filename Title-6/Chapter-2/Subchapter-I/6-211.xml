@@ -18,7 +18,8 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>One <span style="font-style: italic; ">ex officio </span>Commissioner, the Deputy Mayor for Planning and Economic Development;</text>
+      <text>One ex officio Commissioner, the Deputy Mayor for Planning and Economic Development;</text>
+      <text>ex officio</text>
     </level>
     <level>
       <num>(4)</num>
@@ -63,7 +64,8 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>The <span style="font-style: italic; ">ex-officio </span>Commissioner shall serve by virtue of his or her incumbency in a District government office.</text>
+    <text>The ex-officio Commissioner shall serve by virtue of his or her incumbency in a District government office.</text>
+    <text>ex-officio</text>
   </level>
   <level>
     <num>(g)</num>
@@ -106,7 +108,8 @@
   </level>
   <level>
     <num>(m)</num>
-    <text>The Mayor shall designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as Chairperson. The <span style="font-style: italic; ">ex officio </span>Commissioner shall not be appointed as Chairperson. The Chairperson shall conduct the meetings of the Board in accordance with procedures established by the Board.</text>
+    <text>The Mayor shall designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as Chairperson. The ex officio Commissioner shall not be appointed as Chairperson. The Chairperson shall conduct the meetings of the Board in accordance with procedures established by the Board.</text>
+    <text>ex officio</text>
   </level>
   <level>
     <num>(n)</num>
@@ -122,7 +125,8 @@
   </level>
   <level>
     <num>(q)</num>
-    <text>Other than the <span style="font-style: italic; ">ex officio </span>Commissioner and the labor representative who is a Commissioner, no person shall serve as a Commissioner who is an employee of the Authority or of the District government; a member of any District board or commission (including those that are purely advisory, except for Advisory Neighborhood Commissions); a spouse or domestic partner of the head of a District department or agency; a spouse or domestic partner of an Authority employee; a spouse or domestic partner of an elected official; or a parent or child of any of the above persons.</text>
+    <text>Other than the ex officio Commissioner and the labor representative who is a Commissioner, no person shall serve as a Commissioner who is an employee of the Authority or of the District government; a member of any District board or commission (including those that are purely advisory, except for Advisory Neighborhood Commissions); a spouse or domestic partner of the head of a District department or agency; a spouse or domestic partner of an Authority employee; a spouse or domestic partner of an elected official; or a parent or child of any of the above persons.</text>
+    <text>ex officio</text>
   </level>
   <level>
     <num>(r)</num>
@@ -187,6 +191,7 @@
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90-day) addition of section, see notes following § 6-201.</text>
+      <text>For temporary (90 days) amendment of this section, see § 254(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-105</heading>
