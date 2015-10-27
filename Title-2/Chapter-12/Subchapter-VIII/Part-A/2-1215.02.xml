@@ -60,7 +60,7 @@
   </level>
   <level>
     <num>(8)</num>
-    <text>"BID tax" means an additional real property tax assessed and levied by the District on, and payable by, the owners of nonexempt properties in a Business Improvement District subject to the BID certification processes of this subchapter.</text>
+    <text>"BID tax" means an additional real property tax or possessory interest tax assessed and levied by the District on, and payable by, the owners of taxable properties or holders of a possessory interest in a Business Improvement District subject to the BID certification processes of this subchapter.</text>
   </level>
   <level>
     <num>(9)</num>
@@ -68,7 +68,7 @@
   </level>
   <level>
     <num>(10)</num>
-    <text>"Commercial tenant" means a lessee, or other lawful occupant, of nonexempt real property within a BID who is not an owner and who conducts a lawful commercial use as defined in the Zoning Regulations of the District.</text>
+    <text>"Commercial tenant" means a lessee, or other lawful occupant, of taxable real property within a BID who is not an owner and who conducts a lawful commercial use as defined in the Zoning Regulations of the District.</text>
   </level>
   <level>
     <num>(11)</num>
@@ -92,39 +92,27 @@
   </level>
   <level>
     <num>(16)</num>
-    <text>"Member" means a member of the BID Corporation, the membership of which shall be comprised of each owner and each commercial tenant in the BID area, each person who becomes a member pursuant to § 2-1215.21, and, in the case of the Mount Vernon Business Improvement District, each residential tenant in the BID area.</text>
+    <text>"Member" means a member of the BID Corporation, the membership of which shall be comprised of each owner of taxable property and each commercial tenant in the BID area, and each owner who becomes a member pursuant to § 2-1215.21.</text>
   </level>
   <level>
     <num>(17)</num>
     <text>"Member of record" means a member that the BID is reasonably able to identify from District of Columbia property tax records or from other reasonably available sources.</text>
   </level>
   <level>
+    <num>(17A)</num>
+    <text>"Net rentable square feet" means the number of net rentable square feet reported to, or on record with, the Office of Tax and Revenue.</text>
+  </level>
+  <level>
     <num>(18)</num>
-    <text>"Nonexempt real property" means real property that is not exempt from paying real property taxes pursuant to Chapter 10 of Title 47 [§ 47-1001 et seq.], is not residential property, and is not the residential portion of a property used for both residential and nonresidential purposes; except, in the case of the Mount Vernon Triangle BID, NoMa BID, or Capitol Riverfront BID, "nonexempt real property" means real property that is neither:</text>
-    <level>
-      <num>(A)</num>
-      <text>Exempt from paying real property taxes pursuant to Chapter 10 of Title 47 [§ 47-1001 et seq.];</text>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>A residential building where, upon March 17, 2005, 90% or more of the leased units are restricted to households with at least one individual of 62 years of age or older and all individuals of 55 years of age or older;</text>
-    </level>
-    <level>
-      <num>(C)</num>
-      <text>A residential building where, upon March 17, 2005, 20% or more of the units are subject to a contract for project-based assistance under Section 8 of the United States Housing Act of 1937; nor</text>
-    </level>
-    <level>
-      <num>(D)</num>
-      <text>A residential building with fewer than ten residential units.</text>
-    </level>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(19)</num>
-    <text>"Owner" means an owner of nonexempt real property.</text>
+    <text>"Owner" means an owner of taxable property.</text>
   </level>
   <level>
     <num>(20)</num>
-    <text>"Owner's property" means an owner's nonexempt real property located within a BID.</text>
+    <text>"Owner's property" means an owner's taxable property located within a BID.</text>
   </level>
   <level>
     <num>(21)</num>
@@ -136,12 +124,44 @@
   </level>
   <level>
     <num>(23)</num>
-    <text>"Residential tenant" means a lessee, or other lawful occupant, of nonexempt real property within a BID who is not an owner and who conducts a lawful residential use as defined in the Zoning Regulations of the District.</text>
+    <text>"Residential tenant" means a lessee, or other lawful occupant, of taxable property within a BID who is not an owner and who conducts a lawful residential use as defined in the Zoning Regulations of the District.</text>
+  </level>
+  <level>
+    <num>(24)</num>
+    <text>"Taxable property" means real property subject to real property taxation or real property for which a holder of a possessory interest is subject to possessory interest taxation, including:</text>
+    <level>
+      <num>(A)</num>
+      <text>Class 2, Class 3, and Class 4 Property, as defined in § 47-813, located within any BID, excluding the properties exempt from real property taxes pursuant to Chapters 10 or 46 of Title 47 [§ 47-1001 et seq. or § 47-4601 et seq.];</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Class 1 Property, as defined in § 47-813, for the Mount Vernon Triangle, NoMa, and Capitol Riverfront BIDs, excluding:</text>
+      <level>
+        <num>(i)</num>
+        <text>Real property improved by a residential building where 90% or more of the leased units are households with at least one member who is 62 years of age or older and all members are 55 years of age or older;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Real property improved by a residential building where 20% or more of the units are subject to a contract for project-based assistance under section 8 of the United States Housing Act of 1937, approved August 22, 1974 (88 Stat. 662; 42 U.S.C. § 1437f);</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Real property improved by a residential building with fewer than 10 dwelling units, as defined in § 47-813(d)(3); and</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Real property exempt from paying real property taxes pursuant to Chapters 10 or 46 of Title 47 [§ 47-1001 et seq. or § 47-4601 et seq.]; or</text>
+      </level>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Real property belonging to government and international organizations, including a leasehold interest, possessory interest, beneficial interest, or beneficial use of real property, as provided in § 47-1005.01(b), for periods beginning after September 30, 2014, where the real property would be taxable under subparagraphs (A) or (B) of this paragraph if not exempt or immune from real property taxation resulting in the possessory interest being taxable under § 47-1005.01, except where a payment in lieu of tax agreement has been negotiated and payments related to the agreement are current.</text>
+    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 29, 1996, D.C. Law 11-134, § 2, 43 DCR 1684; renumbered as § 3, Oct. 8, 1997, D.C. Law 12-26, § 2, 44 DCR 4320; Mar. 24, 1998, D.C. Law 12-81, § 4, 45 DCR 745; Mar. 17, 2005, D.C. Law 15-257, § 2(b), 52 DCR 1161; Apr. 7, 2006, D.C. Law 16-91, § 140(a), 52 DCR 10637; Mar. 8, 2007, D.C. Law 16-245, § 2(a), 54 DCR 615; Oct. 18, 2007, D.C. Law 17-27, § 2(a), 54 DCR 8020.)</text>
+      <text>(May 29, 1996, D.C. Law 11-134, § 2, 43 DCR 1684; renumbered as § 3, Oct. 8, 1997, D.C. Law 12-26, § 2, 44 DCR 4320; Mar. 24, 1998, D.C. Law 12-81, § 4, 45 DCR 745; Mar. 17, 2005, D.C. Law 15-257, § 2(b), 52 DCR 1161; Apr. 7, 2006, D.C. Law 16-91, § 140(a), 52 DCR 10637; Mar. 8, 2007, D.C. Law 16-245, § 2(a), 54 DCR 615; Oct. 18, 2007, D.C. Law 17-27, § 2(a), 54 DCR 8020; Sept. 9, 2014, D.C. Law 20-136, § 2(a), 61 DCR 6778; Feb. 26, 2015, D.C. Law 20-161, § 2(b), 61 DCR 10741.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -157,6 +177,8 @@
       <text>D.C. Law 16-91, in par. (16), validated a previously made technical correction.</text>
       <text>D.C. Law 16-245, in par. (18), substituted "Mount Vernon Triangle BID or NoMa BID" for "Mount Vernon Triangle BID".</text>
       <text>D.C. Law 17-27, in par. (18), substituted ", NoMa BID, or Capitol Riverfront BID" for "or NoMa BID".</text>
+      <text>The 2014 amendment by D.C. Law 20-136 added (17A); and added "Anacostia BID, or Southwest BID" in (18).</text>
+      <text>The 2015 amendment by D.C. Law 20-161 rewrote (8) and (16); substituted "taxable" for "nonexempt" in (10); repealed (18); substituted "taxable property" for "nonexempt real property" in (19), (20), and (23); and added (24).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -169,6 +191,9 @@
       <text>For temporary amendment of section, see § 2(a) of the Mount Vernon Triangle Business Improvement District Emergency Amendment Act of 2004 (D.C. Act 15-404, March 18, 2004, 51 DCR 3647).</text>
       <text>For temporary (90 day) amendment of section, see § 2(a) of Mount Vernon Triangle Business Improvement District Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-480, July 19, 2004, 51 DCR 7619).</text>
       <text>For temporary (90 day) amendment of section, see § 2(a) of Capitol Riverfront Business Improvement District Emergency Amendment Act of 2007 (D.C. Act 17-78, July 27, 2007, 54 DCR 7631).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Southwest Business Improvement District Emergency Amendment Act of 2014 (D.C. Act 20-410, Aug. 1, 2014, 61 DCR 8299).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Business Improvement Districts Emergency Amendment Act of 2014 (D.C. Act 20-435, Oct. 7, 2014, 61 DCR 10717, 20 STAT 4154).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Business Improvement Districts Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-582, Jan. 13, 2015, 62 DCR 1269, 21 STAT 735).</text>
     </level>
     <level>
       <heading>Legislative History of Law 11-134</heading>
@@ -187,7 +212,15 @@
       <text>Law 15-257, the "Business Improvement Districts and Anacostia Waterfront Corporation Clarification Amendment Act of 2004", was introduced in Council and assigned Bill No 15-717, which was referred to Committee of Economic Development. The Bill was adopted on first and second readings on October 5, 2004, and November 9, 2004, respectively. Signed by the Mayor on November 30, 2004, it was assigned Act No. 15-632 and transmitted to both Houses of Congress for its review. D.C. Law 15-257 became effective on March</text>
     </level>
     <level>
-      <heading>Expiration of law Expiration of Law 11-134</heading>
+      <heading>Legislative History of Law 20-136</heading>
+      <text>Law 20-136, the "Southwest Business Improvement District Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-462. The Bill was adopted on first and second readings on May 6, 2014, and June 3, 2014, respectively. Signed by the Mayor on June 23, 2014, it was assigned Act No. 20-366 and transmitted to Congress for its review. D.C. Law 20-136 became effective on Sep. 9, 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-161</heading>
+      <text>See note to § 2-1215.01.</text>
+    </level>
+    <level>
+      <heading>Expiration of Law 11-134</heading>
       <text>See Historical and Statutory Notes following § 2-1215.01.</text>
     </level>
     <level>

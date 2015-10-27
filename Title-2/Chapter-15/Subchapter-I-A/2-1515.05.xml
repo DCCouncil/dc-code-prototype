@@ -102,6 +102,10 @@
     <text>The Department may take any other actions necessary to promote the safety and well-being of the youth in the Department's custody.</text>
   </level>
   <level>
+    <num>(h-1)</num>
+    <text>The Department shall not use a positive test for use of marijuana, or a violation of § 48-1201, as the basis for a change of placement, a change in treatment, or any sanction unless the Department expressly prohibits the use or possession of marijuana, as opposed to controlled substances generally, as a condition in the community placement agreement or by otherwise providing written notice to the child. A prohibition on the use or possession of marijuana shall be based upon an individual evaluation conducted pursuant to § 2-1515.04(7).</text>
+  </level>
+  <level>
     <num>(i)</num>
     <text>A criminal or civil conviction for any of the charges listed within subsection (f)(1) of this section or identification as a perpetrator of abuse or neglect as determined by the investigation conducted pursuant to subsection (f) of this section in this or any jurisdiction shall constitute cause for termination.</text>
   </level>
@@ -116,7 +120,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 12, 2005, D.C. Law 15-335, § 105, 52 DCR 2025; Aug. 16, 2008, D.C. Law 17-219, § 5006, 55 DCR 7598.)</text>
+      <text>(Apr. 12, 2005, D.C. Law 15-335, § 105, 52 DCR 2025; Aug. 16, 2008, D.C. Law 17-219, § 5006, 55 DCR 7598; July 17, 2014, D.C. Law 20-126, § 411(b), 61 DCR 3284.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -125,6 +129,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-219 added subsec. (k).</text>
+      <text>The 2014 amendment by D.C. Law 20-126 added (h-1).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -140,8 +145,16 @@
       <text>For Law 17-219, see notes following § 2-218.75.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-126</heading>
+      <text>Law 20-126, the "Marijuana Possession Decriminalization Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-409. The Bill was adopted on first and second readings on February 4, 2014, and March 4, 2014, respectively. Signed by the Mayor on March 31, 2014, it was assigned Act No. 20-305 and transmitted to Congress for its review. D.C. Law 20-126 became effective on July 17, 2014.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 5003 of D.C. Law 17-219 provided that subtitle C of title V of the act may be cited as the "On-site Meal Expenses Amendment Act of 2008".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Section 501 of D.C. Law 20–126 provided that the Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.], may issue rules to implement the provisions of the act.</text>
     </level>
   </level>
 </level>

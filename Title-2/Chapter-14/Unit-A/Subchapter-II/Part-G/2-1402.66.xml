@@ -5,15 +5,22 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>An individual may request production of his or her arrest record for the purposes of determining eligibility for sealing or expunging that record pursuant to Chapter 8 of Title 16, or similar sealing statutes in the District or in another jurisdiction, and may request production of his or her arrest record for filing a sealing or expungement motion.</text>
+      <level>
+        <num>(A)</num>
+        <text>An individual may request production of his or her arrest record for the purposes of determining eligibility for sealing or expunging that record pursuant to Chapter 8 of Title 16 [§ 16-801 et seq.], or similar sealing statutes in the District or in another jurisdiction, and may request production of his or her arrest record for filing a sealing or expungement motion.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The District may charge the individual a nominal fee for processing this request.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>For the purposes of this subsection, an "arrest record" shall contain a listing of all adult arrests, regardless of the disposition of each arrest, and regardless of the date on which the arrest, conviction, or completion of the sentence occurred.</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>The District may charge the individual a nominal fee for processing this request.</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>For the purposes of this subsection, an "arrest record" shall contain a listing of all adult arrests, regardless of the disposition of each arrest, and regardless of the date on which the arrest, conviction, or completion of the sentence occurred.</text>
+      <text>A person who requires an individual to produce any arrest record or any copy, extract, or statement thereof pursuant to this subsection other than for the purpose of filing a sealing or expungement motion shall be fined not more than the amount set forth in § 22-3571.01 or imprisoned for not more than 10 days.</text>
     </level>
   </level>
   <level>
@@ -33,15 +40,11 @@
         <text>For purposes of this subsection, an "arrest record" shall contain a listing only of adult convictions for which the sentence was completed not more than 10 years before the date on which the records were requested and forfeitures of collateral in a court proceeding that have occurred not more than 10 years before the date on which the record was requested.</text>
       </level>
     </level>
-    <level>
-      <num>(2)</num>
-      <text>A person who requires the production of any arrest record or any copy, extract, or statement thereof pursuant to this subsection, at the monetary expense of any individual to whom such record may relate, shall be fined not more than the amount set forth in § 22-3571.01, or imprisoned for not more than 10 days.</text>
-    </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 13, 1977, D.C. Law 2-38, title II, § 266, 24 DCR 6038; June 15, 2013, D.C. Law 19-319, § 3, 60 DCR 2333.)</text>
+      <text>(Dec. 13, 1977, D.C. Law 2-38, title II, § 266, 24 DCR 6038; June 15, 2013, D.C. Law 19-319, § 3, 60 DCR 2333; Mar. 10, 2015, D.C. Law 20-186, § 3, 61 DCR 12108.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -51,6 +54,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2013 amendment by D.C. Law 19-319 rewrote the section.</text>
+      <text>The 2015 amendment by D.C. Law 20-186 redesignated (a)(1) through (3) as (a)(1)(A) through (a)(1)(C); and added (a)(2).</text>
     </level>
     <level>
       <heading>Legislative History of Law 2-38</heading>
@@ -59,6 +63,10 @@
     <level>
       <heading>Legislative History of Law 19-319</heading>
       <text>Law 19-319, the "Re-entry Facilitation Amendment Act of 2012," was introduced in Council and assigned Bill No. 19-889. The Bill was adopted on first and second readings on Dec. 4, 2012 and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 29, 2013, it was assigned Act No. 19-657 and transmitted to Congress for its review. D.C. Law 19-319 became effective on June 15, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-186</heading>
+      <text>Law 20-186, the "Record Sealing for Decriminalized and Legalized Offenses Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-467. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 12, 2014, it was assigned Act No. 20-470 and transmitted to Congress for its review. D.C. Law 20-186 became effective on Mar. 10, 2015.</text>
     </level>
   </level>
 </level>
