@@ -78,8 +78,8 @@
     <level>
       <num>(4)</num>
       <text>The disclosures required under this section shall be in the following form:</text>
+      <text>@@PICT@@</text>
     </level>
-    <text>@@PICT@@</text>
     <level>
       <num>(5)</num>
       <text>The Commissioner may prescribe, by rule, a different form for the written disclosures. The proposed rules shall be transmitted to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules by resolution within the 60-day review period, the proposed rules shall be deemed approved.</text>
@@ -87,21 +87,21 @@
     <level>
       <num>(6)</num>
       <text>Certain definitions and explanations arising from the written disclosures required under this section shall be printed on a single page, front and back, and include the following:</text>
+      <text>"Beginning interest rate: means the interest rate the borrower pays at the beginning of the loan. In many types of loans, this rate is good for only a few years and may increase significantly.</text>
+      <text>"Fully indexed rate: is an indicator of what will happen to the interest rate on the loan and the monthly payments. It is today's estimate of how high the interest rate on an adjustable rate mortgage will go. It is calculated by taking a defined index rate and adding a certain number of percentage points, called the margin. Since the index rate can go up or down, the borrower cannot be sure what the future adjustable interest rate will be. Borrowers must make sure they can afford the fully indexed interest rate and not just the initial interest rate.</text>
+      <text>"Maximum possible interest rate: means the highest your interest rate can go. Most loans with adjustable rates have a defined maximum rate or lifetime cap. Borrowers need to think about how likely it may be that the interest rate can go this high.</text>
+      <text>"Gross monthly income: means the borrower's gross, pre-tax income per month. Borrowers should make sure the monthly household income amount shown on the form is correct.</text>
+      <text>"Monthly mortgage payment including taxes and insurance: means the amount the borrower must pay every month for interest, repayment of loan principal, home insurance premiums, and property taxes owed to the District of Columbia. Over time, in addition to any possible increases in the loan's interest rate, the insurance premiums and property taxes are likely to increase.</text>
+      <text>"Prepayment penalty: means any additional fee imposed by the mortgage lender on the borrower if the borrower pays off the loan early. Borrowers must make sure they know whether their loan has a prepayment penalty fee and how it works.</text>
+      <text>"Balloon payment: means that a large repayment of loan principal is due at the end of the loan. This almost always means that the borrower has to get a new loan to make the balloon payment.</text>
+      <text>"Payment option loan: means a mortgage loan that allows the borrower to pay less than the interest being charged on the loan. The unpaid interest is added to the loan, so the loan amount grows larger. Borrowers must make sure they know whether their loan is a payment option loan and how it works.</text>
+      <text>"Points: means the fee, expressed as a percentage of the loan, a borrower pays to the mortgage lender at closing, usually in exchange for a lower interest rate.</text>
+      <text>"Default: means a borrower has failed to make the payments due on the mortgage loan. Once a borrower is in default on the loan, the mortgage lender can seek to foreclose on the property.</text>
+      <text>"Foreclosure: means the legal process in which the mortgage lender can seize the borrower's property if the borrower continually fails to make the payments due on the mortgage loan.</text>
+      <text>"Property tax: means the taxes owed to the District of Columbia as a result of the borrower owning the property.</text>
+      <text>"Insurance: means property insurance that covers private homes and residences. It is required by mortgage loans in order to protect the mortgage lender if the home is destroyed.</text>
+      <text>"Monthly condominium/co-operative/homeowner association fees: means the monthly fees that must be paid by the borrower if the borrower's property is a condominium, co-operative, or subject to a homeowner association. These fees usually are collected on a monthly basis. Failure to pay these fees can result in a lawsuit against the borrower by the condominium, co-operative, or homeowner association. As with property taxes and homeowners' insurance, these fees are likely to increase over time."</text>
     </level>
-    <text>"Beginning interest rate: means the interest rate the borrower pays at the beginning of the loan. In many types of loans, this rate is good for only a few years and may increase significantly.</text>
-    <text>"Fully indexed rate: is an indicator of what will happen to the interest rate on the loan and the monthly payments. It is today's estimate of how high the interest rate on an adjustable rate mortgage will go. It is calculated by taking a defined index rate and adding a certain number of percentage points, called the margin. Since the index rate can go up or down, the borrower cannot be sure what the future adjustable interest rate will be. Borrowers must make sure they can afford the fully indexed interest rate and not just the initial interest rate.</text>
-    <text>"Maximum possible interest rate: means the highest your interest rate can go. Most loans with adjustable rates have a defined maximum rate or lifetime cap. Borrowers need to think about how likely it may be that the interest rate can go this high.</text>
-    <text>"Gross monthly income: means the borrower's gross, pre-tax income per month. Borrowers should make sure the monthly household income amount shown on the form is correct.</text>
-    <text>"Monthly mortgage payment including taxes and insurance: means the amount the borrower must pay every month for interest, repayment of loan principal, home insurance premiums, and property taxes owed to the District of Columbia. Over time, in addition to any possible increases in the loan's interest rate, the insurance premiums and property taxes are likely to increase.</text>
-    <text>"Prepayment penalty: means any additional fee imposed by the mortgage lender on the borrower if the borrower pays off the loan early. Borrowers must make sure they know whether their loan has a prepayment penalty fee and how it works.</text>
-    <text>"Balloon payment: means that a large repayment of loan principal is due at the end of the loan. This almost always means that the borrower has to get a new loan to make the balloon payment.</text>
-    <text>"Payment option loan: means a mortgage loan that allows the borrower to pay less than the interest being charged on the loan. The unpaid interest is added to the loan, so the loan amount grows larger. Borrowers must make sure they know whether their loan is a payment option loan and how it works.</text>
-    <text>"Points: means the fee, expressed as a percentage of the loan, a borrower pays to the mortgage lender at closing, usually in exchange for a lower interest rate.</text>
-    <text>"Default: means a borrower has failed to make the payments due on the mortgage loan. Once a borrower is in default on the loan, the mortgage lender can seek to foreclose on the property.</text>
-    <text>"Foreclosure: means the legal process in which the mortgage lender can seize the borrower's property if the borrower continually fails to make the payments due on the mortgage loan.</text>
-    <text>"Property tax: means the taxes owed to the District of Columbia as a result of the borrower owning the property.</text>
-    <text>"Insurance: means property insurance that covers private homes and residences. It is required by mortgage loans in order to protect the mortgage lender if the home is destroyed.</text>
-    <text>"Monthly condominium/co-operative/homeowner association fees: means the monthly fees that must be paid by the borrower if the borrower's property is a condominium, co-operative, or subject to a homeowner association. These fees usually are collected on a monthly basis. Failure to pay these fees can result in a lawsuit against the borrower by the condominium, co-operative, or homeowner association. As with property taxes and homeowners' insurance, these fees are likely to increase over time."</text>
     <level>
       <num>(7)</num>
       <text>The Commissioner may prescribe, by rule, additional terms, definitions, and explanations. The proposed rules shall be transmitted to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules by resolution within the 60-day review period, the proposed rules shall be deemed approved.</text>
