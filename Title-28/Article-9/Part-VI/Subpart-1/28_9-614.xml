@@ -29,6 +29,8 @@
   <level>
     <num>(3)</num>
     <text>The following form of notification, when completed, provides sufficient information:</text>
+    <text>"[Name and address of secured party]</text>
+    <text>"[Date]</text>
     <level>
       <heading>"NOTICE OF OUR PLAN TO SELL PROPERTY</heading>
     </level>
@@ -53,8 +55,6 @@
       <heading>"[End of Form]"</heading>
     </level>
   </level>
-  <text>"[Name and address of secured party]</text>
-  <text>"[Date]</text>
   <level>
     <num>(4)</num>
     <text>A notification in the form of paragraph (3) is sufficient, even if additional information appears at the end of the form.</text>
