@@ -151,8 +151,8 @@
       <level>
         <num>(i)</num>
         <text>40 micrograms per square foot (mgt/f2") on floors; or</text>
+        <text>t</text>
       </level>
-      <text>t</text>
       <level>
         <num>(ii)</num>
         <text>250 mgt2 on interior windowsills;</text>
@@ -165,8 +165,8 @@
       <level>
         <num>(i)</num>
         <text>400 mgt2 on window troughs; or</text>
+        <text>t2</text>
       </level>
-      <text>t2</text>
       <level>
         <num>(ii)</num>
         <text>800 mgt2 on concrete or other rough exterior surfaces; or</text>
