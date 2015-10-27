@@ -19,12 +19,16 @@
     <text>"Energy Assistance Trust Fund" or "EATF" means the Energy Assistance Trust Fund established under § 8-1774.11.</text>
   </level>
   <level>
+    <num>(4A)</num>
+    <text>"ENERGY STAR Portfolio Manager" means the ENERGY STAR Portfolio Manager tool developed by the Environmental Protection Agency, or any alternative approved by the Mayor that rates the performance of a qualifying building, relative to similar buildings nationwide, accounting for the impacts of year-to-year weather variations, building size, location, and several operating characteristics, using the Environmental Protection Agency's national energy performance rating system.</text>
+  </level>
+  <level>
     <num>(5)</num>
     <text>"Existing electricity programs" means those programs operated by the District Department of the Environment under the names "Weatherization Plus," "Low Income Appliance Replacement Program," and "Weatherization and Rehabilitation."</text>
   </level>
   <level>
     <num>(6)</num>
-    <text>"Existing low-income programs" means those programs operated under the names "LIHEAP Expansion and Energy Education" and "Residential Essential Service Expansion and Awareness Program."</text>
+    <text>"Existing low-income program" means the program operated under the name "LIHEAP Expansion and Energy Education".</text>
   </level>
   <level>
     <num>(7)</num>
@@ -93,17 +97,22 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2008, D.C. Law 17-250, § 101, 55 DCR 9225; July 23, 2010, D.C. Law 18-195, § 2(a), 57 DCR 4519; Sept. 26, 2012, D.C. Law 19-171, § 62(a), 59 DCR 6190.)</text>
+      <text>(Oct. 22, 2008, D.C. Law 17-250, § 101, 55 DCR 9225; July 23, 2010, D.C. Law 18-195, § 2(a), 57 DCR 4519; Sept. 26, 2012, D.C. Law 19-171, § 62(a), 59 DCR 6190; Dec. 17, 2014, D.C. Law 20-142, § 101(a), 61 DCR 8045; Feb. 26, 2015, D.C. Law 20-155, § 2102(a), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 18-195 rewrote par. (6), which had read as follows: "(6) 'Existing low-income programs' means those programs operated by the District Department of the Environment under the names 'LIHEAP Expansion and Energy Education,' 'RAD Expansion,' 'RAD Arrearages Retirement and Education Program,' and 'Residential Essential Service Expansion and Awareness Program'."</text>
       <text>The 2012 amendment by D.C. Law 19-171 substituted "Green-collar" for "Green collar" in (10); and validated previously made technical corrections in (3) and (22).</text>
+      <text>The 2014 amendment by D.C. Law 20-142 added (4A).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (6).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition, see § 101 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008, 55 DCR 10856).</text>
       <text>For temporary (90 day) amendment of section, see § 2(a) of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2010 (D.C. Act 18-398, May 10, 2010, 57 DCR 4362).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2102(a) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2102(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2102(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 17-250</heading>
@@ -118,8 +127,17 @@
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-142</heading>
+      <text>Law 20-142, the "Sustainable DC Omnibus Act of 2014," was introduced in Council and assigned Bill No. 20-573. The Bill was adopted on first and second readings on June 24, 2014, and July 14, 2014, respectively. Signed by the Mayor on July 29, 2014, it was assigned Act No. 20-385 and transmitted to Congress for its review. D.C. Law 20-142 became effective on Dec. 17, 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>Law 20-155, the "Fiscal Year 2015 Budget Support Act of 2014," was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor's signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</text>
+    </level>
+    <level>
       <heading>Editor’s Notes</heading>
       <text>Section 801 of D.C. Law 17-250 provided: "Sec. 801. Applicability. This act shall apply on the later of October 1, 2008, or the effective date of this act."</text>
+      <text>Applicability of D.C. Law 20-142: Section 502(a) of D.C. Law 20-142 provided that Title I of the act, §§ 101-111, shall apply as of January 1, 2015.</text>
     </level>
   </level>
 </level>

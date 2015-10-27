@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The statistics shall identify, by Metropolitan Police Department district, the number of notices issued and dismissed.</text>
+    <text>The statistics shall identify, by Ward, the number of notices issued and dismissed.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -16,7 +16,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1986, D.C. Law 6-100, § 13, as added Mar. 20, 2009, D.C. Law 17-314, § 2(b), 56 DCR 200; redesignated as § 11b, Sept. 26, 2012, D.C. Law 19-171, § 59(b), 59 DCR 6190.)</text>
+      <text>(Mar. 25, 1986, D.C. Law 6-100, § 13, as added Mar. 20, 2009, D.C. Law 17-314, § 2(b), 56 DCR 200; redesignated as § 11b, Sept. 26, 2012, D.C. Law 19-171, § 59(b), 59 DCR 6190; Feb. 26, 2015, D.C. Law 20-154, § 201(c), 61 DCR 9971.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -25,6 +25,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2012 amendment by D.C. Law 19-171 redesignated D.C. Law 6-100, § 13 as D.C. Law 6-100, § 11b .</text>
+      <text>The 2015 amendment by D.C. Law 20-154 substituted "by Ward" for "by Metropolitan Police Department district" in (b).</text>
     </level>
     <level>
       <heading>Legislative History of Law 17-314</heading>
@@ -33,6 +34,10 @@
     <level>
       <heading>Legislative History of Law 19-171</heading>
       <text>See note to § 8-811.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-154</heading>
+      <text>See note to § 8-802.</text>
     </level>
   </level>
 </level>

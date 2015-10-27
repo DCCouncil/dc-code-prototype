@@ -60,10 +60,53 @@
       <text>Provide timely, accurate, and comprehensive information regarding its programs to the DDOE to permit DDOE to include such information in material provided to the public.</text>
     </level>
   </level>
+  <level>
+    <num>(f)</num>
+    <level>
+      <num>(1)</num>
+      <text>The electric company shall undertake the following actions to provide a building owner with easier and more complete access to energy consumption data needed to promote energy conservation and comply with the benchmarking and reporting requirements in § 6-1451.03(c):</text>
+      <level>
+        <num>(A)</num>
+        <text>Upon written or secure electronic authorization of a building owner or the owner's authorized agent, aggregate the energy consumption of all meters identified as being in the building and provide the data, separated by month; provided, that the following conditions are met:</text>
+        <level>
+          <num>(i)</num>
+          <text>Sufficient information, including building address, meter numbers, or account numbers, is provided to identify the building and meters;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>At least 5 customer accounts are being aggregated, so as to obscure any customer-specific information; and</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>No customer account, other than an account registered to the building owner making the request, represents more than 80% of the total energy consumption for the building;</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Provide aggregate data for at least 2 years before the initial request and automatically update the monthly data on an ongoing basis at least once every 45 calendar days;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Provide an online portal for a building owner to use to request the provision and transfer of aggregate account data, or individual customer account data the building owner is duly authorized to access, to manage requests made, and to discontinue active requests; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Upload requested electric consumption data automatically on an ongoing basis, at least once every 45 calendar days, to the requestor's ENERGY STAR Portfolio Manager account, as well as make the data available for an account holder to download in a common format.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Access to consumption data under this section shall be subject to any rules and regulations the Commission has adopted or may choose to adopt, where the rules do not conflict with this section.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2008, D.C. Law 17-250, § 207, 55 DCR 9225.)</text>
+      <text>(Oct. 22, 2008, D.C. Law 17-250, § 207, 55 DCR 9225; Dec. 17, 2014, D.C. Law 20-142, § 101(b), 61 DCR 8045.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-142 added (f).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -72,6 +115,14 @@
     <level>
       <heading>Legislative History of Law 17-250</heading>
       <text>For Law 17-250, see notes following § 8-1773.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-142</heading>
+      <text>Law 20-142, the "Sustainable DC Omnibus Act of 2014," was introduced in Council and assigned Bill No. 20-573. The Bill was adopted on first and second readings on June 24, 2014, and July 14, 2014, respectively. Signed by the Mayor on July 29, 2014, it was assigned Act No. 20-385 and transmitted to Congress for its review. D.C. Law 20-142 became effective on Dec. 17, 2014.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-142: Section 502(a) of D.C. Law 20-142 provided that Title I of the act, §§ 101-111, shall apply as of January 1, 2015.</text>
     </level>
   </level>
 </level>
