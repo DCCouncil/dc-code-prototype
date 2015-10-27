@@ -60,6 +60,89 @@
     <text>If the Council determines that the real property is no longer required for public purposes pursuant to subsection (a-1) of this section, the Mayor shall attempt to dispose of the real property for a use with a direct public benefit as described in a specific government plan adopted by the Mayor or Council, including the Community Development Plan, the Comprehensive Plan, the Strategic Neighborhood Area Plan, or the Comprehensive Housing Strategy Plan.</text>
   </level>
   <level>
+    <num>(a-3)</num>
+    <level>
+      <num>(1)</num>
+      <text>If a proposed disposition of real property will result in the development of multifamily residential property consisting of 10 or more units ("multifamily units"), the following affordable housing requirements shall apply:</text>
+      <level>
+        <num>(A)</num>
+        <text>If the multifamily units are located in the following areas, at least 30% of the units shall be dedicated as affordable housing:</text>
+        <level>
+          <num>(i)</num>
+          <text>Within ½ mile of a Metrorail station that is in operation or for which a construction contract has been awarded on or before the date of the disposition;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Within ¼ mile of a streetcar line that is in operation or for which a construction contract has been awarded on or before the date of the disposition; or</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Within ¼ mile of a Priority Corridor Network Metrobus Route, as designated by the Washington Area Metropolitan Transit Authority, located entirely or partially within the District of Columbia;</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If the multifamily units are located outside of the areas described in subparagraph (A) of this paragraph, at least 20% of the units shall be dedicated as affordable housing;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The units dedicated as affordable housing pursuant to subparagraphs (A) and (B) of this paragraph shall remain affordable housing units for the life of the building; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The purchase price for the second and subsequent sales of the units dedicated as affordable housing described in subparagraphs (A) and (B) of this paragraph shall be determined by a formula established by the Mayor.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The units dedicated as affordable housing pursuant to subparagraphs (A) and (B) of this paragraph shall be made available according to the following affordability levels:</text>
+      <level>
+        <num>(A)</num>
+        <text>In the case of rental units, 25% of the units shall be housing for which a very low-income household will pay no more than 30% of its income toward housing costs, and 75% of such units shall be housing for which a low-income household will pay no more than 30% of its income toward housing costs; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>In the case of ownership units, 50% of the units shall be housing for which a low-income household will pay no more than 30% of its income toward housing costs, and 50% of the units shall be housing for which a moderate-income household will pay no more than 30% of its income toward housing costs.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The Mayor shall take into account the affordable housing requirements of this subsection when establishing the terms and conditions under which real property is to be disposed. The Mayor may transfer real property at less than its appraised value or provide additional subsidies to a developer, as necessary, to ensure that the affordable housing requirements imposed by this subsection are met.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The Mayor may waive the affordable housing requirements of this subsection; provided, that the Mayor certifies that:</text>
+      <level>
+        <num>(A)</num>
+        <text>The appraised value of the property to be disposed is insufficient to support the affordable housing requirements, taking into account all other available sources of public funding for affordable housing, whether provided by the District of Columbia or the federal government;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The terms and conditions under which the real property is to be disposed satisfy the housing requirements to the maximum extent possible; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The Chief Financial Officer has provided to the Mayor and the Council a financial analysis, which shall consist of:</text>
+        <level>
+          <num>(i)</num>
+          <text>A review and analysis of the financial condition of disposed land; and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>An advisory opinion stating whether or not it is likely that the developer could be reasonably expected to meet the affordable housing requirements outlined in paragraph (1) of this subsection.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>Paragraph (4) of this subsection shall not apply to the disposition of the building and property owned by the District located at 425 2nd Street, N.W., unless the District commits to using all of the proceeds from the disposition of the property for the construction of a new homeless shelter and affordable housing to serve homeless populations.</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>The Mayor may reduce the affordable housing requirements of this section if the proposed disposition of real property finances the development of a significant public facility. For the purposes of this paragraph, the term "public facility" means a building, structure, or system that is an asset of the District government eligible for capital spending and subject to depreciation. A public facility may include a fire station, public library, public school, stadium, or homeless shelter. Notwithstanding the priority to finance a significant public facility, the Mayor shall nevertheless endeavor to provide affordable housing, consistent with this section, to the extent economically feasible.</text>
+    </level>
+  </level>
+  <level>
     <num>(b)</num>
     <text>The Mayor, to carry out the provisions of this subchapter, shall transmit to the Council a proposed resolution that contains the following:</text>
     <level>
@@ -80,7 +163,7 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>A description of any affordable housing to be provided as part of the Project;</text>
+      <text>If applicable, a finding that the Developer will achieve the affordable housing requirements established by subsection (a-3) of this section or, if those requirements will not be achieved, a written certification by the Chief Financial Officer pursuant to subsection (a-3)(4) of this section;</text>
     </level>
     <level>
       <num>(6)</num>
@@ -122,8 +205,8 @@
       <num>(9)</num>
       <text>The following statement:</text>
     </level>
+    <text>"All documents that are submitted with this resolution pursuant to subsection (b-1) of this section shall be consistent with the executed Memorandum of Understanding or term sheet transmitted to the Council pursuant to subsection (b-1)(2) of this section.".</text>
   </level>
-  <text>"All documents that are submitted with this resolution pursuant to subsection (b-1) of this section shall be consistent with the executed Memorandum of Understanding or term sheet transmitted to the Council pursuant to subsection (b-1)(2) of this section.".</text>
   <level>
     <num>(b-1)</num>
     <text>A proposed resolution to provide for the disposition of real property transmitted to the Council pursuant to subsection (b) of this section shall be accompanied by the following:</text>
@@ -349,10 +432,62 @@
     <num>(m)</num>
     <text>The provisions of this subchapter shall not apply to real property acquired by the District or an instrumentality of the District (or a subsidiary thereof) under § 47-1353(a)(3).</text>
   </level>
+  <level>
+    <num>(n)</num>
+    <text>For the purposes of this section, the term:</text>
+    <level>
+      <num>(1)</num>
+      <text>"Area median income" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>For a household of 4 persons, the area median income in the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by the United States Department of Housing and Urban Development;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>For a household of 3 persons, 90% of the area median income for a household of 4 persons;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>For a household of 2 persons, 80% of the area median income for a household of 4 persons;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>For a household of one person, 70% of the area median income for a household of 4 persons; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>For a household of more than 4 persons, the area median income for a household of 4 persons, increased by 10% of the area median income for a household of 4 persons for each household member exceeding 4 persons.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>"Housing costs" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>In the case of rental units, rent and utilities.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>In the case of ownership units, mortgage payments, including principal, interest, and property insurance, taxes, homeowner association, condominium, or cooperative fees, and utilities.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>"Low-income household" means a household consisting of one or more persons with a total household income that is more than 30% and less than or equal to 50% of the area median income.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>"Moderate-income household" means a household consisting of one or more persons with total household income more than 50% and less than or equal to 80% of the area median income.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>"Very low-income household" means a household consisting of one or more persons with total household income less than or equal to 30% of the area median income.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Aug. 5, 1939, 53 Stat. 1211, ch. 449, § 1; Mar. 15, 1990, D.C. Law 8-96, § 3, 37 DCR 795; Sept. 11, 1990, D.C. Law 8-158, § 2(a), 37 DCR 4167; Mar. 16, 1995, D.C. Law 10-216, § 2 41 DCR 8038; Apr. 18, 1996, D.C. Law 11-110, § 21, 43 DCR 530; Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468; Oct. 19, 2002, D.C. Law 14-213, § 15(a), 49 DCR 8140; Apr. 4, 2003, D.C. Law 14-282, § 5, 50 DCR 896; Mar. 30, 2004, D.C. Law 15-127, § 2, 51 DCR 1549; Apr. 5, 2005, D.C. Law 15-285, § 2, 52 DCR 857; Apr. 13, 2005, D.C. Law 15-354, § 92, 52 DCR 2638; June 8, 2006, D.C. Law 16-112, § 2, 53 DCR 2536; Mar. 26, 2008, D.C. Law 17-138, § 704, 55 DCR 1689; Oct. 22, 2009, D.C. Law 18-76, § 2, 56 DCR 6895; Mar. 11, 2010, D.C. Law 18-115, § 2(a), 57 DCR 886; July 27, 2010, D.C. Law 18-201, § 2, 57 DCR 4742; Sept. 20, 2012, D.C. Law 19-168, § 2132, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, § 67, 59 DCR 6190.)</text>
+      <text>(Aug. 5, 1939, 53 Stat. 1211, ch. 449, § 1; Mar. 15, 1990, D.C. Law 8-96, § 3, 37 DCR 795; Sept. 11, 1990, D.C. Law 8-158, § 2(a), 37 DCR 4167; Mar. 16, 1995, D.C. Law 10-216, § 2 41 DCR 8038; Apr. 18, 1996, D.C. Law 11-110, § 21, 43 DCR 530; Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468; Oct. 19, 2002, D.C. Law 14-213, § 15(a), 49 DCR 8140; Apr. 4, 2003, D.C. Law 14-282, § 5, 50 DCR 896; Mar. 30, 2004, D.C. Law 15-127, § 2, 51 DCR 1549; Apr. 5, 2005, D.C. Law 15-285, § 2, 52 DCR 857; Apr. 13, 2005, D.C. Law 15-354, § 92, 52 DCR 2638; June 8, 2006, D.C. Law 16-112, § 2, 53 DCR 2536; Mar. 26, 2008, D.C. Law 17-138, § 704, 55 DCR 1689; Oct. 22, 2009, D.C. Law 18-76, § 2, 56 DCR 6895; Mar. 11, 2010, D.C. Law 18-115, § 2(a), 57 DCR 886; July 27, 2010, D.C. Law 18-201, § 2, 57 DCR 4742; Sept. 20, 2012, D.C. Law 19-168, § 2132, 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, § 67, 59 DCR 6190; Mar. 10, 2015, D.C. Law 20-193, § 2, 61 DCR 12407.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -388,6 +523,7 @@
       <text>D.C. Law 18-201 added subsec. (a-1)(5).</text>
       <text>The 2012 amendment by D.C. Law 19-168 added (d-4).</text>
       <text>The 2012 amendment by D.C. Law 19-171 validated a previously made technical correction in (b)(9).</text>
+      <text>The 2015 amendment by D.C. Law 20-193 added (a-3); rewrote (b)(5); and added (n).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -457,6 +593,7 @@
       <text>Section 2 of D.C. Law 18-276 added subsec. (c-1) to read as follows:</text>
       <text>"(c-1) Notwithstanding subsection (c) of this section, the Council review period for the proposed disposition of the property located at 44 P Street, N.W., commonly known as J.F. Cook School, and designated for purposes of assessment and taxation as Square 0616, Lot 0866, or some portion thereof, is extended for an additional 90 days, excluding Saturdays, Sundays, legal holiday, and days of Council recess.".</text>
       <text>Section 4(b) of D.C. Law 18-276 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2 of the Extension of Time to Dispose of the Strand Theater Temporary Amendment Act of 2014 (D.C. Law 20-162, February 26, 2015, 60 DCR 10751).</text>
     </level>
     <level>
       <heading>Temporary Addition of Section</heading>
@@ -549,6 +686,8 @@
       <text>For temporary (90 days) African-American Civil War Memorial Museum Development, see §§ 2132 and 2133 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
       <text>For temporary (90 days) amendment of this section, see § 2 of the Extension of Time to Dispose of the Strand Theater Emergency Amendment Act of 2013 (D.C. Act 20-205, October 17, 2013, 60 DCR 15482).</text>
       <text>For temporary (90 days) amendment of this section, see §§ 2 and 3 of the Extension of Time to Dispose of the Strand Theater Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-270, January 16, 2014, 61 DCR 790).</text>
+      <text>For temporary (90 days) approval of Contract No. DCPL-2013-C-0004 with Martinez and Johnson Architecture to provide architectural and engineering design services for the Martin Luther King Jr. Memorial Library, see § 2 of the Proposed Multiyear Contract No. DCPL-2013-C-0004 Approval and Payment Authorization Emergency Act of 2014 (D.C. Act 20-394, July 29, 2014, 61 DCR 8076).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Extension of Time to Dispose of the Strand Theater Second Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-478, Nov. 13, 2014, 61 DCR 12127, 20 STAT 4402).</text>
     </level>
     <level>
       <heading>Legislative History of Law 8-96</heading>
@@ -580,7 +719,7 @@
     </level>
     <level>
       <heading>Legislative History of Law 15-127</heading>
-      <text>Law 15-127, the "Extension of the Time Period for the Disposition of a Property Located at 2341 4th Street, N.E., Amendment Act of 2004", was introduced in Council and assigned Bill No. 15-242, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on December 2, 2003, and January 6, 2004, respectively. Signed by the Mayor on January 28, 2004, it was assigned Act No. 15-314 and transmitted to both Houses of Congress for its review. D.C. Law 15-127 became effective on March 30, 2004.</text>
+      <text>Law 15-127, the "Extension of the Time Period for the Disposition of a Property  Street, N.E., Amendment Act of 2004", was introduced in Council and assigned Bill No. 15-242, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on December 2, 2003, and January 6, 2004, respectively. Signed by the Mayor on January 28, 2004, it was assigned Act No. 15-314 and transmitted to both Houses of Congress for its review. D.C. Law 15-127 became effective on March 30, 2004.</text>
     </level>
     <level>
       <heading>Legislative History of Law 15-285</heading>
@@ -617,6 +756,10 @@
     <level>
       <heading>Legislative History of Law 19-171</heading>
       <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-193</heading>
+      <text>Law 20-193, the "Disposition of District Land for Affordable Housing Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-594. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Returned without the Mayor's signature on Nov. 27, 2014, it was assigned Act No. 20-485 and transmitted to Congress for its review. D.C. Law 20-193 became effective on Mar. 10, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>
@@ -679,7 +822,7 @@
       <text>Transfer of Lot 40 in Square 454 Emergency Approval Resolution of 1995: Pursuant to Resolution 11-150, effective October 10, 1995, the Council approved the transfer of certain real property owned by the District of Columbia Government, further described as Lot 40 in Square 454, a portion of which to be transferred to the District of Columbia Redevelopment Land Agency and the remaining portion to be used or disposed of in accordance with District of Columbia law.</text>
       <text>Request for Proposals to Solicit Development of the Georgetown Incinerator Property, Lot 824 in Square 1189, Approval Emergency Resolution of 1996: Pursuant to Resolution 11-478, effective July 17, 1996, Council approved, on an emergency basis, the request for proposals soliciting proposals to develop the Georgetown Incinerator Property located in the Georgetown Waterfront area and legally described as Lot 824, Square 1189.</text>
       <text>Approval of the Negotiated Disposition of the "Golden Rule Property" to Golden Rule Plaza, Inc., and Reorganization Plan No. 8 of 1996 for the Business of Public Management Disapproval Resolution of 1996: Pursuant to Resolution 11-569, effective November 7, 1996, Council approved a negotiated disposition and redevelopment of the "Golden Rule Property" to Golden Rule Plaza, Inc., and to disapprove Reorganization Plan No. 8 of 1996 for the business of public management.</text>
-      <text>Negotiated Disposition of Property Located at 1301 Upshur Street, N.W., to the National Baptist Convention USA Housing Inc., Twenty-Seven, Approval Resolution of 1996: Pursuant to Resolution 11-632, effective December 3, 1996, Council approved the negotiated disposition of property located in Square 2820, Lot 1, at 1301 Upshur Street, N.W., to the National Baptist Convention USA Housing Inc., Twenty-Seven, for the development of the "Upshur House" in Ward Four.</text>
+      <text>Negotiated Disposition of Property  Upshur Street, N.W., to the National Baptist Convention USA Housing Inc., Twenty-Seven, Approval Resolution of 1996: Pursuant to Resolution 11-632, effective December 3, 1996, Council approved the negotiated disposition of property located in Square 2820, Lot Upshur Street, N.W., to the National Baptist Convention USA Housing Inc., Twenty-Seven, for the development of the "Upshur House" in Ward Four.</text>
       <text>Request for Offers for the Disposition for the Roosevelt Apartment for Senior Citizens, 2101 16th Street, N.W., Lot 802, in Square 188, Approval Resolution of 1996: Pursuant to Resolution 11-633, effective December 3, 1996, Council approved the Request for Offers for the disposition of the Roosevelt Apartment for Senior Citizens located at 2101 16th Street, N.W., and legally described as Lot 802, Square 188, in Ward 1.</text>
       <text>Unsolicited Proposal to Develop the Anacostia Northern Gateway Project Approval Resolution of 1997: Proposed Resolution 12-0111, the "Unsolicited Proposal to Develop the Anacostia Northern gateway project Approval Resolution of 1997" was deemed approved, effective Feb. 12, 1997.</text>
       <text>Extension of Time To Dispose of Square 4107, Lots 227 and 900 and Square 4103, Lots 826 and 827 to Crane Rental Company Approval Resolution of 1998: Pursuant to Resolution 12-(PR12-721), effective May 29, 1998, the Council approved a request for additional time for the disposition of property on W Street, N.E., Square 4107, Lots 227 and 900 and Square 4103, Lots 826 and 827, to Crane Rental Company.</text>
@@ -707,6 +850,21 @@
       <text>Section 2 of D.C. Law 18-165 provided: "Notwithstanding An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code § 10-801 et seq.), the Council approves the disposition of the real property formerly designated as federal reservations 129, 130, and 299 to CASCO Marina Development LLC, in accordance with the agreement between the District of Columbia and CASCO Marina Development, LLC."</text>
       <text>Section 6 of D.C. Law 18-368 provided: "Notwithstanding section 1(d) of An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code § 10-801(d)), the time period within which the Mayor may dispose of the property located at 1101-1111 24th Street, N.W., known for tax and assessment purposes as Lot 836, Square 37, 2301 L Street, N.W., Lot 837, Square 37, and 2225 M Street, N.W., Lot 822, Square 50, pursuant to the West End Parcels Disposition Approval Resolution of 2010, effective July 13, 2010 (Res.18-553; 57 DCR 7623), is extended to July 13, 2013." Establishment of the Saint Elizabeths Redevelopment Initiative, see Mayor's Order 2011-109, June 15, 2011 (58 DCR 5348).</text>
       <text>African-American Civil War Memorial and Museum Development: Sections 2132 to 2134 of D.C. Law 20-61 provided for a protective covenant on, and restrictions on disposal of, 1925 Vermont Avenue, N.W., known for tax and assessment purposes as Lot 0827, Square 0361 ("the Grimke School"), for the establishment and operation of the African-American Civil War Memorial Museum and Visitor's Center.</text>
+      <text>Section 301 of D.C. Law 20-110 provided: "Findings.</text>
+      <text>"(a) The Property is located at the intersection of Naylor Road, S.E., Good Hope Road, S.E., and Alabama Avenue, S.E., and consists of approximately 18.7 acres of land and is further defined in section 101(22).</text>
+      <text>"(b) The Property was acquired with the intention of eliminating blight by redeveloping the underused site into retail and residential space to benefit the surrounding community and the District. Therefore, the Property is not required for public purposes and the Property needs to be declared surplus in order to dispose of the Property for redevelopment purposes.</text>
+      <text>"(c) A public hearing was held on June 26, 2013, at the Francis A. Gregory Neighborhood Library located at 3660 Alabama Ave. S.E., regarding the finding that the Property is no longer required for public purposes."</text>
+      <text>Section 302 of D.C. Law 20-110 provided that the Council determined that the Property is no longer required for public purposes.</text>
+      <text>Section 401 of D.C. Law 20-110 provided: "Findings.</text>
+      <text>"(a) The Property is located at the intersection of Naylor Road, S.E., Good Hope Road, S.E., and Alabama Avenue, S.E., consists of approximately 18.7 acres of land, and is further defined in section 101(22).</text>
+      <text>"(b) The Project shall include affordable housing, such that 20% of the residential units shall be reserved for households with incomes at or below 80% AMI. An additional 10% of the residential units shall be reserved for households with incomes at or below 120% of AMI.</text>
+      <text>"(c) The Developer shall enter into an agreement with the District requiring the Developer to, at a minimum, contract with Certified Business Enterprises for at least 35% of the contract dollar volume of the Project, and requiring at least 20% equity and 20% development participation of Certified Business Enterprises.</text>
+      <text>"(d) The Developer shall enter into a First Source Agreement with the District that shall govern certain obligations of the Developer pursuant to section 4 of the First Source Employment Agreement Act of 1984, effective June 29, 1984 (D.C. Law 5-93; D.C. Official Code Section 2-219.03) and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment as a result of the construction on the Property.</text>
+      <text>"(e) The Developer shall comply with the terms set forth in Zoning Commission Order No. 09-03, July 12, 2010, pertaining to the following properties: Square 5640, Lot 33; Square 5640, Lot 35; Square 5640, Lot 816; and Par 0213, Lot 64.</text>
+      <text>"(f) The Land Disposition Agreement to be executed between the District and the Developer shall:</text>
+      <text>"(1) Incorporate the District's right to reacquire the Property at the price originally conveyed consistent with section 1(e) of An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code Section 10-801(e)); and</text>
+      <text>"(2) Except as provided in paragraph (1) of this subsection, be consistent with the terms in the documents submitted by the Mayor to the Council in conjunction with the Skyland Town Center Omnibus Act of 2014. Any substantive change shall be submitted to the Council consistent with section 1(b-1)(6) of An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code Section 10-801(b-1)(6))."</text>
+      <text>Section 402 of D.C. Law 20-110 provided that the Council approved the disposition of the Property to the Developer pursuant to the terms set forth in D.C. Law 20-110, § 401.</text>
     </level>
     <level>
       <heading>Change in Government</heading>
