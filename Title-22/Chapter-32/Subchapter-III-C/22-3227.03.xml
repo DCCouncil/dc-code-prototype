@@ -15,6 +15,7 @@
     <num>(c)</num>
     <heading>Enhanced penalty</heading>
     <text>Any person who commits the offense of identity theft against an individual who is 65 years of age or older, at the time of the offense, may be punished by a fine of up to 11/2 times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to 11/2 times the maximum term of imprisonment otherwise authorized for the offense, or both. It is an affirmative defense that the accused:</text>
+    <text>1212</text>
     <level>
       <num>(1)</num>
       <text>Reasonably believed that the victim was not 65 years of age or older at the time of the offense; or</text>
@@ -24,7 +25,6 @@
       <text>Could not have determined the age of the victim because of the manner in which the offense was committed.</text>
     </level>
   </level>
-  <text>1212</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
