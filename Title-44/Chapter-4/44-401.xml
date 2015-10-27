@@ -166,7 +166,7 @@
   </level>
   <level>
     <num>(12)</num>
-    <text>"Health service" means any medical or clinical related service, including services that are diagnostic, curative or rehabilitative, as well as those related to alcohol abuse, drug abuse, inpatient mental health services, home health care, hospice care, medically supervised day care, and renal dialysis. "Health service" shall not include those services provided by physicians, dentists, HMOs, and other individual providers in individual or group practice.</text>
+    <text>"Health service" means any medical or clinical related service, including services that are diagnostic, curative, or rehabilitative, as well as those related to inpatient mental health services, home health care, hospice care, medically supervised day care, and renal dialysis. The term "health service" shall not include those outpatient behavioral health services subject to the exclusive regulatory authority of the Department of Behavioral Health and services provided by physicians, dentists, HMOs, and other individual providers in individual or group practice.</text>
   </level>
   <level>
     <num>(13)</num>
@@ -253,7 +253,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 9, 1997, D.C. Law 11-191, § 2, 43 DCR 4535; Oct. 23, 1997, D.C. Law 12-32, § 12(a)(1), 44 DCR 4819; Apr. 20, 1999, D.C. Law 12-264, § 33, 46 DCR 2118; June 24, 2000, D.C. Law 13-127, § 1402, 47 DCR 2647; July 12, 2001, D.C. Law 14-18, § 8(1), 48 DCR 4047; Dec. 18, 2001, D.C. Law 14-56, § 116(i)(1), 48 DCR 7674; June 5, 2003, D.C. Law 14-307, § 2002(a), 49 DCR 11664; Mar. 13, 2004, D.C. Law 15-105, § 22(c), 51 DCR 881; Apr. 22, 2004, D.C. Law 15-149, § 2(a), 51 DCR 2802.)</text>
+      <text>(Apr. 9, 1997, D.C. Law 11-191, § 2, 43 DCR 4535; Oct. 23, 1997, D.C. Law 12-32, § 12(a)(1), 44 DCR 4819; Apr. 20, 1999, D.C. Law 12-264, § 33, 46 DCR 2118; June 24, 2000, D.C. Law 13-127, § 1402, 47 DCR 2647; July 12, 2001, D.C. Law 14-18, § 8(1), 48 DCR 4047; Dec. 18, 2001, D.C. Law 14-56, § 116(i)(1), 48 DCR 7674; June 5, 2003, D.C. Law 14-307, § 2002(a), 49 DCR 11664; Mar. 13, 2004, D.C. Law 15-105, § 22(c), 51 DCR 881; Apr. 22, 2004, D.C. Law 15-149, § 2(a), 51 DCR 2802; Feb. 26, 2015, D.C. Law 20-155, § 5062, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -271,6 +271,7 @@
       <text>D.C. Law 14-307 repealed pars. (4) and (6); and added par. (6A).</text>
       <text>D.C. Law 15-105, in par. (7A), validated a previously made technical correction.</text>
       <text>.C. Law 15-149, added pars. (2A), (6B), (9A), and (20); in par. (3)(A), substituted "$2,500,000" for "$2,000,000"; in par. (10), substituted "the private office facilities of a health professional or group of health professionals, where the health professional or group of health professionals provides conventional office services limited to medical consultation, general non-invasive examination, and minor treatment," for "the private office facilities of a health professional,"; and rewrote par. (14)(A) which had read as follows: "(14)(A) "Major medical equipment" means equipment which is used for the provision of medical or other health services, which is acquired by or on behalf of a health care facility or by or on behalf of physicians, dentists, or other providers in individual or group practice and which has a fair market value in excess of $1,300,000; except that the SHPDA may, by rule, adjust this threshold annually to reflect the change in the Consumer Price index issued by the Bureau of Labor Statistics, United States Department of Labor. "Major medical equipment" shall not include medical equipment acquired by or on behalf of a clinical laboratory to provide clinical laboratory services if the clinical laboratory is independent of a physician's office or a hospital and it meets the requirements of § 1861(s)(10) and (11) under the Social Security Act, approved August 14, 1935 (49 Stat. 420; 42 U.S.C. 1395x(s)), or replacement equipment exempted under § 44-407(b)(4)."</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (12).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -294,6 +295,9 @@
       <text>For temporary (90 day) amendment of section, see § 2(a), 3, and 4 of Health Services Planning and Development Emergency Amendment Act of 2004 (D.C. Act 15-322, January 28, 2004, 51 DCR 1581).</text>
       <text>For temporary (90 day) amendment of section, see § 3(a) of Comprehensive Psychiatric Emergency Program Long-Term Ground Lease Emergency Act of 2006 (D.C. Act 16-529, December 4, 2006, 53 DCR 9833).</text>
       <text>For temporary (90 day) amendment of section, see § 3(a) of Comprehensive Psychiatric Emergency Program Long-Term Ground Lease Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-16, February 20, 2007, 54 DCR 1774).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5062 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5062 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5062 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 11-191</heading>
@@ -326,6 +330,10 @@
     <level>
       <heading>Legislative History of Law 15-149</heading>
       <text>Law 15-149, the "Health Services Planning and Development Amendment Act of 2004", was introduced in Council and assigned Bill No. 15-388, which was referred to Committee on Human Services. The Bill was adopted on first and second readings on January 6, 2004, and February 3, 2004, respectively. Signed by the Mayor on February 27, 2004, it was assigned Act No. 15-383 and transmitted to both Houses of Congress for its review. D.C. Law 15-149 became effective on April 22, 2004.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>Law 20-155, the "Fiscal Year 2015 Budget Support Act of 2014," was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor's signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</text>
     </level>
   </level>
 </level>
