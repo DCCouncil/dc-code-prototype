@@ -4,6 +4,7 @@
   <level>
     <num>(a)</num>
     <text>Licensees engaged by sellers. —</text>
+    <text>Licensees engaged by sellers. —</text>
     <level>
       <num>(1)</num>
       <text>A licensee engaged by a seller shall:</text>
@@ -61,9 +62,9 @@
       <text>Licensees shall disclose brokerage relationships pursuant to the provisions of this section.</text>
     </level>
   </level>
-  <text>Licensees engaged by sellers. —</text>
   <level>
     <num>(b)</num>
+    <text>Licensees engaged by buyers. —</text>
     <text>Licensees engaged by buyers. —</text>
     <level>
       <num>(1)</num>
@@ -122,9 +123,9 @@
       <text>Licensees shall disclose brokerage relationships pursuant to the provisions of this section.</text>
     </level>
   </level>
-  <text>Licensees engaged by buyers. —</text>
   <level>
     <num>(c)</num>
+    <text>Licensees engaged by landlords to lease property. —</text>
     <text>Licensees engaged by landlords to lease property. —</text>
     <level>
       <num>(1)</num>
@@ -183,9 +184,9 @@
       <text>Licensees shall disclose brokerage relationships pursuant to the provisions of this section.</text>
     </level>
   </level>
-  <text>Licensees engaged by landlords to lease property. —</text>
   <level>
     <num>(d)</num>
+    <text>Licensees engaged by tenants. —</text>
     <text>Licensees engaged by tenants. —</text>
     <level>
       <num>(1)</num>
@@ -244,9 +245,9 @@
       <text>Licensees shall disclose brokerage relationships pursuant to the provisions of this section.</text>
     </level>
   </level>
-  <text>Licensees engaged by tenants. —</text>
   <level>
     <num>(e)</num>
+    <text>Licensees engaged to manage real estate. —</text>
     <text>Licensees engaged to manage real estate. —</text>
     <level>
       <num>(1)</num>
@@ -285,15 +286,15 @@
       <text>A licensee may also represent the owner as seller or landlord if they enter into a brokerage relationship that so provides; in which case, the licensee shall disclose such brokerage relationships pursuant to the provisions of this section.</text>
     </level>
   </level>
-  <text>Licensees engaged to manage real estate. —</text>
   <level>
     <num>(f)</num>
     <text>Preconditions to brokerage relationship. —</text>
+    <text>Preconditions to brokerage relationship. —</text>
+    <text>Prior to entering into any brokerage relationship provided for in this section, a licensee shall advise the prospective client of the type of brokerage relationship proposed by the broker, and the broker's compensation, and whether the broker will share such salary or compensation with another broker who may have a brokerage relationship with another party to the transaction.</text>
   </level>
-  <text>Preconditions to brokerage relationship. —</text>
-  <text>Prior to entering into any brokerage relationship provided for in this section, a licensee shall advise the prospective client of the type of brokerage relationship proposed by the broker, and the broker's compensation, and whether the broker will share such salary or compensation with another broker who may have a brokerage relationship with another party to the transaction.</text>
   <level>
     <num>(g)</num>
+    <text>Commencement and termination of brokerage relationships. —</text>
     <text>Commencement and termination of brokerage relationships. —</text>
     <level>
       <num>(1)</num>
@@ -308,9 +309,9 @@
       <text>Except as otherwise agreed to in writing, a licensee owes no further duties to a client after termination, expiration, or completion of performance of the brokerage relationship, except to account for all moneys and property relating to the brokerage relationship, and keep confidential all personal and financial information received from the client during the course of the brokerage relationship and any other information that the client requests during the brokerage relationship be maintained confidential, unless otherwise provided by law or the client consents in writing to the release of such information.</text>
     </level>
   </level>
-  <text>Commencement and termination of brokerage relationships. —</text>
   <level>
     <num>(h)</num>
+    <text>Disclosure of brokerage relationship. —</text>
     <text>Disclosure of brokerage relationship. —</text>
     <level>
       <num>(1)</num>
@@ -344,9 +345,9 @@
       <text>Copies of any disclosures relative to fully executed purchase contracts shall be kept by the licensee for a period of 3 years as proof of having such disclosure, whether or not such disclosure is acknowledged in writing by the party to whom such disclosure was shown or given.</text>
     </level>
   </level>
-  <text>Disclosure of brokerage relationship. —</text>
   <level>
     <num>(i)</num>
+    <text>Disclosed dual or designated representation authorized. —</text>
     <text>Disclosed dual or designated representation authorized. —</text>
     <level>
       <num>(1)</num>
@@ -417,7 +418,6 @@
       <text>Date                     Name (Other Party)".</text>
     </level>
   </level>
-  <text>Disclosed dual or designated representation authorized. —</text>
   <level>
     <num>(j)</num>
     <heading>Compensation shall not imply brokerage relationship</heading>
@@ -430,6 +430,7 @@
   </level>
   <level>
     <num>(l)</num>
+    <text>Liability; knowledge not to be imputed. —</text>
     <text>Liability; knowledge not to be imputed. —</text>
     <level>
       <num>(1)</num>
@@ -452,7 +453,6 @@
       <text>Except as expressly set forth in this section, nothing in this section shall affect a person's right to rescind a real estate transaction or limit the liability of a client for the misrepresentation, negligence, gross negligence, or intentional acts of such client in connection with a real estate transaction, or a licensee for the misrepresentation, negligence, gross negligence, or intentional acts of such licensee in connection with a real estate transaction.</text>
     </level>
   </level>
-  <text>Liability; knowledge not to be imputed. —</text>
   <level>
     <num>(m)</num>
     <heading>Commission regulations to be consistent</heading>
