@@ -10,7 +10,18 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Has not been assigned a social security number or is ineligible to obtain a social security number; and</text>
+      <level>
+        <num>(A)</num>
+        <text>Has not been assigned a social security number;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Has been assigned a social security number but cannot establish legal presence in the United States at the time of application; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Is ineligible to obtain a social security number; and</text>
+      </level>
     </level>
     <level>
       <num>(3)</num>
@@ -78,7 +89,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 3, 1925, ch. 443, § 8c, as added Jan. 17, 2014, D.C. Law 20-62, § 2(c), 60 DCR 16026.)</text>
+      <text>(Mar. 3, 1925, ch. 443, § 8c, as added Jan. 17, 2014, D.C. Law 20-62, § 2(c), 60 DCR 16026; Dec. 17, 2014, D.C. Law 20-145, § 2, 61 DCR 8061.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -87,14 +98,24 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2014 amendment by D.C. Law 20-62 added this section.</text>
+      <text>The 2014 amendment by D.C. Law 20-145, in (a)(2), added the subdivision (a)(2)(A) and (a)(2)(C) designations; and added (a)(2)(B).</text>
+    </level>
+    <level>
+      <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) amendment of this section, see § 2 of the Driver's Safety Clarification Temporary Amendment Act of 2014 (D.C. Law 20-111, June 21, 2014, 61 DCR 4326).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) amendment of this section, see § 2 of the Driver's Safety Clarification Emergency Amendment Act of 2014 (D.C. Act 20-293, March 12, 2014, 61 DCR 2435).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 2 and 3 of the Driver's Safety Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-350, June 17, 2014,  61 DCR 6326).</text>
     </level>
     <level>
       <heading>Legislative History of Law 20-62</heading>
       <text>See note to § 50-1401.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-145</heading>
+      <text>Law 20-145, the "Driver Safety Clarification Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-694. The Bill was adopted on first and second readings on June 24, 2014, and July 14, 2014, respectively. Signed by the Mayor on July 29, 2014, it was assigned Act No. 20-388 and transmitted to Congress for its review. D.C. Law 20-145 became effective on Dec. 17, 2014.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

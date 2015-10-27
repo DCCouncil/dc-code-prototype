@@ -69,29 +69,76 @@
       <num>(2)</num>
       <text>The Director may submit requests to the Office of Budget and Planning of the Office of the Chief Financial Officer ("OBP") to allocate funds for the Related Projects of each capital project created in fiscal year 2012 or later funded from the District of Columbia Highway Trust Fund. The Director, following allocation of funds by OBP to Related Projects, shall have the authority to obligate and spend the funds.</text>
     </level>
+    <level>
+      <num>(3)</num>
+      <text>The Director may submit requests to OBP to re-allocate funds from any Related Project to the applicable capital project created in Fiscal Year 2012 or later funded from the District of Columbia Highway Trust Fund. The Director, following re-allocation of funds by OBP from a Related Project to its applicable capital project, shall have the authority to submit requests to OBP to allocate these funds to another Related Project.</text>
+    </level>
   </level>
   <level>
     <num>(f)</num>
-    <text>The Director may:</text>
     <level>
       <num>(1)</num>
-      <text>Enter into agreements with private nonprofit organizations to provide those nonprofit organizations vehicles to transport elderly residents and residents with disabilities pursuant to 49 U.S.C. § 5310 (the "5310 Program");</text>
+      <text>The Director may:</text>
+      <level>
+        <num>(A)</num>
+        <text>With respect to the program established pursuant to 49 U.S.C. § 5310 (the "5310 Program"):</text>
+        <level>
+          <num>(i)</num>
+          <text>Enter into agreements with nonprofit organizations to provide those nonprofit organizations vehicles to transport elderly residents and residents with disabilities;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Provide an application for the 5310 Program each year, solicit applicants to apply, and administer a selection process to identify which eligible applicants may participate;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Enter into agreements with the nonprofit organizations that are selected to receive vehicles to ensure they use the vehicles as prescribed by the 5310 Program guidelines and regulations enacted pursuant to this paragraph, including the requirement that the vehicle recipient deposit matching funds into the District Department of Transportation Enterprise Fund for Transportation Initiatives; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Enter into contracts with third parties for the procurement and maintenance of eligible vehicles to be used by the nonprofit organizations selected by the Director;</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Enter into an agreement with a developer, property owner, utility company, the federal government or other governmental entity, or other person or entity requiring payment for:</text>
+        <level>
+          <num>(i)</num>
+          <text>The costs of DDOT's review of the proposed or existing project on private property or public space that may affect the transportation infrastructure or public space in the District or DDOT's ability to manage and maintain the transportation infrastructure or public space in the District;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The implementation of transportation infrastructure or public improvements or mitigation measures to address the project's impact on the transportation infrastructure or public space in the District or on DDOT's ability to manage and maintain the transportation infrastructure or public space in the District; or</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>The cost of both review and the implementation of mitigation measures; and</text>
+        </level>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Promulgate, amend, or repeal rules to implement the provisions of this subsection, pursuant to the Mayor's authority under Chapter 5 of Title 2 [§  2-501 et seq.].</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>Provide an application for the 5310 Program each year, solicit applicants to apply, and administer a selection process to identify which eligible applicants may participate;</text>
+      <text>A payment, improvement, and mitigation measure required under an agreement authorized by paragraph (1)(B) of this subsection shall be reasonably related to:</text>
+      <level>
+        <num>(A)</num>
+        <text>The costs incurred by DDOT in reviewing the project;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The effects of the project on the transportation infrastructure or public space in the District; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The effects of the project on DDOT's ability to manage and maintain the transportation infrastructure or public space in the District.</text>
+      </level>
     </level>
     <level>
       <num>(3)</num>
-      <text>Enter into agreements with the nonprofit organizations that are selected to receive vehicles to ensure they use the vehicles as prescribed by the 5310 Program guidelines and regulations enacted pursuant to this subsection, including the requirement that the vehicle recipient deposit matching funds into the District Department of Transportation Enterprise Fund for Transportation Initiatives;</text>
-    </level>
-    <level>
-      <num>(4)</num>
-      <text>Enter into contracts with third parties for the procurement and maintenance of eligible vehicles to be used by the nonprofit organizations selected by the Director; and</text>
-    </level>
-    <level>
-      <num>(5)</num>
-      <text>Promulgate, amend, or repeal rules to implement the provisions of this subsection, pursuant to the Mayor's authority under subchapter I of Chapter 5 of Title 2 [§ 2-501 et seq.].</text>
+      <text>A payment made pursuant to an agreement authorized by paragraph (1)(B) of this subsection shall be in addition to, and not in lieu of, a payment required for the temporary use of public space or the use of the public right of way pursuant to the District of Columbia Public Space Rental Act, approved October 17, 1968 (82 Stat. 1156; D.C. Official Code § 10-1101.01 et seq.), or Title VI of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 10-1141.01 et seq.).</text>
     </level>
   </level>
   <level>
@@ -112,7 +159,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 21, 2002, D.C. Law 14-137, § 3, 49 DCR 3444; Mar. 13, 2004, D.C. Law 15-105, § 20(b), 51 DCR 881; Apr. 13, 2005, D.C. Law 15-354, § 77(b), 52 DCR 2638; Oct. 22, 2008, D.C. Law 17-248, § 2(a), 55 DCR 9203; Sept. 14, 2011, D.C. Law 19-21, § 11002, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 6024(a), 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, § 220, 59 DCR 6190; Mar. 19, 2013, D.C. Law 19-241, § 2(a), 59 DCR 14794; Dec. 24, 2013, D.C. Law 20-61, § 6122, 60 DCR 12472.)</text>
+      <text>(May 21, 2002, D.C. Law 14-137, § 3, 49 DCR 3444; Mar. 13, 2004, D.C. Law 15-105, § 20(b), 51 DCR 881; Apr. 13, 2005, D.C. Law 15-354, § 77(b), 52 DCR 2638; Oct. 22, 2008, D.C. Law 17-248, § 2(a), 55 DCR 9203; Sept. 14, 2011, D.C. Law 19-21, § 11002, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 6024(a), 59 DCR 8025; Sept. 26, 2012, D.C. Law 19-171, § 220, 59 DCR 6190; Mar. 19, 2013, D.C. Law 19-241, § 2(a), 59 DCR 14794; Dec. 24, 2013, D.C. Law 20-61, § 6122, 60 DCR 12472; July 23, 2014, D.C. Law 20-128, §  2(a), 61 DCR 5722; Feb. 26, 2015, D.C. Law 20-155, § 8002, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -128,6 +175,8 @@
       <text>The 2012 amendment by D.C. Law 19-171 substituted "shall be exempt from Chapter 3A of Title 2, in accordance with § 2-351.05(c)(12)" for "shall be exempt from Unit A of Chapter 3 of Title 2, in accordance with § 2-301.04(b)" in (d)(2).</text>
       <text>The 2013 amendment by D.C. Law 19-241 added (f).</text>
       <text>The 2013 amendment by D.C. Law 20-61 added (g).</text>
+      <text>The 2014 amendment by D.C. Law 20-128 rewrote (f).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (e)(3).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -143,6 +192,7 @@
       <text>"(4) Promulgate, amend, or repeal rules to implement the provisions of this subsection, pursuant to the Mayor's authority under Title 1 of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.)."</text>
       <text>Section 4(b) of D.C. Law 19-208 provided that the act shall expire after 225 days of its having taken effect.</text>
       <text>For temporary (225 days) amendment of this section, see § 2(a) of the Transportation Infrastructure Mitigation Temporary Amendment Act of 2013 (D.C. Law 20-68, February 22, 2014, 61 DCR 19).</text>
+      <text>For temporary (225 days) amendment of this section, see §§ 2 and 3 of the Transportation Infrastructure Mitigation Clarification Temporary Amendment Act of 2014 (D.C. Law 20-112, June 21, 2014, 61 DCR 4328).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -154,8 +204,12 @@
       <text>For temporary (90 days) amendment of this section, see § 2(a) of the Transportation Infrastructure Mitigation Emergency Amendment Act of 2013 (D.C. Act 20-198, October 17, 2013, 60 DCR 15327).</text>
       <text>For temporary (90 days) amendment of this section, see § 6122 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) amendment of this section, see § 6122 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
-      <text>For temporary (90 days) amendment of this section, see §§ 2(a) and 3 of the Transportation Infrastructure Mitigation Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-268, January 15, 2014, 61 DCR 785).</text>
-      <text>For temporary (90 days) amendment of this section, see §§ 2 and 3 of the Transportation Infrastructure Mitigation Clarification Emergency Amendment Act of 2014 (D.C. Act 20-298, March 14, 2014, 61 DCR 2566, 20 DCSTAT 3065).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) and 3 of the Transportation Infrastructure Mitigation Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-268, January 15, 2014, 61 DCR 785).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 and 3 of the Transportation Infrastructure Mitigation Clarification Emergency Amendment Act of 2014 (D.C. Act 20-298, March 14, 2014, 61 DCR 2566, 20 DCSTAT 3065).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 2-4 of the Transportation Infrastructure Mitigation Clarification Congressional Review Emergency Amendment Act of 2014, (D.C. Act 20-351, June 17, 2014, 61 DCR 6328).</text>
+      <text>For temporary (90 days) amendment of this section, see § 8002 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 8002 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 8002 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 14-137</heading>
@@ -192,6 +246,14 @@
     <level>
       <heading>Legislative History of Law 20-61</heading>
       <text>See note to § 50-921.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-128</heading>
+      <text>Law 20-128, the "Transportation Infrastructure Mitigation Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-431. The Bill was adopted on first and second readings on April 8, 2014, and May 6, 2014, respectively. Signed by the Mayor on June 3, 2014, it was assigned Act No. 20-345 and transmitted to Congress for its review. D.C. Law 20-128 became effective on July 23, 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>Law 20-155, the "Fiscal Year 2015 Budget Support Act of 2014," was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor's signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>
