@@ -4,11 +4,11 @@
   <level>
     <num>(a)</num>
     <text>Notwithstanding the provisions of any instrument of security, refinancing contract, or other instrument to the contrary, made or entered into on or after March 5, 1981, no person shall charge, contract for, receive, or collect a finance charge if such charge exceeds the larger of $25 or an amount determined under the following schedule:</text>
+    <text>Class 1. Any new domestic motor vehicle designated by the manufacturer by a year model not earlier than the year in which the sale is made and any new foreign motor vehicle — 21.5% annual percentage rate.</text>
+    <text>Class 2. Any new domestic motor vehicle not in class 1 and any used domestic motor vehicle designated by the manufacturer by a year model of the same or not more than 2 years prior to the year in which the sale is made and any used foreign motor vehicle not more than 2 years old — 23.5% annual percentage rate.</text>
+    <text>Class 3. Any used motor vehicle not in class 2, and, if a domestic motor vehicle, designated by the manufacturer by a year model not more than 4 years prior to the year in which the sale is made, and, if a foreign motor vehicle, not more than 4 years old — 27% annual percentage rate.</text>
+    <text>Class 4. Any used motor vehicle not in class 2 or class 3 — 28.33% annual percentage rate.</text>
   </level>
-  <text>Class 1. Any new domestic motor vehicle designated by the manufacturer by a year model not earlier than the year in which the sale is made and any new foreign motor vehicle - 21.5% annual percentage rate.</text>
-  <text>Class 2. Any new domestic motor vehicle not in class 1 and any used domestic motor vehicle designated by the manufacturer by a year model of the same or not more than 2 years prior to the year in which the sale is made and any used foreign motor vehicle not more than 2 years old - 23.5% annual percentage rate.</text>
-  <text>Class 3. Any used motor vehicle not in class 2, and, if a domestic motor vehicle, designated by the manufacturer by a year model not more than 4 years prior to the year in which the sale is made, and, if a foreign motor vehicle, not more than 4 years old - 27% annual percentage rate.</text>
-  <text>Class 4. Any used motor vehicle not in class 2 or class 3 - 28.33% annual percentage rate.</text>
   <level>
     <num>(b)</num>
     <text>The finance charge authorized by the preceding subsection shall be computed on the principal balance payable for a motor vehicle from the date of the instrument or contract until the maturity of the final installment, notwithstanding that the balance thereof is required to be paid in installments.</text>
