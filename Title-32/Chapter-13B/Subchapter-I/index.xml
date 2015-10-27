@@ -1,0 +1,10 @@
+<level type="toc">
+  <prefix>Subchapter</prefix>
+  <num>I</num>
+  <heading>Fair Criminal Record Screening.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1341.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1342.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1343.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1344.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-1345.xml"/>
+</level>

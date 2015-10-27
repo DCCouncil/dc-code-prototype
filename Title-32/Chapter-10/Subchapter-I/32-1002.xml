@@ -24,7 +24,7 @@
   </level>
   <level>
     <num>(3)</num>
-    <text>The term "employer" includes any individual, partnership, association, corporation, business trust, or any person or group of persons acting directly or indirectly in the interest of an employer in relation to an employee, but shall not include the United States or the District of Columbia.</text>
+    <text>The term "employer" includes any individual, partnership, general contractor, subcontractor, association, corporation, business trust, or any person or group of persons acting directly or indirectly in the interest of an employer in relation to an employee, but shall not include the United States or the District of Columbia.</text>
   </level>
   <level>
     <num>(4)</num>
@@ -77,12 +77,12 @@
       <num>(D)</num>
       <text>Waits on the employer's premises for work.</text>
     </level>
+    <text>Interpretations of what constitutes working time shall be made in accordance with Title 29 of the Code of Federal Regulations, Part 785, Hours Worked Under the Fair Labor Standards Act of 1938, as amended, except that references to interpretations of the Portal-to-Portal Act shall have no force and effect.</text>
   </level>
-  <text>Interpretations of what constitutes working time shall be made in accordance with Title 29 of the Code of Federal Regulations, Part 785, Hours Worked Under the Fair Labor Standards Act of 1938, as amended, except that references to interpretations of the Portal-to-Portal Act shall have no force and effect.</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 25, 1993, D.C. Law 9-248, § 3, 40 DCR 761; Mar. 20, 2008, D.C. Law 17-114, § 2(a), 55 DCR 1276.)</text>
+      <text>(Mar. 25, 1993, D.C. Law 9-248, § 3, 40 DCR 761; Mar. 20, 2008, D.C. Law 17-114, § 2(a), 55 DCR 1276; Feb. 26, 2015, D.C. Law 20-157, § 3(a), 61 DCR 10157.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -91,6 +91,15 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-114 added pars. (6A) and (7A).</text>
+      <text>The 2015 amendment by D.C. Law 20-157 added "general contractor, subcontractor" in (3).</text>
+    </level>
+    <level>
+      <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) repeal of D.C. Law 20-157, § 7, see § 4 of the Wage Theft Prevention Correction and Clarification Temporary Amendment Act of 2014 (D.C. Law 20-240, March 13, 2015, 62 DCR 1332).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) repeal of D.C. Law 20-157, § 7, see § 2(c) of the Wage Theft Prevention Correction and Clarification Emergency Amendment Act of 2014 (D.C. Act 20-544, Dec. 29, 2014, 62 DCR 243, 20 STAT 4458).</text>
     </level>
     <level>
       <heading>Legislative History of Law 9-248</heading>
@@ -101,8 +110,16 @@
       <text>Law 17-114, the "Enhanced Professional Security Amendment Act of 2008", was introduced in Council and assigned Bill No. 17-199 which was referred to the Committee on Public Safety and Judiciary. The Bill was adopted on first and second readings on December 11, 2007, and January 8, 2008, respectively. Signed by the Mayor on January 23, 2008, it was assigned Act No. 17-257 and transmitted to both Houses of Congress for its review. D.C. Law 17-114 became effective on March 20, 2008.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-157</heading>
+      <text>Law 20-157, the "Wage Theft Prevention Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-671. The Bill was adopted on first and second readings on June 3, 2014, and July 14, 2014, respectively. Signed by the Mayor on Sept. 19, 2014, it was assigned Act No. 20-426 and transmitted to Congress for its review. D.C. Law 20-157 became effective on Feb. 26, 2015.</text>
+    </level>
+    <level>
       <heading>References in Text</heading>
       <text>The "Portal-to-Portal Act", referred to in (10), is 29 U.S.C. § 251 et seq.</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>Applicability of D.C. Law 20-157: Section 7 of D.C. Law 20-157 provided that the act shall apply as of October 1, 2014, and that the act shall apply to violations occurring after October 1, 2014.</text>
     </level>
   </level>
 </level>

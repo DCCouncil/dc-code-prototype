@@ -70,11 +70,13 @@
     <level>
       <num>(6)</num>
       <text>Each contract between an employment agency and a job-seeker shall contain the following notice in type which is more prominent than the type used for the remainder of the contract:</text>
+      <level>
+        <heading>NOTICE</heading>
+      </level>
+      <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment agency) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
+      <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
     </level>
   </level>
-  <text class="centered">NOTICE</text>
-  <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment agency) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
-  <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
   <level>
     <num>(g)</num>
     <text>No employment agency shall charge any job-seeker a registration fee or collect from any job-seeker any payment for any service in advance of performing the service.</text>
@@ -100,7 +102,8 @@
   </level>
   <level>
     <num>(k)</num>
-    <text>Employment shall not be considered permanent when, within 12 weeks after employment commences, that employment is terminated by the employer through no fault of the job-seeker, or is terminated by the job-seeker if the employment is not as represented to the job-seeker. In that event, the employment agency making the job placement shall refund to the job-seeker the portion of the placement fee that exceeds <span style="font-style: italic; ">1</span>/<span style="">12</span> of that fee for each week or portion thereof that the employment continued.</text>
+    <text>Employment shall not be considered permanent when, within 12 weeks after employment commences, that employment is terminated by the employer through no fault of the job-seeker, or is terminated by the job-seeker if the employment is not as represented to the job-seeker. In that event, the employment agency making the job placement shall refund to the job-seeker the portion of the placement fee that exceeds 1/12 of that fee for each week or portion thereof that the employment continued.</text>
+    <text>112</text>
   </level>
   <level>
     <num>(l)</num>
