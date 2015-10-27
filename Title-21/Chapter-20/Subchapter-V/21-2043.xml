@@ -73,6 +73,84 @@
     <text>With respect to persons having equal priority, the court shall select the person it deems best qualified to serve. The court, acting in the best interest of the incapacitated individual, may pass over a person having priority and appoint a person having a lower priority or no priority.</text>
   </level>
   <level>
+    <num>(d-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>The court shall not appoint a guardian until the person to be appointed as a guardian has submitted to the court a statement, signed and sworn by the person to be appointed, stating whether or not he or she has been convicted of, has pleaded nolo contendere to, is on probation before judgment or placement of a case upon a stet docket for, or has been found not guilty by reason of insanity of, any of the following offenses and including the court and date of each such adjudication:</text>
+      <level>
+        <num>(A)</num>
+        <text>A lifetime registration offense, as defined in § 22-4001(6), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A registration offense, as defined in § 22-4001(8), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Any offense set forth in Chapters 8, 8A, 9A, 10, 11, 14, 15, and 32 of Title 22, or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>A dangerous crime, as defined § 23-1331(3), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense; or</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>A crime of violence, as defined in § 23-1331(4), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>In addition to the affirmation under paragraph (1) of this subsection, a guardian shall submit to the court:</text>
+      <level>
+        <num>(A)</num>
+        <text>Within 60 days after the guardianship appointment, the results of a criminal-history check from the Metropolitan Police Department ("MPD"), conducted no more than 90 days before the guardianship appointment; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Within 180 days after the guardianship appointment, the results of a Federal Bureau of Investigation ("FBI") fingerprint background check, conducted no more than 90 days before the guardianship appointment.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The results of all criminal-history checks and FBI fingerprint background checks and all signed, sworn statements, submitted pursuant to paragraphs (1) and (2) of this subsection, shall be made a part of the record of the case.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Emergency guardians, health-care guardians, and provisional guardians appointed under § 21-2046 are exempt from the requirements of paragraph (2) of this subsection.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>If a guardian serves as a member of the Probate Division's Fiduciary Panel of Attorneys, the guardian may satisfy the requirements of paragraph (2) of this subsection by submitting to the court the results of a criminal-history check conducted by MPD and a FBI fingerprint background check, each issued no more than 3 years before the guardianship appointment.</text>
+    </level>
+  </level>
+  <level>
+    <num>(d-2)</num>
+    <level>
+      <num>(1)</num>
+      <text>It is presumed not to be in the best interests of an incapacitated individual to appoint as guardian a person who has been convicted of an offense identified in subsection (d-1)(1) or found, pursuant to an investigation by law enforcement or a government agency, to have inflicted harm upon a child, elderly individual, or person with a disability.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>When determining whether it is in the best interest of the incapacitated individual for a person to be appointed as a guardian who has been convicted or found to have inflicted harm as set forth in paragraph (1) of this subsection, the Court shall consider the following:</text>
+      <level>
+        <num>(A)</num>
+        <text>The prior relationship, if any, of the proposed guardian to the incapacitated individual;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The nature of the offense;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The date of the offense;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Evidence of the rehabilitation of the proposed guardian.</text>
+      </level>
+    </level>
+  </level>
+  <level>
     <num>(e)</num>
     <text>A guardian shall limit his or her caseload to a size that allows the guardian:</text>
     <level>
@@ -91,7 +169,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Apr. 4, 2006, D.C. Law 16-79, § 7(b), 53 DCR 1035; Oct. 22, 2008, D.C. Law 17-249, § 2(d), 55 DCR 9206.)</text>
+      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Apr. 4, 2006, D.C. Law 16-79, § 7(b), 53 DCR 1035; Oct. 22, 2008, D.C. Law 17-249, § 2(d), 55 DCR 9206; Mar. 11, 2015, D.C. Law 20-230, § 2(d), 62 DCR 278.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
@@ -101,6 +179,7 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 16-79, in subsec. (c)(1), substituted "spouse or domestic partner" for "spouse".</text>
       <text>D.C. Law 17-249 added subsecs. (a-1), (c)(3A), and (e).</text>
+      <text>The 2015 amendment by D.C. Law 20-230 added (d-1) and (d-2).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -150,6 +229,10 @@
     <level>
       <heading>Legislative History of Law 17-249</heading>
       <text>For Law 17-249, see notes following § 21-2002.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-230</heading>
+      <text>See note to § 21-2011.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>
