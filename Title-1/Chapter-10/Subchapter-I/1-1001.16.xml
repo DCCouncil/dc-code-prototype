@@ -247,10 +247,10 @@
         <level>
           <num>(A)</num>
           <text>If the referendum concerns whether the registered voters of the District of Columbia approve or reject the act, then the ballot shall state:</text>
+          <text>Shall the registered voters of the District of Columbia approve or reject Act (insert Act number)</text>
+          <text>YES, to approve</text>
+          <text>NO, to reject.</text>
         </level>
-        <text>Shall the registered voters of the District of Columbia approve or reject Act (insert Act number)</text>
-        <text>YES, to approve</text>
-        <text>NO, to reject.</text>
         <level>
           <num>(B)</num>
           <text>If the referendum concerns part or parts of an act, then the ballot shall state:</text>
