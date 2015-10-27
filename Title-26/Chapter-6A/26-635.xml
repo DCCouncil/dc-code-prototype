@@ -121,16 +121,16 @@
       <level>
         <num>(B)</num>
         <text>Contracting in the District of Columbia with a banking institution engaged in the business of banking under the laws of the District of Columbia to acquire from or through such banking institution a part or the entire interest in:</text>
+        <level>
+          <num>(i)</num>
+          <text>A loan or evidence of debt which such banking institution has made, purchased, or acquired, or will make, purchase, or acquire, for its own account or otherwise; and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>A like interest in any security and any security instrument proposed to be given, or previously or subsequently given, to secure or evidence such loan or evidence of debt;</text>
+        </level>
       </level>
     </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <text>A loan or evidence of debt which such banking institution has made, purchased, or acquired, or will make, purchase, or acquire, for its own account or otherwise; and</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>A like interest in any security and any security instrument proposed to be given, or previously or subsequently given, to secure or evidence such loan or evidence of debt;</text>
     <level>
       <num>(2)</num>
       <text>Enforcing in the District of Columbia obligations previously or subsequently acquired by it in the transaction of business outside the District of Columbia or in the transaction of business authorized by this section; or</text>
