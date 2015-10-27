@@ -39,12 +39,12 @@
     <level>
       <num>(9)</num>
       <text>The following statement: "District of Columbia law requires that you be given the following information:</text>
+      <text>Notice of Pesticide Application:</text>
+      <text>CAUTION — PESTICIDES MAY CONTAIN TOXIC CHEMICALS. Companies that apply pesticides are licensed by the Department of Consumer and Regulatory Affairs and regulated by the District Department of the Environment ("DDOE"). The Environmental Protection Agency and DDOE approve pesticides for use. At your request, the company conducting your pest control will provide you with either or both of the Material Safety Data Sheet(s) or the pesticide label(s), both of which provide further information about the approved uses of and recommended precautions for the pesticide being applied on your property. Neither of these documents is guaranteed to list every danger associated with a pesticide. DDOE maintains a list of pesticides that present a reduced risk to humans and the environment, and encourages the use of such pesticides whenever possible. The pesticide company</text>
+      <text>[ ] HAS</text>
+      <text>[ ] HAS NOT</text>
+      <text>chosen to apply reduced-risk pesticide(s). The District of Columbia government encourages the use of non-chemical and reduced-risk methods of pest control by residents and commercial pest control companies. Even when using reduced-risk pesticides, residents should familiarize themselves with safety information for pesticide products, and should avoid exposure to pesticides."; and</text>
     </level>
-    <text>Notice of Pesticide Application:</text>
-    <text>CAUTION — PESTICIDES MAY CONTAIN TOXIC CHEMICALS. Companies that apply pesticides are licensed by the Department of Consumer and Regulatory Affairs and regulated by the District Department of the Environment ("DDOE"). The Environmental Protection Agency and DDOE approve pesticides for use. At your request, the company conducting your pest control will provide you with either or both of the Material Safety Data Sheet(s) or the pesticide label(s), both of which provide further information about the approved uses of and recommended precautions for the pesticide being applied on your property. Neither of these documents is guaranteed to list every danger associated with a pesticide. DDOE maintains a list of pesticides that present a reduced risk to humans and the environment, and encourages the use of such pesticides whenever possible. The pesticide company</text>
-    <text>[ ] HAS</text>
-    <text>[ ] HAS NOT</text>
-    <text>chosen to apply reduced-risk pesticide(s). The District of Columbia government encourages the use of non-chemical and reduced-risk methods of pest control by residents and commercial pest control companies. Even when using reduced-risk pesticides, residents should familiarize themselves with safety information for pesticide products, and should avoid exposure to pesticides."; and</text>
     <level>
       <num>(10)</num>
       <text>At the request of the customer, both or either of:</text>

@@ -9,6 +9,7 @@
   <level>
     <num>(b)</num>
     <text>Contracts exceeding certain amount.—</text>
+    <text>Contracts exceeding certain amount.</text>
     <level>
       <num>(1)</num>
       <heading>In general</heading>
@@ -28,7 +29,6 @@
       </level>
     </level>
   </level>
-  <text>Contracts exceeding certain amount.</text>
   <level>
     <num>(c)</num>
     <heading>Multiyear contracts</heading>

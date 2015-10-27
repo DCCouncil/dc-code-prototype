@@ -5,16 +5,17 @@
   <level>
     <num>(1)</num>
     <text>In case of total disability adjudged to be permanent, 662/3% of the employee's average weekly wages shall be paid to the employee during the continuance thereof. Loss of both hands, or both arms, or both feet, or both legs, or both eyes, or of any 2 thereof shall, in the absence of conclusive proof to the contrary, constitute permanent total disability. In all other cases permanent total disability shall be determined only if, as a result of the injury, the employee is unable to earn any wages in the same or other employment;</text>
+    <text>23</text>
   </level>
-  <text>23</text>
   <level>
     <num>(2)</num>
     <text>In case of disability total in character but temporary in quality, 662/3% of the employee's average weekly wages shall be paid to the employee during the continuance thereof;</text>
+    <text>23</text>
   </level>
-  <text>23</text>
   <level>
     <num>(3)</num>
     <text>In case of disability partial in character but permanent in quality, the compensation shall be 662/3% of the employee's average weekly wages which shall be in addition to compensation for temporary total disability or temporary partial disability paid in accordance with paragraph (2) or (4) of this subsection respectively, and shall be paid to the employee, as follows:</text>
+    <text>23</text>
     <level>
       <num>(A)</num>
       <text>Arm lost, 312 weeks' compensation;</text>
@@ -102,6 +103,7 @@
     <level>
       <num>(U-i)</num>
       <text>In determining disability pursuant to subparagraphs (A) through (S) of this subsection, the most recent edition of the American Medical Association's Guides to the Evaluation of Permanent Impairment may be utilized, along with the following 5 factors:</text>
+      <text>Guides to the Evaluation of Permanent Impairment</text>
       <level>
         <num>(i)</num>
         <text>Pain;</text>
@@ -123,7 +125,6 @@
         <text>Loss of function.</text>
       </level>
     </level>
-    <text>Guides to the Evaluation of Permanent Impairment</text>
     <level>
       <num>(V)</num>
       <level>
@@ -141,6 +142,7 @@
       <level>
         <num>(ii)</num>
         <text>The compensation shall be 662/3% of the greater of:</text>
+        <text>23</text>
         <level>
           <num>(I)</num>
           <text>The difference between the employee's actual wage at the time of injury and the average weekly wage, at the time of injury, of the job that the employee holds after the employee has a disability; or</text>
@@ -150,7 +152,6 @@
           <text>The difference between the average weekly wage, at the time the employee returns to work, of the job that the employee held before the employee had the disability and the actual wage of the job that the employee holds when the employee returns to work.</text>
         </level>
       </level>
-      <text>23</text>
       <level>
         <num>(iii)</num>
         <text>If the employee voluntarily limits his or her income or fails to accept employment commensurate with the employee's abilities, the employee's wages after the employee becomes disabled shall be deemed to be the amount the employee would earn if the employee did not voluntarily limit his or her income or did accept employment commensurate with the employee's abilities. Notwithstanding the provisions of this section, in the case of injury occurring on or after April 16, 1999, the periods of compensation set forth in subparagraphs (A) through (S) of this paragraph shall each be reduced by a proportion of 25% of the stated period of weeks, rounded upward to the nearest whole week.</text>
@@ -161,7 +162,6 @@
       <text>The compensation and remuneration payable to a professional athlete claimant pursuant to subparagraph (V)(ii) of this paragraph shall be determined by referring to the date of the claimant's disability and a date that is not later than the date on which the claimant's employment as a professional athlete would have ended, as determined pursuant to § 32-1501(17C), if the disability for which he or she seeks compensation and remuneration pursuant to subparagraph (V)(ii) of this paragraph had not occurred.</text>
     </level>
   </level>
-  <text>23</text>
   <level>
     <num>(4)</num>
     <text>Any compensation to which any claimant would be entitled under paragraph (3) of this section, excepting paragraph (3)(V) of this section, shall, provided the death arises from causes other than the injury, be payable in full to and for the benefit of the persons following:</text>
@@ -189,8 +189,8 @@
   <level>
     <num>(5)</num>
     <text>In case of temporary partial disability, the compensation shall be 662/3% of the injured employee's wage loss to be paid during the continuance of such disability, but shall not be paid for a period exceeding 5 years. Wage loss shall be the difference between the employee's average weekly wage before the employee had the disability and the employee's actual wages after the employee had the disability. If the employee voluntarily limits his income or fails to accept employment commensurate with his abilities, then his wages after the employee had the disability shall be deemed to be the amount he would earn if he did not voluntarily limit his income or did accept employment commensurate with his abilities.</text>
+    <text>23</text>
   </level>
-  <text>23</text>
   <level>
     <num>(6)</num>
     <level>
@@ -221,8 +221,8 @@
   <level>
     <num>(7)</num>
     <text>In each case, payment of benefits shall be 662/3 % of the employee's average weekly wage.</text>
+    <text>23</text>
   </level>
-  <text>23</text>
   <level>
     <num>(8)</num>
     <text>The Mayor may approve lump-sum settlements agreed to in writing by the interested parties, discharging the liability of the employer for compensation, notwithstanding §§ 32-1516 and 32-1517, in any case where the Mayor determines that it is in the best interest of an injured employee entitled to compensation or individuals entitled to benefits pursuant to § 32-1509. The Mayor shall approve the settlement, where both parties are represented by legal counsel who are eligible to receive attorney fees pursuant to § 32-1530. These settlements shall be the complete and final dispositions of a case and shall be a final binding compensation order.</text>

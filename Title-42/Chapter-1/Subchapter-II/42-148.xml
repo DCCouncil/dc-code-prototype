@@ -5,6 +5,10 @@
   <level>
     <num>(1)</num>
     <text>For an acknowledgment in an individual capacity:</text>
+    <text>(Seal, if any)</text>
+    <text>____________________</text>
+    <text>Title (and Rank)</text>
+    <text>(My commission expires: ________)</text>
   </level>
   <text>District of Columbia</text>
   <text>This instrument was acknowledged before me on (date) by (name(s) of person(s)).</text>
@@ -28,22 +32,18 @@
   <text>Signed and sworn to (or affirmed) before me on (date) by (name(s) of person(s) making statement).</text>
   <text>____________________</text>
   <text>(Signature of notarial officer)</text>
-  <text>(Seal, if any)</text>
-  <text>____________________</text>
-  <text>Title (and Rank)</text>
-  <text>(My commission expires: ________)</text>
   <level>
     <num>(4)</num>
     <text>For witnessing or attesting a signature:</text>
+    <text>(Seal, if any)</text>
+    <text>____________________</text>
+    <text>Title (and Rank)</text>
+    <text>(My commission expires: ________)</text>
   </level>
   <text>District of Columbia</text>
   <text>Signed or attested before me on (date) by (name(s) of person(s)).</text>
   <text>____________________</text>
   <text>(Signature of notarial officer)</text>
-  <text>(Seal, if any)</text>
-  <text>____________________</text>
-  <text>Title (and Rank)</text>
-  <text>(My commission expires: ________)</text>
   <level>
     <num>(5)</num>
     <text>Repealed.</text>

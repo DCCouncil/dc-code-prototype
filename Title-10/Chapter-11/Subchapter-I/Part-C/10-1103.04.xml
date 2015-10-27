@@ -12,10 +12,10 @@
   <level>
     <num>(c)</num>
     <text>Each level of a vault shall be treated as a separate vault for purposes of computing annual rent. Annual rental shall be computed on the basis of the assessed value ("A.V.") per square foot of the abutting land multiplied by the area of the vault level in square feet ("Area") multiplied by a utilization factor ("U.F."), otherwise expressed as (A.V.) x (Area) x (U.F.).</text>
+    <text>The utilization factors shall be:</text>
+    <text>(1) First Level:      One and two-tenths percent (1.2%);</text>
+    <text>(2) Each Level Thereafter:      Three-tenths of one percent (0.30%).</text>
   </level>
-  <text>The utilization factors shall be:</text>
-  <text>(1) First Level:      One and two-tenths percent (1.2%);</text>
-  <text>(2) Each Level Thereafter:      Three-tenths of one percent (0.30%).</text>
   <level>
     <num>(c-1)</num>
     <text>Notwithstanding subsection (c) of this section, rent per fuel oil tank shall be $100; provided, that the Council may adjust the amount of rent per fuel oil tank pursuant to § 10-1104.01.</text>

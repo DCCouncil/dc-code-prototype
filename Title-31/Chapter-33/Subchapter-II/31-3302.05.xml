@@ -35,6 +35,8 @@
     <level>
       <num>(1)</num>
       <text>Discontinuance of a particular type of health insurance coverage.</text>
+      <text>Discontinuance of a particular type of health insurance coverage.</text>
+      <text>In any case in which a health insurer decides to discontinue offering a particular type of health insurance coverage offered in the individual market, coverage of such type may be discontinued by the health insurer only if:</text>
       <level>
         <num>(i)</num>
         <text>The health insurer provides notice to each covered individual provided coverage of this type in such market of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;</text>
@@ -48,10 +50,9 @@
         <text>In exercising the option to discontinue coverage of this type, and in offering the option of coverage under this subsection, the health insurer acts uniformly without regard to any health status-related factor of enrolled individuals or individuals who may become eligible for such coverage.</text>
       </level>
     </level>
-    <text>Discontinuance of a particular type of health insurance coverage.</text>
-    <text>In any case in which a health insurer decides to discontinue offering a particular type of health insurance coverage offered in the individual market, coverage of such type may be discontinued by the health insurer only if:</text>
     <level>
       <num>(2)</num>
+      <text>Discontinuance of all coverage.</text>
       <text>Discontinuance of all coverage.</text>
       <level>
         <num>(A)</num>
@@ -70,7 +71,6 @@
         <text>In the case of discontinuation under paragraph (1) of this subsection in the individual market, the health insurer may not provide for the issuance of any health insurance coverage in the individual market in the District of Columbia during the 5-year period beginning on the date of the discontinuation of the last health insurance coverage not so renewed.</text>
       </level>
     </level>
-    <text>Discontinuance of all coverage.</text>
   </level>
   <level>
     <num>(d)</num>

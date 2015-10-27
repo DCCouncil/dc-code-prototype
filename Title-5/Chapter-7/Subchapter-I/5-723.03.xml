@@ -13,8 +13,8 @@
       <level>
         <num>(A)</num>
         <text>The calendar year in which the member attains age 70 1/2; or</text>
+        <text>12</text>
       </level>
-      <text>12</text>
       <level>
         <num>(B)</num>
         <text>The calendar year in which the member retires or terminates employment (the "required beginning date").</text>
@@ -26,8 +26,8 @@
       <level>
         <num>(A)</num>
         <text>If the member's surviving spouse is the sole designated beneficiary, distributions to the surviving spouse shall begin by December 31 of the calendar year immediately following the calendar year in which the member died, or by December 31 of the calendar year in which the member would have attained age 70 1/2, if later;</text>
+        <text>12</text>
       </level>
-      <text>12</text>
       <level>
         <num>(B)</num>
         <text>If the member's surviving spouse is not the sole designated beneficiary, distributions to the designated beneficiary shall begin by December 31 of the calendar year immediately following the calendar year in which the member died;</text>
