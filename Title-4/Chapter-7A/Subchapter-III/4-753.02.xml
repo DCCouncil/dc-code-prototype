@@ -60,6 +60,33 @@
       </level>
     </level>
     <level>
+      <num>(1C)</num>
+      <level>
+        <num>(A)</num>
+        <text>No later than 180 days after February 26, 2015, the Mayor shall issue a grant to a community-based organization to establish one or more intake and drop-in center for youth, including minors and youth-headed families, for the purposes of:</text>
+        <level>
+          <num>(i)</num>
+          <text>Assessing the eligibility of youth for services within the Continuum of Care and making referrals, including to the Child and Family Services Agency as appropriate; provided, that homelessness alone is not a valid reason for an allegation of abuse or neglect;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Coordinating as necessary with the intake centers for families operated pursuant to paragraph (1) of this subsection;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Contacting the parent or guardian of an unaccompanied minor within 72 hours of the minor's request for services within the Continuum of Care; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Tracking outcomes, utilization rates, and turn-aways of youth across service providers.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Grants issued pursuant to this paragraph shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of Chapter 3 of Title 1 [§ 1-328.11 et seq.]</text>
+      </level>
+    </level>
+    <level>
       <num>(2)</num>
       <text>Families who are eligible for services within the Continuum of Care shall receive appropriate referrals to the first available provider based on the chronological order in which they apply for assistance, consistent with any additional eligibility requirements established pursuant to § 4-754.32 by the provider from whom services are sought.</text>
     </level>
@@ -82,6 +109,9 @@
       <num>(1)</num>
       <text>The Mayor shall operate a computerized information system to collect, maintain, and distribute up-to-date information regarding the number of beds or units available in shelter and supportive housing in the District, the availability of supportive services, and the current usage and unmet demand for such beds, units, and services.</text>
     </level>
+  </level>
+  <level>
+    <num>(d)</num>
     <level>
       <num>(2)</num>
       <text>Intake providers shall enter the information provided pursuant to subsection (c)(1B) of this section in the computerized information system.</text>
@@ -90,7 +120,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 22, 2005, D.C. Law 16-35, § 8, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(f), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(c), 58 DCR 987; May 3, 2014, D.C. Law 20-100, § 2(e), 61 DCR 1873.)</text>
+      <text>(Oct. 22, 2005, D.C. Law 16-35, § 8, 52 DCR 8113; Mar. 14, 2007, D.C. Law 16-296, § 2(f), 54 DCR 1097; Apr. 8, 2011, D.C. Law 18-367, § 2(c), 58 DCR 987; May 3, 2014, D.C. Law 20-100, § 2(e), 61 DCR 1873; Feb. 26, 2015, D.C. Law 20-155, § 5102(d), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -101,6 +131,13 @@
       <text>D.C. Law 16-296, in subsec. (c), added par. (1A).</text>
       <text>D.C. Law 18-367, in subsec. (a)(2), substituted "§ 4-751.01(32), except that low-barrier shelters and severe weather shelters operating as low-barrier shelters shall not be required to receive demonstration of residency or prioritize District residents, pursuant to subsection (b) of this section; and" for "§ 4-205.03"; added subsec. (a-1); and, in subsec. (b), substituted "for assistance. The District shall give priority, however, to an individual or family who establishes proof of residency and homelessness at the time of application for assistance" for "for assistance".</text>
       <text>The 2014 amendment by D.C. Law 20-100 added (c)(1B); substituted "housing, age, and whether an individual is an LGBTQ homeless youth" for "housing and age" in (c)(4); and added (d)(2).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (c)(1C).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 5102(d) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5102(d) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5102(d) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-35</heading>
@@ -117,6 +154,10 @@
     <level>
       <heading>Legislative History of Law 20-100</heading>
       <text>See note to § 7-751.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 4-752.02.</text>
     </level>
   </level>
 </level>

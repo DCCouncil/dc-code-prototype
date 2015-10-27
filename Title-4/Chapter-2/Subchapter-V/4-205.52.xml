@@ -11,95 +11,8 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The standards of assistance are set forth in the following table and include a portion of basic costs of food, clothing, shelter, household and personal items, and certain transportation costs:</text>
-    <level type="form">
-      <text/>
-      <text class="centered"> STANDARDS OF ASSISTANCE</text>
-      <text>
-
- 
- Family Standard of Payment 
-
-
- 
- Size Assistance Level 
-
-
- 
- 1 $ 450.00 $ 239.00 
-
-
- 
- 2 560.00 298.00 
-
-
- 
- 3 712.00 379.00 
-
-
- 
- 4 870.00 463.00 
-
-
- 
- 5 1,002.00 533.00 
-
-
- 
- 6 1,178.00 627.00 
-
-
- 
- 7 1,352.00 719.00 
-
-
- 
- 8 1,494.00 795.00 
-
-
- 
- 9 1,642.00 874.00 
-
-
- 
- 10 1,786.00 950.00 
-
-
- 
- 11 1,884.00 1,002.00 
-
-
- 
- 12 2,024.00 1,077.00 
-
-
- 
- 13 2,116.00 1,126.00 
-
-
- 
- 14 2,232.00 1,187.00 
-
-
- 
- 15 2,316.00 1,232.00 
-
-
- 
- 16 2,432.00 1,294.00 
-
-
- 
- 17 2,668.00 1,419.00 
-
-
- 
- 18 2,730.00 1,452.00 
-
-
- 
- 19 2,786.00 1,482.00</text>
-    </level>
+    <text>The standards of assistance are set forth in the following table and include a portion of basic costs of food, clothing, shelter, household and personal items, and certain transportation costs:STANDARDS OF ASSISTANCEFamily SizeStandard of AssistancePayment Level1$ 450.00$ 239.002560.00298.003712.00379.004870.00463.0051,002.00533.0061,178.00627.0071,352.00719.0081,494.00795.0091,642.00874.00101,786.00950.00111,884.001,002.00122,024.001,077.00132,116.001,126.00142,232.001,187.00152,316.001,232.00162,432.001,294.00172,668.001,419.00182,730.001,452.00192,786.001,482.00</text>
+    <text>@@TABLE@@</text>
   </level>
   <level>
     <num>(c-1)</num>
@@ -130,6 +43,17 @@
     <text>The table set forth in subsection (c) of this section shall apply to payments made after January 31, 1998. The level of public assistance payments for assistance units and the standards of assistance in subsection (c) of this section may be adjusted by the Mayor through promulgation of a rule in accordance with the rulemaking provisions of subchapter I of Chapter 5 of Title 2.</text>
   </level>
   <level>
+    <num>(d-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>Effective October 1, 2015, the payment levels issued pursuant to subsection (c) of this section shall be adjusted annually for the rate of inflation, except for Fiscal Year 2017, for which the payment level shall be increased by 46%.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>To adjust for the rate of inflation each year, the payment levels from the immediately preceding year shall be multiplied by the CPI percentage increase from the preceding calendar year, as determined by the United States Department of Labor Bureau of Labor Statistics in the Consumer Price Index for Urban Consumers (CPI-U) for all items.</text>
+    </level>
+  </level>
+  <level>
     <num>(e)</num>
     <text>A recipient of public assistance may not make a claim for any cost-of-living adjustment in assistance payments that have not been paid prior to December 29, 1994, and would have been paid but for the enactment of the Public Assistance Act of 1982 Budget Conformity Amendment Act of 1991, effective August 17, 1991 (D.C. Law 9-27; 38 DCR 5794).</text>
   </level>
@@ -140,7 +64,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 6, 1982, D.C. Law 4-101, § 552, 29 DCR 1060; May 19, 1982, D.C. Law 4-108, § 3, 29 DCR 1413; Aug. 10, 1984, D.C. Law 5-100, § 2, 31 DCR 2896; Apr. 11, 1986, D.C. Law 6-106, § 2, 33 DCR 1165; June 25, 1986, D.C. Law 6-124, § 2(c), 33 DCR 2940; Mar. 11, 1988, D.C. Law 7-86, § 2(a), 35 DCR 140; Aug. 17, 1991, D.C. Law 9-27, § 2(g), 38 DCR 4205; Sept. 26, 1995, D.C. Law 11-52, § 502(e), 42 DCR 3684; Oct. 27, 1995, D.C. Law 11-72, § 201(f), 42 DCR 4728; Apr. 18, 1996, D.C. Law 11-110, § 9(b), 43 DCR 530; Apr. 9, 1997, D.C. Law 11-199, § 302, 43 DCR 4569; Aug. 1, 1996, D.C. Law 11-152, § 101(a), 43 DCR 2978; Apr. 9, 1997, D.C. Law 11-198, § 302, 43 DCR 4569; Apr. 20, 1999, D.C. Law 12-241, § 2(qq), 46 DCR 905; Apr. 8, 2011, D.C. Law 18-370, § 522(f), 58 DCR 1008; Sept. 14, 2011, D.C. Law 19-21, § 5022, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 5172, 59 DCR 8025.)</text>
+      <text>(Apr. 6, 1982, D.C. Law 4-101, § 552, 29 DCR 1060; May 19, 1982, D.C. Law 4-108, § 3, 29 DCR 1413; Aug. 10, 1984, D.C. Law 5-100, § 2, 31 DCR 2896; Apr. 11, 1986, D.C. Law 6-106, § 2, 33 DCR 1165; June 25, 1986, D.C. Law 6-124, § 2(c), 33 DCR 2940; Mar. 11, 1988, D.C. Law 7-86, § 2(a), 35 DCR 140; Aug. 17, 1991, D.C. Law 9-27, § 2(g), 38 DCR 4205; Sept. 26, 1995, D.C. Law 11-52, § 502(e), 42 DCR 3684; Oct. 27, 1995, D.C. Law 11-72, § 201(f), 42 DCR 4728; Apr. 18, 1996, D.C. Law 11-110, § 9(b), 43 DCR 530; Apr. 9, 1997, D.C. Law 11-199, § 302, 43 DCR 4569; Aug. 1, 1996, D.C. Law 11-152, § 101(a), 43 DCR 2978; Apr. 9, 1997, D.C. Law 11-198, § 302, 43 DCR 4569; Apr. 20, 1999, D.C. Law 12-241, § 2(qq), 46 DCR 905; Apr. 8, 2011, D.C. Law 18-370, § 522(f), 58 DCR 1008; Sept. 14, 2011, D.C. Law 19-21, § 5022, 58 DCR 6226; Sept. 20, 2012, D.C. Law 19-168, § 5172, 59 DCR 8025; Feb. 26, 2015, D.C. Law 20-155, § 5072(b), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -155,6 +79,7 @@
       <text>D.C. Law 18-370 added subsec. (c-2).</text>
       <text>D.C. Law 19-21 added subsec. (c-3).</text>
       <text>The 2012 amendment by D.C. Law 19-168, in (c-3)(1), substituted "fiscal year 2014" for "fiscal year 2013" and "fiscal year 2013" for "fiscal year 2012"; in (c-3)(2), substituted "fiscal year 2015" for "fiscal year 2014" and "fiscal year 2014" for "fiscal year 2013"; and substituted "fiscal year 2016" for "fiscal year 2015" in (c-3)(3).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (d-1).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -175,6 +100,7 @@
       <text>"(3) For fiscal year 2015 and thereafter, no benefits shall be provided."</text>
       <text>Section 4(b) of D.C. Law 19-221 provided that the act shall expire after 225 days of its having taken effect.</text>
       <text>For temporary (225 days) amendment of this section, see § 2 of the Temporary Assistance for Needy Families Time Extension Temporary Amendment Act of 2013 (D.C. Law 20-7, June 22, 2013, 60 DCR 6397, 20 DCSTAT 1275).</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(g) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -201,6 +127,11 @@
       <text>For temporary (90 days) amendment of this section, see § 2 of the Temporary Assistance for Needy Families Time Extension Congressional Review Emergency Act of 2013 (D.C. Act 20-86, June 19, 2013, 60 DCR 9540, 20 DCSTAT 1445).</text>
       <text>For temporary (90 days) repeal of D.C. Law 19-168, § 5173, see § 5122 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) repeal of D.C. Law 19-168, § 5173, see § 5122 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5072(b) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 5072(b), see § 2(h) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5072(b) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 5072(b) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(h) of the Fiscal Year 2015 Budget Support Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 4-101</heading>
@@ -263,12 +194,16 @@
       <text>See note to § 4-202.05.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 4-205.11b.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 5021 of D.C. Law 19-21 provided that subtitle C of title V of the act may be cited as "Office of Asian and Pacific Islander Affairs Grant-Making Authority Amendment Act of 2011".</text>
       <text>Section 5121 of D.C. Law 20-61 provided that Subtitle K of Title V of the act may be cited as the "District of Columbia Public Assistance Amendment Act of 2013".</text>
     </level>
     <level>
-      <heading>Expiration of law Expiration of Law 11-72</heading>
+      <heading>Expiration of Law 11-72</heading>
       <text>See note to § 4-205.01.</text>
     </level>
     <level>
