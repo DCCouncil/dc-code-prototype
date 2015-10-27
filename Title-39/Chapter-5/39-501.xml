@@ -1,9 +1,23 @@
 <level type="section">
   <num>39-501</num>
-  <heading>Film DC Economic Incentive Fund.</heading>
+  <heading>DC Film Incentive Fund.</heading>
   <level>
     <num>(a)</num>
-    <text>There is hereby established a segregated, nonlapsing fund to be known as the Film DC Economic Incentive Fund ("Fund"). The Fund shall appear as a separate program line within the budget of the Office of Motion Picture and Television Development. The Fund shall be funded by annual appropriations. All funds deposited into the Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in this chapter, subject to authorization by Congress in an appropriations act.</text>
+    <level>
+      <num>(1)</num>
+      <text>There is established as a special fund the DC Film Incentive Fund ("Fund"). The Fund shall appear as a separate program line within the budget of the Office of Motion Picture and Television Development. The Fund shall be funded by annual appropriations.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <level>
+        <num>(A)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </level>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -36,7 +50,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 14, 2007, D.C. Law 16-290, § 2, 54 DCR 984; July 18, 2008, D.C. Law 17-187, § 2, 55 DCR 6116; Mar. 3, 2010, D.C. Law 18-111, § 2071(a), 57 DCR 181.)</text>
+      <text>(Mar. 14, 2007, D.C. Law 16-290, § 2, 54 DCR 984; July 18, 2008, D.C. Law 17-187, § 2, 55 DCR 6116; Mar. 3, 2010, D.C. Law 18-111, § 2071(a), 57 DCR 181; Feb. 26, 2015, D.C. Law 20-155, § 2042, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -46,10 +60,14 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-187, in subsec. (b)(1)(A), deleted "the lesser of 10% of qualified expenses or" following "not to exceed".</text>
       <text>D.C. Law 18-111, in the section heading and subsec. (a), deleted "Grant" following "Incentive"; and rewrote subsecs. (b) and (c).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote the section heading; and rewrote (a).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition, see § 2 of Film DC Economic Incentive Emergency Act of 2006 (D.C. Act 16-570, December 19, 2006, 54 DCR 8).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2042 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2042 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2042 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 16-290</heading>
@@ -62,6 +80,10 @@
     <level>
       <heading>Legislative History of Law 18-111</heading>
       <text>For Law 18-111, see notes following § 39-105.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>Law 20-155, the "Fiscal Year 2015 Budget Support Act of 2014," was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor's signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</text>
     </level>
     <level>
       <heading>Short Title</heading>
