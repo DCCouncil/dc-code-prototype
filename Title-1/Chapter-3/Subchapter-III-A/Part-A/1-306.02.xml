@@ -18,40 +18,40 @@
     <level>
       <num>(1)</num>
       <text>The Mayor shall transmit 2 generalized maps - a Future Land Use Map and a Generalized Policy Map - to the Council within 90 days after March 8, 2007.</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The maps transmitted under this section shall:</text>
       <level>
-        <num>(A)</num>
-        <text>Conform to the requirements of §§ 223 and 224 of Chapter 200 ("the Framework Element") of the Comprehensive Plan;</text>
+        <num>(2)</num>
+        <text>The maps transmitted under this section shall:</text>
+        <level>
+          <num>(A)</num>
+          <text>Conform to the requirements of §§ 223 and 224 of Chapter 200 ("the Framework Element") of the Comprehensive Plan;</text>
+        </level>
+        <level>
+          <num>(B)</num>
+          <text>Be printed at a scale of 1,500 feet to 1 inch;</text>
+        </level>
+        <level>
+          <num>(C)</num>
+          <text>Use standardized colors for planning maps;</text>
+        </level>
+        <level>
+          <num>(D)</num>
+          <text>Indicate generalized land use policies; and</text>
+        </level>
+        <level>
+          <num>(E)</num>
+          <text>Include a street grid and other changes in format or design to improve the readability and understanding of the adopted policies.</text>
+        </level>
       </level>
       <level>
-        <num>(B)</num>
-        <text>Be printed at a scale of 1,500 feet to 1 inch;</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Use standardized colors for planning maps;</text>
-      </level>
-      <level>
-        <num>(D)</num>
-        <text>Indicate generalized land use policies; and</text>
-      </level>
-      <level>
-        <num>(E)</num>
-        <text>Include a street grid and other changes in format or design to improve the readability and understanding of the adopted policies.</text>
-      </level>
-    </level>
-    <level>
-      <num>(3)</num>
-      <level>
-        <num>(A)</num>
-        <text>The Council shall hold a public hearing to determine if the maps transmitted under this section conform to the maps adopted under §§ 223 and 224 of the Framework Element of the Comprehensive Plan, as required by paragraph 2 of this subsection. If the Council determines that a map transmitted under this section conforms as required, the Council shall approve the map by resolution.</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>If the Council determines that a map transmitted under this section does not conform as required by paragraph 2 of this section but requires corrections to conform, the Council shall approve the map by resolution, identifying the required corrections, and the Mayor shall publish a new map with the required corrections.</text>
+        <num>(3)</num>
+        <level>
+          <num>(A)</num>
+          <text>The Council shall hold a public hearing to determine if the maps transmitted under this section conform to the maps adopted under §§ 223 and 224 of the Framework Element of the Comprehensive Plan, as required by paragraph (2) of this subsection. If the Council determines that a map transmitted under this section conforms as required, the Council shall approve the map by resolution.</text>
+        </level>
+        <level>
+          <num>(B)</num>
+          <text>If the Council determines that a map transmitted under this section does not conform as required by paragraph (2) of this section but requires corrections to conform, the Council shall approve the map by resolution, identifying the required corrections, and the Mayor shall publish a new map with the required corrections.</text>
+        </level>
       </level>
     </level>
   </level>
@@ -93,11 +93,11 @@
       <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>The Council shall hold a public hearing to determine if the maps transmitted under this section conform to the requirements of paragraph 2 of this subsection. If the Council determines that a map transmitted under this section conforms as required, the Council shall approve the map by resolution.</text>
+        <text>The Council shall hold a public hearing to determine if the maps transmitted under this section conform to the requirements of paragraph (2) of this subsection. If the Council determines that a map transmitted under this section conforms as required, the Council shall approve the map by resolution.</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>If the Council determines that a map transmitted under this section does not conform to the requirements of paragraph 2 of this section but requires corrections to conform, the Council shall approve the map by resolution, identifying the required corrections, and the Mayor shall publish a new map with the required corrections.</text>
+        <text>If the Council determines that a map transmitted under this section does not conform to the requirements of paragraph (2) of this subsection but requires corrections to conform, the Council shall approve the map by resolution, identifying the required corrections, and the Mayor shall publish a new map with the required corrections.</text>
       </level>
     </level>
   </level>

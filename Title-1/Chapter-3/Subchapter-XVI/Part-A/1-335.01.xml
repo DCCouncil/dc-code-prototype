@@ -96,7 +96,7 @@
       <num>(A)</num>
       <level>
         <num>(i)</num>
-        <text>The company has Business Operations that involve contracts with, or provision of supplies or services; to:</text>
+        <text>The company has Business Operations that involve contracts with, or provision of supplies or services, to:</text>
         <level>
           <num>(I)</num>
           <text>The Government of Sudan;</text>
@@ -112,32 +112,38 @@
         <level>
           <num>(IV)</num>
           <text>Companies involved in Government of Sudan-commissioned consortiums or projects; and</text>
+        </level>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <level>
+          <num>(I)</num>
           <level>
-            <num>(I)</num>
-            <level>
-              <num>(aa)</num>
-              <text>More than 10% of the company's revenues or assets linked to Sudan involve Oil-Related Activities or Mineral Extraction Activities;</text>
-            </level>
-            <level>
-              <num>(bb)</num>
-              <text>Less than 75% of the company's revenues or assets linked to Sudan involve contracts with, or provision of Oil-Related or Mineral Extracting products or services to, the regional government of southern Sudan or a project or consortium created exclusively by that regional government; and</text>
-            </level>
-            <level>
-              <num>(cc)</num>
-              <text>The company has failed to take Substantial Action; or</text>
-              <level>
-                <num>(aa)</num>
-                <text>More than 10% of the company's revenues or assets linked to Sudan involve Power Production Activities;</text>
-              </level>
-              <level>
-                <num>(bb)</num>
-                <text>Less than 75% of the company's Power Production Activities include projects whose intent is to provide power or electricity to the Marginalized Populations Of Sudan; and</text>
-              </level>
-              <level>
-                <num>(cc)</num>
-                <text>The company has failed to take Substantial Action;</text>
-              </level>
-            </level>
+            <num>(aa)</num>
+            <text>More than 10% of the company's revenues or assets linked to Sudan involve Oil-Related Activities or Mineral Extraction Activities;</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>Less than 75% of the company's revenues or assets linked to Sudan involve contracts with, or provision of Oil-Related or Mineral Extracting products or services to, the regional government of southern Sudan or a project or consortium created exclusively by that regional government; and</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>The company has failed to take Substantial Action; or</text>
+          </level>
+        </level>
+        <level>
+          <num>(II)</num>
+          <level>
+            <num>(aa)</num>
+            <text>More than 10% of the company's revenues or assets linked to Sudan involve Power Production Activities;</text>
+          </level>
+          <level>
+            <num>(bb)</num>
+            <text>Less than 75% of the company's Power Production Activities include projects whose intent is to provide power or electricity to the Marginalized Populations of Sudan; and</text>
+          </level>
+          <level>
+            <num>(cc)</num>
+            <text>The company has failed to take Substantial Action;</text>
           </level>
         </level>
       </level>

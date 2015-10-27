@@ -49,14 +49,12 @@
     <level>
       <num>(3)</num>
       <text>If the Board refuses to accept any initiative or referendum measure submitted to it, the person or persons submitting such measure may apply, within 10 days after the Board's refusal to accept such measure, to the Superior Court of the District of Columbia for a writ in the nature of mandamus to compel the Board to accept such measure. The Superior Court of the District of Columbia shall expedite consideration of the matter. If the Superior Court of the District of Columbia determines that the issue presented by the measure is a proper subject of initiative or referendum, whichever is applicable, under the terms of title IV of the District of Columbia Home Rule Act, and that the measure is legal in form, does not authorize discrimination as prescribed in paragraph (1)(C) of this subsection, and would not negate or limit an act of the Council of the District of Columbia as prescribed in paragraph (1)(D) of this subsection, it shall issue an order requiring the Board to accept the measure. Should the Superior Court of the District of Columbia hold in favor of the proposer, it may award court costs and reasonable attorneys' fees to the proposer.</text>
-      <level type="form">
-        <text/>
-      </level>
     </level>
     <level>
       <num>(4)</num>
       <text>After subject determination has been made the Board shall assign a serial number to each initiative and referendum measure, using separate series of numbers for initiative and separate series of numbers for referendum measures. Thereafter, a measure shall be known and designated on all petitions, ballots and proceedings as "Initiative Measure No. ...................." or "Referendum Measure No. .........".</text>
     </level>
+    <text>..............................</text>
   </level>
   <level>
     <num>(c)</num>
@@ -237,34 +235,32 @@
     <level>
       <num>(1)</num>
       <text>Upon qualification of an initiative measure, the Board shall place on the ballot the serial number of the initiative and its short title and summary statement in substantially the following form:</text>
+      <level>
+        <heading>INITIATIVE MEASURE No. (SHORT TITLE) </heading>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Upon qualification of a referendum measure, the Board shall place on the ballot the serial number of the referendum measure and its short title and summary statement in substantially the following form:</text>
+      <level>
+        <heading>REFERENDUM MEASURE No. (SHORT TITLE) </heading>
+        <level>
+          <num>(A)</num>
+          <text>If the referendum concerns whether the registered voters of the District of Columbia approve or reject the act, then the ballot shall state:</text>
+          <text>Shall the registered voters of the District of Columbia approve or reject Act (insert Act number)</text>
+          <text>YES, to approve</text>
+          <text>NO, to reject.</text>
+        </level>
+        <level>
+          <num>(B)</num>
+          <text>If the referendum concerns part or parts of an act, then the ballot shall state:</text>
+        </level>
+        <text>Shall the registered voters of the District of Columbia approve or reject sections (insert section(s) that is the subject of the referendum measure) of Act (insert Act number)</text>
+        <text>YES, to approve</text>
+        <text>NO, to reject.</text>
+      </level>
     </level>
   </level>
-  <text class="centered">INITIATIVE MEASURE No.</text>
-  <text class="centered">(SHORT TITLE)</text>
-  <text class="centered">(SUMMARY STATEMENT)</text>
-  <text class="centered">FOR Initiative Measure No.</text>
-  <text class="centered">AGAINST Initiative Measure No.</text>
-  <level>
-    <num>(2)</num>
-    <text>Upon qualification of a referendum measure, the Board shall place on the ballot the serial number of the referendum measure and its short title and summary statement in substantially the following form:</text>
-  </level>
-  <text class="centered">REFERENDUM MEASURE No.</text>
-  <text class="centered">(SHORT TITLE)</text>
-  <text class="centered">(SUMMARY STATEMENT)</text>
-  <level>
-    <num>(A)</num>
-    <text>If the referendum concerns whether the registered voters of the District of Columbia approve or reject the act, then the ballot shall state:</text>
-  </level>
-  <text>Shall the registered voters of the District of Columbia approve or reject Act (insert Act number)?</text>
-  <text>YES, to approve</text>
-  <text>NO, to reject.</text>
-  <level>
-    <num>(B)</num>
-    <text>If the referendum concerns part or parts of an act, then the ballot shall state:</text>
-  </level>
-  <text>Shall the registered voters of the District of Columbia approve or reject sections (insert section(s) that is the subject of the referendum measure) of Act (insert Act number)?</text>
-  <text>YES, to approve</text>
-  <text>NO, to reject.</text>
   <level>
     <num>(r)</num>
     <level>

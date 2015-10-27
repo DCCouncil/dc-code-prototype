@@ -225,14 +225,9 @@
   <level>
     <num>(m)</num>
     <text>The Board shall place the recall measure on the ballot in substantially the following form:</text>
-    <level type="form">
-      <text/>
-      <text>
- FOR the recall of (insert the name of the elected officer and the office 
- held) .......................................................................
- AGAINST the recall of (insert the name of the elected officer and the office 
-held) ........................................................................</text>
-    </level>
+    <text>FOR the recall of (insert the name of the elected officer and the office</text>
+    <text>held)</text>
+    <text>AGAINST the recall of (insert the name of the elected officer and the office held)</text>
   </level>
   <level>
     <num>(n)</num>
