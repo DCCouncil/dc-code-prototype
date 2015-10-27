@@ -22,11 +22,11 @@
     <level>
       <num>(4)</num>
       <text>Within 2 working days after receiving a subpoena issued by the court for public library records, the public library shall send a copy of the subpoena and the following notice, by certified mail, to all affected library patrons:</text>
+      <text>"Records or information concerning your borrowing records in the public library in the District of Columbia are being sought pursuant to the enclosed subpoena.</text>
+      <text>"In accordance with the District of Columbia Confidentiality of Library Records Act of 1984, these records will not be released until 10 days from the date this notice was mailed.</text>
+      <text>"If you desire that these records or information not be released, you must file a motion in the Superior Court of the District of Columbia requesting that the records be kept confidential, and state your reasons for the request. A sample motion is enclosed.</text>
+      <text>"You may wish to contact a lawyer. If you do not have a lawyer, you may call the District of Columbia Bar Lawyer Referral Service."</text>
     </level>
-    <text>"Records or information concerning your borrowing records in the public library in the District of Columbia are being sought pursuant to the enclosed subpoena.</text>
-    <text>"In accordance with the District of Columbia Confidentiality of Library Records Act of 1984, these records will not be released until 10 days from the date this notice was mailed.</text>
-    <text>"If you desire that these records or information not be released, you must file a motion in the Superior Court of the District of Columbia requesting that the records be kept confidential, and state your reasons for the request. A sample motion is enclosed.</text>
-    <text>"You may wish to contact a lawyer. If you do not have a lawyer, you may call the District of Columbia Bar Lawyer Referral Service."</text>
     <level>
       <num>(5)</num>
       <text>The public library shall not make available any subpoenaed materials until 10 days after the above notice has been mailed.</text>
