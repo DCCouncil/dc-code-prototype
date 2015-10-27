@@ -6,11 +6,11 @@
     <text>The SEA may deny, revoke, refuse to renew, or suspend a Certificate of Approval for any one or combination of the following causes:</text>
     <level>
       <num>(1)</num>
-      <text>Violating any provision of this chapter, applicable rules of the SEA or DCPS, or applicable federal laws or regulations, except that noncompliance with § 38-2561.12 shall not be grounds for denial, revocation, refusal to renew, or suspension;</text>
+      <text>Violating any provision of this chapter, applicable rules of the SEA, or applicable federal laws or regulations, except that noncompliance with § 38-2561.12 shall not be grounds for denial, revocation, refusal to renew, or suspension;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Providing false, misleading, or incomplete information, or failing to provide information requested by the SEA or DCPS;</text>
+      <text>Providing false, misleading, or incomplete information, or failing to provide information requested by the SEA or an LEA;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -26,7 +26,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>Failing within a reasonable time to provide information requested by DCPS or the SEA as a result of a formal or informal complaint, or as a supplement to an initial application for a Certificate of Approval; and</text>
+      <text>Failing within a reasonable time to provide information requested by an LEA or the SEA as a result of a formal or informal complaint, or as a supplement to an application for a Certificate of Approval; and</text>
     </level>
     <level>
       <num>(7)</num>
@@ -63,7 +63,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Pursuant to the IDEA, while review is pending, the nonpublic special education school or program shall continue to provide special education and related services to enrolled students.</text>
+      <text>Pursuant to the IDEA, while review is pending, the nonpublic special education school or program shall continue to provide special education and related services to enrolled students; provided, that if the issues under review relate to student safety or welfare, the SEA shall change the status of the Certificate of Approval to probationary, the SEA may refuse to issue a location assignment to the nonpublic special education school or program, and the SEA may recommend to the LEA to remove some or all of its students from the nonpublic school pending resolution of the matter.</text>
     </level>
   </level>
   <level>
@@ -73,11 +73,12 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 14, 2007, D.C. Law 16-269, § 111, 54 DCR 841; Mar. 20, 2009, D.C. Law 17-304, § 2(d), 55 DCR 12806.)</text>
+      <text>(Mar. 14, 2007, D.C. Law 16-269, § 111, 54 DCR 841; Mar. 20, 2009, D.C. Law 17-304, § 2(d), 55 DCR 12806; Mar. 10, 2015, D.C. Law 20-195, § 202(j), 61 DCR 12419.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-304, in subsec. (a), deleted "and" from the end of par. (5), substituted "; and" for a period at the end of par. (6), and added par. (7); in subsecs. (b)(2) and (3), designated subpar. (A) and inserted "Except as provided in subparagraph (B) of this paragraph,", and added subpar. (B).</text>
+      <text>The 2015 amendment by D.C. Law 20-195 deleted "or DCPS" in (a)(1); substituted "or an LEA" for "or DCPS" in (a)(2); in (a)(6), substituted "an LEA" for "DCPS" and "application" for "initial application"; and added "provided, that if the issues under review relate to student safety or welfare, the SEA shall change the status of the Certificate of Approval to probationary, the SEA may refuse to issue a location assignment to the nonpublic special education school or program, and the SEA may recommend to the LEA to remove some or all of its student s from the nonpublic school pending resolution of the matter" in (b)(4).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -90,6 +91,10 @@
     <level>
       <heading>Legislative History of Law 17-304</heading>
       <text>For Law 17-304, see notes following § 38-2561.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-195</heading>
+      <text>See note to § 38-2561.01.</text>
     </level>
   </level>
 </level>

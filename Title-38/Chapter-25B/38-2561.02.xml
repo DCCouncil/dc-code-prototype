@@ -3,7 +3,25 @@
   <heading>Assessment and placement of a students with a disability - General.</heading>
   <level>
     <num>(a)</num>
-    <text>DCPS shall assess or evaluate a student who may have a disability and who may require special education services within 120 days from the date that the student was referred for an evaluation or assessment.</text>
+    <level>
+      <num>(1)</num>
+      <text>Before paragraph (2)(A) of this subsection taking [sic] effect, an LEA shall assess or evaluate a student who may have a disability and who ma y require special education services within 120 days from the date that the student was referred for an evaluation or assessment.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <level>
+        <num>(A)</num>
+        <text>Beginning July 1, 2017, or upon funding, whichever occurs later, an LEA shall assess or evaluate a student who may have a disability and who may require special education services within 60 days from the date that the student's parent or guardian provides consent for the evaluation or assessment. The LEA shall make reasonable efforts to obtain parental consent within 30 days from the date the student is referred for an assessment or evaluation.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>This paragraph shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>For the purposes of this subsection, a referral for an evaluation or assessment for special education services may be oral or written. An LEA shall document an y oral referral within 3 business days of receipt.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -28,11 +46,12 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 14, 2007, D.C. Law 16-269, § 102, 54 DCR 841; Mar. 25, 2009, D.C. Law 17-353, § 195, 56 DCR 1117.)</text>
+      <text>(Mar. 14, 2007, D.C. Law 16-269, § 102, 54 DCR 841; Mar. 25, 2009, D.C. Law 17-353, § 195, 56 DCR 1117; Mar. 10, 2015, D.C. Law 20-195, § 202(b), 61 DCR 12419.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (b).</text>
+      <text>The 2015 amendment by D.C. Law 20-195 rewrote (a) and (b).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -45,6 +64,10 @@
     <level>
       <heading>Legislative History of Law 17-353</heading>
       <text>For Law 17-353, see notes following § 38-102.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-195</heading>
+      <text>See note to § 38-2561.01.</text>
     </level>
   </level>
 </level>

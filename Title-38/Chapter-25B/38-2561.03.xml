@@ -3,27 +3,7 @@
   <heading>Placement and funding of a student with a disability in a nonpublic special education school or program.</heading>
   <level>
     <num>(a)</num>
-    <text>DCPS shall be responsible for the placement and funding of a student with a disability in a nonpublic special education school or program when:</text>
-    <level>
-      <num>(1)</num>
-      <text>DCPS cannot implement the student's IEP or provide an appropriate placement in conformity with DCPS rules, the IDEA, and any other applicable laws or regulations; and</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>The nonpublic special education school or program to which the student has been referred:</text>
-      <level>
-        <num>(A)</num>
-        <text>Has been approved by the SEA in accordance with § 38-2561.07;</text>
-      </level>
-      <level>
-        <num>(B)</num>
-        <text>Can implement the student's IEP; and</text>
-      </level>
-      <level>
-        <num>(C)</num>
-        <text>Represents the least restrictive environment for the student.</text>
-      </level>
-    </level>
+    <text>If an LEA anticipates that it may be unable to implement a student's IEP or provide a student with an appropriate special education placement in accordance with the IDEA and other applicable laws or regulations, the LEA shall notify the SEA. The SEA shall cooperate with the LEA to provide a placement in a more restrictive setting in conformity with the IDEA, and any other applicable laws or regulations.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -54,10 +34,10 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>In conformity with the IDEA, DCPS is not responsible for paying the cost of education, including special education and related services, of a student with a disability who attends a nonpublic special education school or program if:</text>
+    <text>The SEA shall be responsible for paying the costs of education, including special education and related services, of a student with a disability when the student is placed at a nonpublic special education school or program pursuant to this section; provided, that, in conformity with IDEA, the SEA shall not be responsible for paying the cost of education, including special education and related services, of a student with a disability who attends a nonpublic special education school or program if:</text>
     <level>
       <num>(1)</num>
-      <text>DCPS made a free appropriate public education available to the student; and</text>
+      <text>An LEA made a free and appropriate public education available to the student; and</text>
     </level>
     <level>
       <num>(2)</num>
@@ -66,16 +46,21 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>If the SEA has reason to believe that a child is a neglected child or is being abused, as those terms are defined in § 16-2301(9) and (23), respectively, in an out-of-state nonpublic special education school or program, the SEA shall immediately notify the relevant state's child welfare agency and the parent or guardian of the child. Upon notification, and with parental or guardian consent, the SEA shall work with the parent or guardian to take immediate steps to ensure the safety and health of the child.</text>
+    <text>If the SEA has reason to believe that a child is a neglected child or is being abused, as those terms are defined in § 16-2301(9) and (23), respectively, in an out-of-state nonpublic special education school or program, the SEA shall immediately notify the relevant state's child welfare agency and the parent or guardian of the child. Upon notification, the SEA shall work with the parent or guardian to take immediate steps to ensure the safety and health of the child.</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>The Office of the State Superintendent of Education shall issue updated rules to implement the provisions of this section by October 1, 2015.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 14, 2007, D.C. Law 16-269, § 103, 54 DCR 841; Mar. 20, 2009, D.C. Law 17-304, § 2(b), 55 DCR 12806.)</text>
+      <text>(Mar. 14, 2007, D.C. Law 16-269, § 103, 54 DCR 841; Mar. 20, 2009, D.C. Law 17-304, § 2(b), 55 DCR 12806; Mar. 10, 2015, D.C. Law 20-195, § 202(c), 61 DCR 12419.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-304 rewrote subsec. (b)(1) and added subsec. (d). Prior to amendment, subsec. (b)(1) read as follows: "(b)(1) No student with a disability whose education, including special education and related services, is funded by the District government shall be placed in a nonpublic special education school or program that has not received and maintained a valid Certificate of Approval from the SEA in accordance with § 38-2561.07, unless the placement has been ordered by a District of Columbia court, a federal court, or a hearing officer pursuant to the IDEA."</text>
+      <text>The 2015 amendment by D.C. Law 20-195 rewrote the introductory language of (a); rewrote (c); and added (e).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -88,6 +73,10 @@
     <level>
       <heading>Legislative History of Law 17-304</heading>
       <text>For Law 17-304, see notes following § 38-2561.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-195</heading>
+      <text>See note to § 38-2561.01.</text>
     </level>
   </level>
 </level>

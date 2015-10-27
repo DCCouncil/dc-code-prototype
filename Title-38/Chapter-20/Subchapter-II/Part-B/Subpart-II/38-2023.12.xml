@@ -4,20 +4,13 @@
   <level>
     <num>(a)</num>
     <text>The annuity of each person who, January 1, 1963, is receiving or entitled to receive an annuity from the District of Columbia Teachers' Retirement and Annuity Fund shall be increased by 5% of the amount of such annuity.</text>
-  </level>
-  <level>
-    <num>(b)</num>
     <text>The annuity of each person who receives or is entitled to receive an annuity from the District of Columbia Teachers' Retirement and Annuity Fund commencing during the period which begins on the day following January 1, 1963 and ends 5 years after such date, shall be increased in accordance with the following table:</text>
-    <level type="form">
-      <text/>
-      <text> 
- The annuity shall 
- If the annuity commences between be increased by 
- January 2, 1963, and December 31, 1963 ........................4 per centum. 
- January 1, 1964, and December 31, 1964 ........................3 per centum. 
- January 1, 1965, and December 31, 1965 ........................2 per centum. 
- January 1, 1966, and December 31, 1966 .........................1 per centum.</text>
-    </level>
+    <text>The annuity shall</text>
+    <text>If the annuity commences between be increased by</text>
+    <text>January 2, 1963, and December 31, 1963 4 per centum.</text>
+    <text>January 1, 1964, and December 31, 1964 3 per centum.</text>
+    <text>January 1, 1965, and December 31, 1965 2 per centum.</text>
+    <text>January 1, 1966, and December 31, 1966 1 per centum.</text>
   </level>
   <level>
     <num>(c)</num>

@@ -14,6 +14,21 @@
     <text>For fiscal year 2009 and succeeding fiscal years, the per pupil facility allowance for Public Charter Schools shall be $3000. The facility allowance shall then be multiplied by the number of students estimated to be attending each Public Charter School to determine the actual facility allowance payments to be received by each Public Charter School.</text>
   </level>
   <level>
+    <num>(b-2)</num>
+    <level>
+      <num>(1)</num>
+      <text>For Fiscal Years 2015 and 2016, the per pupil facility allowance for Public Charter Schools shall be $ 3072.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>For Fiscal Year 2017 and succeeding fiscal years, the per pupil facility allowance for Public Charter Schools shall be $ 3100.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The facility allowance set forth in paragraphs (1) and (2) of this subsection shall be multiplied by the number of students estimated to attend each Public Charter School to determine the actual facility allowance payments to be received by each Public Charter School.</text>
+    </level>
+  </level>
+  <level>
     <num>(c)</num>
     <text>The entire annual payment for facilities shall be included in the first payment of the fiscal year and that any payment for new charter schools shall also be included in the first payment of the fiscal year.</text>
   </level>
@@ -28,7 +43,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 26, 1999, D.C. Law 12-207, § 109, 45 DCR 8095; Oct. 1, 2002, D.C. Law 14-190, § 3402(e), 49 DCR 6968; Mar. 2, 2007, D.C. Law 16-192, § 4002(g), 53 DCR 6899; Aug. 16, 2008, D.C. Law 17-219, § 4016(d), 55 DCR 7598; Mar. 3, 2010, D.C. Law 18-111, § 4011, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 4022(e), 57 DCR 6242.)</text>
+      <text>(Mar. 26, 1999, D.C. Law 12-207, § 109, 45 DCR 8095; Oct. 1, 2002, D.C. Law 14-190, § 3402(e), 49 DCR 6968; Mar. 2, 2007, D.C. Law 16-192, § 4002(g), 53 DCR 6899; Aug. 16, 2008, D.C. Law 17-219, § 4016(d), 55 DCR 7598; Mar. 3, 2010, D.C. Law 18-111, § 4011, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 4022(e), 57 DCR 6242; Feb. 26, 2015, D.C. Law 20-155, § 4082, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -45,6 +60,7 @@
       <text>D.C. Law 17-219, in subsec. (a), inserted "Except as provided in subsections (b) and (b-1) of this section,"; in subsecs. (b), substituted "fiscal year 2004 through fiscal year 2008" for "FY 2004 and succeeding fiscal years"; and added subsecs. (b-1) and (e).</text>
       <text>D.C. Law 18-111, in subsec. (b-1), substituted "$2,800" for "$3,109".</text>
       <text>D.C. Law 18-223, in subsec. (b-1), substituted "$3000" for $2800".</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (b-2).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -85,6 +101,9 @@
       <text>For temporary (90 day) amendment of section, see § 4011 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
       <text>For temporary (90 day) amendment of section, see § 4011 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
       <text>For temporary (90 day) amendment of section, see § 4022(e) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
+      <text>For temporary (90 days) amendment of this section, see § 4082 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 4082 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 4082 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 12-180</heading>
@@ -125,6 +144,10 @@
     <level>
       <heading>Legislative History of Law 18-223</heading>
       <text>For Law 18-223, see notes following § 38-103.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 38-2901.</text>
     </level>
     <level>
       <heading>Short Title</heading>
