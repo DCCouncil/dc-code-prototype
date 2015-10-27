@@ -58,7 +58,11 @@
     </level>
     <level>
       <num>(14)</num>
-      <text>Power to assign the unit owners' association's right to further income, including the right to future income or the right to receive common expense assessments, but only to the extent the condominium instruments expressly so provide;</text>
+      <text>Power to assign the unit owners' association's right to further income, including the right to future income or the right to receive common expense assessments to the extent necessary for the reasonable performance of the unit owners' associations' duties and responsibilities, unless expressly prohibited in the condominium instruments;</text>
+    </level>
+    <level>
+      <num>(14A)</num>
+      <text>Power to reasonably restrict the leasing of residential units; provided, that any restriction described under this paragraph shall not apply to a unit that is leased at the time of any action taken to restrict the leasing of residential units until the unit is subsequently occupied by the owner or ownership transfers;</text>
     </level>
     <level>
       <num>(15)</num>
@@ -88,7 +92,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 29, 1977, D.C. Law 1-89, title III, § 308, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(bb), 38 DCR 261.)</text>
+      <text>(Mar. 29, 1977, D.C. Law 1-89, title III, § 308, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(bb), 38 DCR 261; June 21, 2014, D.C. Law 20-109, § 2(j), 61 DCR 4304.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -100,12 +104,20 @@
       <text>1973 Ed., § 5-1248.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-109 rewrote (a)(14); and added (a)(14A).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 1-89</heading>
       <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
     </level>
     <level>
       <heading>Legislative History of Law 8-233</heading>
       <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-109</heading>
+      <text>See note to § 42-1901.01.</text>
     </level>
   </level>
 </level>

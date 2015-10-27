@@ -110,6 +110,18 @@
     <text>"Domestic partner" shall have the same meaning as provided in § 32-701(3).</text>
   </level>
   <level>
+    <num>(12B)</num>
+    <text>"Electronic transmission" shall mean any form of communication, not directly involving the physical transmission of paper, which creates a record that may be:</text>
+    <level>
+      <num>(A)</num>
+      <text>Retained, retrieved, and reviewed by a recipient of the communications; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Reproduced directly in paper form by a recipient through an automated process.</text>
+    </level>
+  </level>
+  <level>
     <num>(13)</num>
     <text>"Executive Board" shall mean an executive and administrative entity, by whatever name denominated and designated in the condominium instruments to act for the unit owners' association in governing the condominium.</text>
   </level>
@@ -241,10 +253,14 @@
     <num>(31)</num>
     <text>"Unit owner" shall mean a declarant or any person who owns a condominium unit. In the case of a leasehold condominium, "unit owner" shall mean a declarant or person whose leasehold interest in the condominium extends for the entire balance of the unexpired term. The term "unit owner" shall not include a person who has an interest in a condominium unit solely as a security for a debt.</text>
   </level>
+  <level>
+    <num>(32)</num>
+    <text>"Unit owner in good standing," unless otherwise defined in the condominium instruments, shall mean a unit owner who is not delinquent for more than 30 days in the payment of any amount owed to the unit owners' association, or a unit owner who has not been found by the unit owners' association or its executive board to be in violation of the condominium instruments or the rules of the unit owners' association.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 29, 1977, D.C. Law 1-89, title I, § 102, 23 DCR 9532b; Sept. 22, 1978, D.C. Law 2-110, § 2, 25 DCR 1461; Mar. 8, 1991, D.C. Law 8-233, § 2(b), 38 DCR 261; Mar. 20, 1992, D.C. Law 9-82, § 2(b), 39 DCR 683; Apr. 9, 1997, D.C. Law 11-255, § 49(a), 44 DCR 1271; Sept. 12, 2008, D.C. Law 17-231, § 36(a), 55 DCR 6758.)</text>
+      <text>(Mar. 29, 1977, D.C. Law 1-89, title I, § 102, 23 DCR 9532b; Sept. 22, 1978, D.C. Law 2-110, § 2, 25 DCR 1461; Mar. 8, 1991, D.C. Law 8-233, § 2(b), 38 DCR 261; Mar. 20, 1992, D.C. Law 9-82, § 2(b), 39 DCR 683; Apr. 9, 1997, D.C. Law 11-255, § 49(a), 44 DCR 1271; Sept. 12, 2008, D.C. Law 17-231, § 36(a), 55 DCR 6758; June 21, 2014, D.C. Law 20-109, § 2(b), 61 DCR 4304.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -264,6 +280,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 17-231 added par. (12A).</text>
+      <text>The 2014 amendment by D.C. Law 20-109 added (12B) and (32).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -292,6 +309,10 @@
     <level>
       <heading>Legislative History of Law 17-231</heading>
       <text>For Law 17-231, see notes following § 42-516.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-109</heading>
+      <text>See note to § 42-1901.01.</text>
     </level>
     <level>
       <heading>References in Text</heading>

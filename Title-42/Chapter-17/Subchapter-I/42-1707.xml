@@ -24,34 +24,12 @@
   <level>
     <num>(c)</num>
     <text>Notwithstanding any other provision of this section, the maximum amount that may be paid from the Fund to satisfy in whole or in part a final judgment against a licensee as provided for herein shall be as follows:</text>
-    <level type="form">
-      <text/>
-      <text>
-
-
- 
- Amount 
-
-
- 
- $10,000 ...... Judgment is final during the first year following March 10, 1983; 
-
-
- 
- $20,000 ...... Judgment is final during the second year following March 10, 1983; 
-
-
- 
- $30,000 ...... Judgment is final during the third year following March 10, 1983; 
-
-
- 
- $40,000 ...... Judgment is final during the fourth year following March 10, 1983; and 
-
-
- 
- $50,000 ...... Judgment is final during the fifth year following March 10, 1983, and thereafter.</text>
-    </level>
+    <text>Amount</text>
+    <text>$10,000 ...... Judgment is final during the first year following March 10, 1983;</text>
+    <text>$20,000 ...... Judgment is final during the second year following March 10, 1983;</text>
+    <text>$30,000 ...... Judgment is final during the third year following March 10, 1983;</text>
+    <text>$40,000 ...... Judgment is final during the fourth year following March 10, 1983; and</text>
+    <text>$50,000 ...... Judgment is final during the fifth year following March 10, 1983, and thereafter.</text>
   </level>
   <level>
     <num>(d)</num>

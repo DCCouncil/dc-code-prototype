@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Commencing not later than the time of the first conveyance of a condominium unit to a person other than a declarant, the unit owners' association shall maintain, to the extent reasonably available:</text>
+    <text>Unless the condominium instruments expressly provide otherwise, commencing no later than the time of the first conveyance of a condominium unit to a person other than a declarant, the unit owners' association shall maintain, to the extent reasonably available:</text>
     <level>
       <num>(1)</num>
       <text>Property insurance on the common elements insuring against all risks of direct physical loss commonly insured against. The total amount of insurance after application of any deductibles shall not be less than 90% of the replacement cost of the insured property at the time the insurance is purchased and at each renewal date, excluded from property policies; and</text>
@@ -26,6 +26,10 @@
     <text>If the insurance described in subsections (b) and (c) of this section is not reasonably available, the unit owners' association shall promptly cause notice of the unavailability of insurance to be hand-delivered or sent prepaid by the United States mail to all unit owners. The condominium instruments may require the unit owners' association to carry any other insurance the unit owners' association deems appropriate to protect the unit owners' association or the unit owners.</text>
   </level>
   <level>
+    <num>(d-1)</num>
+    <text>Each unit owner shall, to the extent reasonably available, purchase condominium owner's insurance coverage with dwelling (whether residential or commercial) property coverage at a minimum of $ 10,000 and condominium owner personal liability insurance coverage at a minimum of $ 300,000; provided, that the executive board may increase the minimum amounts required under this subsection at a meeting properly noticed under this chapter.</text>
+  </level>
+  <level>
     <num>(e)</num>
     <text>An insurance policy carried pursuant to subsection (b) of this section shall provide that:</text>
     <level>
@@ -38,15 +42,15 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>An act or omission by any unit owner, unless acting within the scope of his or her authority on behalf of the unit owners' association, shall not void the policy or be a condition to recovery under the policy;</text>
+      <text>An act or omission by any unit owner, unless acting within the scope of his or her authority on behalf of the unit owners' association, shall not void the policy or be a condition to recovery under the policy; and</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>If at the time of loss under the policy, there is other insurance in the name of a unit owner that covers the same risk covered by the policy, the unit owners' association's policy shall provide primary insurance; and</text>
+      <text>If at the time of loss under the policy, there is other insurance in the name of a unit owner that covers the same risk covered by the policy, the unit owners' association's policy shall provide primary insurance.</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>If the unit owners' association brings suit against a unit owner, or vice versa, with respect to any loss, the insurer shall provide for the defense of the defendant.</text>
+      <text>Repealed.</text>
     </level>
   </level>
   <level>
@@ -67,7 +71,14 @@
   </level>
   <level>
     <num>(j)</num>
-    <text>The bylaws shall specify insurance coverage and limits with respect to any insurance policy that may be required on the common elements and shall indicate who shall be responsible for payment of any deductible amount in connection with the insurance policy.</text>
+    <level>
+      <num>(1)</num>
+      <text>The bylaws shall specify insurance coverage and limits with respect to any insurance policy that may be required on the common elements and shall indicate who shall be responsible for payment of any deductible amount in connection with the insurance policy.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Unless the condominium instruments provide otherwise, if the cause of any damage to or destruction of any portion of a condominium originates from the common elements, the association's property insurance deductible shall be a common expense. If the bylaws do not indicate the entity responsible for payment of a deductible amount if the cause of damage to or destruction of a portion of a condominium originates from a unit, the owner of the unit where the cause of the damage or destruction originated shall be responsible for the association's property insurance deductible in an amount not to exceed $ 5,000; provided, that the unit owners' association affords notice to unit owners of this responsibility before the damage is caused. If the owner is responsible for the association's property insurance deductible or an uncovered loss up to $ 5,000, this amount shall be assessed against the owner's unit. Nothing in this section is intended to limit the rights of a unit owners' association to pursue its subrogation rights, if any, against a unit owner in whose unit the cause of the property or personal liability damage or destruction originated</text>
+    </level>
   </level>
   <level>
     <num>(k)</num>
@@ -76,12 +87,16 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 29, 1977, D.C. Law 1-89, title III, § 310, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(dd), 38 DCR 261; Apr. 18, 1996, D.C. Law 11-110,§ 48(b), 43 DCR 530.)</text>
+      <text>(Mar. 29, 1977, D.C. Law 1-89, title III, § 310, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(dd), 38 DCR 261; Apr. 18, 1996, D.C. Law 11-110,§ 48(b), 43 DCR 530; June 21, 2014, D.C. Law 20-109, § 2(k), 61 DCR 4304.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
       <text>1981 Ed., § 45-1850.</text>
       <text>1973 Ed., § 5-1250.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-109 added "Unless the condominium instruments expressly provide otherwise" in (b); added (d-1); repealed (e)(5) and made related changes; and added (j)(2).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-89</heading>
@@ -94,6 +109,10 @@
     <level>
       <heading>Legislative History of Law 11-110</heading>
       <text>For legislative history of D.C. Law 11-110, see Historical and Statutory Notes following § 42-1903.09.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-109</heading>
+      <text>See note to § 42-1901.01.</text>
     </level>
   </level>
 </level>

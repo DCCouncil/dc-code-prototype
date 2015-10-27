@@ -85,8 +85,8 @@
   <level>
     <num>(21)</num>
     <text>A security interest instrument in Class 1 Property, as that class of property is established pursuant to § 47-813(c-4), that contains no more than 5 dwelling units. Each security interest instrument submitted for recordation for which an exemption under this paragraph is claimed shall have affixed thereto an affidavit stating the following:</text>
+    <text>"I (we) the owner(s) of the real property described within certify, subject to criminal penalties for making false statements pursuant to § 22-2405 of the District of Columbia Code  , that the real property described within is Class 1 Property, as that class of property is established pursuant to § 47-813(c-4), with 5 or fewer units.";</text>
   </level>
-  <text>"I (we) the owner(s) of the real property described within certify, subject to criminal penalties for making false statements pursuant to § 22-2405 of the District of Columbia Code, that the real property described within is Class 1 Property, as that class of property is established pursuant to § 47-813(c-4), with 5 or fewer units.";</text>
   <level>
     <num>(22)</num>
     <level>
@@ -192,7 +192,7 @@
   </level>
   <level>
     <num>(31)</num>
-    <text>Beginning October 1, 2009, a deed of economic interest pertaining to a limited-equity cooperative, as defined under § 47-802(11); and</text>
+    <text>Beginning October 1, 2009, a deed of economic interest pertaining to a limited-equity cooperative, as defined under § 47-802(11);</text>
   </level>
   <level>
     <num>(32)</num>
@@ -202,13 +202,21 @@
     </level>
     <level>
       <num>(B)</num>
-      <text>For the purposes of this paragraph, the term "deed to property" includes a deed of trust encumbering the property.</text>
+      <text>For the purposes of this paragraph, the term "deed to property" includes a deed of trust encumbering the property;</text>
     </level>
+  </level>
+  <level>
+    <num>(33)</num>
+    <text>A security interest instrument executed by a borrower in connection with a loan under the Industrial Revenue Bond Forward Commitment Program authorized by subchapter II-B of Chapter 3 of Title 47 [§ 47–340.01 et seq.]; provided, that unless waived by regulation, a certification by the Mayor that the security interest instrument is entitled to this exemption accompanies the security interest instrument at the time it is presented for recordation; and</text>
+  </level>
+  <level>
+    <num>(34)</num>
+    <text>Deeds to property transferred to a named beneficiary of a revocable transfer on death deed under subchapter IV of Chapter 6 of Title 19 [§ 19-604.01 et seq.], by reason of the death of the grantor of the revocable transfer on death deed.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 2, 1962, 76 Stat. 11, Pub. L. 87-408, title III, § 302; June 24, 1980, D.C. Law 3-72, § 206, 27 DCR 2155; Sept. 13, 1980, D.C. Law 3-92, § 101(b), 27 DCR 3390; Mar. 10, 1982, D.C. Law 4-72, § 3(b), 28 DCR 5273; Oct. 8, 1983, D.C. Law 5-31, § 10(b), 30 DCR 3879; Mar. 16, 1989, D.C. Law 7-205, § 5, 36 DCR 457; Sept. 9, 1989, D.C. Law 8-20, § 2(b), 36 DCR 4564; Mar. 7, 1992, D.C. Law 9-56, § 3, 38 DCR 7281; June 11, 1992, D.C. Law 9-120, § 4(a), 39 DCR 3195; June 14, 1994, D.C. Law 10-128, § 101(b), 41 DCR 2096; Sept. 8, 1995, D.C. Law 11-38, § 4(b), 42 DCR 3269; June 3, 1997, D.C. Law 11-276, § 7(a), 44 DCR 1416; Apr. 3, 2001, D.C. Law 13-241, § 3, 48 DCR 610; June 9, 2001, D.C. Law 13-305, § 506(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, § 26, 49 DCR 8140; Mar. 25, 2003, D.C. Law 14-232, § 3, 49 DCR 9764; Apr. 4, 2003, D.C. Law 14-282, § 9(a), 50 DCR 896; Mar. 13, 2004, D.C. Law 15-105, § 73, 51 DCR 881; Sept. 8, 2004, D.C. Law 15-176, § 2, 51 DCR 5707; Apr. 5, 2005, D.C. Law 15-293, § 12, 52 DCR 1465; Oct. 20, 2005, D.C. Law 16-33, §§ 1212, 1296, 52 DCR 7503; Apr. 7, 2006, D.C. Law 16-91, § 114, 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 62, 53 DCR 6794; Apr. 24, 2007, D.C. Law 16-305, § 59, 53 DCR 6198; Mar. 20, 2008, D.C. Law 17-118, § 201, 55 DCR 1461; Sept. 12, 2008, D.C. Law 17-231,§ 34, 55 DCR 6758; Dec. 13, 2011, D.C. Law 19-60, § 2, 58 DCR 9169; Sept. 20, 2012, D.C. Law 19-168, §§ 7102(a), 7133, 59 DCR 8025; Mar. 5, 2013, D.C. Law 19-210, § 5, 59 DCR 13171; Dec. 24, 2013, D.C. Law 20-61, § 7152(a), 60 DCR 12472.)</text>
+      <text>(Mar. 2, 1962, 76 Stat. 11, Pub. L. 87-408, title III, § 302; June 24, 1980, D.C. Law 3-72, § 206, 27 DCR 2155; Sept. 13, 1980, D.C. Law 3-92, § 101(b), 27 DCR 3390; Mar. 10, 1982, D.C. Law 4-72, § 3(b), 28 DCR 5273; Oct. 8, 1983, D.C. Law 5-31, § 10(b), 30 DCR 3879; Mar. 16, 1989, D.C. Law 7-205, § 5, 36 DCR 457; Sept. 9, 1989, D.C. Law 8-20, § 2(b), 36 DCR 4564; Mar. 7, 1992, D.C. Law 9-56, § 3, 38 DCR 7281; June 11, 1992, D.C. Law 9-120, § 4(a), 39 DCR 3195; June 14, 1994, D.C. Law 10-128, § 101(b), 41 DCR 2096; Sept. 8, 1995, D.C. Law 11-38, § 4(b), 42 DCR 3269; June 3, 1997, D.C. Law 11-276, § 7(a), 44 DCR 1416; Apr. 3, 2001, D.C. Law 13-241, § 3, 48 DCR 610; June 9, 2001, D.C. Law 13-305, § 506(b), 48 DCR 334; Oct. 19, 2002, D.C. Law 14-213, § 26, 49 DCR 8140; Mar. 25, 2003, D.C. Law 14-232, § 3, 49 DCR 9764; Apr. 4, 2003, D.C. Law 14-282, § 9(a), 50 DCR 896; Mar. 13, 2004, D.C. Law 15-105, § 73, 51 DCR 881; Sept. 8, 2004, D.C. Law 15-176, § 2, 51 DCR 5707; Apr. 5, 2005, D.C. Law 15-293, § 12, 52 DCR 1465; Oct. 20, 2005, D.C. Law 16-33, §§ 1212, 1296, 52 DCR 7503; Apr. 7, 2006, D.C. Law 16-91, § 114, 52 DCR 10637; Mar. 2, 2007, D.C. Law 16-191, § 62, 53 DCR 6794; Apr. 24, 2007, D.C. Law 16-305, § 59, 53 DCR 6198; Mar. 20, 2008, D.C. Law 17-118, § 201, 55 DCR 1461; Sept. 12, 2008, D.C. Law 17-231,§ 34, 55 DCR 6758; Dec. 13, 2011, D.C. Law 19-60, § 2, 58 DCR 9169; Sept. 20, 2012, D.C. Law 19-168, §§ 7102(a), 7133, 59 DCR 8025; Mar. 5, 2013, D.C. Law 19-210, § 5, 59 DCR 13171; Dec. 24, 2013, D.C. Law 20-61, § 7152(a), 60 DCR 12472; Dec. 4, 2014, D.C. Law 20-141, § 204, 61 DCR 7763; Feb. 26, 2015, D.C. Law 20-155, §§  7032, 7103(d) and 7104, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -247,6 +255,8 @@
       <text>The 2012 amendment by D.C. Law 19-168 repealed (16), which read: "A deed that conveys an economic interest in improved residential real property that is owned by a cooperative housing association"; added (30), (31) and (32); and made related changes.</text>
       <text>The 2013 amendment by D.C. Law 19-210 substituted "§ 29-204.06" for "§ 29-1013" in (22)(A).</text>
       <text>The 2013 amendment by D.C. Law 20-61 rewrote (32).</text>
+      <text>The 2014 amendment by D.C. Law 20-141, repealed before its effective date, would have added (33).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (33) and (34), and made related changes.</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -263,10 +273,10 @@
       <text>Section 2(a) of D.C. Law 19-74 repealed par. (16) as of October 1, 2009; in par. (27), deleted "and" from the end; in par. (28)(B)(ii)(II), substituted a semicolon for a period; and added pars. (29) and (30) to read as follows:</text>
       <text>"(29) Beginning October 1, 2009, a security interest instrument pertaining to a cooperative housing association; and</text>
       <text>"(30) Beginning October 1, 2009, a deed of economic interest pertaining to a limited-equity cooperative, as defined under D.C. Official Code § 47-802(11).".</text>
-      <text>Section 4(b) of D.C. Law 19-74 provided that the act shall expire after 225 days of its having taken effect.</text>
       <text>Section 103 of D.C. Law 19-226 amended (32) to read as follows:</text>
       <text>"(32) A deed to property if the Mayor has certified that the property and purchaser are eligible for exemption from property taxation pursuant to D.C. Official Code § 47-1005.02."</text>
       <text>Section 402(b) of D.C. Law 19-226 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(t)(1) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -290,11 +300,18 @@
       <text>For temporary (90 day) amendment of section, see § 2(a) of Cooperative Housing Association Economic Interest Recordation Tax Emergency Amendment Act of 2011 (D.C. Act 19-194, October 18, 2011, 58 DCR 9160).</text>
       <text>For temporary (90 day) amendment of section, see § 7102(a) of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012, 59 DCR 7764).</text>
       <text>For temporary (90 day) amendment of section, see § 7102(a) of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012, 59 DCR 9290).</text>
-      <text>For temporary amendment of (32), see § 103 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
-      <text>For temporary amendment of (32), see § 103 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
+      <text>For temporary (90 day) amendment of (32), see § 103 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
+      <text>For temporary (90 day) amendment of (32), see § 103 of the Fiscal Year 2013 Budget Support Technical Clarification Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-604, January 14, 2013, 60 DCR 1045), applicable as of January 10, 2013.</text>
       <text>For temporary (90 days) addition of provisions concerning new issue bond program recordation tax refund, see § 2 of the New Issue Bond Program Recordation Tax Refund Emergency Act of 2013 (D.C. Act 20-141, July 31, 2013, 60 DCR 11794, 20 DCSTAT 1986).</text>
       <text>For temporary (90 days) amendment of this section, see § 7152 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) amendment of this section, see § 7152 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see § 203 of the Residential Real Property Equity and Transparency Emergency Amendment Act of 2014, (D.C. Act 20-342, May 28, 2014, 61 DCR 5691).</text>
+      <text>For temporary (90 days) amendment of this section, see § 203 of the Residential Real Property Equity and Transparency Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-409, Aug. 1, 2014, 61 DCR 8281).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 7042 and 7113(d) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 7032 and 7103(d) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7103(d), see § 2(n) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 7032 and 7103(d) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7103(d), see § 2(n) of the Fiscal Year 2015 Budget Support Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 3-72</heading>
@@ -413,6 +430,14 @@
       <text>Law 20-61, the "Fiscal Year 2014 Budget Support Act of 2013," was introduced in Council and assigned Bill No. 20-199. The Bill was adopted on first and second readings on May 22, 2013, and June 26, 2013, respectively. Signed by the Mayor on Aug. 28, 2013, it was assigned Act No. 20-157 and transmitted to Congress for its review. D.C. Law 20-61 became effective on Dec. 24, 2013.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-141</heading>
+      <text>Law 20-141, the "Residential Real Property Equity and Transparency Act of 2014," was introduced in Council and assigned Bill No. 20-23. The Bill was adopted on first and second readings on April 8, 2014, and May 6, 2014, respectively. Signed by the Mayor on July 15, 2014, it was assigned Act No. 20-378 and transmitted to Congress for its review. D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by § 7114 of emergency D.C. Act 20-377, effective July 14, 2014, by § 7104 of emergency D.C. Act 20-449, effective Oct. 10, 2014, by emergency D.C. Act 20-566, § 7104, eff. Jan. 9, 2015, 62 DCR 884, and by D.C. Law (Act 20-424), § 7104, effective Feb. 26, 2015.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 32-1661.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title of subtitle Z of title I of Law 16-33: Section 1211 of D.C. Law 16-33 provided that subtitle Z of title I of the act may be cited as the Family Property Recordation and Transfer Tax Exemption Act of 2005.</text>
       <text>Short title of subtitle KK of title I of Law 16-33: Section 1295 of D.C. Law 16-33 provided that subtitle KK of title I of the act may be cited as the Disabled Property Owners Tax Reduction Act of 2005.</text>
@@ -441,6 +466,7 @@
       <text>The Budget Director of the Council of the District of Columbia has determined that as of September 20, 2012, the fiscal effect of Law 19-60 has been included in an approved budget and financial plan. Therefore, the provisions of this section, enacted by Law 19-60, are in effect.</text>
       <text>Application of Law 19-210: Section 7 of D.C. Law 19-210 provided that the act shall apply as of January 1, 2012.</text>
       <text>Applicability of D.C. Law 20-61: Section 7152(b) of D.C. Law 20-61 provided that § 7152(a) (which amended § 42-1102(32)) shall apply as of September 20, 2012.</text>
+      <text>D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by D.C. Law (Act 20-424), § 7104, 61 DCR 9990.</text>
     </level>
   </level>
 </level>
