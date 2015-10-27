@@ -13,76 +13,45 @@
   <level>
     <num>(3)</num>
     <text>Affidavits of due execution shall be in substantially the following form:</text>
-    <level type="form">
-      <text/>
-      <text>
- 
- On this __________ day of __________________ 19 ______, ______________________________ personally appeared and, under oath answered the following questions as follows: 
- 1. Were you one of the witnesses who signed the attached written document which is dated ________________________ and is said to be the last will and testament of __________________ of the District of Columbia who is now dead? (Please initial appropriate box.) 
- ________ Yes ________ No 
- 2. Did ____________________________________ sign the attached document while 
- 
- (the testator) 
- 
- in your presence? 
- 
- ________ Yes ________ No 
- 3. Did _______________________________ say the attached document was to be a 
- 
- (the testator) 
- 
- part of his will? 
- 
- ________ Yes ________ No 
- 4. At the time he signed the attached document, did __________________ 
- 
- (the testator) 
- 
- seem to you to be of sound mind and aware of what he was doing? 
- 
- ________ Yes ________ No 
- 5. Did _______________________________ ask you to sign the attached document 
- 
- (the testator) 
- 
- as a witness? 
- 
- ________ Yes ________ No 
- 6. When you signed the attached document as a witness, were _________________
- 
- (the testator) 
- 
- and all of the other witnesses who signed the document present? 
- 
- ________ Yes ________ No 
- 7. Were you present when each of the other witnesses signed the attached document? 
- 
- ________ Yes ________ No 
- 8. Did _________________________________ ask the other people who signed the 
- 
- (the testator) 
- 
- attached document to do so as witnesses? 
- 
- ________ Yes ________ No 
- 9. Was ___________________________ present when each of the witnesses signed 
- 
- (the testator) 
- 
- the attached document? 
- 
- ________ Yes ________ No 
- 10. What is your date of birth? __________________ 
- 11. Do you know of any will or codicil of __________________ other than the 
- 
- (the testator) 
- 
- attached document? 
-
-
- ________ Yes ________ No</text>
-    </level>
   </level>
+  <text>On this _____ day of __________ 19 ___, _______________ personally appeared and, under oath answered the following questions as follows:</text>
+  <text>1. Were you one of the witnesses who signed the attached written document which is dated ____________ and is said to be the last will and testament of __________ of the District of Columbia who is now dead? (Please initial appropriate box.)</text>
+  <text>____ Yes ____ No</text>
+  <text>2. Did sign the attached document while</text>
+  <text>(the testator)</text>
+  <text>in your presence?</text>
+  <text>____ Yes ____ No</text>
+  <text>3. Did say the attached document was to be a</text>
+  <text>(the testator)</text>
+  <text>part of his will?</text>
+  <text>____ Yes ____ No</text>
+  <text>4. At the time he signed the attached document, did __________</text>
+  <text>(the testator)</text>
+  <text>seem to you to be of sound mind and aware of what he was doing?</text>
+  <text>____ Yes ____ No</text>
+  <text>5. Did ask you to sign the attached document</text>
+  <text>(the testator)</text>
+  <text>as a witness?</text>
+  <text>____ Yes ____ No</text>
+  <text>6. When you signed the attached document as a witness, were</text>
+  <text>(the testator)</text>
+  <text>and all of the other witnesses who signed the document present?</text>
+  <text>____ Yes ____ No</text>
+  <text>7. Were you present when each of the other witnesses signed the attached document?</text>
+  <text>____ Yes ____ No</text>
+  <text>8. Did ask the other people who signed the</text>
+  <text>(the testator)</text>
+  <text>attached document to do so as witnesses?</text>
+  <text>____ Yes ____ No</text>
+  <text>9. Was present when each of the witnesses signed</text>
+  <text>(the testator)</text>
+  <text>the attached document?</text>
+  <text>____ Yes ____ No</text>
+  <text>10. What is your date of birth? __________</text>
+  <text>11. Do you know of any will or codicil of __________ other than the</text>
+  <text>(the testator)</text>
+  <text>attached document?</text>
+  <text>____ Yes ____ No</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
