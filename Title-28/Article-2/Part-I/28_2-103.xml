@@ -24,42 +24,42 @@
   <level>
     <num>(2)</num>
     <text>Other definitions applying to this article or to specified parts thereof, and the sections in which they appear are:</text>
+    <text>"Acceptance". Section 28:2-606 .</text>
+    <text>"Banker's credit". Section 28:2-325 .</text>
+    <text>"Between merchants". Section 28:2-104 .</text>
+    <text>"Cancellation". Section 28:2-106(4) .</text>
+    <text>"Commercial unit". Section 28:2-105 .</text>
+    <text>"Confirmed credit". Section 28:2-325 .</text>
+    <text>"Conforming to contract". Section 28:2-106 .</text>
+    <text>"Contract for sale". Section 28:2-106 .</text>
+    <text>"Cover". Section 28:2-712 .</text>
+    <text>"Entrusting". Section 28:2-403 .</text>
+    <text>"Financing agency". Section 28:2-104 .</text>
+    <text>"Future goods". Section 28:2-105 .</text>
+    <text>"Goods". Section 28:2-105 .</text>
+    <text>"Identification". Section 28:2-501 .</text>
+    <text>"Installment contract". Section 28:2-612 .</text>
+    <text>"Letter of Credit". Section 28:2-325 .</text>
+    <text>"Lot". Section 28:2-105 .</text>
+    <text>"Merchant". Section 28:2-104 .</text>
+    <text>"Overseas". Section 28:2-323 .</text>
+    <text>"Person in position of seller". Section 28:2-707 .</text>
+    <text>"Present sale". Section 28:2-106 .</text>
+    <text>"Sale". Section 28:2-106 .</text>
+    <text>"Sale on approval". Section 28:2-326 .</text>
+    <text>"Sale or return". Section 28:2-326 .</text>
+    <text>"Termination". Section 28:2-106 .</text>
   </level>
-  <text>"Acceptance". Section 28:2-606.</text>
-  <text>"Banker's credit". Section 28:2-325.</text>
-  <text>"Between merchants". Section 28:2-104.</text>
-  <text>"Cancellation". Section 28:2-106(4).</text>
-  <text>"Commercial unit". Section 28:2-105.</text>
-  <text>"Confirmed credit". Section 28:2-325.</text>
-  <text>"Conforming to contract". Section 28:2-106.</text>
-  <text>"Contract for sale". Section 28:2-106.</text>
-  <text>"Cover". Section 28:2-712.</text>
-  <text>"Entrusting". Section 28:2-403.</text>
-  <text>"Financing agency". Section 28:2-104.</text>
-  <text>"Future goods". Section 28:2-105.</text>
-  <text>"Goods". Section 28:2-105.</text>
-  <text>"Identification". Section 28:2-501.</text>
-  <text>"Installment contract". Section 28:2-612.</text>
-  <text>"Letter of Credit". Section 28:2-325.</text>
-  <text>"Lot". Section 28:2-105.</text>
-  <text>"Merchant". Section 28:2-104.</text>
-  <text>"Overseas". Section 28:2-323.</text>
-  <text>"Person in position of seller". Section 28:2-707.</text>
-  <text>"Present sale". Section 28:2-106.</text>
-  <text>"Sale". Section 28:2-106.</text>
-  <text>"Sale on approval". Section 28:2-326.</text>
-  <text>"Sale or return". Section 28:2-326.</text>
-  <text>"Termination". Section 28:2-106.</text>
   <level>
     <num>(3)</num>
     <text>Control as provided in § 28:7-106 and the following definitions in other articles apply to this article:</text>
+    <text>"Check". Section 28:3-104 .</text>
+    <text>"Consignee". Section 28:7-102 .</text>
+    <text>"Consignor". Section 28:7-102 .</text>
+    <text>"Consumer goods". Section 28:9-102 .</text>
+    <text>"Dishonor". Section 28:3-502 .</text>
+    <text>"Draft". Section 28:3-104 .</text>
   </level>
-  <text>"Check". Section 28:3-104.</text>
-  <text>"Consignee". Section 28:7-102.</text>
-  <text>"Consignor". Section 28:7-102.</text>
-  <text>"Consumer goods". Section 28:9-102.</text>
-  <text>"Dishonor". Section 28:3-502.</text>
-  <text>"Draft". Section 28:3-104.</text>
   <level>
     <num>(4)</num>
     <text>In addition Article 1 contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
@@ -90,6 +90,16 @@
     <level>
       <heading>Legislative History of Law 19-299</heading>
       <text>Law 19-299, the "Uniform Commercial Code Revision Act of 2012," was introduced in Council and assigned Bill No. 19-136. The Bill was adopted on first reading on Dec. 4, 2012. Signed by the Mayor on Feb. 8, 2013, it was assigned Act No. 19-667 and transmitted to Congress for its review. D.C. Law 19-299 became effective on Apr. 27, 2013.</text>
+    </level>
+    <level>
+      <heading>Uniform Commercial Code Comment</heading>
+      <text>Prior Uniform Statutory Provisions: Subsection (1): Section 76, Uniform Sales Act.</text>
+      <text>Changes: The definitions of "buyer" and "seller" have been slightly rephrased, the reference in Section 76 of the prior Act to "any legal successor in interest of such person" being omitted. The definition of ''receipt" is new.</text>
+      <text>Purposes of Changes and New Matter: 1. The phrase "any legal successor in interest of such person" has been eliminated since Section 2-210 of this Article, which limits some types of delegation of performance on assignment of a sales contract, makes it clear that not every such successor can be safely included in the definition. In every ordinary case, however, such successors are as of course included.</text>
+      <text>2. "Receipt" must be distinguished from delivery particularly in regard to the problems arising out of shipment of goods, whether or not the contract calls for making delivery by way of documents of title, since the seller may frequently fulfill his obligations to "deliver" even though the buyer may never "receive" the goods. Delivery with respect to documents of title is defined in Article 1 and requires transfer of physical delivery. Otherwise the many divergent incidents of delivery are handled incident by incident.</text>
+      <text>Cross References: Point 1: See Section 2-210 and Comment thereon.</text>
+      <text>Point 2: Section 1-201.</text>
+      <text>Definitional Cross Reference: "Person". Section 1-201.</text>
     </level>
   </level>
 </level>

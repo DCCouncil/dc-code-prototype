@@ -193,15 +193,7 @@
       <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>Any person found to have executed a trade practice in violation of a law of the District of Columbia within the jurisdiction of the Department:</text>
-        <level>
-          <num>(i)</num>
-          <text>shall be liable to the Department for a civil penalty of not exceeding $1000.00 for each violation enumerated in an order pursuant to subsection (g)(3) of this section; and</text>
-        </level>
-        <level>
-          <num>(ii)</num>
-          <text>may be assessed and made liable to the Department for a civil penalty of not exceeding $1000.00 for each violation or failure to adhere to a provision, of an order described in subsection (f), (g), or (j) of this section or a consent decree described in subsection (h) of this section.</text>
-        </level>
+        <text>Any person found to have executed a trade practice in violation of a law of the District within the jurisdiction of the Department may be liable for a civil penalty not exceeding $1,000 for each failure to adhere to a provision of an order described in subsection (f), (g), or (j) of this section, or a consent decree described in subsection (h) of this section.</text>
       </level>
       <level>
         <num>(B)</num>
@@ -348,7 +340,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1976, D.C. Law 1-76, § 6, 23 DCR 1185; June 11, 1977, D.C. Law 2-8, § 4(b), 24 DCR 726; enacted, Sept. 6, 1980, D.C. Law 3-85, § 3(a), (d), 27 DCR 2900; Mar. 5, 1981, D.C. Law 3-159, §§ 2(b), (c), 3, 27 DCR 5147; Mar. 8, 1991, D.C. Law 8-234, § 2(f), 38 DCR 296; Feb. 5, 1994, D.C. Law 10-68, § 27(f), 40 DCR 6311; Apr. 9, 1997, D.C. Law 11-255, § 27(y), 44 DCR 1271; Apr. 29, 1998, D.C. Law 12-86, § 1301(c), 45 DCR 1172; Oct. 19, 2000, D.C. Law 13-172, § 1402(d), 47 DCR 6308; Oct. 20, 2005, D.C. Law 16-33, § 2032(d), 52 DCR 7503; June 12, 2007, D.C. Law 17-4,§ 2(b), 54 DCR 4085; Apr. 23, 2013, D.C. Law 19-282, § 2(b)(3), 60 DCR 2132.)</text>
+      <text>(July 22, 1976, D.C. Law 1-76, § 6, 23 DCR 1185; June 11, 1977, D.C. Law 2-8, § 4(b), 24 DCR 726; enacted, Sept. 6, 1980, D.C. Law 3-85, § 3(a), (d), 27 DCR 2900; Mar. 5, 1981, D.C. Law 3-159, §§ 2(b), (c), 3, 27 DCR 5147; Mar. 8, 1991, D.C. Law 8-234, § 2(f), 38 DCR 296; Feb. 5, 1994, D.C. Law 10-68, § 27(f), 40 DCR 6311; Apr. 9, 1997, D.C. Law 11-255, § 27(y), 44 DCR 1271; Apr. 29, 1998, D.C. Law 12-86, § 1301(c), 45 DCR 1172; Oct. 19, 2000, D.C. Law 13-172, § 1402(d), 47 DCR 6308; Oct. 20, 2005, D.C. Law 16-33, § 2032(d), 52 DCR 7503; June 12, 2007, D.C. Law 17-4,§ 2(b), 54 DCR 4085; Apr. 23, 2013, D.C. Law 19-282, § 2(b)(3), 60 DCR 2132; Feb. 26, 2015, D.C. Law 20-155, § 2012(c), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -372,12 +364,16 @@
       <text>"(2) whether the trade practice which occurred violates any statute, regulation, rule of common law, or other law, of the District of Columbia."</text>
       <text>D.C. Law 17-4 added subsec. (k)(5).</text>
       <text>The 2013 amendment by D.C. Law 19-282 rewrote (k)(1) and (k)(2).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (i)(3)(A).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90-day) amendment of section, see § 1402(d) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000, 47 DCR 6574).</text>
       <text>For temporary (90 day) amendment of section, see § 1402(d) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000, 47 DCR 8740).</text>
       <text>For temporary (90 day) amendment of section, see § 2032(d) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2012(c) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2012(c) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2012(c) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-76</heading>
@@ -426,6 +422,10 @@
     <level>
       <heading>Legislative History of Law 19-282</heading>
       <text>See note to § 28-3901.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 28-3903.</text>
     </level>
   </level>
 </level>
