@@ -234,7 +234,7 @@
   <level>
     <num>(b-1)</num>
     <heading>[Deductions allowed - Long-term care insurance]</heading>
-    <text>An individual may deduct from gross income the amount the individual pays annually in premiums for long-term care insurance, as defined in § 31-3601(5); provided, that the deduction shall not exceed $500 per year, per individual, whether the individual files individually or jointly.</text>
+    <text>For taxable years beginning before January 1, 2015, an individual may deduct from gross income the amount the individual pays annually in premiums for long-term care insurance, as defined in § 31-3601(5); provided, that the deduction shall not exceed $500 per year, per individual, whether the individual files individually or jointly.</text>
   </level>
   <level>
     <num>(b-2)</num>
@@ -378,6 +378,9 @@
           <level>
             <num>(I)</num>
             <text>During the same taxable year, the related member directly or indirectly paid interest expense to, or the interest expense or intangible expense was accrued or incurred by, a person who is not a related member; or</text>
+          </level>
+          <level>
+            <num>(II)</num>
             <level>
               <num>(aa)</num>
               <text>The related member was subject to a tax measured by its net income or receipts in the District, a state or possession of the United States, or a foreign nation that has entered into a tax treaty with the United States government;</text>
@@ -479,7 +482,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 16, 1947, 61 Stat. 337, ch. 258, art. I, title III, § 3; May 27, 1949, 63 Stat. 130, ch. 146, title IV, §§ 404-409; Mar. 31, 1956, 70 Stat. 69, ch. 154,§§ 3, 4; Sept. 4, 1957, 71 Stat. 606, Pub. L. 85-281, § 4; Oct. 31, 1969, 83 Stat. 177, Pub. L. 91-106, title VI, § 601(b)(3), (4); Aug. 28, 1970, 84 Stat. 834, Pub. L. 91-391, § 1; Jan. 5, 1971, 84 Stat. 1933, Pub. L. 91-650, title II, §§ 204, 205(a); Oct. 21, 1975, D.C. Law 1-23, title VI, § 601(5), (6), 22 DCR 2107; Nov. 1, 1975, D.C. Law 1-31, § 2, 22 DCR 2547; Feb. 3, 1976, D.C. Law 1-44, §§ 2, 3, 23 DCR 4055; June 15, 1976, D.C. Law 1-70, title XI, § 1101, 23 DCR 562; Apr. 19, 1977, D.C. Law 1-124, title IV, § 401(b), 23 DCR 8749; Sept. 23, 1977, D.C. Law 2-19, § 2, 24 DCR 3338; Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; Sept. 13, 1980, D.C. Law 3-92, § 501, 27 DCR 3390; Sept. 13, 1980, D.C. Law 3-95, § 103(b)-(d), 27 DCR 3509; June 11, 1981, D.C. Law 4-7, § 3, 28 DCR 1672; June 11, 1982, D.C. Law 4-118, § 104, 29 DCR 1770; July 24, 1982, D.C. Law 4-131, § 108(a), (b), 29 DCR 2418; Oct. 8, 1983, D.C. Law 5-31, § 10(f), 30 DCR 3879; Oct. 8, 1983, D.C. Law 5-32, § 3(c), 30 DCR 4013; July 24, 1986, D.C. Law 6-129, § 2(b), 33 DCR 3221; June 24, 1987, D.C. Law 7-9, § 2(f), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, §§ (2)(c)(5)-(17), 4, 34 DCR 5097; Apr. 30, 1988, D.C. Law 7-104, § 39(a)-(c), 35 DCR 147; July 8, 1988, D.C. Law 7-130, § 2(b), 35 DCR 4104; Sept. 21, 1988, D.C. Law 7-141, § 2(b), 35 DCR 5398; Sept. 21, 1988, D.C. Law 7-145, § 2(b), 35 DCR 5407; Oct. 20, 1988, D.C. Law 7-177, § 10(a), 35 DCR 6158; July 26, 1989, D.C. Law 8-17, § 2(b), 36 DCR 4160; June 11, 1992, D.C. Law 9-114, § 11, 39 DCR 2861; June 14, 1994, D.C. Law 10-128, § 103(b), 41 DCR 2096; Apr. 12, 1997, D.C. Law 11-257, § 5, 44 DCR 1247; Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 20, 1999, D.C. Law 13-38, § 2702(g), 46 DCR 6373; Apr. 3, 2001, D.C. Law 13-256, § 404, 48 DCR 730; Oct. 1, 2002, D.C. Law 14-190, § 832(a), 49 DCR 6968; Dec. 7, 2004, D.C. Law 15-205, § 1062(a), 51 DCR 8441; Apr. 12, 2005, D.C. Law 15-330, § 2, 52 DCR 1979; Mar. 2, 2007, D.C. Law 16-191, §§ 4, 109(d), 53 DCR 6794; Mar. 2, 2007, D.C. Law 16-192, § 4012, 53 DCR 6899; Dec. 11, 2007, D.C. Law 17-61, § 2, 54 DCR 10951; Aug. 16, 2008, D.C. Law 17-219, §§ 7107(a), 7113, 55 DCR 7598; Sept. 12, 2008, D.C. Law 17-231, § 41(g), 55 DCR 6758; Mar. 3, 2010, D.C. Law 18-111, § 7081, 57 DCR 181; Sept. 14, 2011, D.C. Law 19-21, § 8012, 58 DCR 6226.)</text>
+      <text>(July 16, 1947, 61 Stat. 337, ch. 258, art. I, title III, § 3; May 27, 1949, 63 Stat. 130, ch. 146, title IV, §§ 404-409; Mar. 31, 1956, 70 Stat. 69, ch. 154,§§ 3, 4; Sept. 4, 1957, 71 Stat. 606, Pub. L. 85-281, § 4; Oct. 31, 1969, 83 Stat. 177, Pub. L. 91-106, title VI, § 601(b)(3), (4); Aug. 28, 1970, 84 Stat. 834, Pub. L. 91-391, § 1; Jan. 5, 1971, 84 Stat. 1933, Pub. L. 91-650, title II, §§ 204, 205(a); Oct. 21, 1975, D.C. Law 1-23, title VI, § 601(5), (6), 22 DCR 2107; Nov. 1, 1975, D.C. Law 1-31, § 2, 22 DCR 2547; Feb. 3, 1976, D.C. Law 1-44, §§ 2, 3, 23 DCR 4055; June 15, 1976, D.C. Law 1-70, title XI, § 1101, 23 DCR 562; Apr. 19, 1977, D.C. Law 1-124, title IV, § 401(b), 23 DCR 8749; Sept. 23, 1977, D.C. Law 2-19, § 2, 24 DCR 3338; Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; Sept. 13, 1980, D.C. Law 3-92, § 501, 27 DCR 3390; Sept. 13, 1980, D.C. Law 3-95, § 103(b)-(d), 27 DCR 3509; June 11, 1981, D.C. Law 4-7, § 3, 28 DCR 1672; June 11, 1982, D.C. Law 4-118, § 104, 29 DCR 1770; July 24, 1982, D.C. Law 4-131, § 108(a), (b), 29 DCR 2418; Oct. 8, 1983, D.C. Law 5-31, § 10(f), 30 DCR 3879; Oct. 8, 1983, D.C. Law 5-32, § 3(c), 30 DCR 4013; July 24, 1986, D.C. Law 6-129, § 2(b), 33 DCR 3221; June 24, 1987, D.C. Law 7-9, § 2(f), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, §§ (2)(c)(5)-(17), 4, 34 DCR 5097; Apr. 30, 1988, D.C. Law 7-104, § 39(a)-(c), 35 DCR 147; July 8, 1988, D.C. Law 7-130, § 2(b), 35 DCR 4104; Sept. 21, 1988, D.C. Law 7-141, § 2(b), 35 DCR 5398; Sept. 21, 1988, D.C. Law 7-145, § 2(b), 35 DCR 5407; Oct. 20, 1988, D.C. Law 7-177, § 10(a), 35 DCR 6158; July 26, 1989, D.C. Law 8-17, § 2(b), 36 DCR 4160; June 11, 1992, D.C. Law 9-114, § 11, 39 DCR 2861; June 14, 1994, D.C. Law 10-128, § 103(b), 41 DCR 2096; Apr. 12, 1997, D.C. Law 11-257, § 5, 44 DCR 1247; Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 20, 1999, D.C. Law 13-38, § 2702(g), 46 DCR 6373; Apr. 3, 2001, D.C. Law 13-256, § 404, 48 DCR 730; Oct. 1, 2002, D.C. Law 14-190, § 832(a), 49 DCR 6968; Dec. 7, 2004, D.C. Law 15-205, § 1062(a), 51 DCR 8441; Apr. 12, 2005, D.C. Law 15-330, § 2, 52 DCR 1979; Mar. 2, 2007, D.C. Law 16-191, §§ 4, 109(d), 53 DCR 6794; Mar. 2, 2007, D.C. Law 16-192, § 4012, 53 DCR 6899; Dec. 11, 2007, D.C. Law 17-61, § 2, 54 DCR 10951; Aug. 16, 2008, D.C. Law 17-219, §§ 7107(a), 7113, 55 DCR 7598; Sept. 12, 2008, D.C. Law 17-231, § 41(g), 55 DCR 6758; Mar. 3, 2010, D.C. Law 18-111, § 7081, 57 DCR 181; Sept. 14, 2011, D.C. Law 19-21, § 8012, 58 DCR 6226; Feb. 26, 2015, D.C. Law 20-155, § 7012(c)(3), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -508,6 +511,7 @@
       <text>D.C. Law 17-231, in subsec. (c), rewrote the last sentence, which had read as follows: "If a husband and wife file separate returns, the applicable standard deduction shall be allowed to neither if the net income of one of the spouses is determined by itemizing deductions."</text>
       <text>D.C. Law 18-111 repealed subsec. (a)(19); and added subsec. (d)(7).</text>
       <text>D.C. Law 19-21 added subsec. (b-4).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added "For taxable years beginning before January 1, 2015" in (b-1).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -579,6 +583,9 @@
       <text>For temporary (90 day) amendment of section, see § 7081 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
       <text>For temporary (90 day) amendment of section, see § 7081 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
       <text>For temporary (90 day) amendment of section, see § 5 of Revised Fiscal Year 2012 Budget Support Technical Clarification Emergency Amendment Act of 2011 (D.C. Act 19-157, October 4, 2011, 58 DCR 8688).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7022(c)(3) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(c)(3) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(c)(3) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-23</heading>
@@ -739,6 +746,10 @@
     <level>
       <heading>Legislative History of Law 19-21</heading>
       <text>For history of Law 19-21, see notes under § 47-305.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1801.04.</text>
     </level>
     <level>
       <heading>Short Title</heading>

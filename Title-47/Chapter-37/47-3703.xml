@@ -7,36 +7,42 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The tax shall be an amount computed by multiplying the federal credit by a fraction, the numerator of which is the value of that part of the gross estate over which the District has jurisdiction for estate tax purposes and the denominator of which is the value of the decedent's gross estate.</text>
+    <text>For every nonresident decedent dying before January 1, 2016, the tax shall be an amount computed by multiplying the federal credit by a fraction, the numerator of which is the value of that part of the gross estate over which the District has jurisdiction for estate tax purposes and the denominator of which is the value of the decedent's gross estate.</text>
+  </level>
+  <level>
+    <num>(b-1)</num>
+    <text>For every nonresident decedent dying after December 31, 2015, the tax shall be an amount computed by multiplying the tax determined under § 47-3702(a-1) by a fraction, the numerator of which shall be the value of that part of the gross estate that has its taxable situs in the District and the denominator of which shall be the value of the nonresident decedent's gross estate.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>For the purposes of this section, taxable situs means in regard to:</text>
-    <level>
-      <num>(1)</num>
-      <text>Real property - the place where the property is situated;</text>
-    </level>
-    <level>
-      <num>(2)</num>
-      <text>Tangible personal property - the place where the property is customarily located at the time of the decedent's death; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Intangible personal property - the domicile of the decedent at the time of the decedent's death, except that intangible personal property used in a trade or business in the District shall have a taxable situs in the District regardless of the domicile of the owner.</text>
-    </level>
+    <text>Repealed.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 24, 1987, D.C. Law 6-168, § 4, 33 DCR 7008; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575.)</text>
+      <text>(Feb. 24, 1987, D.C. Law 6-168, § 4, 33 DCR 7008; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Feb. 26, 2015, D.C. Law 20-155, § 7012(f)(3), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
       <text>1981 Ed., § 47-3703.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-155 added "For every nonresident decedent dying before January 1, 2016" in (b); added (b-1); and repealed (c).</text>
+    </level>
+    <level>
+      <heading>Emergency Legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 7022(f)(3) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(f)(3) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(f)(3) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 6-168</heading>
       <text>For legislative history of D.C. Law 6-168, see Historical and Statutory Notes following § 47-3701.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-3701.</text>
     </level>
   </level>
 </level>

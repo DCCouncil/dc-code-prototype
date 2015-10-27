@@ -84,23 +84,23 @@
         <level>
           <num>(iii)</num>
           <text>At a minimum, the performance record shall contain, for the immediate prior term:</text>
+          <level>
+            <num>(I)</num>
+            <text>All the decisions authored by the Commissioner or to which he or she was a signatory;</text>
+          </level>
+          <level>
+            <num>(II)</num>
+            <text>Data on how the Commissioner met applicable objective performance measures;</text>
+          </level>
+          <level>
+            <num>(III)</num>
+            <text>The recommendation of the Chairperson or Vice-Chairperson, whichever is applicable, as to whether the reappointment should be made; and</text>
+          </level>
+          <level>
+            <num>(IV)</num>
+            <text>Any other information requested by the Mayor.</text>
+          </level>
         </level>
-      </level>
-      <level>
-        <num>(I)</num>
-        <text>All the decisions authored by the Commissioner or to which he or she was a signatory;</text>
-      </level>
-      <level>
-        <num>(II)</num>
-        <text>Data on how the Commissioner met applicable objective performance measures;</text>
-      </level>
-      <level>
-        <num>(III)</num>
-        <text>The recommendation of the Chairperson or Vice-Chairperson, whichever is applicable, as to whether the reappointment should be made; and</text>
-      </level>
-      <level>
-        <num>(IV)</num>
-        <text>Any other information requested by the Mayor.</text>
         <level>
           <num>(iv)</num>
           <text>The Chairperson or the Vice-Chairperson, whichever is applicable, shall submit the performance record to the Mayor within 60 days of the filing of the reappointment statement.</text>
@@ -243,7 +243,8 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>All meetings of the Commission, including hearings of individual appeals, shall be open to the public. All information presented at Commission meetings, including individual appeals, shall be available for public inspection. Notwithstanding the foregoing, valuation records protected under § 47-821(d), tax returns, and information that is personal in nature shall not be available for public inspection and discussion of same during a hearing shall be <span style="font-style: italic; ">in camera</span>.</text>
+      <text>All meetings of the Commission, including hearings of individual appeals, shall be open to the public. All information presented at Commission meetings, including individual appeals, shall be available for public inspection. Notwithstanding the foregoing, valuation records protected under § 47-821(d), tax returns, and information that is personal in nature shall not be available for public inspection and discussion of same during a hearing shall be in camera.</text>
+      <text>in camera</text>
     </level>
     <level>
       <num>(7)</num>
@@ -587,7 +588,7 @@
       <text>For temporary (90 day) addition of section 3a of D.C. Law 18-363, see § 2 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
       <text>For temporary (90 day) amendment of section, see § 5 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
       <text>For temporary (90 day) repeal of D.C. Law 19-9, see § 6 of Real Property Tax Appeals Commission Establishment Clarification Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-256, December 21, 2011, 58 DCR 11219).</text>
-      <text>For temporary addition of a salary schedule for the Real Property Tax Appeals Commission, effective as of the first full pay period beginning in fiscal year 2013, see §§ 201 and 202 of the Fiscal Year 2013 Budget Support Technical Clarification Emergency Amendment Act of 2012 (D.C. Act 19-482, October 12, 2012, 59 DCR 12478).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2 of the Bezner Real Property Tax Relief Emergency Amendment Act of 2014 (D.C. Act 20-397, July 29, 2014, 61 DCR 8257).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-363</heading>

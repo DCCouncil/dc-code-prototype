@@ -12,35 +12,40 @@
       <level>
         <num>(A)</num>
         <text>For taxable years beginning after December 31, 1977, the percentage required under paragraph (1) of this subsection to be determined for claimants other than elderly, blind, or claimants with disabilities shall be the percentage specified in the following table:</text>
-        <level type="form">
-          <text/>
-          <text class="centered"> Regular Circuit Breaker</text>
-          <text> If household income is: Tax credit equals: 
- $0 - $2,999 95% of property tax* exceeding 1.5% of household gross income 
- $3,000 - $4,999 75% of property tax* exceeding 2.0% of household gross income 
- $5,000 - $6,999 75% of property tax* exceeding 2.5% of household gross income 
- $7,000 - $9,999 75% of property tax* exceeding 3.0% of household gross income 
- $10,000 - $14,999 75% of property tax* exceeding 3.5% of household gross income 
- $15,000 - $20,000 75% of property tax* exceeding 4.0% of household gross income 
- *or rent paid constituting property tax (15% of rent) 
- 
- (B) For taxable years beginning after December 31, 2013, the percentage required under paragraph (1) of this subsection to be determined for all claimants shall be the percentage specified in the following table: 
- If adjusted gross income is: Tax credit equals: 
- $0 - 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit 
- $25,000 - $40,000 100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit 
- *or rent paid constituting property tax (20% of rent). 
- 
- (C) For taxable years beginning after December 31, 2015, the percentage required under paragraph (1) of this subsection to be determined for all claimants shall be the percentage specified in the following table: 
- If adjusted gross income is: Tax credit equals: 
- $0 - 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit 
- $25,000 - $50,000 100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit 
- *or rent paid constituting property tax (20% of rent). 
- 
- (3) Repealed. 
- 
- (4) All eligible claimants who rent their principal place of residence, who reside in the same and who receive rental supplements under the provisions of title III of the Rental Housing Act of 1977, shall, when computing their income tax credit pursuant to this section, deduct from the amount of said credit the total amount of rental supplements received during the taxable year. The amount of credit which is in excess of any rental supplements received shall constitute the eligible claimant's total income tax credit under this section. If the amount of rental supplements received exceeds the amount of credit calculated under this section, then the eligible claimant's credit shall equal zero.</text>
+        <level>
+          <heading>Regular Circuit Breaker</heading>
         </level>
+        <text>If household income is: Tax credit equals:</text>
+        <text>$0 — $2,999 95% of property tax* exceeding 1.5% of household gross income</text>
+        <text>$3,000 — $4,999 75% of property tax* exceeding 2.0% of household gross income</text>
+        <text>$5,000 — $6,999 75% of property tax* exceeding 2.5% of household gross income</text>
+        <text>$7,000 — $9,999 75% of property tax* exceeding 3.0% of household gross income</text>
+        <text>$10,000 — $14,999 75% of property tax* exceeding 3.5% of household gross income</text>
+        <text>$15,000 — $20,000 75% of property tax* exceeding 4.0% of household gross income</text>
+        <text>*or rent paid constituting property tax (15% of rent)</text>
+        <text>For taxable years beginning after December 31, 2013, the percentage required under paragraph (1) of this subsection to be determined for all claimants shall be the percentage specified in the following table:</text>
+        <text>If adjusted gross income is: Tax credit equals:</text>
+        <text>$0 — 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</text>
+        <text>$25,000 — $40,000  100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</text>
+        <text>*or rent paid constituting property tax (20% of rent).</text>
+        <text>For taxable years beginning after December 31, 2015, the percentage required under paragraph (1) of this subsection to be determined for all claimants other than eligible senior claimants shall be the percentage specified in the following table:</text>
+        <text>If adjusted gross income is: Tax credit equals:</text>
+        <text>$0 — 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</text>
+        <text>$25,000 — $50,000  100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</text>
+        <text>*or rent paid constituting property tax (20% of rent).</text>
       </level>
+    </level>
+    <level>
+      <num>(2A)</num>
+      <text>For taxable years beginning after December 31, 2014, the percentage required under paragraph (1) of this subsection to be determined for eligible senior claimants shall be 100% of property tax or of rent constituting property taxes accrued exceeding 3.0% of adjusted gross income of the tax filing unit.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Repealed.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>All eligible claimants who rent their principal place of residence, who reside in the same and who receive rental supplements under the provisions of title III of the Rental Housing Act of 1977, shall, when computing their income tax credit pursuant to this section, deduct from the amount of said credit the total amount of rental supplements received during the taxable year. The amount of credit which is in excess of any rental supplements received shall constitute the eligible claimant's total income tax credit under this section. If the amount of rental supplements received exceeds the amount of credit calculated under this section, then the eligible claimant's credit shall equal zero.</text>
     </level>
   </level>
   <level>
@@ -111,6 +116,10 @@
         <num>(B)</num>
         <text>The term "rent constituting property taxes accrued" means 20% of the rent paid in any calendar year by a claimant solely for the right of occupancy of his home in the calendar year, and which constitutes the basis of a claim in the succeeding calendar year for a credit for property taxes paid.</text>
       </level>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>The term "eligible senior claimant" means a claimant who is 70 years or older at any time during the tax year and whose adjusted gross income does not exceed $60,000.</text>
     </level>
   </level>
   <level>
@@ -202,7 +211,7 @@
     <num>(r)</num>
     <level>
       <num>(1)</num>
-      <text>The maximum credit amount of $1000 and the eligibility income threshold of $50,000 shall be adjusted annually for inflation based on the Consumer Price Index.</text>
+      <text>The maximum credit amount of $1000 and the eligibility income threshold of $50,000 ($60,000 for eligible senior claimants) shall be adjusted annually for inflation based on the Consumer Price Index.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -212,7 +221,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 16, 1947, 61 Stat. 345, ch. 258, art. I, title VI, § 8; Sept. 3, 1974, 88 Stat. 1060, Pub. L. 93-407, title IV, § 451; Jan. 3, 1975, 88 Stat. 2176, Pub. L. 93-635, § 7(a)(1), (b)(1), (c)-(e); Apr. 19, 1977, D.C. Law 1-124, title IV, § 401(d)(2), 23 DCR 8749; Feb. 28, 1978, D.C. Law 2-45, § 4, 24 DCR 3614; Mar. 3, 1979, D.C. Law 2-130, § 6, 25 DCR 2517; Nov. 20, 1979, D.C. Law 3-37, § 5, 26 DCR 1564; June 11, 1982, D.C. Law 4-118, § 112, 29 DCR 1770; July 24, 1982, D.C. Law 4-131, § 108(c), (d), 29 DCR 2418; Apr. 30, 1988, D.C. Law 7-104, § 39(d), (e), 35 DCR 147; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 24, 2007, D.C. Law 16-305, § 73(e), 53 DCR 6198; Sept. 12, 2008, D.C. Law 17-231, § 41(i), 55 DCR 6758; Apr. 27, 2013, D.C. Law 19-283, § 2, 60 DCR 2307.)</text>
+      <text>(July 16, 1947, 61 Stat. 345, ch. 258, art. I, title VI, § 8; Sept. 3, 1974, 88 Stat. 1060, Pub. L. 93-407, title IV, § 451; Jan. 3, 1975, 88 Stat. 2176, Pub. L. 93-635, § 7(a)(1), (b)(1), (c)-(e); Apr. 19, 1977, D.C. Law 1-124, title IV, § 401(d)(2), 23 DCR 8749; Feb. 28, 1978, D.C. Law 2-45, § 4, 24 DCR 3614; Mar. 3, 1979, D.C. Law 2-130, § 6, 25 DCR 2517; Nov. 20, 1979, D.C. Law 3-37, § 5, 26 DCR 1564; June 11, 1982, D.C. Law 4-118, § 112, 29 DCR 1770; July 24, 1982, D.C. Law 4-131, § 108(c), (d), 29 DCR 2418; Apr. 30, 1988, D.C. Law 7-104, § 39(d), (e), 35 DCR 147; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Apr. 24, 2007, D.C. Law 16-305, § 73(e), 53 DCR 6198; Sept. 12, 2008, D.C. Law 17-231, § 41(i), 55 DCR 6758; Apr. 27, 2013, D.C. Law 19-283, § 2, 60 DCR 2307; Feb. 26, 2015, D.C. Law 20-155, § 7052(b), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -232,11 +241,21 @@
       <text>D.C. Law 16-305 substituted "claimants with disabilities" for "disabled claimants", throughout the section.</text>
       <text>D.C. Law 17-231, in subsec. (b)(5), substituted "spouse or domestic partner" for "spouse"; and, in subsec. (j)(2), substituted "spouses or domestic partners" for "husband and wife".</text>
       <text>The 2013 amendment by D.C. Law 19-283, in (a)(1), substituted "20% of rent" for "15% of rent" and substituted "$1,000" for "$750"; added (a)(2)(B) and (C); repealed (a)(3); substituted "Only one claimant per tax filing unit per year shall be entitled to relief under this section" for "Only 1 claimant per home and per household per year shall be entitled to relief under this section" in (b)(4); repealed (b)(5), (6), and (7); substituted "20% of the rent" for "15% of the rent" in (b)(8)(B); rewrote (j)(1); and added (r).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added "other than eligible senior claimants" in (a)(2)(C); added (a)(2A) and (b)(9); and added "($ 60,000 for eligible senior claimants)" in (r).</text>
+    </level>
+    <level>
+      <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) amendment of this section, see § 2(r)(4) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 days) amendment of D.C. Law 19-283, § 3, see § 7020 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) amendment of D.C. Law 19-283, § 3, see 7020 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7062(b) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7052(b) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7052(b), see § 2(m) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7052(b) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(m) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-124</heading>
@@ -277,6 +296,10 @@
     <level>
       <heading>Legislative History of Law 19-283</heading>
       <text>Law 19-283, the "Schedule H Property Tax Relief Act of 2012," was introduced in Council and assigned Bill No. 19-164. The Bill was adopted on first and second readings on Dec. 4, 2012 and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 29, 2013, it was assigned Act No. 19-649 and transmitted to Congress for its review. D.C. Law 19-283 became effective on April 27, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1801.04.</text>
     </level>
     <level>
       <heading>Short Title</heading>

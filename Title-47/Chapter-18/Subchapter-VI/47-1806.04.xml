@@ -42,12 +42,34 @@
       <num>(3)</num>
       <text>In no event shall the credit allowed under paragraph (1) of this subsection exceed the amount of the tax otherwise due without reference to this section.</text>
     </level>
+    <level>
+      <num>(4)</num>
+      <text>The credit provided for in paragraph (1) of this subsection shall no longer be allowed upon the personal exemption being increased to conform to the federal level.</text>
+    </level>
   </level>
   <level>
     <num>(f)</num>
     <level>
       <num>(1)</num>
-      <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2004, an individual who is allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 40% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986; provided, that the credit shall not be allowed to a resident who has elected to claim the low income tax credit provided for in subsection (e) of this section.</text>
+      <level>
+        <num>(A)</num>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2004, an individual who is allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 40% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986; provided, that the credit shall not be allowed to a resident who has elected to claim the low income tax credit provided for in subsection (e) of this section.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2014, an individual with a qualifying child who is eligible for and claimed an earned income tax credit on their federal tax return under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 40% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <level>
+          <num>(i)</num>
+          <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2014, an individual without a qualifying child who is eligible for an earned income tax credit on their federal tax return under section 32 of the Internal Revenue Code of 1986 (without regard to the limit in section 32(a)(2) of the Internal Revenue Code of 1986) shall be allowed a credit against the tax imposed by this chapter in an amount equal to the credit percentage of so much of a taxpayer's earned income as does not exceed the earned income amount.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The amount of the credit allowable to a taxpayer under subsubparagraph (i) of this subparagraph for any taxable year shall not exceed the credit percentage of the earned income amount, over the phaseout percentage of 8.48% of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount of $17,235, increased annually by the cost-of-living adjustment.</text>
+        </level>
+      </level>
     </level>
     <level>
       <num>(2)</num>
@@ -57,12 +79,16 @@
       <num>(3)</num>
       <text>The credit allowed under this subsection shall be refundable to the resident claiming the credit.</text>
     </level>
+    <level>
+      <num>(4)</num>
+      <text>For the purposes of this subsection, credit percentage, earned income, earned income amount, and qualifying child shall have the same meanings as provided in section 32 of the Internal Revenue Code of 1986.</text>
+    </level>
   </level>
   <level>
     <num>(g)</num>
     <level>
       <num>(1)</num>
-      <text>A taxpayer described in paragraph (2) of this subsection, and who otherwise would not qualify for the earned income tax credit under subsection 32(b) of the Internal Revenue Code of 1986, shall be allowed a credit equal to the credit allowed in subsection (f) of this section.</text>
+      <text>A taxpayer described in paragraph (2) of this subsection, and who otherwise would not qualify for the earned income tax credit under subsection (f)(1)(C) of this section or subsection 32(b) of the Internal Revenue Code of 1986, shall be allowed a credit equal to the credit allowed in subsection (f) of this section.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -92,7 +118,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 16, 1947, 61 Stat. 345, ch. 258, art. I, title VI, § 5; Mar. 31, 1956, 70 Stat. 71, ch. 154, § 9; Apr. 19, 1977, D.C. Law 1-124, title IV, § 401(d)(1), 23 DCR 8749; Mar. 3, 1979, D.C. Law 2-146, §§ 2, 3, 25 DCR 6987; Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; June 11, 1982, D.C. Law 4-118, § 110, 29 DCR 1770; June 24, 1987, D.C. Law 7-9, § 2(i), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, § 2(f)(3)-(5), 34 DCR 5097; May 10, 1989, D.C. Law 7-231, § 50, 36 DCR 492; Sept. 20, 1989, D.C. Law 8-25, § 3, 36 DCR 4721; Sept. 26, 1995, D.C. Law 11-52, § 114, 42 DCR 3684; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 19, 2000, D.C. Law 13-172, § 2202, 47 DCR 6308; Sept. 6, 2001, D.C. Law 14-22, § 2, 48 DCR 5751; Oct. 20, 2005, D.C. Law 16-33, § 1052, 52 DCR 7503; Aug. 16, 2008, D.C. Law 17-219, § 7002, 55 DCR 7598.)</text>
+      <text>(July 16, 1947, 61 Stat. 345, ch. 258, art. I, title VI, § 5; Mar. 31, 1956, 70 Stat. 71, ch. 154, § 9; Apr. 19, 1977, D.C. Law 1-124, title IV, § 401(d)(1), 23 DCR 8749; Mar. 3, 1979, D.C. Law 2-146, §§ 2, 3, 25 DCR 6987; Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002; June 11, 1982, D.C. Law 4-118, § 110, 29 DCR 1770; June 24, 1987, D.C. Law 7-9, § 2(i), 34 DCR 3283; Oct. 1, 1987, D.C. Law 7-29, § 2(f)(3)-(5), 34 DCR 5097; May 10, 1989, D.C. Law 7-231, § 50, 36 DCR 492; Sept. 20, 1989, D.C. Law 8-25, § 3, 36 DCR 4721; Sept. 26, 1995, D.C. Law 11-52, § 114, 42 DCR 3684; enacted, Apr. 9, 1997, D.C. Law 11-254, § 2, 44 DCR 1575; Oct. 19, 2000, D.C. Law 13-172, § 2202, 47 DCR 6308; Sept. 6, 2001, D.C. Law 14-22, § 2, 48 DCR 5751; Oct. 20, 2005, D.C. Law 16-33, § 1052, 52 DCR 7503; Aug. 16, 2008, D.C. Law 17-219, § 7002, 55 DCR 7598; Feb. 26, 2015, D.C. Law 20-155, § 7012(c)(6), 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -112,15 +138,14 @@
       <text>"(3) The credit allowed under this subsection shall be refundable."</text>
       <text>D.C. Law 16-33, added subsec. (g) and rewrote subsec. (f).</text>
       <text>D.C. Law 17-219, in subsec. (f)(1), substituted "40%" for "35%".</text>
+      <text>The 2015 amendment by D.C. Law 20-155 added (e)(4); redesignated (f)(1) as (f)(1)(A); added (f)(1)(B) and (C); added (f)(4); and added "subsection (f)(1)(C) of this section or" in (g)(1).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
       <text>For temporary (225 day) amendment of section, see § 2 of D.C. Resident Tax Credit Temporary Amendment Act of 1994 (D.C. Law 10-250, March 23, 1995, law notification 42 DCR 1649).</text>
-    </level>
-    <level>
-      <heading>Temporary Addition of Section</heading>
       <text>Section 2(a) of D.C. Law 17-275 added a provision to read as follows: "Sec. 7002a. Applicability. This act shall apply as of January 1, 2009.".</text>
       <text>Section 4(b) of D.C. Law 17-275 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(o) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -130,6 +155,11 @@
       <text>For temporary (90 day) amendment of section, see §§ 1052, 1053 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
       <text>For temporary (90 day) addition, see § 2 of Designated Appropriation Allocations Emergency Amendment Act of 2008 (D.C. Act 17-488, July 28, 2008, 55 DCR 9157).</text>
       <text>For temporary (90 day) amendment of section, see § 201(c) of Fiscal Year 2009 Balanced Budget Support Emergency Amendment Act of 2008 (D.C. Act 17-572, December 2, 2008, 55 DCR 12452).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7022(c)(6) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(c)(6) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7012(c), see § 2(l)(2)(D) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7012(c)(6) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7012(c), see § 2(l)(2)(D) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 1-124</heading>
@@ -182,6 +212,10 @@
     <level>
       <heading>Legislative History of Law 17-219</heading>
       <text>For Law 17-219, see notes following § 47-318.05a.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to §  47-1801.04.</text>
     </level>
     <level>
       <heading>Short Title</heading>

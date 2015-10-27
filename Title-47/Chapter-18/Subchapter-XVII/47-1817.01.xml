@@ -95,11 +95,11 @@
       <text>"Qualified High Technology Company" means:</text>
       <level>
         <num>(i)</num>
-        <text>An individual or entity organized for profit and maintaining an office, headquarters, or base of operations in the District of Columbia;</text>
+        <text>An individual or entity organized for profit and leasing or owning an office in the District of Columbia;</text>
       </level>
       <level>
         <num>(ii)</num>
-        <text>Having 2 or more employees in the District; and</text>
+        <text>Having 2 or more qualified employees in the District; and</text>
       </level>
       <level>
         <num>(iii)</num>
@@ -110,19 +110,19 @@
         </level>
         <level>
           <num>(II)</num>
-          <text>Information and communication technologies, equipment and systems that involve advanced computer software and hardware, data processing, visualization technologies, or human interface technologies, whether deployed on the Internet or other electronic or digital media. Such technologies shall include operating and applications software; Internet-related services, including design, strategic planning, deployment, and management services and artificial intelligence; computer modeling and simulation; high-level software languages; neural networks; processor architecture; animation and full-motion video; graphics hardware and software; speech and optical character recognition; high-volume information storage and retrieval; data compression; and multiplexing, digital signal processing, and spectrum technologies;</text>
+          <text>Information and communication technologies, equipment and systems that involve advanced computer software and hardware, data processing, visualization technologies, or human interface technologies, whether deployed on the Internet or other electronic or digital media, including operating and applications software; Internet-related services, including design, strategic planning, deployment, and management services and artificial intelligence; computer modeling and simulation; high-level software languages; neural networks; processor architecture; animation and full-motion video; graphics hardware and software; speech and optical character recognition; high-volume information storage and retrieval; data compression; and multiplexing, digital signal processing, and spectrum technologies;</text>
         </level>
         <level>
           <num>(III)</num>
-          <text>Advanced materials and processing technologies that involve the development, modification, or improvement of one or more materials or methods to produce devices and structures with improved performance characteristics or special functional attributes, or to activate, speed up, or otherwise alter chemical, biochemical, or medical processes. Such materials and technologies shall include metal alloys; metal matrix and ceramic composites; advanced polymers; thin films; membranes; superconductors; electronic and photonic materials; bioactive materials; bioprocessing; genetic engineering; catalysts; waste emissions reduction; pharmaceuticals; and waste processing technologies;</text>
+          <text>Advanced materials and processing technologies that involve the development, modification, or improvement of one or more materials or methods to produce devices and structures with improved performance characteristics or special functional attributes, or to activate, speed up, or otherwise alter chemical, biochemical, or medical processes, including metal alloys; metal matrix and ceramic composites; advanced polymers; thin films; membranes; superconductors; electronic and photonic materials; bioactive materials; bioprocessing; genetic engineering; catalysts; waste emissions reduction; pharmaceuticals; and waste processing technologies;</text>
         </level>
         <level>
           <num>(IV)</num>
-          <text>Engineering, production, biotechnology and defense technologies that involve knowledge-based control systems and architectures; advanced fabrication and design processes, equipment, and tools; or propulsion, navigation, guidance, nautical, aeronautical and astronautical ground and airborne systems, instruments, and equipment. Such technologies shall include: computer-aided design and engineering; computer-integrated manufacturing; robotics and automated equipment; integrated circuit fabrication and test equipment; sensors; biosensors; signal and image processing; medical and scientific instruments; precision machining and forming; biological and genetic research equipment; environmental analysis, remediation, control, and prevention equipment; defense command and control equipment; avionics and controls; guided missile and space vehicle propulsion units; military aircraft; space vehicles; and surveillance, tracking, and defense warning systems; or</text>
+          <text>Engineering, production, biotechnology, and defense technologies that involve knowledge-based control systems and architectures; advanced fabrication and design processes, equipment, and tools; propulsion, navigation, guidance, nautical, aeronautical and astronautical ground and airborne systems, instruments, and equipment, including computer-aided design and engineering; computer-integrated manufacturing; robotics and automated equipment; integrated circuit fabrication and test equipment; sensors; biosensors; signal and image processing; medical and scientific instruments; precision machining and forming; biological and genetic research equipment; environmental analysis, remediation, control, and prevention equipment; defense command and control equipment; avionics and controls; guided missile and space vehicle propulsion units; military aircraft; space vehicles; and surveillance, tracking, and defense warning systems; or</text>
         </level>
         <level>
           <num>(V)</num>
-          <text>Electronic and photonic devices and components for use in producing electronic, optoelectronic, mechanical equipment and products of electronic distribution with interactive media content. Such technologies shall include microprocessors; logic chips; memory chips; lasers; printed circuit board technology; electroluminescent, liquid crystal, plasma, and vacuum fluorescent displays; optical fibers; magnetic and optical information storage; optical instruments, lenses, and filters; simplex and duplex data bases; and solar cells.</text>
+          <text>Electronic and photonic devices and components for use in producing electronic, optoelectronic, mechanical equipment and products of electronic distribution with interactive media content, including microprocessors; logic chips; memory chips; lasers; printed circuit board technology; electroluminescent, liquid crystal, plasma, and vacuum fluorescent displays; optical fibers; magnetic and optical information storage; optical instruments, lenses, and filters; simplex and duplex data bases; and solar cells.</text>
         </level>
       </level>
     </level>
@@ -134,11 +134,15 @@
         <text>An individual or entity that derives 51% or more of its gross revenues from the operation in the District of:</text>
         <level>
           <num>(I)</num>
-          <text>A retail store; or</text>
+          <text>An on-line or brick and mortar retail store;</text>
         </level>
         <level>
           <num>(II)</num>
-          <text>An electronic equipment facility that is primarily occupied, or intended to be occupied, by electronic and computer equipment that provides electronic data switching, transmission, or telecommunication functions between computers, both inside and outside the facility;</text>
+          <text>An electronic equipment facility that is primarily occupied, or intended to be occupied, by electronic and computer equipment that provides electronic data switching, transmission, or telecommunication functions between computers, both inside and outside the facility; or</text>
+        </level>
+        <level>
+          <num>(III)</num>
+          <text>A building or construction company.</text>
         </level>
       </level>
       <level>
@@ -186,7 +190,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 3, 2001, D.C. Law 13-256, § 101(a)(2), 48 DCR 730; Apr. 8, 2005, D.C. Law 15-320, § 110(c), 52 DCR 1757; Mar. 5, 2013, D.C. Law 19-211, § 2(c), 59 DCR 13281.)</text>
+      <text>(Apr. 3, 2001, D.C. Law 13-256, § 101(a)(2), 48 DCR 730; Apr. 8, 2005, D.C. Law 15-320, § 110(c), 52 DCR 1757; Mar. 5, 2013, D.C. Law 19-211, § 2(c), 59 DCR 13281; Feb. 26, 2015, D.C. Law 20-155, § 7172, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -203,11 +207,21 @@
       <text>"(i) A retail store; or</text>
       <text>"(ii) An electronic equipment facility that is primarily occupied, or intended to be occupied, by electronic and computer equipment that provides electronic data switching, transmission, or telecommunication functions between computers, both inside and outside the facility."</text>
       <text>The 2013 amendment by D.C. Law 19-211 substituted "employees in the District" for "employees" in (5)(A)(ii); and substituted "gross revenues earned in the District" for "gross revenues" in (5)(A)(iii).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (5)(A) and (5)(B)(i).</text>
+    </level>
+    <level>
+      <heading>Temporary Legislation</heading>
+      <text>For temporary (225 days) addition of D.C. Law 20-155, § 7173, see § 2(u)(1) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) amendment of section, see § 201(a) of Ballpark Omnibus Financing and Revenue Tax Provisions Emergency Amendment Act of 2004 (D.C. Act 15-719, January 4, 2005, 52 DCR 1790).</text>
       <text>For temporary (90 day) amendment of section, see § 201(a) of Ballpark Omnibus Financing and Revenue Tax Provisions Congressional Review Emergency Act of 2005 (D.C. Act 16-25, February 17, 2005, 52 DCR 2981).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7182 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 7172 and 7173 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) addition of D.C. Law 20-155, § 7173, concerning applicability of D.C. Law 20-155, § 7172, see § 2(o) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 7172 and 7173 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) addition of D.C. Law 20-155, § 7173, concerning applicability of D.C. Law 20-155, § 7172, see § 2(o) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-256</heading>
@@ -220,6 +234,10 @@
     <level>
       <heading>Legislative History of Law 19-211</heading>
       <text>See note to § 47-1803.02.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1801.04.</text>
     </level>
   </level>
 </level>

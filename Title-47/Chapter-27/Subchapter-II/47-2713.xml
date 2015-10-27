@@ -4,64 +4,26 @@
   <level>
     <num>(a)</num>
     <text>The per diem rates to be charged for inpatient services at the District of Columbia General Hospital shall be as follows:</text>
-    <level type="form">
-      <text>
-
- 
-
- (1) Medical ......................................................$215.00. 
- 
-
- (2) Surgical ......................................................216.00. 
- 
-
- (3) Pediatrics ....................................................278.00. 
- 
-
- (4) Obstetrics ....................................................370.00. 
- 
-
- (5) Crippled children .............................................232.00. 
- 
-
- (6) Gynecology ....................................................130.00. 
- 
- (b) The rates to be charged for emergency room services, clinic abortion, and hemodialysis treatment services at the District of Columbia General Hospital shall be as follows: 
- 
-
- (1) Emergency room ......................................$53.50 per visit. 
- 
-
- (2) Clinic abortion ..................................360.00 per abortion. 
- 
-
- (3) Hemodialysis treatment ..........................316.00 per treatment. 
- 
- (c) The rates to be charged for mental health, mental retardation clinic, and home psychiatry services rendered to patients shall be as follows: 
- 
- (1) For mental health services: 
- 
-
- (A) Inpatients ..........................................$140.00 per day. 
- 
-
- (B) Daypatients ...........................................66.50 per day. 
- 
-
- (C) Outpatients ...........................................43.50 per day. 
- 
- (2) For mental retardation clinic services: 
- 
-
- (A) Daypatients ..........................................$55.00 per day. 
- 
-
- (B) Outpatients .........................................35.75 per visit. 
- 
-
- (3) For home psychiatry services: ..................$19.00 per home visit.</text>
-    </level>
   </level>
+  <text>Medical $215.00.</text>
+  <text>Surgical 216.00.</text>
+  <text>Pediatrics 278.00.</text>
+  <text>Obstetrics 370.00.</text>
+  <text>Crippled children 232.00.</text>
+  <text>Gynecology 130.00.</text>
+  <text>The rates to be charged for emergency room services, clinic abortion, and hemodialysis treatment services at the District of Columbia General Hospital shall be as follows:</text>
+  <text>Emergency room $53.50 per visit.</text>
+  <text>Clinic abortion 360.00 per abortion.</text>
+  <text>Hemodialysis treatment 316.00 per treatment.</text>
+  <text>The rates to be charged for mental health, mental retardation clinic, and home psychiatry services rendered to patients shall be as follows:</text>
+  <text>For mental health services:</text>
+  <text>Inpatients $140.00 per day.</text>
+  <text>Daypatients 66.50 per day.</text>
+  <text>Outpatients 43.50 per day.</text>
+  <text>For mental retardation clinic services:</text>
+  <text>Daypatients $55.00 per day.</text>
+  <text>Outpatients 35.75 per visit.</text>
+  <text>For home psychiatry services: $19.00 per home visit.</text>
   <level type="annotations">
     <level>
       <heading>History</heading>

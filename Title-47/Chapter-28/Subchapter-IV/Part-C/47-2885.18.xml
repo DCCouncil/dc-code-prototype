@@ -15,33 +15,27 @@
     <level>
       <num>(3)</num>
       <text>Adopt and publish such regulations as may be necessary for the implementation of this part, including, but not limited to, regulations concerning the following:</text>
+      <text>(A)-(C) Repealed;</text>
       <level>
-        <num>(A)</num>
-        <text>-(C) Repealed;</text>
-        <level>
-          <num>(D)</num>
-          <text>The establishment of various classifications of pharmacies, including, but not limited to, retail, institutional, radio, or nuclear pharmacies;</text>
-        </level>
-        <level>
-          <num>(E)</num>
-          <text>-(G) Repealed;</text>
-          <level>
-            <num>(H)</num>
-            <text>Establishment of minimum standards for the operation of pharmacies, including the minimum requirements for technical equipment and professional reference materials;</text>
-          </level>
-          <level>
-            <num>(I)</num>
-            <text>The safe and proper storage, and maintenance of drugs, and the disposal of drugs;</text>
-          </level>
-          <level>
-            <num>(J)</num>
-            <text>The requirements to assure that pharmacies shall be clean, in good repair, well ventilated and illuminated, and equipped with the necessary dispensing facilities, and adequate facilities for the purposes of cleansing hands, equipment and utensils, and the premises therein; such facilities may be located in areas adjacent to the pharmacy where only part of an establishment or institution is used as the pharmacy; and</text>
-          </level>
-          <level>
-            <num>(K)</num>
-            <text>The establishment of regulations covering the storage and dispensing of radiopharmaceuticals.</text>
-          </level>
-        </level>
+        <num>(D)</num>
+        <text>The establishment of various classifications of pharmacies, including, but not limited to, retail, institutional, radio, or nuclear pharmacies;</text>
+        <text>(E)-(G) Repealed;</text>
+      </level>
+      <level>
+        <num>(H)</num>
+        <text>Establishment of minimum standards for the operation of pharmacies, including the minimum requirements for technical equipment and professional reference materials;</text>
+      </level>
+      <level>
+        <num>(I)</num>
+        <text>The safe and proper storage, and maintenance of drugs, and the disposal of drugs;</text>
+      </level>
+      <level>
+        <num>(J)</num>
+        <text>The requirements to assure that pharmacies shall be clean, in good repair, well ventilated and illuminated, and equipped with the necessary dispensing facilities, and adequate facilities for the purposes of cleansing hands, equipment and utensils, and the premises therein; such facilities may be located in areas adjacent to the pharmacy where only part of an establishment or institution is used as the pharmacy; and</text>
+      </level>
+      <level>
+        <num>(K)</num>
+        <text>The establishment of regulations covering the storage and dispensing of radiopharmaceuticals.</text>
       </level>
     </level>
   </level>

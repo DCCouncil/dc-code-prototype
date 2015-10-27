@@ -31,7 +31,18 @@
   </level>
   <level>
     <num>(c-1)</num>
-    <text>Effective June 9, 2001, an existing or future lease entered into under the provisions of the Land Acquisition for Housing Development Opportunities Program, set forth in Chapter 45 of Title 10 of the District of Columbia Municipal Regulations ("LAHDO"), shall be exempt from all taxes, assessments, and public charges related to the leased land, including any possessory interest tax, if the lessee has obtained a letter from the Department of Housing and Community Development ("DHCD"), issued prior to the beginning of the real property tax year. The letter shall state that the lessee is in compliance with its LAHDO lease and is in good standing with DHCD. The letter shall be provided to the Chief Financial Officer upon request.</text>
+    <level>
+      <num>(1)</num>
+      <text>Effective June 9, 2001, an existing or future lease entered into under the provisions of the Land Acquisition for Housing Development Opportunities Program, set forth in Chapter 45 of Title 10 of the District of Columbia Municipal Regulations (10 DCMR § 45) ("LAHDO"), shall be exempt from all taxes, assessments, and public charges related to the leased land, including any possessory interest tax, for periods for which the Department of Housing and Community Development ("DHCD") certifies in writing to the lessee and the Chief Financial Officer that the lessee is in compliance with its LAHDO lease and the lessee is in good standing with DHCD.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>As to any property for which a written certification of compliance is issued, DHCD shall notify the lessee and the Chief Financial Officer if the lessee no longer is in compliance with its lease or is not in good standing with DHCD.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The exemption provided in this subsection shall end at the beginning of the first month following the date that the lessee did not comply with its lease or was not in good standing with DHCD, whichever occurs first.</text>
+    </level>
   </level>
   <level>
     <num>(d)</num>
@@ -74,7 +85,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 9, 2001, D.C. Law 13-305, § 502(w), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(u), 50 DCR 896; Dec. 3, 2010, D.C. Law 18-260, § 2, 57 DCR 9632; Dec. 24, 2013, D.C. Law 20-61, § 7302(b), 60 DCR 12472.)</text>
+      <text>(June 9, 2001, D.C. Law 13-305, § 502(w), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(u), 50 DCR 896; Dec. 3, 2010, D.C. Law 18-260, § 2, 57 DCR 9632; Dec. 24, 2013, D.C. Law 20-61, § 7302(b), 60 DCR 12472; Feb. 26, 2015, D.C. Law 20-155, § 7162, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -85,6 +96,7 @@
       <text>D.C. Law 14-282 rewrote subsec. (b) and (d); and added subsec. (h).</text>
       <text>D.C. Law 18-260 added subsec. (c-1).</text>
       <text>The 2013 amendment by D.C. Law 20-61 added "and § 47-1002(31)" in (a).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (c-1).</text>
     </level>
     <level>
       <heading>Temporary Legislation</heading>
@@ -101,6 +113,9 @@
       <text>For temporary (90 days) repeal of D.C. Law 18-260, § 3, see § 7002 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
       <text>For temporary (90 days) amendment of this section, see § 7302(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
       <text>For temporary (90 days) amendment of this section, see § 7302(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7172 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7162 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7162 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-305</heading>
@@ -119,6 +134,10 @@
       <text>See note to § 47-1002.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1002.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Section 7301 of D.C. Law 20-61 provided that Subtitle DD of Title VII of the act may be cited as the "Title-Holding Entity Real Property Tax Exemption Act of 2013".</text>
     </level>
@@ -128,7 +147,7 @@
       <text>Section 3 of D.C. Law 18-260 provided: "Sec. 3. Applicability. This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan."</text>
       <text>Section 7002 of D.C. Law 20-61 repealed D.C. Law 18-260, § 3.</text>
       <text>Applicability of D.C. Law 20-61: Section 11001 of D.C. Law 20-61 provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</text>
-      <text>Section 4 of D.C. Law 20- (Act 20-291), applicable October 1, 2013, and projected to become law in June, 2014, provided that the Council orders that all possessory interest taxes as imposed by section 47-1005.01, as well as penalties, interest, and other charges associated with such possessory interest taxes, that have been imposed with respect to leases entered into under the provisions of the Land Acquisition for Housing Development Opportunities Program (10 DCMR § B4500 et seq.), shall be forgiven for the period beginning June 9, 2001, through September 30, 2013, and that any payments made for this period be refunded to the persons who made the payments.</text>
+      <text>Section 4 of D.C. Law , applicable October 1, 2013, and projected to become law in June, 2014, provided that the Council orders that all possessory interest taxes as imposed by section 47-1005.01, as well as penalties, interest, and other charges associated with such possessory interest taxes, that have been imposed with respect to leases entered into under the provisions of the Land Acquisition for Housing Development Opportunities Program (10 DCMR § B4500 et seq.), shall be forgiven for the period beginning June 9, 2001, through September 30, 2013, and that any payments made for this period be refunded to the persons who made the payments.</text>
     </level>
   </level>
 </level>

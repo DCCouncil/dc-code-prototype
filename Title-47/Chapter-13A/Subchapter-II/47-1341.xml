@@ -3,22 +3,51 @@
   <heading>Notice of delinquency.</heading>
   <level>
     <num>(a)</num>
-    <text>At least 30 days before real property is first advertised for a tax sale under this chapter, the Mayor shall mail to the person who last appears as owner of the real property on the tax roll, at the last address shown on the tax roll, as updated by the filing of a change of address at the Recorder of Deeds, a notice of delinquency stating the name of the person who last appeared as owner on the tax roll, identifying by taxation square, suffix, and lot number, or parcel and lot number, the real property to be sold, and the amount of taxes due (whether included in the actual notice or by attached tax bill). The notice of delinquency may also include the following:</text>
+    <level>
+      <num>(1)</num>
+      <text>On or before May 1, the Mayor shall send a notice of tax delinquency by first class mail, postage prepaid, bearing a postmark from the United States Postal Service, to the person who last appears as the owner of the real property on the tax roll, at the last mailing address shown on the tax roll, as updated by the filing of a change of address in accordance with § 42-405. If the premises address is different from the address of record of the owner, the Mayor shall send a duplicate copy of the notice to the premises address, addressed to "Property Owner."</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The notice required pursuant to paragraph (1) of this subsection shall be in substantively the following form:</text>
+      <level>
+        <heading>"THIS IS A NOTICE OF DELINQUENCY</heading>
+      </level>
+      <level>
+        <heading>"FAILURE TO PAY TAXES WILL HAVE SERIOUS CONSEQUENCES</heading>
+      </level>
+      <text>"Subject Property:[Identify by taxation square, suffix, and lot number, or parcel and lot number, and by premises address, the real property to be sold]</text>
+      <text>"Total Amount Due on the Account: $</text>
+      <text>"TO AVOID TAX SALE YOU MUST PAY $[Amount Subject to Sale]by May 31, 20)</text>
+      <text>"This amount may include fees or fines due to other DC agencies that have been certified to the Office of Tax and Revenue to be included in a tax sale pursuant to D.C. Code § 47-1340.</text>
+      <text>"According to the Mayor's tax roll, you own or may have an interest in the real property listed above. Notice is given that unless you pay the amount stated above or fall within one of the limited exemptions from the tax sale, the Office of Tax and Revenue may sell this real property at tax sale.</text>
+      <text>"If the property is sold at tax sale, the purchaser may have the right to file a lawsuit to foreclose on the property.</text>
+      <text>"You must act now to avoid additional costs and significant expenses.</text>
+      <text>"If payment is not made before May 31, 20, the amount listed on this notice may no longer be accurate. In that case, you must contact the Office of Tax and Revenue at to obtain an updated payoff amount.</text>
+      <text>"Payment to the "DC Treasurer" may be made online at www.taxpayerservicecenter.com or at any District branch of Wells Fargo Bank or mailed (with payment coupon from tax bill) to the Office of Tax and Revenue, Real Property Tax Administration, PO Box 98095, Washington, DC 20090-8095 (please write your square, suffix and lot numbers on the check). You should keep a copy of your proof of payment in case there is a later dispute about the payment.</text>
+      <text>"YOU MAY BE ELIGIBLE FOR ASSISTANCE, INCLUDING A HARDSHIP FORBEARANCE OR FREE LEGAL SERVICES. PLEASE SEE THE NEXT PAGE FOR ADDITIONAL INFORMATION.</text>
+      <text>"Should you have additional questions, please call the Customer Service Center for the Office of Tax and Revenue at (202) 727-4TAX (4829).</text>
+      <text>"RESOURCES FOR REAL PROPERTY TAXPAYERS IN THE DISTRICT OF COLUMBIA</text>
+      <text>"Real Property Tax Ombudsman. Homeowners and other interested parties may be eligible for assistance from the Real Property Tax Ombudsman. If you need assistance with a tax sale or related property tax matters, contact the Real Property Tax Ombudsman at</text>
+      <text>"Office of Tax Sale Review. If there are special circumstances that should keep the real property out of the upcoming sale, contact the Office of Tax Sale Review at for information on how to petition the Mayor to exempt the real property from sale.</text>
+      <text>"Classification Disputes. If your real property is classified as vacant or blighted and you believe this classification is incorrect, contact the Vacant Building Enforcement Unit of the Department of Consumer and Regulatory Affairs at for information on how to appeal the property classification.</text>
+      <text>"Hardship Forbearance. You may be eligible to defer, or postpone, payment of the past due amount. For information on how to apply for this deferral, please contact the Office of Tax and Revenue at.</text>
+      <text>"Senior Citizen and Low-Income Tax Relief. Senior citizens and low-income households may have additional rights to defer property taxes. If think you may be eligible for this tax relief, please contact the Office of Tax and Revenue at.for more information.</text>
+      <text>"Tax Sale Resource Center. Resource Center attorneys provide legal information to taxpayers and interested parties who do not have their own lawyers on Wednesday mornings from 10:00am to 12:00pm when court is in session. The Resource Center is located in the Moultrie Courthouse at 500 Indiana Ave. NW.</text>
+      <text>"Additional Legal Services. Free and reduced-cost legal services may be available to low- and moderate-income households. You can get a list of service providers from the Real Property Tax Ombudsman (above).</text>
+      <text>"Housing Counseling Services. The U.S Department of Housing and Urban Development ("HUD") sponsors housing counseling agencies throughout the country that can provide advice on buying a home, renting, defaults, foreclosures, and credit issues. You can get a list of HUD- approved housing counseling agencies from the Real Property Tax Ombudsman (above)."</text>
+    </level>
   </level>
-  <text>" .................. )27</text>
-  <text>"Date</text>
-  <text>"This Is a Notice of Delinquency and Final Bill to the Person Whose Name Appears on This Notice.</text>
-  <text>"According to the Mayor's tax roll, you are the owner of the real property appearing on this notice of delinquency. Some of the taxes listed are in arrears and this list may not include all taxes in arrears. Notice is given to you that unless all taxes in arrears and appearing on this Notice are paid within 30 days from the date of this notice, the Mayor will proceed to sell the above real property. Interest, penalties, and costs not included in this notice of delinquency must be added to the total at the time of payment. A final payoff amount must be obtained at.......You must make payment by cash, certified check, cashier's check or money order at.......You must act now to avoid additional costs and significant expenses, including a reasonable attorney's fee."</text>
   <level>
     <num>(b)</num>
-    <text>Failure of the Mayor to mail the notice of delinquency as provided in subsection (a) of this section, or to include any taxes in the notice of delinquency, shall not:</text>
+    <text>Subject to the Mayor's authority to cancel the sale under § 47-1366(b)(3)(A) and (B), the failure of the Mayor to mail the notices of delinquency as provided in subsections (a) and (b-1) of this section, or to include any taxes in the notice of delinquency, shall not:</text>
     <level>
       <num>(1)</num>
       <text>Invalidate or otherwise affect a tax;</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Invalidate or otherwise affect a sale made under this chapter to enforce payment of taxes;</text>
+      <text>"Invalidate or otherwise affect a sale made under this chapter to enforce payment of taxes;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -30,13 +59,55 @@
     </level>
   </level>
   <level>
+    <num>(b-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>At least 2 weeks before real property is offered at a tax sale under this chapter, the Mayor shall send a final notice of delinquency, by first class mail, postage prepaid, bearing a postmark from the United States Postal Service, to the person who last appears as the owner of the real property on the tax roll, at the last address shown on the tax roll, as updated by the filing of a change of address in accordance with § 42- 405. If the premises address is different from the address of record of the owner, the Mayor shall send a duplicate copy of the notice to the premises address, addressed to "Property Owner."</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The notice required pursuant to paragraph (1) of this subsection shall be in substantively the following form:</text>
+      <level>
+        <heading>"THIS IS A NOTICE OF DELINQUENCY</heading>
+      </level>
+      <level>
+        <heading>"FAILURE TO PAY TAXES IMMEDIATELY MAY HAVE SERIOUS CONSEQUENCES WHICH MAY INCLUDE LOSS OF TITLE TO THE PROPERTY</heading>
+      </level>
+      <text>"Subject Property:[Identify by taxation square, suffix, and lot number, or parcel and lot number, and by premises address, the real property to be sold]</text>
+      <text>"Total Amount Due on the Account: $</text>
+      <text>"TO AVOID TAX SALE YOU MUST PAY $[Amount Subject to Sale]by [Last Business Day before tax sale]</text>
+      <text>"This amount may include fees or fines due to other District agencies that have been certified to the Office of Tax and Revenue to be included in a tax sale pursuant to D.C. Official Code § 47-1340.</text>
+      <text>"According to the Mayor's tax roll, you own or may have an interest in the real property listed above. Notice is given that unless you pay the amount stated above or fall within one of the limited exemptions from the tax sale, the Office of Tax and Revenue may sell this real property at tax sale.</text>
+      <text>"If the property is sold at tax sale, the purchaser may have the right to file a lawsuit to foreclose on the property. You must act now to avoid additional costs and significant expenses, as well as potential loss of title to the property.</text>
+      <text>"Payment to the "DC Treasurer" may be made online at www. taxpayerservicecenter.com, at any District branch of Wells Fargo Bank, or mailed (with payment coupon from tax bill) to the Office of Tax and Revenue, Real Property Tax Administration, PO Box 98095, Washington, DC 20090-8095 (please write your square, suffix and lot numbers on the check). You should keep a copy of your proof of payment in case there is a later dispute about the payment.</text>
+      <text>"If payment is made less than 10 calendar days before [the last business day before tax sale], you must provide a copy of the receipt directly to the Office of Tax and Revenue in order to ensure that your property is removed from the tax sale.</text>
+      <text>"You may FAX the receipt to (202) 478-5995; EMAIL the receipt to [email address]; or HAND-DELIVER a copy of the paid receipt to a Tax Sale Unit representative in the Customer Service Center located at 1101 4th Street, SW, Suite 270W, Washington, DC 20024.</text>
+      <text>"Do not mail your paid receipt.</text>
+      <text>"YOU MAY BE ELIGIBLE FOR ASSISTANCE, INCLUDING A HARDSHIP FORBEARANCE OR FREE LEGAL SERVICES. PLEASE SEE THE NEXT PAGE FOR ADDITIONAL INFORMATION.</text>
+      <text>"Should you have additional questions, please call the Customer Service Center for the Office of Tax and Revenue at (202) 727-4TAX (4829).</text>
+      <text>"RESOURCES FOR REAL PROPERTY TAXPAYERS IN THE DISTRICT OF COLUMBIA</text>
+      <text>"Real Property Tax Ombudsman. Homeowners and other interested parties may be eligible for assistance from the Real Property Tax Ombudsman. If you need assistance with a tax sale or related property tax matters, contact the Real Property Tax Ombudsman at</text>
+      <text>"Office of Tax Sale Review. If there are special circumstances that should keep the real property out of the upcoming sale, contact the Office of Tax Sale Review at..............for information on how to petition the Mayor to exempt the real property from sale.</text>
+      <text>"Classification Disputes. If your real property is classified as vacant or blighted and you believe this classification is incorrect, contact the Vacant Building Enforcement Unit of the Department of Consumer and Regulatory Affairs at..............for information on how to appeal the property classification.</text>
+      <text>"Hardship Forbearance. You may be eligible to defer, or postpone, payment of the past due amount. For information on how to apply for this deferral, please contact the Office of Tax and Revenue at ..</text>
+      <text>"Senior Citizen and Low-Income Tax Relief. Senior citizens and low-income households may have additional rights to defer property taxes. If think you may be eligible for this tax relief, please contact the Office of Tax and Revenue at ...for more information.</text>
+      <text>"Tax Sale Resource Center. Resource Center attorneys provide legal information to taxpayers and interested parties who do not have their own lawyers on Wednesday mornings from 10:00am to 12:00pm when court is in session. The Resource Center is located in the Moultrie Courthouse at 500 Indiana Ave. NW.</text>
+      <text>"Additional Legal Services. Free and reduced-cost legal services may be available to low- and moderate-income households. You can get a list of service providers from the Real Property Tax Ombudsman (above).</text>
+      <text>"Housing Counseling Services. The U.S Department of Housing and Urban Development ("HUD") sponsors housing counseling agencies throughout the country that can provide advice on buying a home, renting, defaults, foreclosures, and credit issues. You can get a list of HUD- approved housing counseling agencies from the Real Property Tax Ombudsman (above)."</text>
+    </level>
+  </level>
+  <level>
     <num>(c)</num>
     <text>Payment of the total amount stated in the notice of delinquency and as directed in the notice shall preclude the real property from being offered at the tax sale to which the notice corresponds.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>Action taken under § 47-1336, relating to energy efficient loans, shall be exempt from the notice requirements of this section.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(bb), 50 DCR 896; Mar. 2, 2007, D.C. Law 16-192, § 1112, 53 DCR 6899.)</text>
+      <text>(June 9, 2001, D.C. Law 13-305, § 507(a)(2), 48 DCR 334; Apr. 4, 2003, D.C. Law 14-282, § 11(bb), 50 DCR 896; Mar. 2, 2007, D.C. Law 16-192, § 1112, 53 DCR 6899; Dec. 4, 2014, D.C. Law 20-141, § 101(c)(7), 61 DCR 7763; Feb. 26, 2015, D.C. Law 20-155, § 7102(c)(7), 7104, 61 DCR 9990.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -46,25 +117,29 @@
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 14-282, in subsec. (a), substituted "amount of taxes due (whether included in the actual notice or by attached tax bill)" for "amount of taxes due".</text>
       <text>D.C. Law 16-192, in subsec. (a), substituted "The notice of delinquency may also include the following" for "The notice of delinquency shall also include the following".</text>
+      <text>The 2014 amendment by D.C. Law 20-141, repealed before its effective date, would have rewritten (a) and the introductory language of (b); and added (b-1) and (d).</text>
+      <text>The 2015 amendment by D.C. Law 20-155 rewrote (a); substituted "Subject to the Mayor's authority to cancel the sale under Section 47-1366(b)(3)(A) and (B), the failure of the Mayor to mail the notices of delinquency as provided in subsections (a) and (b-1) of this section" for "Failure of the Mayor to mail the notice of delinquency as provided in subsection (a) of this section" in (b); and added (b-1) and (d).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
       <text>For temporary (225 day) amendment of section, see § 12(gg) of Tax Clarity and Recorder of Deeds Temporary Act of 2002 (D.C. Law 14-191, October 5, 2002, law notification 49 DCR 9549).</text>
       <text>For temporary (225 day) amendment of section, see § 12(gg) of Tax Clarity and Related Amendments Temporary Act of 2003 (D.C. Law 14-228, March 23, 2003, law notification 50 DCR 2741).</text>
-    </level>
-    <level>
-      <heading>Temporary Addition of Section</heading>
       <text>For temporary (225 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (D.C. Law 14-8, June 13, 2001, law notification 48 DCR 5916).</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(r)(8) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (D.C. Law 20-179, March 7, 2015, 62 DCR 424).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition of section, see § 7 of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001, 48 DCR 2706).</text>
-      <text>For temporary (90 day) amendment of section, see § 12(ff) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
-      <text>For temporary (90 day) amendment of section, see § 12(gg) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
-      <text>For temporary (90 day) amendment of section, see § 12(gg) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
-      <text>For temporary (90 day) amendment of section, see § 1112 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006, 53 DCR 7068).</text>
-      <text>For temporary (90 day) amendment of section, see § 1112 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006, 53 DCR 8845).</text>
-      <text>For temporary (90 day) amendment of section, see § 1112 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007, 54 DCR 1165).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(oo) of Tax Clarity and Recorder of Deeds Emergency Act of 2002 (D.C. Act 14-381, June 6, 2002, 49 DCR 5674).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(pp) of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002, 49 DCR 8107).</text>
+      <text>For temporary (90 day) amendment of section, see § 12(pp) of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002, 49 DCR 10247).</text>
+      <text>For temporary (90 days) amendment of this section, see § 101(c)(7) of the Residential Real Property Equity and Transparency Emergency Amendment Act of 2014, (D.C. Act 20-342, May 28, 2014, 61 DCR 5691).</text>
+      <text>For temporary (90 days) amendment of this section, see § 101(c)(7) of the Residential Real Property Equity and Transparency Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-409, Aug. 1, 2014, 61 DCR 8281).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7112(c)(7) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7102(c)(7) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7102(c), see the first § 2(q) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</text>
+      <text>For temporary (90 days) amendment of this section, see § 7102(c)(7) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+      <text>For temporary (90 days) amendment of this section, as amended by D.C. Law 20-155, § 7102(c), see the first § 2(q) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</text>
     </level>
     <level>
       <heading>Legislative History of Law 13-305</heading>
@@ -79,8 +154,20 @@
       <text>For Law 16-192, see notes following § 47-340.23.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-141</heading>
+      <text>See note to § 47-1330.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-155</heading>
+      <text>See note to § 47-1330.</text>
+    </level>
+    <level>
       <heading>Short Title</heading>
       <text>Short title: Section 1111 of D.C. Law 16-192 provided that subtitle J of title I of the act may be cited as the "Real Property Tax Sale Notice Act of 2006".</text>
+    </level>
+    <level>
+      <heading>Editor’s Notes</heading>
+      <text>D.C. Law 20-141 became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by D.C. Law 20-155, § 7104, 61 DCR 9990.</text>
     </level>
   </level>
 </level>
