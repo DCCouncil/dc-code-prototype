@@ -61,7 +61,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>A cultivation center shall not possess more than 95 living marijuana plants at any time.</text>
+      <text>A cultivation center shall not possess more than 500 living marijuana plants at any time.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -126,17 +126,18 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 25, 2010, D.C. Law 13-315, § 7, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798; Dec. 13, 2013, D.C. Law 20-59, § 2, 60 DCR 15484.)</text>
+      <text>(Feb. 25, 2010, D.C. Law 13-315, § 7, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798; Dec. 13, 2013, D.C. Law 20-59, § 2, 60 DCR 15484; Mar. 10, 2015, D.C. Law 20-189, § 2(b), 61 DCR 12119.)</text>
     </level>
     <level>
       <heading>Effect of Amendments</heading>
       <text>The 2013 amendment by D.C. Law 20-59 rewrote (d); and added (g-1).</text>
+      <text>The 2015 amendment by D.C. Law 20-189 substituted "500 living marijuana plants" for "95 living marijuana plants" in (e)(2).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
       <text>Section 2 of D.C. Law 19-122 amended subsecs. (d)(2) and (3) and added subsec. (d)(4) to read as follows:</text>
       <text>"(2)(A) No more than 5 dispensaries shall be registered to operate in the District; provided, that the Mayor may increase the number to as many as 8 by rulemaking to ensure that qualifying patients have adequate access to medical marijuana; provided further, that no more than 2 dispensaries shall be registered to operate within an election ward established by the Council in section 4 of the Redistricting Procedure Act of 1981, effective March 16, 1982 (D.C. Law 4-87; D.C. Official Code § 1-1041.03).</text>
-      <text>"(B) The prohibition of no more than 2 dispensaries being registered to operate within a ward set forth in subparagraph (A) of this paragraph shall apply to applications pending as of the effective date of the Medical Marijuana Cultivation Center and Dispensary Locations Emergency Amendment Act of 2012, effective January 31, 2012 (D.C. Act 19-299; 59 DCR ___), ('Emergency Act').</text>
+      <text>"(B) The prohibition of no more than 2 dispensaries being registered to operate within a ward set forth in subparagraph (A) of this paragraph shall apply to applications pending as of the effective date of the Medical Marijuana Cultivation Center and Dispensary Locations Emergency Amendment Act of 2012, effective January 31, 2012 (D.C. Act 19-299; 59 DCR ]]]), ('Emergency Act').</text>
       <text>"(3)(A) The number of cultivation centers that may be registered to operate in the District shall be determined by rulemaking; provided, that no more than 6 cultivation centers shall be registered to operate within an election ward established by the Council in section 4 of the Redistricting Procedure Act of 1981, effective March 16, 1982 (D.C. Law 4-87; D.C. Official Code § 1-1041.03).</text>
       <text>"(B) The prohibition of no more than 6 cultivation centers being registered to operate within a ward set forth in subparagraph (A) of this paragraph shall apply to applications pending as of the effective date of the Emergency Act.</text>
       <text>"(4)(A) No more than one dispensary may be registered to operate in any ward in which 5 cultivation centers have been registered to operate.</text>
@@ -148,6 +149,7 @@
       <text>Section 4(b) of D.C. Law 19-146 provided that the act shall expire after 225 days of its having taken effect.</text>
       <text>For temporary (225 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center Temporary Amendment Act of 2013 (D.C. Law 20-1, May 1, 2013, 60 DCR 3962, 20 DCSTAT 1262).</text>
       <text>For temporary (225 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center and Dispensary Location Restriction Temporary Amendment Act of 2013 (D.C. Law 20-2, May 18, 2013, 60 DCR 4620, 20 DCSTAT 1264).</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(b) of the Medical Marijuana Expansion Temporary Amendment Act of 2014 (D.C. Law 20-163, February 26, 2015, 60 DCR 10753).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -157,6 +159,8 @@
       <text>For temporary (90 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center and Dispensary Location Restriction Emergency Act of 2013 (D.C. Act 20-18, March 1, 2013, 60 DCR 3972, 20 DCSTAT 474).</text>
       <text>For temporary (90 days) amendment of this section, see § 2 of the Medical Marijuana Cultivation Center Congressional Review Emergency Act of 2013 (D.C. Act 20-61, April 27, 2013, 60 DCR 6401, 20 DCSTAT 1408).</text>
       <text>For temporary (90 days) amendment of this section, see §§ 2 and 3 of the Medical Marijuana Cultivation Center Second Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-263, January 9, 2014, 61 DCR 328).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Medical Marijuana Expansion Emergency Amendment Act of 2014 (D.C. Act 20-396, July 29, 2014, 61 DCR 8255).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Medical Marijuana Expansion Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-479, Nov. 12, 2014, 61 DCR 12129, 20 STAT 4403).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-210</heading>
@@ -165,6 +169,10 @@
     <level>
       <heading>Legislative History of Law 20-59</heading>
       <text>Law 20-59, the "Medical Marijuana Cultivation Center Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-128. The Bill was adopted on first and second readings on July 10, 2013, and October 1, 2013, respectively. Returned without the Mayor's signature on October 21, 2013, it was assigned Act No. 20-206 and transmitted to Congress for its review. D.C. Law 20-59 became effective on December 13, 2013.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-189</heading>
+      <text>See note to § 7-1671.01.</text>
     </level>
   </level>
 </level>

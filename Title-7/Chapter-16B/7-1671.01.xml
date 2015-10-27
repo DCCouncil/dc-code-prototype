@@ -100,51 +100,7 @@
   </level>
   <level>
     <num>(17)</num>
-    <text>"Qualifying medical condition" means:</text>
-    <level>
-      <num>(A)</num>
-      <text>Human immunodeficiency virus;</text>
-    </level>
-    <level>
-      <num>(B)</num>
-      <text>Acquired immune deficiency syndrome;</text>
-    </level>
-    <level>
-      <num>(C)</num>
-      <text>Glaucoma;</text>
-    </level>
-    <level>
-      <num>(D)</num>
-      <text>Conditions characterized by severe and persistent muscle spasms, such as multiple sclerosis;</text>
-    </level>
-    <level>
-      <num>(E)</num>
-      <text>Cancer; or</text>
-    </level>
-    <level>
-      <num>(F)</num>
-      <text>Any other condition, as determined by rulemaking, that is:</text>
-      <level>
-        <num>(i)</num>
-        <text>Chronic or long-lasting;</text>
-      </level>
-      <level>
-        <num>(ii)</num>
-        <text>Debilitating or interferes with the basic functions of life; and</text>
-      </level>
-      <level>
-        <num>(iii)</num>
-        <text>A serious medical condition for which the use of medical marijuana is beneficial:</text>
-        <level>
-          <num>(I)</num>
-          <text>That cannot be effectively treated by any ordinary medical or surgical measure; or</text>
-        </level>
-        <level>
-          <num>(II)</num>
-          <text>For which there is scientific evidence that the use of medical marijuana is likely to be significantly less addictive than the ordinary medical treatment for that condition.</text>
-        </level>
-      </level>
-    </level>
+    <text>"Qualifying medical condition" means any condition for which treatment with medical marijuana would be beneficial, as determined by the patient's physician.</text>
   </level>
   <level>
     <num>(18)</num>
@@ -177,25 +133,36 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 25, 2010, D.C. Law 13-315, § 2, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798.)</text>
+      <text>(Feb. 25, 2010, D.C. Law 13-315, § 2, as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798; Mar. 10, 2015, D.C. Law 20-189, § 2(a), 61 DCR 12119.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 3-1202.03, § 48-904.01, and § 48-1103.</text>
     </level>
     <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-189 rewrote (17).</text>
+    </level>
+    <level>
       <heading>Temporary Addition of Section</heading>
       <text>Section 2 of D.C. Law 18-152 added a section to read as follows:</text>
       <text>"Sec. 11a. Applicability. This act shall apply upon the effective date o the Legalization of Marijuana for Medical Treatment Initiative Amendment Act of 2010, as introduced on January 19, 2010 (D.C. Bill 18-622)."</text>
       <text>Section 4(b) of D.C. Law 18-152 provided that the act shall expire after 225 days of its having taken effect.</text>
+      <text>For temporary (225 days) amendment of this section, see § 2(a) of the Medical Marijuana Expansion Temporary Amendment Act of 2014 (D.C. Law 20-163, February 26, 2015, 60 DCR 10753).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
       <text>For temporary (90 day) addition, see § 2 of Legalization of Marijuana for Medical Treatment Initiative Applicability Emergency Amendment Act of 2009 (D.C. Act 18-323, March 1, 2010, 57 DCR 1849).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Medical Marijuana Expansion Emergency Amendment Act of 2014 (D.C. Act 20-396, July 29, 2014, 61 DCR 8255).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(a) of the Medical Marijuana Expansion Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-479, Nov. 12, 2014, 61 DCR 12129, 20 STAT 4403).</text>
     </level>
     <level>
       <heading>Legislative History of Law 18-210</heading>
       <text>Law 18-210, the "Legalization of Marijuana for Medical Treatment Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-622, which was referred to the Committee on Health and the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on April 20, 2010, and May 4, 2010, respectively. Signed by the Mayor on May 21, 2010, it was assigned Act No. 18-429 and transmitted to both Houses of Congress for its review. D.C. Law 18-210 became effective on July 27, 2010.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-189</heading>
+      <text>Law 20-189, the "Medical Marijuana Expansion Amendment Act of 2014," was introduced in Council and assigned Bill No. 20-766. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 12, 2014, it was assigned Act No. 20-474 and transmitted to Congress for its review. D.C. Law 20-189 became effective on Mar. 10, 2015.</text>
     </level>
     <level>
       <heading>Mayor's orders</heading>
@@ -213,7 +180,7 @@
       <text>On September 30, 2001, the Control Board suspended its activities.</text>
       <text>Between 1998 and 2009 all District of Columbia appropriations acts contained language that prevented Initiative 59 from taking effect as law. Congress did not include the language in the District of Columbia Appropriations Act, 2010 (Pub. L. 111-117).</text>
       <text>With the removal of the "Bar Amendment", the Council transmitted Act 13-138 to Congress on December 21, 2009, for a 30-day period of review.</text>
-      <text>Act 13-138 became D.C. Law 13-315 on February 25, 2010, and is published at 57 DCR 3360. D.C. Law 18-210 amended Law 13-315 in its entirety "to read as follows."</text>
+      <text>D.C. Act 13-138 became D.C. Law 13-315 on February 25, 2010, and is published at 57 DCR 3360. D.C. Law 18-210 amended D.C. Law 13-315 in its entirety "to read as follows."</text>
     </level>
   </level>
 </level>
