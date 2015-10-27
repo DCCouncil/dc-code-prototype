@@ -519,7 +519,8 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>For uniform amounts of insurance, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount of insurance from the sum of the following:</text>
+      <text>For uniform amounts of insurance, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than 1/5 of 1% of the amount of insurance from the sum of the following:</text>
+      <text>15</text>
       <level>
         <num>(A)</num>
         <text>Either zero or the basic cash value, whichever is greater.</text>
@@ -531,7 +532,8 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>For insurance amounts not treated in paragraph (2) of this subsection, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the average insurance amounts at the beginning of the first 10 policy years from the sum of the following:</text>
+      <text>For insurance amounts not treated in paragraph (2) of this subsection, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than 1/5 of 1% of the average insurance amounts at the beginning of the first 10 policy years from the sum of the following:</text>
+      <text>15</text>
       <level>
         <num>(A)</num>
         <text>Either zero or the basic cash value, whichever is greater.</text>
@@ -565,24 +567,25 @@
       <level>
         <num>(B)</num>
         <text>Except as provided in paragraph (6) of this subsection, the adjusted premium percentage shall comply with the following:</text>
+        <level>
+          <num>(i)</num>
+          <text>Except as provided in subparagraph (B)(ii) of this paragraph, the percentage cannot change during policy years between the 2nd policy anniversary and the 5th policy anniversary.</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Unless the 5th anniversary precedes an anniversary when a cash surrender value without paid-up additions and without indebtedness deductions equal at least 1/5 of 1% of the amount described in subparagraph (iii) of this paragraph, the percentage cannot change during policy years between the 2nd anniversary and an anniversary with a cash surrender value, without the additions and the deductions, equaling at least 1/5 of 1% of the subparagraph (iii) amount.</text>
+          <text>1515</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>The average amount of insurance at the beginning of the first 10 policy years.</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>After the latest anniversary referred to in subparagraph (B)(ii) of this paragraph, or the 5th policy anniversary if later, no percentage may apply to fewer than 5 consecutive policy years.</text>
+        </level>
       </level>
     </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <text>Except as provided in subparagraph (B)(ii) of this paragraph, the percentage cannot change during policy years between the 2nd policy anniversary and the 5th policy anniversary.</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>Unless the 5th anniversary precedes an anniversary when a cash surrender value without paid-up additions and without indebtedness deductions equal at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount described in subparagraph (iii) of this paragraph, the percentage cannot change during policy years between the 2nd anniversary and an anniversary with a cash surrender value, without the additions and the deductions, equaling at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the subparagraph (iii) amount.</text>
-  </level>
-  <level>
-    <num>(iii)</num>
-    <text>The average amount of insurance at the beginning of the first 10 policy years.</text>
-  </level>
-  <level>
-    <num>(iv)</num>
-    <text>After the latest anniversary referred to in subparagraph (B)(ii) of this paragraph, or the 5th policy anniversary if later, no percentage may apply to fewer than 5 consecutive policy years.</text>
     <level>
       <num>(6)</num>
       <text>The basic cash value shall exceed the amount that would result in the paragraph (4) formula by replacing the nonforfeiture factors with adjusted premiums.</text>
@@ -607,69 +610,69 @@
       <level>
         <num>(B)</num>
         <text>The cash surrender values and the paid up nonforfeiture benefits granted with additional benefits shall conform with this subsection.</text>
-        <level>
-          <num>(i)</num>
-          <level>
-            <num>(1)</num>
-            <text>After February 19, 1948, a company, in writing, may inform the Commissioner of the company's election to comply with this section after an expressly selected date before January 1, 1950.</text>
-          </level>
-          <level>
-            <num>(2)</num>
-            <text>After filing the notice described in paragraph (1) of this subsection, this section shall govern the policies and the contracts issued by the company after the date.</text>
-          </level>
-          <level>
-            <num>(3)</num>
-            <text>Except as provided in paragraph (4) of this subsection and if a company does not choose a date, then, beginning January 1, 1950, this section shall govern the company.</text>
-          </level>
-          <level>
-            <num>(4)</num>
-            <text>Subsection (d)(6) and (7) of this section and subsection (e) of this section expressly establish dates when those provisions govern a company.</text>
-          </level>
-        </level>
-        <level>
-          <num>(j)</num>
-          <level>
-            <num>(1)</num>
-            <text>This section shall not apply to the following:</text>
-            <level>
-              <num>(A)</num>
-              <text>Reinsurance.</text>
-            </level>
-            <level>
-              <num>(B)</num>
-              <text>Group insurance.</text>
-            </level>
-            <level>
-              <num>(C)</num>
-              <text>Pure endowment.</text>
-            </level>
-            <level>
-              <num>(D)</num>
-              <text>Annuity or reversionary annuity contract.</text>
-            </level>
-            <level>
-              <num>(E)</num>
-              <text>Uniform amounts of term policy, with no guaranteed nonforfeiture or endowment benefits and with no renewal of guaranteed nonforfeiture or endowment benefits, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and with premiums payable throughout the policy term.</text>
-            </level>
-            <level>
-              <num>(F)</num>
-              <text>Decreasing amounts of term policy with no guaranteed nonforfeiture or endowment benefits, with adjusted premiums under subsections (d) and (e) of this section exceeded by adjusted premiums for uniform amounts of term policy, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and for a policy issued at the same age and for the same initial amount of insurance as originally provided by the policy.</text>
-            </level>
-            <level>
-              <num>(G)</num>
-              <text>A policy with guaranteed nonforfeiture or endowment benefits with no cash value or present value of a paid-up nonforfeiture benefit at the beginning of a policy year exceeding 2 1/2% of the amount of insurance at the beginning of the policy year.</text>
-            </level>
-            <level>
-              <num>(H)</num>
-              <text>A policy delivered outside the District of Columbia by an agent of the company.</text>
-            </level>
-          </level>
-          <level>
-            <num>(2)</num>
-            <text>For this section, the expiration age for joint term life insurance shall be the age of the oldest life when the insurance expires.</text>
-          </level>
-        </level>
       </level>
+    </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <level>
+      <num>(1)</num>
+      <text>After February 19, 1948, a company, in writing, may inform the Commissioner of the company's election to comply with this section after an expressly selected date before January 1, 1950.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>After filing the notice described in paragraph (1) of this subsection, this section shall govern the policies and the contracts issued by the company after the date.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Except as provided in paragraph (4) of this subsection and if a company does not choose a date, then, beginning January 1, 1950, this section shall govern the company.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Subsection (d)(6) and (7) of this section and subsection (e) of this section expressly establish dates when those provisions govern a company.</text>
+    </level>
+  </level>
+  <level>
+    <num>(j)</num>
+    <level>
+      <num>(1)</num>
+      <text>This section shall not apply to the following:</text>
+      <level>
+        <num>(A)</num>
+        <text>Reinsurance.</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Group insurance.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Pure endowment.</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Annuity or reversionary annuity contract.</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Uniform amounts of term policy, with no guaranteed nonforfeiture or endowment benefits and with no renewal of guaranteed nonforfeiture or endowment benefits, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and with premiums payable throughout the policy term.</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Decreasing amounts of term policy with no guaranteed nonforfeiture or endowment benefits, with adjusted premiums under subsections (d) and (e) of this section exceeded by adjusted premiums for uniform amounts of term policy, for a term that lasts no more than 20 years and that expires before the insured becomes age 71, and for a policy issued at the same age and for the same initial amount of insurance as originally provided by the policy.</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>A policy with guaranteed nonforfeiture or endowment benefits with no cash value or present value of a paid-up nonforfeiture benefit at the beginning of a policy year exceeding 2 1/2% of the amount of insurance at the beginning of the policy year.</text>
+      </level>
+      <level>
+        <num>(H)</num>
+        <text>A policy delivered outside the District of Columbia by an agent of the company.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>For this section, the expiration age for joint term life insurance shall be the age of the oldest life when the insurance expires.</text>
     </level>
   </level>
   <level type="annotations">

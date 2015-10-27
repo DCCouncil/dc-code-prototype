@@ -11,6 +11,10 @@
         <text>The terms shall be fair and reasonable;</text>
       </level>
       <level>
+        <num>(A-i)</num>
+        <text>Agreements for cost sharing services and management shall include such provisions as required by rules and regulations issued by the Mayor;</text>
+      </level>
+      <level>
         <num>(B)</num>
         <text>Charges or fees for services performed shall be reasonable;</text>
       </level>
@@ -29,7 +33,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The following transactions involving a domestic insurer and any person in its holding company system may not be entered into unless the insurer has notified the Mayor in writing of its intention to enter into such a transaction at least 30 days prior thereto, or any shorter period as the Mayor may permit, and the Mayor has not disapproved it within such a period:</text>
+      <text>The following transactions involving a domestic insurer and any person in its holding company system, including amendments or modifications of affiliate agreements previously filed pursuant to this section, which are subject to any materiality standards contained in subparagraphs (A) through (E) of this paragraph, may not be entered into unless the insurer has notified the Mayor in writing of its intention to enter into such a transaction at least 30 days before execution of the transaction, or any shorter period as the Mayor may permit, and the Mayor has not disapproved it within such a period. The notice for amendments or modifications shall include the reasons for the change and the financial impact on the domestic insurer. Informal notice shall be reported to the Mayor within 30 days after termination of a previously filed agreement for determination of the type of filing required, if any:</text>
       <level>
         <num>(A)</num>
         <text>Sales, purchases, exchanges, loans, or extensions of credit, guarantees, or investments provided the transactions are equal to or exceed:</text>
@@ -56,11 +60,19 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Reinsurance agreements or modifications in which the reinsurance premium or a change in the insurer's liabilities equals or exceeds 5% of the insurer's surplus as regards policyholders, as of the 31st day of December next preceding, including those agreements which may require as consideration the transfer of assets from an insurer to a nonaffiliate, if an agreement or understanding exists between the insurer and nonaffiliate that any portion of the assets will be transferred to 1 or more affiliates of the insurer;</text>
+        <text>Reinsurance agreements or modifications, including:</text>
+        <level>
+          <num>(i)</num>
+          <text>All reinsurance pooling agreements; and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Agreements in which the reinsurance premium or a change in the insurer's liabilities, or the projected reinsurance premium or a change in the insurer's liabilities in any of the next 3 years, equals or exceeds 5% of the insurer's surplus as regards policyholders, as of the 31st day of December next preceding, including those agreements that may require as consideration the transfer of assets from an insurer to a non-affiliate, if an agreement or understanding exists between the insurer and non-affiliate that any portion of the assets will be transferred to one or more affiliates of the insurer;</text>
+        </level>
       </level>
       <level>
         <num>(D)</num>
-        <text>All management agreements, service contracts, and all cost-sharing arrangements; and</text>
+        <text>All management agreements, service contracts, tax allocation agreements, guarantees, and all cost-sharing arrangements; and</text>
       </level>
       <level>
         <num>(E)</num>
@@ -119,15 +131,20 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Not less than <span style="font-style: italic; ">1</span>/<span style="">3</span> of the directors of a domestic insurer and not less than <span style="font-style: italic; ">1</span>/<span style="">3</span> of the members of each committee of the board of directors of any domestic insurer shall be persons who are not officers or employees of the insurer or of any entity controlling, controlled by, or under common control with the insurer and who are not beneficial owners of a controlling interest in the voting stock of the insurer or such an entity. At least 1 such person must be included in any quorum for the transaction of business at any meeting of the board of directors or any committee.</text>
+      <text>Not less than 1/3 of the directors of a domestic insurer and not less than 1/3 of the members of each committee of the board of directors of any domestic insurer shall be persons who are not officers or employees of the insurer or of any entity controlling, controlled by, or under common control with the insurer and who are not beneficial owners of a controlling interest in the voting stock of the insurer or such an entity. At least 1 such person must be included in any quorum for the transaction of business at any meeting of the board of directors or any committee.</text>
+      <text>1313</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>The board of directors of a domestic insurer shall establish 1 or more committees comprised solely of directors who are not officers or employees of the insurer or of any entity controlling, controlled by, or under common control with the insurer, and who are not beneficial owners of a controlling interest in the voting stock of the insurer or any such entity. The committee or committees shall have responsibility for recommending the selection of independent certified public accountants, reviewing the insurer's financial condition, the scope and results of the independent audit and any internal audit, nominating candidates for director for election by shareholders or policyholders, evaluating the performance of officers deemed to be principal officers of the insurer, and recommending to the board of directors the selection and compensation of the principal officers.</text>
+      <text>The board of directors of a domestic insurer shall establish 1 or more committees comprised solely of directors who are not officers or employees of the insurer or of any entity controlling, controlled by, or under common control with the insurer, and who are not beneficial owners of a controlling interest in the voting stock of the insurer or any such entity. The committee or committees shall have responsibilities of nominating candidates for director for election by shareholders or policyholders, evaluating the performance of officers deemed to be principal officers of the insurer, and recommending to the board of directors the selection and compensation of the principal officers.</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>The provisions of paragraphs (3) and (4) of this subsection shall not apply to a domestic insurer if the person controlling the insurer is an insurer having a board of directors and committees that meet the requirements of paragraphs (3) and (4) of this subsection.</text>
+      <text>The provisions of paragraphs (3) and (4) of this subsection shall not apply to a domestic insurer if the person controlling the insurer is an insurer, a mutual insurance holding company, or a publicly held corporation that has a board of directors and committees that meet the requirements of paragraphs (3) and (4) of this subsection.</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>An insurer may make application to the Mayor for a waiver from the requirements of this subsection, if the insurer's annual direct written and assumed premium, excluding premiums reinsured with the Federal Crop Insurance Corporation and Federal Flood Program, is less than $300 million. An insurer may also make application to the Commissioner for a waiver from the requirements of this subsection based upon unique circumstances. The Mayor may consider various factors, including the type of business entity, volume of business written, availability of qualified board members, and the ownership or organizational structure of the entity.</text>
     </level>
   </level>
   <level>
@@ -177,7 +194,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 21, 1993, D.C. Law 10-44, § 7, 40 DCR 6027; Apr. 26, 1994, D.C. Law 10-103, § 8, 41 DCR 1005; Feb. 27, 1996, D.C. Law 11-90, §§ 8(a), 8(b), 42 DCR 7155.)</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-44, § 7, 40 DCR 6027; Apr. 26, 1994, D.C. Law 10-103, § 8, 41 DCR 1005; Feb. 27, 1996, D.C. Law 11-90, §§ 8(a), 8(b), 42 DCR 7155; Mar. 11, 2015, D.C. Law 20-235, § 2(e), 62 DCR 461.)</text>
     </level>
     <level>
       <heading>Cross References</heading>
@@ -190,6 +207,10 @@
     <level>
       <heading>Prior Codifications</heading>
       <text>1981 Ed., § 35-3706.</text>
+    </level>
+    <level>
+      <heading>Effect of amendments -</heading>
+      <text>The 2015 amendment by D.C. Law 20-235 added (a)(1)(A-i); rewrote the introductory language of (a)(2); rewrote (a)(2)(C); added "tax allocation agreements, guarantees" in (a)(2)(D); substituted "responsibilities of" for "responsibility for recommending the selection of independent certified public accountants, reviewing the insurer's financial condition, the scope and results of the independent audit and any internal audit" in (c)(4); substituted "insurer, a mutual insurance holding company, or a publicly held corporation that has" for "insurer having" in (c)(5); and added (c)(6).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
@@ -211,6 +232,10 @@
     <level>
       <heading>Legislative History of Law 11-90</heading>
       <text>Law 11-90, the "Insurance Omnibus Amendment Act of 1995," was introduced in Council and assigned Bill No. 11-182, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1995, and December 5, 1995, respectively. Signed by the Mayor on December 18, 1995, it was assigned Act No. 11-173 and transmitted to both Houses of Congress for its review. D.C. Law 11-90 became effective on February 27, 1996.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>See note to § 31-701.</text>
     </level>
     <level>
       <heading>Editor’s Notes</heading>

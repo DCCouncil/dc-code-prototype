@@ -3,7 +3,18 @@
   <heading>Examination.</heading>
   <level>
     <num>(a)</num>
-    <text>Subject to the limitations contained in this section and in addition to the powers which the Mayor has under the insurance laws of the District relating to the examination of insurers, the Mayor may order any insurer registered under § 31-705 to produce records, books, or other information papers in the possession of the insurer or its affiliates reasonably necessary to ascertain the financial condition of the insurer or to determine compliance with this subchapter. In the event the insurer fails to comply with the order, the Mayor shall have the power to examine such affiliates to obtain the information.</text>
+    <text>Subject to the limitation contained in this section and in addition to the powers that the Mayor has under the insurance laws of the District relating to the examination of insurers, the Mayor shall have the power to examine any insurer registered under § 31-705 and the insurer's affiliates to ascertain the financial condition of the insurer, including the enterprise risk to the insurer by the ultimate controlling party, any entity or combination of entities within the insurance holding company system, or the insurance holding company system on a consolidated basis.</text>
+  </level>
+  <level>
+    <num>(a-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>The Mayor may order any insurer registered under § 31-705 to produce such records, books, or other information in the possession of the insurer or its affiliates as are reasonably necessary to determine compliance with this subchapter.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>To determine compliance with this subchapter, the Mayor may order any insurer registered under § 31-705 to produce information not in the possession of the insurer if the insurer can obtain access to the information pursuant to contractual relationships, statutory obligations, or other method. If the insurer cannot obtain the information requested by the Mayor, the insurer shall provide the Mayor a detailed explanation of the reason that the insurer cannot obtain the information and the identity of the holder of information. Whenever it appears to the Mayor that the detailed explanation is without merit, the Mayor may require, after notice and hearing, the insurer to pay a penalty of $100 for each day's delay, or may suspend or revoke the insurer's license.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -13,10 +24,14 @@
     <num>(c)</num>
     <text>Each registered insurer producing records, books and papers for examination pursuant to subsection (a) of this section shall be liable for and shall pay the expense of the examination in accordance with Chapter 14 of this title governing cost of examinations.</text>
   </level>
+  <level>
+    <num>(d)</num>
+    <text>If the insurer fails to comply with an order issued pursuant to this section, the Mayor shall have the power to examine the records, books, or other information in the possession of the insurer's affiliates to obtain the relevant information. The Mayor shall also have the power to issue subpoenas, to administer oaths, and to examine under oath any person for purposes of determining compliance with this section. Upon the failure or refusal of any person to obey a subpoena, the Mayor may petition a court of competent jurisdiction, and upon proper showing, the court may enter an order compelling the witness to appear and testify or produce documentary evidence. Failure to obey the court order shall be punishable as contempt of court. Every person shall be obliged to attend as a witness at the place specified in the subpoena, when subpoenaed, anywhere within the District. A person shall be entitled to the same fees and mileage, if claimed, as a witness in the Superior Court of the District of Columbia, which fees, mileage, and actual expense, if any, necessarily incurred in securing the attendance and testimony of witness shall be itemized and charged against, and be paid by, the company being examined.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 21, 1993, D.C. Law 10-44, § 8, 40 DCR 6027.)</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-44, § 8, 40 DCR 6027; Mar. 11, 2015, D.C. Law 20-235, § 2(f), 62 DCR 461, § 2(g).)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -27,12 +42,35 @@
       <text>1981 Ed., § 35-3707.</text>
     </level>
     <level>
+      <heading>Effect of amendments -</heading>
+      <text>The 2015 amendment by D.C. Law 20-235 rewrote (a); and added (a-1) and (d).</text>
+    </level>
+    <level>
       <heading>Legislative History of Law 10-44</heading>
       <text>For legislative history of D.C. Law 10-44, see Historical and Statutory Notes following § 31-701.</text>
     </level>
     <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>See note to § 31-701.</text>
+    </level>
+    <level>
       <heading>Editor’s Notes</heading>
       <text>Because of the codification of D.C. Law 11-159 as subchapter II of Chapter 37 of Title 35 [subchapter II of Chapter 7 of Title 31, 2001 Ed.], and the designation of the preexisting text as subchapter I, "subchapter" has been substituted for "chapter" in (a).</text>
+      <text>§ 31-707.01 Supervisory colleges.</text>
+      <text>(a) With respect to any insurer registered under § 31-705, and in accordance with subsection (c) of this section, the Mayor shall have the power to participate in a supervisory college for any domestic insurer that is part of an insurance holding company system with international operations in order to determine compliance by the insurer with this subchapter. The powers of the Mayor with respect to supervisory colleges shall include the following:</text>
+      <text>(1) Initiating the establishment of a supervisory college;</text>
+      <text>(2) Clarifying the membership and participation of other supervisors in the supervisory college;</text>
+      <text>(3) Clarifying the functions of the supervisory college and the role of other regulators, including the establishment of a group-wide supervisor;</text>
+      <text>(4) Coordinating the ongoing activities of the supervisory college, including planning meetings, supervisory activities, and processes for information sharing; and</text>
+      <text>(5) Establishing a crisis management plan.</text>
+      <text>(b) Each registered insurer subject to this section shall be liable for and shall pay the reasonable expenses of the Mayor's participation in a supervisory college in accordance with subsection (c) of this section, including reasonable travel expenses. For the purposes of this section, a supervisory college may be convened as either a temporary or permanent forum for communication and cooperation between the regulators charged with the supervision of the insurer or its affiliates, and the Mayor may establish a regular assessment to the insurer for the payment of these expenses.</text>
+      <text>(c) To assess the business strategy, financial position, legal and regulatory position, risk exposure, risk management, and governance processes, and as part of the examination of individual insurers, in accordance with § 31-707, the Mayor may participate in a supervisory college with other regulators charged with supervision of the insurer or its affiliates, including other state, federal, and international regulatory agencies. The Mayor may enter into agreements in accordance with § 31-708(c) providing the basis for cooperation between the Mayor and the other regulatory agencies, and the activities of the supervisory college.</text>
+      <text>(d) Nothing in this section shall delegate to the supervisory college the authority of the Mayor to regulate or supervise the insurer or its affiliates within its jurisdiction.</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-44, § 8a, as added Mar. 11, 2015, D.C. Law 20-235, § 2(g), 62 DCR 461.)</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-235</heading>
+      <text>See note to § 31-701.</text>
     </level>
   </level>
 </level>

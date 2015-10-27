@@ -3,7 +3,14 @@
   <heading>Annual report.</heading>
   <level>
     <num>(a)</num>
-    <text>On or before March 2 of each year, a captive insurer shall submit to the Commissioner, on a form prescribed by the Commissioner by regulation, a report of its financial condition, as prepared by a certified public accountant. A captive insurer shall file a consolidated report on behalf of each of its segregated accounts. A captive insurer shall use generally accepted accounting principles and include any useful or necessary modifications or adaptations thereof that have been approved or accepted by the Commissioner for the type of insurance and kinds of insurers to be reported upon, as supplemented by additional information required by the Commissioner.</text>
+    <level>
+      <num>(1)</num>
+      <text>On or before March 2 of each year, a captive insurer, including, if applicable, each protected cell, shall submit to the Commissioner, on a form prescribed by the Commissioner, a report of its financial condition, as prepared by a certified public accountant. A captive insurer shall file a consolidated report on behalf of each of its protected cells.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A captive insurer, including, if applicable, each protected cell, shall use generally accepted accounting principles and include any useful or necessary modifications or adaptations of these principles that have been approved or accepted by the Commissioner for the type of insurance and kinds of insurers to be reported upon, as supplemented by additional information required by the Commissioner.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -24,7 +31,7 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 14, 52 DCR 1205; Mar. 14, 2012, D.C. Law 19-103, § 2(d), 59 DCR 432.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 14, 52 DCR 1205; Mar. 14, 2012, D.C. Law 19-103, § 2(d), 59 DCR 432; Mar. 10, 2015, D.C. Law 20-203, § 2(h), 61 DCR 12572.)</text>
     </level>
     <level>
       <heading>Section References</heading>
@@ -33,6 +40,7 @@
     <level>
       <heading>Effect of Amendments</heading>
       <text>D.C. Law 19-103 added subsec. (c).</text>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted "insurer" for "insurance company" in (6); substituted "branch captive insurer, protected cell" for "segregated account" in (9); added (13A); substituted "protected cell" for "segregated account" throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -45,6 +53,10 @@
     <level>
       <heading>Legislative History of Law 19-103</heading>
       <text>For history of Law 19-103, see notes under § 31-3931.03.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>

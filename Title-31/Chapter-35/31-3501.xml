@@ -59,6 +59,9 @@
       <level>
         <num>(iii)</num>
         <text>A term not to exceed 5 years, subject to extension upon the mutual written agreement of the parties;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
         <level>
           <num>(I)</num>
           <level>
@@ -88,22 +91,22 @@
           <level>
             <num>(cc)</num>
             <text>Total enrollment under subparagraph (A)(iv)(I) of this paragraph shall be capped at 2,500;</text>
-            <level>
-              <num>(v)</num>
-              <text>Participation in the open enrollment program (including the health maintenance organization product) may be limited to District residents, which shall be subject to periodic confirmation; and</text>
-            </level>
-            <level>
-              <num>(vi)</num>
-              <level>
-                <num>(I)</num>
-                <text>A corporation shall prominently advertise the availability of the new open enrollment health maintenance organization product continuously on the Internet and at least quarterly in a newspaper of general circulation throughout the District.</text>
-              </level>
-              <level>
-                <num>(II)</num>
-                <text>The content and format of the advertising shall be filed with the Commissioner no less than 30 days before its appearance in a newspaper or on the Internet;</text>
-              </level>
-            </level>
           </level>
+        </level>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>Participation in the open enrollment program (including the health maintenance organization product) may be limited to District residents, which shall be subject to periodic confirmation; and</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <level>
+          <num>(I)</num>
+          <text>A corporation shall prominently advertise the availability of the new open enrollment health maintenance organization product continuously on the Internet and at least quarterly in a newspaper of general circulation throughout the District.</text>
+        </level>
+        <level>
+          <num>(II)</num>
+          <text>The content and format of the advertising shall be filed with the Commissioner no less than 30 days before its appearance in a newspaper or on the Internet;</text>
         </level>
       </level>
     </level>

@@ -3,7 +3,7 @@
   <heading>Financial examination.</heading>
   <level>
     <num>(a)</num>
-    <text>The Commissioner, or his designee, may visit each captive insurer at such times as he or she considers necessary to thoroughly inspect and examine the affairs of the captive insurer or segregated account of a captive insurer to ascertain:</text>
+    <text>The Commissioner, or his designee, may visit each captive insurer at such times as he or she considers necessary to thoroughly inspect and examine the affairs of the captive insurer or protected cell of a captive insurer to ascertain:</text>
     <level>
       <num>(1)</num>
       <text>The financial condition of the captive insurer;</text>
@@ -23,20 +23,40 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Chapter 14 of this title shall apply to examinations conducted pursuant to this section.</text>
+    <text>Chapter 14 of this title [§ 31-1401 et seq.] shall apply to examinations conducted pursuant to this section. The Commissioner may waive the requirement in § 13-1402(a) that a captive insurer must be examined at least once every 5 years, if the:</text>
+    <level>
+      <num>(1)</num>
+      <text>Captive insurer has filed unqualified audited financial statements each year since the captive insurer's last financial examination or the date of licensure;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Commissioner determines that the audited financial statements demonstrate that the captive insurer maintains sufficient surplus to satisfy all of its obligations to its policyholders and creditors;</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Captive insurer is in compliance with all applicable District laws and regulations; and</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Captive insurer is not a risk retention group licensed as a captive insurer.</text>
+    </level>
   </level>
   <level>
     <num>(d)</num>
-    <text>For purposes of subsection (a) of this section, segregated accounts of a captive insurer shall not be separately examined unless the Commissioner has sufficient cause to examine one or more segregated accounts.</text>
+    <text>For purposes of subsection (a) of this section, protected cells of a captive insurer shall not be separately examined unless the Commissioner has sufficient cause to examine one or more protected cells.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 15, 52 DCR 1205.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 15, 52 DCR 1205; Mar. 10, 2015, D.C. Law 20-203, § 2(i), 61 DCR 12572.)</text>
     </level>
     <level>
       <heading>Section References</heading>
       <text>This section is referenced in § 31-3932.03.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted "insurer" for "insurance company" in (6); substituted "branch captive insurer, protected cell" for "segregated account" in (9); added (13A); substituted "protected cell" for "segregated account" throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
       <heading>Emergency Legislation</heading>
@@ -45,6 +65,10 @@
     <level>
       <heading>Legislative History of Law 15-262</heading>
       <text>For Law 15-262, see notes following § 31-3931.01.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>
