@@ -53,10 +53,6 @@
     <heading>Required Reports</heading>
     <text>Not later than 180 days after the expiration of the last extension or tolling of a time period made by the order or orders relating to an emergency situation, the chief judge shall submit a brief report to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Joint Committee on Judicial Administration describing the orders, including -</text>
     <level>
-      <num>(1)</num>
-      <text>the reasons for issuing the orders;</text>
-    </level>
-    <level>
       <num>(2)</num>
       <text>the duration of the orders;</text>
     </level>
@@ -68,6 +64,10 @@
       <num>(4)</num>
       <text>the costs to the court resulting from the orders.</text>
     </level>
+  </level>
+  <level>
+    <num>(1)</num>
+    <text>the reasons for issuing the orders;</text>
   </level>
   <level>
     <num>(f)</num>
