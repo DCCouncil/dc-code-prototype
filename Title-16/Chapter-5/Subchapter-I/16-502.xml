@@ -8,17 +8,14 @@
   <level>
     <num>(b)</num>
     <text>If the defendant is returned "Not to be found," the notice shall be given by publication to the following effect, namely:</text>
-  </level>
-  <level type="form">
     <text> In the United States District Court (Superior Court of the District of Columbia) for the District of Columbia.</text>
-    <text>
- A B, plaintiff, 
- versus Civil Action No. __________. 
- C D, defendant, 
- The object of this suit is to recover (here state it briefly) and to have judgment of condemnation of certain property of the defendant levied on under an attachment issued in this suit to satisfy the plaintiff's claim. 
- It is, therefore, this ____ day of ________, ordered that the defendant appear in this court or before the fortieth day, exclusive of Sundays and legal holidays, after the day of the first publication of this order, to defend this suit and show cause why the condemnation should not be had; otherwise the suit will be proceeded with as in case of default. 
- By the court: 
- ________ ________, Judge.</text>
+    <text>A B, plaintiff,</text>
+    <text>versus          Civil Action No. _____.</text>
+    <text>C D, defendant,</text>
+    <text>The object of this suit is to recover (here state it briefly) and to have judgment of condemnation of certain property of the defendant levied on under an attachment issued in this suit to satisfy the plaintiff's claim.</text>
+    <text>It is, therefore, this __ day of ____, ordered that the defendant appear in this court or before the fortieth day, exclusive of Sundays and legal holidays, after the day of the first publication of this order, to defend this suit and show cause why the condemnation should not be had; otherwise the suit will be proceeded with as in case of default.</text>
+    <text>By the court:</text>
+    <text>________, Judge.</text>
   </level>
   <level>
     <num>(c)</num>

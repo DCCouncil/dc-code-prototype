@@ -245,28 +245,28 @@
       <level>
         <num>(E)</num>
         <text>The Office of the Attorney General has filed 3 or more petitions against the respondent, and the respondent is not detained by the Family Court pursuant to section 16-2313(b)(3), the Family Court shall provide, within 48 hours of the decision not to detain the respondent, the following case record information to the Chief of the Metropolitan Police Department ("Chief"):</text>
+        <level>
+          <num>(i)</num>
+          <text>Respondent's name and date of birth;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Last known address of the respondent;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Last known address of respondent's parents, guardians, caretakers, and custodians;</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Address where the respondent will be placed and the name and address of the person into whose custody the respondent will be placed; and</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>All terms of the placement or conditions of release.</text>
+        </level>
       </level>
     </level>
-  </level>
-  <level>
-    <num>(i)</num>
-    <text>Respondent's name and date of birth;</text>
-  </level>
-  <level>
-    <num>(ii)</num>
-    <text>Last known address of the respondent;</text>
-  </level>
-  <level>
-    <num>(iii)</num>
-    <text>Last known address of respondent's parents, guardians, caretakers, and custodians;</text>
-  </level>
-  <level>
-    <num>(iv)</num>
-    <text>Address where the respondent will be placed and the name and address of the person into whose custody the respondent will be placed; and</text>
-  </level>
-  <level>
-    <num>(v)</num>
-    <text>All terms of the placement or conditions of release.</text>
     <level>
       <num>(2)</num>
       <text>Notwithstanding subsection (b) of this section, the Family Court shall provide the following case record information to the Chief for all cases in which the respondent is not detained by the Family Court pursuant to section 16-2313(b)(3) and cases in which the respondent is placed on probation pursuant to section 16-2320(c)(3):</text>
@@ -294,11 +294,11 @@
     <level>
       <num>(5)</num>
       <text>If the petition filed against the juvenile does not result in disposition, the Family Court, within 48 hours of the entry of the decision by the court to dismiss or close the case, or the withdrawal of the petition by the Office of the Attorney General, shall notify the Chief of the Metropolitan Police Department that the case has not resulted in a disposition. The Chief shall, within 48 hours of the notification, destroy and erase from Metropolitan Police Department files the case record information received from the Family Court pursuant to this subsection and shall notify all parties and agencies to which it transmitted case record information pursuant to paragraph (3) of this subsection that the juvenile's case did not result in a disposition and any information that has been transmitted shall be destroyed and erased.</text>
-      <level>
-        <num>(i)</num>
-        <text>No person shall disclose, inspect, or use records in violation of this section.</text>
-      </level>
     </level>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>No person shall disclose, inspect, or use records in violation of this section.</text>
   </level>
   <level type="annotations">
     <level>
