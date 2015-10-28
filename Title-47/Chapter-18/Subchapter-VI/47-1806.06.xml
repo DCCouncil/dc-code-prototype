@@ -14,25 +14,25 @@
         <text>For taxable years beginning after December 31, 1977, the percentage required under paragraph (1) of this subsection to be determined for claimants other than elderly, blind, or claimants with disabilities shall be the percentage specified in the following table:</text>
         <level>
           <heading>Regular Circuit Breaker</heading>
+          <text>If household income is: Tax credit equals:</text>
+          <text>$0 — $2,999 95% of property tax* exceeding 1.5% of household gross income</text>
+          <text>$3,000 — $4,999 75% of property tax* exceeding 2.0% of household gross income</text>
+          <text>$5,000 — $6,999 75% of property tax* exceeding 2.5% of household gross income</text>
+          <text>$7,000 — $9,999 75% of property tax* exceeding 3.0% of household gross income</text>
+          <text>$10,000 — $14,999 75% of property tax* exceeding 3.5% of household gross income</text>
+          <text>$15,000 — $20,000 75% of property tax* exceeding 4.0% of household gross income</text>
+          <text>*or rent paid constituting property tax (15% of rent)</text>
+          <text>For taxable years beginning after December 31, 2013, the percentage required under paragraph (1) of this subsection to be determined for all claimants shall be the percentage specified in the following table:</text>
+          <text>If adjusted gross income is: Tax credit equals:</text>
+          <text>$0 — 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</text>
+          <text>$25,000 — $40,000  100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</text>
+          <text>*or rent paid constituting property tax (20% of rent).</text>
+          <text>For taxable years beginning after December 31, 2015, the percentage required under paragraph (1) of this subsection to be determined for all claimants other than eligible senior claimants shall be the percentage specified in the following table:</text>
+          <text>If adjusted gross income is: Tax credit equals:</text>
+          <text>$0 — 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</text>
+          <text>$25,000 — $50,000  100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</text>
+          <text>*or rent paid constituting property tax (20% of rent).</text>
         </level>
-        <text>If household income is: Tax credit equals:</text>
-        <text>$0 — $2,999 95% of property tax* exceeding 1.5% of household gross income</text>
-        <text>$3,000 — $4,999 75% of property tax* exceeding 2.0% of household gross income</text>
-        <text>$5,000 — $6,999 75% of property tax* exceeding 2.5% of household gross income</text>
-        <text>$7,000 — $9,999 75% of property tax* exceeding 3.0% of household gross income</text>
-        <text>$10,000 — $14,999 75% of property tax* exceeding 3.5% of household gross income</text>
-        <text>$15,000 — $20,000 75% of property tax* exceeding 4.0% of household gross income</text>
-        <text>*or rent paid constituting property tax (15% of rent)</text>
-        <text>For taxable years beginning after December 31, 2013, the percentage required under paragraph (1) of this subsection to be determined for all claimants shall be the percentage specified in the following table:</text>
-        <text>If adjusted gross income is: Tax credit equals:</text>
-        <text>$0 — 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</text>
-        <text>$25,000 — $40,000  100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</text>
-        <text>*or rent paid constituting property tax (20% of rent).</text>
-        <text>For taxable years beginning after December 31, 2015, the percentage required under paragraph (1) of this subsection to be determined for all claimants other than eligible senior claimants shall be the percentage specified in the following table:</text>
-        <text>If adjusted gross income is: Tax credit equals:</text>
-        <text>$0 — 24,999 100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</text>
-        <text>$25,000 — $50,000  100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</text>
-        <text>*or rent paid constituting property tax (20% of rent).</text>
       </level>
     </level>
     <level>
