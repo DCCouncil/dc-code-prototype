@@ -35,8 +35,8 @@
   </level>
   <level>
     <heading>Article II. State Defined.</heading>
+    <text>As used in this Compact, "State" means a State, territory or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.</text>
   </level>
-  <text>As used in this Compact, "State" means a State, territory or possession of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.</text>
   <level>
     <heading>Article III. The Commission.</heading>
     <level>
@@ -82,6 +82,7 @@
   </level>
   <level>
     <heading>Article IV. Powers.</heading>
+    <text>In addition to authority conferred on the Commission by other provisions of the compact, the Commission shall have authority to:</text>
     <level>
       <num>(1)</num>
       <text>Collect, correlate, analyze and interpret information and data concerning educational needs and resources.</text>
@@ -107,7 +108,6 @@
       <text>Do such other things as may be necessary or incidental to the administration of any of its authority or functions pursuant to this compact.</text>
     </level>
   </level>
-  <text>In addition to authority conferred on the Commission by other provisions of the compact, the Commission shall have authority to:</text>
   <level>
     <heading>Article V. Cooperation With Federal Government.</heading>
     <level>
@@ -182,8 +182,8 @@
   </level>
   <level>
     <heading>Article IX. Construction and Severability.</heading>
+    <text>This compact shall be liberally construed so as to effectuate the purposes thereof. The provisions of this compact shall be severable and if any phrase, clause, sentence or provision of this compact is declared to be contrary to the constitution of any State or of the United States, or the application thereof to any Government, agency, person or circumstance is held invalid, the validity of the remainder of this compact and the applicability thereof to any Government, agency, person or circumstance shall not be affected thereby. If this compact shall be held contrary to the constitution of any State participating therein, the compact shall remain in full force and effect as to the State affected as to all severable matters.</text>
   </level>
-  <text>This compact shall be liberally construed so as to effectuate the purposes thereof. The provisions of this compact shall be severable and if any phrase, clause, sentence or provision of this compact is declared to be contrary to the constitution of any State or of the United States, or the application thereof to any Government, agency, person or circumstance is held invalid, the validity of the remainder of this compact and the applicability thereof to any Government, agency, person or circumstance shall not be affected thereby. If this compact shall be held contrary to the constitution of any State participating therein, the compact shall remain in full force and effect as to the State affected as to all severable matters.</text>
   <level type="annotations">
     <level>
       <heading>History</heading>

@@ -18,6 +18,7 @@
   </level>
   <level>
     <heading>Article II — Definitions</heading>
+    <text>As used in this Agreement and contracts made pursuant to it, unless the context clearly requires otherwise:</text>
     <level>
       <num>1.</num>
       <text>"Educational personnel" means persons who must meet requirements pursuant to State law as a condition of employment in educational programs.</text>
@@ -43,7 +44,6 @@
       <text>"Receiving State" means a State (and the subdivisions thereof) which accept educational personnel in accordance with the terms of a contract made pursuant to Article III.</text>
     </level>
   </level>
-  <text>As used in this Agreement and contracts made pursuant to it, unless the context clearly requires otherwise:</text>
   <level>
     <heading>Article III — Interstate Educational Personnel Contracts</heading>
     <level>
@@ -100,6 +100,7 @@
   </level>
   <level>
     <heading>Article V — Interstate Cooperation</heading>
+    <text>The party States agree that:</text>
     <level>
       <num>1.</num>
       <text>They will, so far as practicable, prefer the making of multilateral contracts pursuant to Article III of this Agreement.</text>
@@ -109,15 +110,14 @@
       <text>They will facilitate and strengthen cooperation in interstate certification and other elements of educational personnel qualification and for this purpose shall cooperate with agencies, organizations, and associations interested in certification and other elements of educational personnel qualification.</text>
     </level>
   </level>
-  <text>The party States agree that:</text>
   <level>
     <heading>Article VI — Agreement Evaluation</heading>
+    <text>The designated State officials of any party States may meet from time to time as a group to evaluate progress under the Agreement, and to formulate recommendations for changes.</text>
   </level>
-  <text>The designated State officials of any party States may meet from time to time as a group to evaluate progress under the Agreement, and to formulate recommendations for changes.</text>
   <level>
     <heading>Article VII — Other Arrangements</heading>
+    <text>Nothing in this Agreement shall be construed to prevent or inhibit other arrangements or practices of any party State or States to facilitate the interchange of educational personnel.</text>
   </level>
-  <text>Nothing in this Agreement shall be construed to prevent or inhibit other arrangements or practices of any party State or States to facilitate the interchange of educational personnel.</text>
   <level>
     <heading>Article VIII — Effect and Withdrawal</heading>
     <level>
@@ -135,8 +135,8 @@
   </level>
   <level>
     <heading>Article IX — Construction and Severability</heading>
+    <text>This Agreement shall be liberally construed so as to effectuate the purposes thereof. The provisions of this Agreement shall be severable and if any phrase, clause, sentence, or provision of this Agreement is declared to be contrary to the constitution of any State or of the United States, or the application thereof to any Government, agency, person, or circumstance is held invalid, the validity of the remainder of this Agreement and the applicability thereof to any Government, agency, person, or circumstance shall not be affected thereby. If this Agreement shall be held contrary to the constitution of any State participating therein, the Agreement shall remain in full force and effect as to the State affected as to all severable matters.</text>
   </level>
-  <text>This Agreement shall be liberally construed so as to effectuate the purposes thereof. The provisions of this Agreement shall be severable and if any phrase, clause, sentence, or provision of this Agreement is declared to be contrary to the constitution of any State or of the United States, or the application thereof to any Government, agency, person, or circumstance is held invalid, the validity of the remainder of this Agreement and the applicability thereof to any Government, agency, person, or circumstance shall not be affected thereby. If this Agreement shall be held contrary to the constitution of any State participating therein, the Agreement shall remain in full force and effect as to the State affected as to all severable matters.</text>
   <level type="annotations">
     <level>
       <heading>History</heading>
