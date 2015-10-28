@@ -45,6 +45,16 @@
     </level>
     <level>
       <heading>Notice: You may be sued 30 days after this notice if you don't make payment within 30 days of this notice</heading>
+      <text>DATE:</text>
+      <text>TO:     Name of Drawer</text>
+      <text>Last known residence address</text>
+      <text>or place of business</text>
+      <text>YOUR CHECK, DRAFT, ORDER, OR OTHER INSTRUMENT FOR THE PAYMENT OF MONEY IN THE AMOUNT OF $ ____  , DATED ________  , PAYABLE TO THE ORDER OF ____________   HAS BEEN DISHONORED BY THE BANK/DEPOSITORY UPON WHICH IT WAS DRAWN, BECAUSE:</text>
+      <text>( )        YOU HAD NO ACCOUNT WITH THAT BANK/DEPOSITORY</text>
+      <text>( )        YOU HAD INSUFFICIENT FUNDS OR CREDIT WITH THAT BANK/DEPOSITORY</text>
+      <text>( )        A STOP PAYMENT ORDER WAS ISSUED</text>
+      <text>( )        OTHER (specify)</text>
+      <text>IF YOU DO NOT MAKE PAYMENT, YOU COULD BE SUED UNDER SECTION ____   OF THE DISTRICT OF COLUMBIA OFFICIAL CODE TO RECOVER PAYMENT. IF JUDGMENT IS RENDERED AGAINST YOU IN COURT, IT MAY ALSO INCLUDE NOT ONLY THE ORIGINAL FACE AMOUNT OF THE CHECK, BUT ALSO ADDITIONAL DAMAGES, AS FOLLOWS:</text>
       <level>
         <num>(1)</num>
         <text>TWO TIMES THE FACE AMOUNT OF THE CHECK, OR $100, WHICHEVER IS GREATER;</text>
@@ -58,16 +68,6 @@
         <text>REASONABLE ATTORNEY FEES.</text>
       </level>
     </level>
-    <text>DATE:</text>
-    <text>TO:     Name of Drawer</text>
-    <text>Last known residence address</text>
-    <text>or place of business</text>
-    <text>YOUR CHECK, DRAFT, ORDER, OR OTHER INSTRUMENT FOR THE PAYMENT OF MONEY IN THE AMOUNT OF $ ____  , DATED ________  , PAYABLE TO THE ORDER OF ____________   HAS BEEN DISHONORED BY THE BANK/DEPOSITORY UPON WHICH IT WAS DRAWN, BECAUSE:</text>
-    <text>( )        YOU HAD NO ACCOUNT WITH THAT BANK/DEPOSITORY</text>
-    <text>( )        YOU HAD INSUFFICIENT FUNDS OR CREDIT WITH THAT BANK/DEPOSITORY</text>
-    <text>( )        A STOP PAYMENT ORDER WAS ISSUED</text>
-    <text>( )        OTHER (specify)</text>
-    <text>IF YOU DO NOT MAKE PAYMENT, YOU COULD BE SUED UNDER SECTION ____   OF THE DISTRICT OF COLUMBIA OFFICIAL CODE TO RECOVER PAYMENT. IF JUDGMENT IS RENDERED AGAINST YOU IN COURT, IT MAY ALSO INCLUDE NOT ONLY THE ORIGINAL FACE AMOUNT OF THE CHECK, BUT ALSO ADDITIONAL DAMAGES, AS FOLLOWS:</text>
     <level>
       <heading>NAME OF PAYEE:</heading>
     </level>
@@ -76,8 +76,8 @@
     </level>
     <level>
       <heading>ADDRESS TO WHICH PAYMENT SHOULD BE DELIVERED</heading>
+      <text>IF YOU DISPUTE ANY OF THE FACTS LISTED ABOVE, CONTACT THE PAYEE IMMEDIATELY.".</text>
     </level>
-    <text>IF YOU DISPUTE ANY OF THE FACTS LISTED ABOVE, CONTACT THE PAYEE IMMEDIATELY.".</text>
   </level>
   <level>
     <num>(h)</num>

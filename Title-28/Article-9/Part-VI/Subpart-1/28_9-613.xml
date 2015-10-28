@@ -51,19 +51,19 @@
     <text>The following form of notification and the form appearing in § 28:9-614(3), when completed, each provides sufficient information:</text>
     <level>
       <heading>NOTIFICATION OF DISPOSITION OF COLLATERAL</heading>
+      <text>"To: [Name of debtor, obligor, or other person to which the notification is sent]</text>
+      <text>"From: [Name, address, and telephone number of secured party]</text>
+      <text>"Name of Debtor(s): [Include only if debtor(s) are not an addressee]</text>
+      <text>"[For a public disposition:]</text>
+      <text>"We will sell [or lease or license, as applicable] the [describe collateral] [to the highest qualified bidder] in public as follows:</text>
+      <text>"Day and Date: ...............</text>
+      <text>"Time: ...............</text>
+      <text>"Place: ...............</text>
+      <text>"Time: ...............</text>
+      <text>"[For a private disposition:]</text>
+      <text>"We will sell [or lease or license, as applicable] the [describe collateral] privately sometime after [day and date].</text>
+      <text>"You are entitled to an accounting of the unpaid indebtedness secured by the property that we intend to sell [or lease or license, as applicable] [for a charge of $..........]. You may request an accounting by calling us at [telephone number]</text>
     </level>
-    <text>"To: [Name of debtor, obligor, or other person to which the notification is sent]</text>
-    <text>"From: [Name, address, and telephone number of secured party]</text>
-    <text>"Name of Debtor(s): [Include only if debtor(s) are not an addressee]</text>
-    <text>"[For a public disposition:]</text>
-    <text>"We will sell [or lease or license, as applicable] the [describe collateral] [to the highest qualified bidder] in public as follows:</text>
-    <text>"Day and Date: ...............</text>
-    <text>"Time: ...............</text>
-    <text>"Place: ...............</text>
-    <text>"Time: ...............</text>
-    <text>"[For a private disposition:]</text>
-    <text>"We will sell [or lease or license, as applicable] the [describe collateral] privately sometime after [day and date].</text>
-    <text>"You are entitled to an accounting of the unpaid indebtedness secured by the property that we intend to sell [or lease or license, as applicable] [for a charge of $..........]. You may request an accounting by calling us at [telephone number]</text>
     <level>
       <heading>"[End of Form]"</heading>
     </level>
