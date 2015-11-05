@@ -5,7 +5,7 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>Beginning on December 15, 2012 and every 5 years thereafter, the Mayor shall prepare and submit to the Council for its review and approval a comprehensive 5-year Master Facilities Plan for public education facilities, along with a proposed resolution, in accordance with this section. The Council shall vote on the 5-year Master Facilities Plan concurrently with its vote on the Mayor's capital budget proposal. If approved by the Council, the 5-year Master Facilities Plan shall take effect on the first day of the succeeding fiscal year.</text>
+      <text>Beginning on December 15, 2012 and every 5 years thereafter, the Mayor shall prepare and submit to the Council for its review and approval a comprehensive 5-year Master Facilities Plan for public education facilities, along with a proposed resolution, in accordance with this section. The Council shall vote on the 5-year Master Facilities Plan concurrently with its vote on the Mayor’s capital budget proposal. If approved by the Council, the 5-year Master Facilities Plan shall take effect on the first day of the succeeding fiscal year.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -13,18 +13,18 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>If, subsequent to Council approval of the 5-year Master Facilities Plan, material changes to the plan become necessary, the Mayor may modify the plan; provided, that any modification shall be submitted to the Council for review and approval along with the Mayor's annual submission of a capital budget recommendation for public schools.</text>
+      <text>If, subsequent to Council approval of the 5-year Master Facilities Plan, material changes to the plan become necessary, the Mayor may modify the plan; provided, that any modification shall be submitted to the Council for review and approval along with the Mayor’s annual submission of a capital budget recommendation for public schools.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
     <level>
       <num>(1)</num>
-      <text>The Mayor shall establish an Office of Public Education Facilities Planning ("OPEFP") within the Office of the Deputy Mayor for Education responsible for the development of the Master Facilities Plan, which shall function as a citywide public education facilities plan.</text>
+      <text>The Mayor shall establish an Office of Public Education Facilities Planning (“OPEFP”) within the Office of the Deputy Mayor for Education responsible for the development of the Master Facilities Plan, which shall function as a citywide public education facilities plan.</text>
     </level>
     <level>
       <num>(1A)</num>
-      <text>Beginning on April 15, 2013, the Department of General Services shall conduct an annual survey to update information on the enrollment, utilization, and condition of each public school facility and shall make the information available to the public on the Mayor's website by December 1st of each year.</text>
+      <text>Repealed.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -35,7 +35,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The capacity of existing schools, current level of utilization, and recommendations for the utilization or reduction of excess space, including, as appropriate, specific recommendations on:</text>
+        <text>The capacity of existing schools, current level of utilization, projected 5-year facility needs for each local education agency, and recommendations for the utilization or reduction of excess space, including, as appropriate, specific recommendations on:</text>
         <level>
           <num>(i)</num>
           <text>Consolidation;</text>
@@ -66,11 +66,11 @@
         <text>A school-by-school description relating facility needs and requirements to:</text>
         <level>
           <num>(i)</num>
-          <text>The facility's programmatic usage with specific linkages and relationships to adopted education plans of a local education agency, school district, or institution, including specific plans for special education, early childhood education, and career and technical education programs; and</text>
+          <text>The facility’s programmatic usage with specific linkages and relationships to adopted education plans of a local education agency, school district, or institution, including specific plans for special education, early childhood education, and career and technical education programs; and</text>
         </level>
         <level>
           <num>(ii)</num>
-          <text>The statewide education and youth development plan described in § 38-191, and how it enables schools to be centers of the community;</text>
+          <text>The statewide education and youth development plan described in § 38-191, and how it enables schools to be centers of the community;</text>
         </level>
       </level>
       <level>
@@ -95,30 +95,118 @@
       </level>
       <level>
         <num>(I)</num>
-        <text>The coordination of the District's education sector with housing, health, and welfare sectors, and with economic development policies and plans;</text>
+        <text>The coordination of the District’s education sector with housing, health, and welfare sectors, and with economic development policies and plans;</text>
       </level>
       <level>
         <num>(J)</num>
-        <text>The location, planning, use, and design of the District's educational facilities and campuses; and</text>
+        <text>The location, planning, use, and design of the District’s educational facilities and campuses;</text>
       </level>
       <level>
         <num>(K)</num>
-        <text>Any school disposition, including a plan delineating the process through which citizen involvement shall be facilitated, and establishing the criteria that will be utilized in disposition decisions, one of which shall be consideration of the impact of any proposed new use of a school building on the neighborhood in which the school building is located;</text>
+        <text>Any school disposition, including a plan delineating the process through which citizen involvement shall be facilitated, and establishing the criteria that will be utilized in disposition decisions, one of which shall be consideration of the impact of any proposed new use of a school building on the neighborhood in which the school building is located; and</text>
+      </level>
+      <level>
+        <num>(L)</num>
+        <text>A safety and security assessment of educational facilities based upon a comprehensive examination of the facility's physical environment for crime vulnerabilities, including an analysis of:</text>
+        <level>
+          <num>(i)</num>
+          <text>Surveillance capabilities, both active and passive;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Access control, including the ability to securely manage who enters and exits the facility; and</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Facility maintenance.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(2A)</num>
+      <text>Any school disposition, including a plan delineating the process through which citizen involvement shall be facilitated, and establishing the criteria that will be utilized in disposition decisions, one of which shall be consideration of the impact of any proposed new use of a school building on the neighborhood in which the school building is located; and</text>
+      <level>
+        <num>(A)</num>
+        <text>Results of the Department of General Services annual survey as set forth in paragraph (3)(E) of this subsection;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Updated information on:</text>
+        <level>
+          <num>(i)</num>
+          <text>Enrollment projections at the local education agency level and the individual school level for both DCPS and public charter schools; and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Facility needs for each local education agency;</text>
+        </level>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>A plan, including co-location options, to increase utilization at any school facility in use by DCPS with a utilization rate of less than 50%;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>A plan to ensure that each school facility in use by DCPS that is at 95% utilization or above does not suffer from overcrowding but can sufficiently meet the facility and academic needs of it students; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Each school facility's designation as one or more of the following:</text>
+        <level>
+          <num>(i)</num>
+          <text>In use primarily for classroom instruction;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>In use primarily for swing space;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>In use primarily for DCPS administrative purposes, including storage;</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>In use by an entity other than DCPS;</text>
+        </level>
+        <level>
+          <num>(v)</num>
+          <text>Vacant; or</text>
+        </level>
+        <level>
+          <num>(vi)</num>
+          <text>Significantly underused.</text>
+        </level>
       </level>
     </level>
     <level>
       <num>(3)</num>
-      <text>The following agencies shall work with the OPEFP in the development of the Master Facilities Plan:</text>
+      <text>The following agencies shall work with the OPEFP in the development of the Master Facilities Plan and the annual supplement:</text>
       <level>
         <num>(A)</num>
-        <text>The District of Columbia Public Schools, which shall transmit to the OPEFP educational plans and policies it considers relevant to the facilities planning process and provide the educational specifications for each facility subject to modernization;</text>
+        <text>The District of Columbia Public Schools, which shall transmit to the OPEFP:</text>
+        <level>
+          <num>(i)</num>
+          <text>Educational plans and policies it considers relevant to the facilities planning process;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Educational specifications for each facility subject to modernization;</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Its 5-year enrollment projections; and</text>
+        </level>
+        <level>
+          <num>(iv)</num>
+          <text>Its 5-year projections of facility needs;</text>
+        </level>
       </level>
       <level>
         <num>(B)</num>
         <text>The Public Charter School Board, which shall:</text>
         <level>
           <num>(i)</num>
-          <text>Transmit to the OPEFP educational plans and policies of individual public charter schools, data on existing public charter school facilities and facilities-related needs, and other information considered relevant to the planning process; and</text>
+          <text>Collect and transmit to the OPEFP educational plans and policies of individual public charter schools, 5-year enrollment growth plans, data on existing public charter school facilities and facilities-related needs, and other information considered relevant to the planning process; and</text>
         </level>
         <level>
           <num>(ii)</num>
@@ -127,11 +215,15 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>The Office of Planning, which shall provide demographic and neighborhood data support; and</text>
+        <text>The Office of Planning, which shall provide demographic and neighborhood data support;</text>
       </level>
       <level>
         <num>(D)</num>
-        <text>The Office of Public Education Facilities Modernization, which shall implement the Master Facilities Plan consistent with the policy priorities set forth in this chapter.</text>
+        <text>The Office of Public Education Facilities Modernization, which shall implement the Master Facilities Plan consistent with the policy priorities set forth in this chapter; and</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>The Department of General Services, which shall conduct an annual survey to update information on the enrollment, utilization, and condition of each DCPS and charter school facility, including a review of whether or not the facility has a working carbon monoxide detector, and transmit the results to OPEFP.</text>
       </level>
     </level>
     <level>
@@ -179,7 +271,7 @@
     <num>(d)</num>
     <level>
       <num>(1)</num>
-      <text>Beginning in fiscal year 2010, a Public School Facility capital improvement plan ("School Facility CIP") shall be updated each fiscal year as part of the Mayor's capital improvement plan for all public facilities, as required by § 1-204.44.</text>
+      <text>Beginning in fiscal year 2010, a Public School Facility capital improvement plan (“School Facility CIP”) shall be updated each fiscal year as part of the Mayor’s capital improvement plan for all public facilities, as required by § 1-204.44.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -232,7 +324,7 @@
       <num>(3)</num>
       <level>
         <num>(A)</num>
-        <text>No more than 60 days or less than 30 days prior to the Mayor's submission of a School Facility CIP to the Council, and upon 15 days public notice, the Mayor shall conduct a public hearing to solicit the views of the public. In no event shall the hearing be prior to the annual submission by the Office of Public Education Facilities Modernization of its proposed budget to the Mayor.</text>
+        <text>No more than 60 days or less than 30 days prior to the Mayor’s submission of a School Facility CIP to the Council, and upon 15 days public notice, the Mayor shall conduct a public hearing to solicit the views of the public. In no event shall the hearing be prior to the annual submission by the Office of Public Education Facilities Modernization of its proposed budget to the Mayor.</text>
       </level>
       <level>
         <num>(B)</num>
@@ -240,85 +332,118 @@
       </level>
     </level>
   </level>
+  <level>
+    <num>(e)</num>
+    <level>
+      <num>(1)</num>
+      <text>Within 30 days of the release of the annual supplement to the Master Facilities Plan as required by subsection (b)(2A) of this section, the District shall:</text>
+      <level>
+        <num>(A)</num>
+        <text>Determine which school facilities will be designated as excess; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Make a list of these properties, and those deemed excess pursuant to paragraph (2) of this subsection, publicly available on its website.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Unless written justification is made publicly available at the time of the publication of the list as required in paragraph (1) of this subsection based on projected operational needs of DCPS or another District agency, a school facility shall be automatically deemed excess if it has been designated in the annual supplement to the Master Facilities Plan as:</text>
+      <level>
+        <num>(A)</num>
+        <text>Vacant; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Significantly underused for 2 consecutive years.</text>
+      </level>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 26, 1999, D.C. Law 12-175, § 1104, 45 DCR 7193; Oct. 20, 2005, D.C. Law 16-33, § 4047, 52 DCR 7503; June 8, 2006, D.C. Law 16-123, § 221, 53 DCR 2843; June 12, 2007, D.C. Law 17-9, § 1009, 54 DCR 4102; Mar. 3, 2010, D.C. Law 18-111, § 4071, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 4122, 57 DCR 6242; Sept. 20, 2012, D.C. Law 19-168, § 4012, 59 DCR 8025.)</text>
+      <text>(Mar. 26, 1999, D.C. Law 12-175, § 1104, 45 DCR 7193; Oct. 20, 2005, D.C. Law 16-33, § 4047, 52 DCR 7503; June 8, 2006, D.C. Law 16-123, § 221, 53 DCR 2843; June 12, 2007, D.C. Law 17-9, § 1009, 54 DCR 4102; Mar. 3, 2010, D.C. Law 18-111, § 4071, 57 DCR 181; Sept. 24, 2010, D.C. Law 18-223, § 4122, 57 DCR 6242; Sept. 20, 2012, D.C. Law 19-168, § 4012, 59 DCR 8025; June 21, 2014, D.C. Law 20-114, § 3(b), 61 DCR 4669.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 1-325.44 and § 38-1805.52.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 1-325.44 and § 38-1805.52.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 31-153.</text>
+      <text>1981 Ed., § 31-153.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 16-33 substituted "June 30, 2006" for "December 31, 1998"; and deleted "There shall be a moratorium on disposition decisions until the facilities plan has been approved by the Council."</text>
-      <text>D.C. Law 16-123, designated the existing text as subsec. (a); in subsec. (a), substituted "multiyear Facilities Master Plan, which shall include" for "Long Range Master Facilities Plan which shall include annual updates to the facilities plan, as well as"; and added subsecs. (b), (c), and (d).</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 16-33 substituted “June 30, 2006” for “December 31, 1998”; and deleted “There shall be a moratorium on disposition decisions until the facilities plan has been approved by the Council.”</text>
+      <text>D.C. Law 16-123, designated the existing text as subsec. (a); in subsec. (a), substituted “multiyear Facilities Master Plan, which shall include” for “Long Range Master Facilities Plan which shall include annual updates to the facilities plan, as well as”; and added subsecs. (b), (c), and (d).</text>
       <text>D.C. Law 17-9 rewrote subsecs. (a), (b)(1), (c), and (d).</text>
       <text>D.C. Law 18-111 rewrote the section.</text>
       <text>D.C. Law 18-223 rewrote subsec. (b).</text>
       <text>The 2012 amendment by D.C. Law 19-168 rewrote (a); added (b)(1A) and (b)(2)(K); and made related changes.</text>
+      <text>The 2014 amendment by D.C. Law 20-114 repealed (b)(1)(A); added “projected 5-year facility needs for each local education agency” in (b)(2)(B); made minor stylistic changes in (b)(2)(J) and (b)(2)(K); and added (b)(2)(L) and (b)(2A); added “and the annual supplement” in the introductory language of (b)(3); rewrote (b)(3)(A); in (b)(3)(B)(i), substituted “Collect and transmit” for “Transmit” and added “5-year enrollment growth plans”; made minor stylistic changes in (b)(3)(C) and (b)(3)(D); and added (b)(3)(E) and (e).</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
+      <heading>Emergency legislation</heading>
       <text>For temporary addition of subchapter see notes to § 38-2801.</text>
       <text>For temporary (90-day) addition of Chapter 1B 1981 Ed., see notes following § 38-2801.</text>
-      <text>For temporary (90 day) amendment of section, see § 4047 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
-      <text>For temporary (90 day) amendment of section, see § 4011 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009, 56 DCR 7374).</text>
-      <text>For temporary (90 day) amendment of section, see § 4071 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009, 56 DCR 8234).</text>
-      <text>For temporary (90 day) amendment of section, see § 4071 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010, 57 DCR 345).</text>
-      <text>For temporary (90 day) addition of section, see § 4112 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      <text>For temporary (90 day) amendment of section, see § 4122 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010, 57 DCR 6542).</text>
-      <text>For temporary (90 days) approval of the 2013 Master Facilities Plan for public education facilities, see § 4082 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013, 60 DCR 11384, 20 DCSTAT 1827).</text>
-      <text>For temporary (90 days) approval of the 2013 Master Facilities Plan for public education facilities, see § 4082 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013, 60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 day) amendment of section, see § 4047 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</text>
+      <text>For temporary (90 day) amendment of section, see § 4011 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</text>
+      <text>For temporary (90 day) amendment of section, see § 4071 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</text>
+      <text>For temporary (90 day) amendment of section, see § 4071 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</text>
+      <text>For temporary (90 day) addition of section, see § 4112 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</text>
+      <text>For temporary (90 day) amendment of section, see § 4122 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</text>
+      <text>For temporary (90 days) approval of the 2013 Master Facilities Plan for public education facilities, see § 4082 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</text>
+      <text>For temporary (90 days) approval of the 2013 Master Facilities Plan for public education facilities, see § 4082 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</text>
+      <text>For temporary (90 days) amendment of this section, see §  316 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014, 61 DCR 12133, 20 STAT 4405).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 12-175</heading>
-      <text>For legislative history of D.C. Law 12-175, see Historical and Statutory Notes following § 38-2801.</text>
+      <heading>Legislative history of Law 12-175</heading>
+      <text>For legislative history of D.C. Law 12-175, see Historical and Statutory Notes following § 38-2801.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 16-33</heading>
-      <text>For Law 16-33, see notes following § 38-1306.</text>
+      <heading>Legislative history of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 38-1306.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 16-123</heading>
-      <text>For Law 16-123, see notes following § 38-2971.01.</text>
+      <heading>Legislative history of Law 16-123</heading>
+      <text>For Law 16-123, see notes following § 38-2971.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 17-9</heading>
-      <text>For Law 17-9, see notes under § 38-103.</text>
+      <heading>Legislative history of Law 17-9</heading>
+      <text>For Law 17-9, see notes under § 38-103.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-111</heading>
-      <text>For Law 18-111, see notes following § 38-191.</text>
+      <heading>Legislative history of Law 18-111</heading>
+      <text>For Law 18-111, see notes following § 38-191.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-223</heading>
-      <text>For Law 18-223, see notes following § 38-103.</text>
+      <heading>Legislative history of Law 18-223</heading>
+      <text>For Law 18-223, see notes following § 38-103.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-168</heading>
-      <text>Law 19-168, the "Fiscal Year 2013 Budget Support Act of 2012," was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
+      <heading>Legislative history of Law 19-168</heading>
+      <text>Law 19-168, the “Fiscal Year 2013 Budget Support Act of 2012,” was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</text>
     </level>
     <level>
-      <heading>Short Title</heading>
-      <text>Short title: Section 4070 of D.C. Law 18-111 provided that subtitle H of title IV of the act may be cited as the "Master Facilities Plan and School Facility Capital Improvement Plan Reconciliation Amendment Act of 2009".</text>
-      <text>Short title: Section 4111 of D.C. Law 18-223 provided that subtitle L of title IV of the act may be cited as the "Master Facilities Plan Approval Act of 2010".</text>
-      <text>Short title: Section 4121 of D.C. Law 18-223 provided that subtitle M of title IV of the act may be cited as the "Office of Public Education Facilities Planning Establishment Amendment Act of 2010".</text>
-      <text>Section 4081 of D.C. Law 20-61 provided that Subtitle H of Title IV of the act may be cited as the "Public Education Master Facilities Plan Approval Act of 2013".</text>
+      <heading>Legislative history of Law 20-114</heading>
+      <text>See note to § 38-2801.01.</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
+      <heading>Short title</heading>
+      <text>Short title: Section 4070 of D.C. Law 18-111 provided that subtitle H of title IV of the act may be cited as the “Master Facilities Plan and School Facility Capital Improvement Plan Reconciliation Amendment Act of 2009”.</text>
+      <text>Short title: Section 4111 of D.C. Law 18-223 provided that subtitle L of title IV of the act may be cited as the “Master Facilities Plan Approval Act of 2010”.</text>
+      <text>Short title: Section 4121 of D.C. Law 18-223 provided that subtitle M of title IV of the act may be cited as the “Office of Public Education Facilities Planning Establishment Amendment Act of 2010”.</text>
+      <text>Section 4081 of D.C. Law 20-61 provided that Subtitle H of Title IV of the act may be cited as the “Public Education Master Facilities Plan Approval Act of 2013”.</text>
+    </level>
+    <level>
+      <heading>Editor’s notes</heading>
       <text>Section 4112 of D.C. Law 18-223 provided:</text>
-      <text>"Sec. 4112. (a) Pursuant to section 1104 of the School Based Budgeting and Accountability Act of 1998, approved March 26, 1999 (D.C. Law 12-175; D.C. Official Code § 38-2803), the following components of the Master Facilities Plan for the District of Columbia Public Schools for 2010, as submitted by the Mayor to the Council, on April 1, 2010 ('2010 MFP') are approved:</text>
-      <text>"(1) All priorities, objectives, and methods of defining modernization, including the phased approach to elementary and middle schools;</text>
-      <text>"(2) Demographics and Data;</text>
-      <text>"(3) Plan Detail Narrative, including school-by-school detail, known as Mini-Master Plans; and</text>
-      <text>"(4) The glossary of terms.</text>
-      <text>"(b) The Schedule of modernization, including sequencing and project implementation timelines and the budget, including the 8-Year Master Facilities Plan Financial Projection and Scope of Work and Estimated Methodology in the 2010 MFP shall be adjusted pursuant to the Capital Improvement Plan Amendments for Public Education Facilities Act of 2010, passed on 2nd reading on June 15, 2010 (Enrolled version of Bill 18-731), and resubmitted by October 15, 2010, to the Council for review and approval."</text>
+      <text>“Sec. 4112. (a) Pursuant to section 1104 of the School Based Budgeting and Accountability Act of 1998, approved March 26, 1999 (D.C. Law 12-175; D. C. Official Code § 38-2803), the following components of the Master Facilities Plan for the District of Columbia Public Schools for 2010, as submitted by the Mayor to the Council, on April 1, 2010 (‘2010 MFP’) are approved:</text>
+      <text>“(1) All priorities, objectives, and methods of defining modernization, including the phased approach to elementary and middle schools;</text>
+      <text>“(2) Demographics and Data;</text>
+      <text>“(3) Plan Detail Narrative, including school-by-school detail, known as Mini-Master Plans; and</text>
+      <text>“(4) The glossary of terms.</text>
+      <text>“(b) The Schedule of modernization, including sequencing and project implementation timelines and the budget, including the 8-Year Master Facilities Plan Financial Projection and Scope of Work and Estimated Methodology in the 2010 MFP shall be adjusted pursuant to the Capital Improvement Plan Amendments for Public Education Facilities Act of 2010, passed on 2nd reading on June 15, 2010 (Enrolled version of Bill 18-731), and resubmitted by October 15, 2010, to the Council for review and approval.”</text>
       <text>Section 4082 of D.C. Law 20-61 provided that the Council approves the 2013 Master Facilities Plan for public education facilities submitted by the Mayor on March 28, 2013.</text>
     </level>
   </level>

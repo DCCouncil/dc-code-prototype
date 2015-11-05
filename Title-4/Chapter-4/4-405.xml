@@ -4,31 +4,96 @@
   <level>
     <num>(a)</num>
     <text>Parents who receive day care services pursuant to § 4-404 [repealed] shall pay a portion of services according to the sliding scale set forth in subsection (b) of this section.</text>
+    <text>
+      <table>
+        <tr>
+          <th>Increment</th>
+          <th>Adjusted Income</th>
+          <th>Parent Fee (Percent of Child Care Paid by Parent)</th>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Under $8,020</td>
+          <td>Flat Fee of $2 per week</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>$8,020–$9,012</td>
+          <td>5%</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>$9,013–$10,005</td>
+          <td>10%</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>$10,006–$10,998</td>
+          <td>15%</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>$10,999–$11,991</td>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>$11,992–$12,984</td>
+          <td>25%</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>$12,985–$13,977</td>
+          <td>30%</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>$13,978–$14,970</td>
+          <td>35%</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>$14,971–$15,963</td>
+          <td>40%</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>$15,964–$16,956</td>
+          <td>45%</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>$16,957–$17,949</td>
+          <td>50%</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>$17,950–$18,942</td>
+          <td>55%</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>$18,943–$19,935</td>
+          <td>60%</td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>$19,936–$20,928</td>
+          <td>65%</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>$20,929–$21,921</td>
+          <td>70%</td>
+        </tr>
+        <tr>
+          <td>16 Over</td>
+          <td>$21,921</td>
+          <td>100%</td>
+        </tr>
+      </table>
+    </text>
   </level>
-  <level>
-    <num>(b)</num>
-  </level>
-  <text>
-    <table>
-      <tr><th>Increment</th><th>Adjusted Income</th><th>Parent Fee (Percent of Child Care Paid by Parent)</th></tr>
-      <tr><td>1</td><td>Under $8,020</td><td>Flat Fee of $2 per week</td> </tr>
-      <tr><td>2</td><td>$8,020–$9,012</td><td>5%</td></tr>
-      <tr><td>3</td><td>$9,013–$10,005</td><td>10%</td></tr>
-      <tr><td>4</td><td>$10,006–$10,998</td><td>15%</td></tr>
-      <tr><td>5</td><td>$10,999–$11,991</td><td>20%</td></tr>
-      <tr><td>6</td><td>$11,992–$12,984</td><td>25%</td></tr>
-      <tr><td>7</td><td>$12,985–$13,977</td><td>30%</td></tr>
-      <tr><td>8</td><td>$13,978–$14,970</td><td>35%</td></tr>
-      <tr><td>9</td><td>$14,971–$15,963</td><td>40%</td></tr>
-      <tr><td>10</td><td>$15,964–$16,956</td><td>45%</td></tr>
-      <tr><td>11</td><td>$16,957–$17,949</td><td>50%</td></tr>
-      <tr><td>12</td><td>$17,950–$18,942</td><td>55%</td></tr>
-      <tr><td>13</td><td>$18,943–$19,935</td><td>60%</td></tr>
-      <tr><td>14</td><td>$19,936–$20,928</td><td>65%</td></tr>
-      <tr><td>15</td><td>$20,929–$21,921</td><td>70%</td></tr>
-      <tr><td>16 Over</td><td>$21,921</td><td>100%</td></tr>
-    </table>
-  </text>
   <level>
     <num>(c)</num>
     <text>The fee schedule shall be effective April 1, 1990. The Mayor may revise the fee schedule by rule.</text>
@@ -39,7 +104,7 @@
       <text>(Sept. 19, 1979, D.C. Law 3-16, § 6, 26 DCR 20; Mar. 5, 1981, D.C. Law 3-166, § 2, 27 DCR 5355; Sept. 29, 1982, D.C. Law 4-163, § 2(c), 29 DCR 3974; June 22, 1990, D.C. Law 8-144, § 3(c), 37 DCR 2974; Mar. 6, 1991, D.C. Law 8-202, § 3(c), 37 DCR 7937; Feb. 5, 1994, D.C. Law 10-68, § 11, 40 DCR 6311.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
+      <heading>Section references</heading>
       <text>This section is referenced in § 4-402.01 and § 4-409.</text>
     </level>
     <level>
@@ -48,32 +113,32 @@
       <text>1973 Ed., § 3-305.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 3-16</heading>
+      <heading>Legislative history of Law 3-16</heading>
       <text>For legislative history of D.C. Law 3-16, see Historical and Statutory Notes following § 4-401.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 3-166</heading>
-      <text>Law 3-166, the "Day Care Policy Act Amendment Act of 1980," was introduced in Council and assigned Bill No. 3-381, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on October 28, 1980, and November 12, 1980, respectively. Signed by the Mayor on November 25, 1980, it was assigned Act No. 3-297 and transmitted to both Houses of Congress for its review.</text>
+      <heading>Legislative history of Law 3-166</heading>
+      <text>Law 3-166, the “Day Care Policy Act Amendment Act of 1980,” was introduced in Council and assigned Bill No. 3-381, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on October 28, 1980, and November 12, 1980, respectively. Signed by the Mayor on November 25, 1980, it was assigned Act No. 3-297 and transmitted to both Houses of Congress for its review.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 4-163</heading>
+      <heading>Legislative history of Law 4-163</heading>
       <text>For legislative history of D.C. Law 4-163, see Historical and Statutory Notes following § 4-401.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 8-144</heading>
+      <heading>Legislative history of Law 8-144</heading>
       <text>For legislative history of D.C. Law 8-144, see Historical and Statutory Notes following § 4-403.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 8-202</heading>
+      <heading>Legislative history of Law 8-202</heading>
       <text>For legislative history of D.C. Law 8-202, see Historical and Statutory Notes following § 4-403.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 10-68</heading>
-      <text>Law 10-68, the "Technical Amendments Act of 1993," was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
+      <heading>Legislative history of Law 10-68</heading>
+      <text>Law 10-68, the “Technical Amendments Act of 1993,” was introduced in Council and assigned Bill No. 10-166, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 23, 1993, it was assigned Act No. 10-107 and transmitted to both Houses of Congress for its review. D.C. Law 10-68 became effective on February 5, 1994.</text>
     </level>
     <level>
       <heading>Delegation of Authority</heading>
-      <text>Delegation of authority pursuant to D.C. Law 8-202, the "D.C. Family Support Act Federal Conformity Amendment Act of 1990", Effective March 6, 1991, see Mayor's Order 2000-157, October 12, 2000 (47 DCR 8683).</text>
+      <text>Delegation of authority pursuant to D.C. Law 8-202, the “D.C. Family Support Act Federal Conformity Amendment Act of 1990”, Effective March 6, 1991, see Mayor’s Order 2000-157, October 12, 2000 ( 47 DCR 8683).</text>
     </level>
   </level>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>Metropolitan Police</heading>
+  <heading>Metropolitan Police.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>
@@ -21,6 +21,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XV/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XV-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XV-B/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XV-C/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XVI/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XVI-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XVI-B/index.xml"/>

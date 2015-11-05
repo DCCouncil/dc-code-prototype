@@ -1,8 +1,8 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>General Provisions</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-101~P.xml"/>
+  <heading>General Provisions.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-103.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-104.xml"/>
@@ -18,7 +18,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-114.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-115.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-116.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-117~47-118~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-119.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-120.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-121.xml"/>
@@ -30,7 +29,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-127.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-128.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-129.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-130~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-130.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-131.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-132.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-133.xml"/>

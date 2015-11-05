@@ -1,9 +1,9 @@
 <level type="section">
   <num>28:2-402</num>
-  <heading>Rights of seller's creditors against sold goods.</heading>
+  <heading>Rights of seller’s creditors against sold goods.</heading>
   <level>
     <num>(1)</num>
-    <text>Except as provided in subsections (2) and (3), rights of unsecured creditors of the seller with respect to goods which have been identified to a contract for sale are subject to the buyer's rights to recover the goods under this article (sections 28:2-502 and 28:2-716).</text>
+    <text>Except as provided in subsections (2) and (3), rights of unsecured creditors of the seller with respect to goods which have been identified to a contract for sale are subject to the buyer’s rights to recover the goods under this article (sections 28:2-502 and 28:2-716).</text>
   </level>
   <level>
     <num>(2)</num>
@@ -24,16 +24,34 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 30, 1963, 77 Stat. 654, Pub. L. 88-243, § 1.)</text>
+      <text>(Dec. 30, 1963, 77 Stat. 654, Pub. L. 88-243, § 1.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 28:1-301 and § 28:7-504.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 28:1-301 and § 28:7-504.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 28:2-402.</text>
-      <text>1973 Ed., § 28:2-402.</text>
+      <text>1981 Ed., § 28:2-402.</text>
+      <text>1973 Ed., § 28:2-402.</text>
+    </level>
+    <level>
+      <heading>Uniform Commercial Code Comment</heading>
+      <text>Prior Uniform Statutory Provision: Subsection (2)—Section 26, Uniform Sales Act; Subsections (1) and (3)—none.</text>
+      <text>Changes: Rephrased.</text>
+      <text>Purposes of Changes and New Matter: To avoid confusion on ordinary issues between current sellers and buyers and issues in the field of preference and hindrance by making it clear that:</text>
+      <text>1. Local law on questions of hindrance of creditors by the seller’s retention of possession of the goods are outside the scope of this Article, but retention of possession in the current course of trade is legitimate. Transactions which fall within the law’s policy against improper preferences are reserved from the protection of this Article.</text>
+      <text>2. The retention of possession of the goods by a merchant seller for a commercially reasonable time after a sale or identification in current course is exempted from attack as fraudulent. Similarly, the provisions of subsection (3) have no application to identification or delivery made in the current course of trade, as measured against general commercial understanding of what a “current” transaction is.</text>
+      <text>Definitional Cross References: “Contract for sale”.  Section 2-106.</text>
+      <text>“Creditor”.  Section 1-201.</text>
+      <text>“Good faith”.  Section 2-103.</text>
+      <text>“Goods”.  Section 2-105.</text>
+      <text>“Merchant”.  Section 2-104.</text>
+      <text>“Money”.  Section 1-201.</text>
+      <text>“Reasonable time”.  Section 1-204.</text>
+      <text>“Rights”.  Section 1-201.</text>
+      <text>“Sale”.  Section 2-106.</text>
+      <text>“Seller”.  Section 2-103.</text>
     </level>
   </level>
 </level>

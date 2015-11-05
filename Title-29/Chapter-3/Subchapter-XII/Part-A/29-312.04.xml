@@ -4,14 +4,6 @@
   <level>
     <num>(a)</num>
     <text>A corporation may revoke its dissolution within 120 days of its effective date.</text>
-  </level>
-  <level>
-    <num>(b)</num>
-    <text>Revocation of dissolution shall be authorized in the same manner as the dissolution was authorized unless that authorization permitted revocation by action of the board of directors alone, in which event the board of directors may revoke the dissolution without shareholder action.</text>
-  </level>
-  <level>
-    <num>(c)</num>
-    <text>After the revocation of dissolution is authorized, the corporation may revoke the dissolution by delivering to the Mayor for filing articles of revocation of dissolution, together with a copy of its articles of dissolution, that set forth:</text>
     <level>
       <num>(1)</num>
       <text>The name of the corporation;</text>
@@ -26,16 +18,24 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>If the corporation's board of directors, or incorporators, revoked the dissolution, a statement to that effect;</text>
+      <text>If the corporation’s board of directors, or incorporators, revoked the dissolution, a statement to that effect;</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>If the corporation's board of directors revoked a dissolution authorized by the shareholders, a statement that revocation was permitted by action by the board of directors alone pursuant to that authorization; and</text>
+      <text>If the corporation’s board of directors revoked a dissolution authorized by the shareholders, a statement that revocation was permitted by action by the board of directors alone pursuant to that authorization; and</text>
     </level>
     <level>
       <num>(6)</num>
-      <text>If shareholder action was required to revoke the dissolution, the information required by § 29-312.03(a)(3).</text>
+      <text>If shareholder action was required to revoke the dissolution, the information required by § 29-312.03(a)(3).</text>
     </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Revocation of dissolution shall be authorized in the same manner as the dissolution was authorized unless that authorization permitted revocation by action of the board of directors alone, in which event the board of directors may revoke the dissolution without shareholder action.</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>After the revocation of dissolution is authorized, the corporation may revoke the dissolution by delivering to the Mayor for filing articles of revocation of dissolution, together with a copy of its articles of dissolution, that set forth:</text>
   </level>
   <level>
     <num>(d)</num>
@@ -48,11 +48,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
+      <text>(July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720.)</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-378</heading>
-      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
+      <heading>Legislative history of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 29-101.01.</text>
     </level>
   </level>
 </level>

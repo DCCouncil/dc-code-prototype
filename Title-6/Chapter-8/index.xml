@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Unsafe Structures</heading>
+  <heading>Unsafe Structures.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-801.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-802.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-803.xml"/>

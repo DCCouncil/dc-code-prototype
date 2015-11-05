@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Natural Death</heading>
+  <heading>Natural Death.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-621.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-622.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-623.xml"/>

@@ -10,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Three resident Commissioners who shall be elected in an election held in, and for certain residents of, the Authority's Housing Properties;</text>
+      <text>Three resident Commissioners who shall be elected in an election held in, and for certain residents of, the Authority’s Housing Properties;</text>
     </level>
     <level>
       <num>(2A)</num>
@@ -18,7 +18,8 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>One <span style="font-style: italic; ">ex officio </span>Commissioner, the Deputy Mayor for Planning and Economic Development;</text>
+      <text>One ex officio Commissioner, the Deputy Mayor for Planning and Economic Development;</text>
+      <text>ex officio</text>
     </level>
     <level>
       <num>(4)</num>
@@ -34,7 +35,7 @@
     <text>Those persons nominated by the Mayor pursuant to subsection (a)(1) of this section shall meet the following requirements:</text>
     <level>
       <num>(1)</num>
-      <text>Each individual's appointment may be recommended by official action of the Advisory Committee; or</text>
+      <text>Each individual’s appointment may be recommended by official action of the Advisory Committee; or</text>
     </level>
     <level>
       <num>(2)</num>
@@ -63,7 +64,8 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>The <span style="font-style: italic; ">ex-officio </span>Commissioner shall serve by virtue of his or her incumbency in a District government office.</text>
+    <text>The ex-officio Commissioner shall serve by virtue of his or her incumbency in a District government office.</text>
+    <text>ex-officio</text>
   </level>
   <level>
     <num>(g)</num>
@@ -89,7 +91,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The results of each election shall be retained until the elected Commissioners begin their term pursuant to the next scheduled election. If one of the elected Commissioners becomes unable to serve or is removed from the Board as hereinafter provided, that Commissioner's seat for the remaining term shall be filled as follows:</text>
+      <text>The results of each election shall be retained until the elected Commissioners begin their term pursuant to the next scheduled election. If one of the elected Commissioners becomes unable to serve or is removed from the Board as hereinafter provided, that Commissioner’s seat for the remaining term shall be filled as follows:</text>
       <level>
         <num>(A)</num>
         <text>If the remaining term is less than 180 days, a new Commissioner shall be appointed by the City-Wide Resident Council Advisory Board; or</text>
@@ -106,7 +108,8 @@
   </level>
   <level>
     <num>(m)</num>
-    <text>The Mayor shall designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as Chairperson. The <span style="font-style: italic; ">ex officio </span>Commissioner shall not be appointed as Chairperson. The Chairperson shall conduct the meetings of the Board in accordance with procedures established by the Board.</text>
+    <text>The Mayor shall designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as Chairperson. The ex officio Commissioner shall not be appointed as Chairperson. The Chairperson shall conduct the meetings of the Board in accordance with procedures established by the Board.</text>
+    <text>ex officio</text>
   </level>
   <level>
     <num>(n)</num>
@@ -114,15 +117,16 @@
   </level>
   <level>
     <num>(o)</num>
-    <text>Resident Commissioners shall not be in violation or default of their lease obligations to the Authority. Any such violation or default, and failure to cure the same, if available, within the applicable period of time after notice, shall be cause for a resident Commissioner's removal from the Board. In addition, subject to a final determination through the applicable grievance or other procedure, (which shall include notice of the charges against the resident Commissioner and an opportunity to be heard in person or by counsel in his defense), a resident Commissioner's eviction or voluntary departure from the Authority's Housing Properties, shall be cause for removal from the Board. During the pendency of any action against a resident Commissioner, the Commissioner may be suspended.</text>
+    <text>Resident Commissioners shall not be in violation or default of their lease obligations to the Authority. Any such violation or default, and failure to cure the same, if available, within the applicable period of time after notice, shall be cause for a resident Commissioner’s removal from the Board. In addition, subject to a final determination through the applicable grievance or other procedure, (which shall include notice of the charges against the resident Commissioner and an opportunity to be heard in person or by counsel in his defense), a resident Commissioner’s eviction or voluntary departure from the Authority’s Housing Properties, shall be cause for removal from the Board. During the pendency of any action against a resident Commissioner, the Commissioner may be suspended.</text>
   </level>
   <level>
     <num>(p)</num>
-    <text>No Commissioner shall have any past due taxes, special assessments, or other charges owing to the District. Failure to timely pay any such amounts due, or to pay overdue taxes, assessments, or other District charges after demand therefor and after a final determination pursuant to the applicable grievance or other procedure, (which shall include notice of the charges against the elected Commissioner and an opportunity to be heard in person or by counsel in his defense), shall be cause for a Commissioner's removal from the Board.</text>
+    <text>No Commissioner shall have any past due taxes, special assessments, or other charges owing to the District. Failure to timely pay any such amounts due, or to pay overdue taxes, assessments, or other District charges after demand therefor and after a final determination pursuant to the applicable grievance or other procedure, (which shall include notice of the charges against the elected Commissioner and an opportunity to be heard in person or by counsel in his defense), shall be cause for a Commissioner’s removal from the Board.</text>
   </level>
   <level>
     <num>(q)</num>
-    <text>Other than the <span style="font-style: italic; ">ex officio </span>Commissioner and the labor representative who is a Commissioner, no person shall serve as a Commissioner who is an employee of the Authority or of the District government; a member of any District board or commission (including those that are purely advisory, except for Advisory Neighborhood Commissions); a spouse or domestic partner of the head of a District department or agency; a spouse or domestic partner of an Authority employee; a spouse or domestic partner of an elected official; or a parent or child of any of the above persons.</text>
+    <text>Other than the ex officio Commissioner and the labor representative who is a Commissioner, no person shall serve as a Commissioner who is an employee of the Authority or of the District government; a member of any District board or commission (including those that are purely advisory, except for Advisory Neighborhood Commissions); a spouse or domestic partner of the head of a District department or agency; a spouse or domestic partner of an Authority employee; a spouse or domestic partner of an elected official; or a parent or child of any of the above persons.</text>
+    <text>ex officio</text>
   </level>
   <level>
     <num>(r)</num>
@@ -134,7 +138,7 @@
   </level>
   <level>
     <num>(t)</num>
-    <text>The Board may, by majority vote, remove any Commissioner for official misconduct, conflict of interest violations, neglect of duty, incompetence, or personal misconduct, but only after the Commissioner shall have been given a copy of the charges and an opportunity to answer those charges in accordance with a procedure established in the by-laws or other rules of the Board. The Chairperson shall suspend a Commissioner pending the Board's consideration of the charges. If the Chairperson is the Commissioner against whom charges have been made, the Mayor shall suspend the Chairperson pending such consideration.</text>
+    <text>The Board may, by majority vote, remove any Commissioner for official misconduct, conflict of interest violations, neglect of duty, incompetence, or personal misconduct, but only after the Commissioner shall have been given a copy of the charges and an opportunity to answer those charges in accordance with a procedure established in the by-laws or other rules of the Board. The Chairperson shall suspend a Commissioner pending the Board’s consideration of the charges. If the Chairperson is the Commissioner against whom charges have been made, the Mayor shall suspend the Chairperson pending such consideration.</text>
   </level>
   <level>
     <num>(u)</num>
@@ -157,7 +161,7 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>To evaluate the Executive Director's job performance from time to time; and</text>
+      <text>To evaluate the Executive Director’s job performance from time to time; and</text>
     </level>
     <level>
       <num>(5)</num>
@@ -174,39 +178,40 @@
       <text>(May 9, 2000, D.C. Law 13-105, § 12, 47 DCR 1325; Apr. 12, 2005, D.C. Law 15-337, § 2(c), 52 DCR 2278; Sept. 12, 2008, D.C. Law 17-231, § 15(b), 55 DCR 6758; Mar. 23, 2010, D.C. Law 18-131, § 2, 57 DCR 1193; Mar. 31, 2011, D.C. Law 18-334, § 2, 58 DCR 30.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
+      <heading>Section references</heading>
       <text>This section is referenced in § 1-523.01.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 15-337, in subsec. (q), substituted "(including those that are purely advisory, except for Advisory Neighborhood Commissions)" for "(including those that are purely advisory)"; rewrote subsec. (s); and rewrote the first three sentences of subsec. (w) which had read: "The Board shall meet at least once each month. All meetings of the Board shall be conducted in public after publication of notice of the date, time, and location of the meeting, at least one week prior thereto, in the District of Columbia Register. Each meeting shall commence with a period for public comments, which shall not be limited in time, except that the time allowed each individual speaker may be reasonably limited." Prior to amendment, subsec. (s) read as follows: "(s) Each Commissioner shall be entitled to compensation at the hourly rate of $25 per meeting, not to exceed $3,000 for each board member per year; provided, that each Commissioner shall be entitled to reimbursement of actual travel and other expenses reasonably related to the Commissioner's attendance at Board meetings and fulfillment of official duties."</text>
-      <text>D.C. Law 17-231, in subsec. (q), substituted "spouse or domestic partner" for "spouse".</text>
-      <text>D.C. Law 18-131, in subsec. (a), substituted "11" for "9" in the lead in language, added pars. (2A) and (5), deleted "; and" from the end of par. (3), and substituted "; and" for a period at the end of par. (4); in subsec. (b), inserted "pursuant to subsection (a)(1) of this section"; in subsec. (m), inserted "nominated pursuant to subsection (a)(1) of this section"; and, in subsec. (l), substituted "Elected" for "Resident", "a resident" for "an elected", and "the resident" for "the elected".</text>
-      <text>D.C. Law 18-334, in subsec. (a)(2A), substituted "housing choice voucher program recipient" for "recipient".</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 15-337, in subsec. (q), substituted “(including those that are purely advisory, except for Advisory Neighborhood Commissions)” for “(including those that are purely advisory)”; rewrote subsec. (s); and rewrote the first three sentences of subsec. (w) which had read: “The Board shall meet at least once each month. All meetings of the Board shall be conducted in public after publication of notice of the date, time, and location of the meeting, at least one week prior thereto, in the District of Columbia Register. Each meeting shall commence with a period for public comments, which shall not be limited in time, except that the time allowed each individual speaker may be reasonably limited.” Prior to amendment, subsec. (s) read as follows: “(s) Each Commissioner shall be entitled to compensation at the hourly rate of $25 per meeting, not to exceed $3,000 for each board member per year; provided, that each Commissioner shall be entitled to reimbursement of actual travel and other expenses reasonably related to the Commissioner’s attendance at Board meetings and fulfillment of official duties.”</text>
+      <text>D.C. Law 17-231, in subsec. (q), substituted “spouse or domestic partner” for “spouse”.</text>
+      <text>D.C. Law 18-131, in subsec. (a), substituted “11” for “9” in the lead in language, added pars. (2A) and (5), deleted “; and” from the end of par. (3), and substituted “; and” for a period at the end of par. (4); in subsec. (b), inserted “pursuant to subsection (a)(1) of this section”; in subsec. (m), inserted “nominated pursuant to subsection (a)(1) of this section”; and, in subsec. (l), substituted “Elected” for “Resident”, “a resident” for “an elected”, and “the resident” for “the elected”.</text>
+      <text>D.C. Law 18-334, in subsec. (a)(2A), substituted “housing choice voucher program recipient” for “recipient”.</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
+      <heading>Emergency legislation</heading>
       <text>For temporary (90-day) addition of section, see notes following § 6-201.</text>
+      <text>For temporary (90 days) amendment of this section, see § 254(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-105</heading>
+      <heading>Legislative history of Law 13-105</heading>
       <text>For Law 13-105, see notes following § 6-201.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-337</heading>
+      <heading>Legislative history of Law 15-337</heading>
       <text>For Law 15-337, see notes following § 6-201.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 17-231</heading>
+      <heading>Legislative history of Law 17-231</heading>
       <text>For Law 17-231, see notes following § 6-201.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-131</heading>
-      <text>Law 18-131, the "District of Columbia Housing Authority Board of Commissioners Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-458, which was referred to the Committee on Housing and Workforce Development. The bill was adopted on first and second readings on December 15, 2009, and January 5, 2010, respectively. Approved without signature of the Mayor on January 25, 2010, it was assigned Act No. 18-293 and transmitted to both Houses of Congress for its review. D.C. Law 18-131 became effective on March 23, 2010.</text>
+      <heading>Legislative history of Law 18-131</heading>
+      <text>Law 18-131, the “District of Columbia Housing Authority Board of Commissioners Amendment Act of 2010”, was introduced in Council and assigned Bill No. 18-458, which was referred to the Committee on Housing and Workforce Development. The bill was adopted on first and second readings on December 15, 2009, and January 5, 2010, respectively. Approved without signature of the Mayor on January 25, 2010, it was assigned Act No. 18-293 and transmitted to both Houses of Congress for its review. D.C. Law 18-131 became effective on March 23, 2010.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-334</heading>
-      <text>Law 18-334, the "District of Columbia Housing Authority Board of Commissioners Amendment Act of 2010", was introduced in Council and assigned Bill No. 18-1005, which was referred to the Committee on Housing and Workforce Development. The Bill was adopted on first and second readings on November 23, 2010, and December 7, 2010, respectively. Enacted without signature of the Mayor on January 8, 2011, it was assigned Act No. 18-656 and transmitted to both Houses of Congress for its review. D.C. Law 18-334 became effective on March 31, 2011.</text>
+      <heading>Legislative history of Law 18-334</heading>
+      <text>Law 18-334, the “District of Columbia Housing Authority Board of Commissioners Amendment Act of 2010”, was introduced in Council and assigned Bill No. 18-1005, which was referred to the Committee on Housing and Workforce Development. The Bill was adopted on first and second readings on November 23, 2010, and December 7, 2010, respectively. Enacted without signature of the Mayor on January 8, 2011, it was assigned Act No. 18-656 and transmitted to both Houses of Congress for its review. D.C. Law 18-334 became effective on March 31, 2011.</text>
     </level>
   </level>
 </level>

@@ -26,16 +26,16 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Report to the Board of Directors when the Mayor has reasonable cause to believe, from any examination, whether completed or in process, of any member company, that the company may be an impaired or insolvent insurer; and</text>
+      <text>Report to the Board of Directors when the Mayor has reasonable cause to believe, from any examination, whether completed or in process, of any member insurer, that the insurer may be an impaired or insolvent insurer; and</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Furnish to the Board of Directors the ratios developed by the National Association of Insurance Commissioners' Insurance Regulatory Information System, and listings of companies not included in the ratios. The Board may use the information contained therein in carrying out its duties and responsibilities under this section. The report and the information shall be kept confidential by the Board of Directors until it is made public by the Mayor or other lawful authority.</text>
+      <text>Furnish to the Board of Directors the ratios developed by the National Association of Insurance Commissioners’ Insurance Regulatory Information System, and listings of companies not included in the ratios. The Board may use the information contained therein in carrying out its duties and responsibilities under this section. The report and the information shall be kept confidential by the Board of Directors until it is made public by the Mayor or other lawful authority.</text>
     </level>
   </level>
   <level>
     <num>(b)</num>
-    <text>The Mayor may seek the advice and recommendations of the Board of Directors concerning any matter affecting the Mayor's duties and responsibilities regarding the financial condition of member insurers and companies seeking admission to transact insurance business in the District of Columbia.</text>
+    <text>The Mayor may seek the advice and recommendations of the Board of Directors concerning any matter affecting the Mayor’s duties and responsibilities regarding the financial condition of member insurers and companies seeking admission to transact insurance business in the District of Columbia.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -95,19 +95,27 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-129, § 10, 39 DCR 4036.)</text>
+      <text>(July 22, 1992, D.C. Law 9-129, § 10, 39 DCR 4036; July 23, 2014, D.C. Law 20-130, § 2(f), 61 DCR 5900.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-5406.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-5406.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 35-1949.</text>
+      <text>1981 Ed., § 35-1949.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 9-129</heading>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-130 substituted “insurer” for “company” throughout (a)(3).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 9-129</heading>
       <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-130</heading>
+      <text>See note to § 31-5401.</text>
     </level>
   </level>
 </level>

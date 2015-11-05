@@ -62,11 +62,13 @@
     <level>
       <num>(6)</num>
       <text>Each contract between an employment counseling service and a job-seeker shall contain the following notice in type which is more prominent than the type used for the remainder of the contract:</text>
+      <level>
+        <heading>NOTICE</heading>
+        <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment counseling service) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
+        <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
+      </level>
     </level>
   </level>
-  <text class="centered">NOTICE</text>
-  <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment counseling service) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
-  <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
   <level>
     <num>(g)</num>
     <text>No employment counseling service shall charge any job-seeker a registration fee or collect from any job-seeker any payment for any service in advance of performing the service.</text>
@@ -80,7 +82,7 @@
     <text>No employment counseling service doing business in the District or any person employed by or acting as an agent of that employment counseling service shall:</text>
     <level>
       <num>(1)</num>
-      <text>Charge any job-seeker any fee based on the job-seeker's desired income;</text>
+      <text>Charge any job-seeker any fee based on the job-seeker’s desired income;</text>
     </level>
     <level>
       <num>(2)</num>
@@ -88,7 +90,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Enter into any contract with any person under 18 years of age, who is not an emancipated minor, unless that person's parent or guardian co-signs the contract; or</text>
+      <text>Enter into any contract with any person under 18 years of age, who is not an emancipated minor, unless that person’s parent or guardian co-signs the contract; or</text>
     </level>
     <level>
       <num>(4)</num>
@@ -98,19 +100,19 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 13, 1985, D.C. Law 5-136, § 6, 31 DCR 5727.)</text>
+      <text>(Mar. 13, 1985, D.C. Law 5-136, § 6, 31 DCR 5727.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 28-3904.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 28-3904.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 36-1005.</text>
+      <text>1981 Ed., § 36-1005.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 5-136</heading>
-      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
+      <heading>Legislative history of Law 5-136</heading>
+      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
     </level>
   </level>
 </level>

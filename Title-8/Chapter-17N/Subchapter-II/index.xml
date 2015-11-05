@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>II</num>
-  <heading>Management of Sustainable Energy Programs</heading>
+  <heading>Management of Sustainable Energy Programs.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.03.xml"/>
@@ -13,7 +13,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.10.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.11.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.12~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.12.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.13.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.15.xml"/>
 </level>

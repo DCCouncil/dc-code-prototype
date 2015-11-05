@@ -28,7 +28,7 @@
       <text>Notwithstanding the provisions of paragraph (1) of this subsection, a person may be appointed as a guardian if:</text>
       <level>
         <num>(A)</num>
-        <text>The person is the incapacitated individual's spouse, domestic partner, adult child, parent, adult sibling, or relative with whom the incapacitated individual has resided for more than 6 months prior to the filing of the petition; and</text>
+        <text>The person is the incapacitated individual’s spouse, domestic partner, adult child, parent, adult sibling, or relative with whom the incapacitated individual has resided for more than 6 months prior to the filing of the petition; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -38,7 +38,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Unless lack of qualification or other good cause dictates the contrary, the court shall appoint a guardian in accordance with the incapacitated individual's current stated wishes or his or her most recent nomination in a durable power of attorney.</text>
+    <text>Unless lack of qualification or other good cause dictates the contrary, the court shall appoint a guardian in accordance with the incapacitated individual’s current stated wishes or his or her most recent nomination in a durable power of attorney.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -73,6 +73,84 @@
     <text>With respect to persons having equal priority, the court shall select the person it deems best qualified to serve. The court, acting in the best interest of the incapacitated individual, may pass over a person having priority and appoint a person having a lower priority or no priority.</text>
   </level>
   <level>
+    <num>(d-1)</num>
+    <level>
+      <num>(1)</num>
+      <text>The court shall not appoint a guardian until the person to be appointed as a guardian has submitted to the court a statement, signed and sworn by the person to be appointed, stating whether or not he or she has been convicted of, has pleaded nolo contendere to, is on probation before judgment or placement of a case upon a stet docket for, or has been found not guilty by reason of insanity of, any of the following offenses and including the court and date of each such adjudication:</text>
+      <level>
+        <num>(A)</num>
+        <text>A lifetime registration offense, as defined in § 22-4001(6), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A registration offense, as defined in § 22-4001(8), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Any offense set forth in Chapters 8, 8A, 9A, 10, 11, 14, 15, and 32 of Title 22, or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>A dangerous crime, as defined § 23-1331(3), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense; or</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>A crime of violence, as defined in § 23-1331(4), or its equivalent in any other state or territory, including any attempt or conspiracy to commit such an offense.</text>
+      </level>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>In addition to the affirmation under paragraph (1) of this subsection, a guardian shall submit to the court:</text>
+      <level>
+        <num>(A)</num>
+        <text>Within 60 days after the guardianship appointment, the results of a criminal-history check from the Metropolitan Police Department (“MPD”), conducted no more than 90 days before the guardianship appointment; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Within 180 days after the guardianship appointment, the results of a Federal Bureau of Investigation (“FBI”) fingerprint background check, conducted no more than 90 days before the guardianship appointment.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The results of all criminal-history checks and FBI fingerprint background checks and all signed, sworn statements, submitted pursuant to paragraphs (1) and (2) of this subsection, shall be made a part of the record of the case.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>Emergency guardians, health-care guardians, and provisional guardians appointed under § 21-2046 are exempt from the requirements of paragraph (2) of this subsection.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>If a guardian serves as a member of the Probate Division’s Fiduciary Panel of Attorneys, the guardian may satisfy the requirements of paragraph (2) of this subsection by submitting to the court the results of a criminal-history check conducted by MPD and a FBI fingerprint background check, each issued no more than 3 years before the guardianship appointment.</text>
+    </level>
+  </level>
+  <level>
+    <num>(d-2)</num>
+    <level>
+      <num>(1)</num>
+      <text>It is presumed not to be in the best interests of an incapacitated individual to appoint as guardian a person who has been convicted of an offense identified in subsection (d-1)(1) or found, pursuant to an investigation by law enforcement or a government agency, to have inflicted harm upon a child, elderly individual, or person with a disability.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>When determining whether it is in the best interest of the incapacitated individual for a person to be appointed as a guardian who has been convicted or found to have inflicted harm as set forth in paragraph (1) of this subsection, the Court shall consider the following:</text>
+      <level>
+        <num>(A)</num>
+        <text>The prior relationship, if any, of the proposed guardian to the incapacitated individual;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The nature of the offense;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The date of the offense;</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Evidence of the rehabilitation of the proposed guardian.</text>
+      </level>
+    </level>
+  </level>
+  <level>
     <num>(e)</num>
     <text>A guardian shall limit his or her caseload to a size that allows the guardian:</text>
     <level>
@@ -81,7 +159,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>To maintain regular and reasonable contact with each ward, including a minimum of one visit per month, unless otherwise specified by the court based on the expressed preferences of the ward or the ward's best interests; and</text>
+      <text>To maintain regular and reasonable contact with each ward, including a minimum of one visit per month, unless otherwise specified by the court based on the expressed preferences of the ward or the ward’s best interests; and</text>
     </level>
     <level>
       <num>(3)</num>
@@ -91,69 +169,74 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Apr. 4, 2006, D.C. Law 16-79, § 7(b), 53 DCR 1035; Oct. 22, 2008, D.C. Law 17-249, § 2(d), 55 DCR 9206.)</text>
+      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Apr. 4, 2006, D.C. Law 16-79, § 7(b), 53 DCR 1035; Oct. 22, 2008, D.C. Law 17-249, § 2(d), 55 DCR 9206; Mar. 11, 2015, D.C. Law 20-230, § 2(d), 62 DCR 278.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 21-2043.</text>
+      <text>1981 Ed., § 21-2043.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 16-79, in subsec. (c)(1), substituted "spouse or domestic partner" for "spouse".</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 16-79, in subsec. (c)(1), substituted “spouse or domestic partner” for “spouse”.</text>
       <text>D.C. Law 17-249 added subsecs. (a-1), (c)(3A), and (e).</text>
+      <text>The 2015 amendment by D.C. Law 20-230 added (d-1) and (d-2).</text>
     </level>
     <level>
       <heading>Temporary Amendment of Section</heading>
       <text>Section 2(d) of D.C. Law 16-194 added par. (3A) to subsec. (c) and added subsecs. (a-1) and (e) to read as follows:</text>
-      <text>"(a-1)(1) Except as provided in paragraph (2) of this subsection, a person may not be appointed as a guardian if the person:</text>
-      <text>"(A) Provides substantial services to the incapacitated individual in a professional or business capacity;</text>
-      <text>"(B) Is a creditor of the incapacitated individual; or</text>
-      <text>"(C) Is employed by any person or entity that provides services to the incapacitated individual in a professional or business capacity.</text>
-      <text>"(2) Notwithstanding the provisions of subsection (a-1) of this section, a person may be appointed as a guardian if the person is the incapacitated individual's spouse, domestic partner, adult child, parent, adult sibling, or relative with whom the incapacitated individual has resided for more than 6 months prior to the filing of the petition and the court determines that the potential conflict of interest is insubstantial and that the appointment would clearly be in the best interests of the incapacitated individual. The court may not appoint a guardian in any other circumstance in which a conflict of interest may occur."</text>
-      <text>"(3A) An adult sibling of the incapacitated individual or a person nominated by will of a deceased sibling or by other writing signed by an adult sibling and attested by at least 2 witnesses;"</text>
-      <text>"(e) A guardian shall limit his or her caseload to a size that allows the guardian:</text>
-      <text>"(1) To accurately and adequately support and protect each ward;</text>
-      <text>"(2) To make a minimum of one visit per month with each ward; and</text>
-      <text>"(3) To have regular contact with service providers.".</text>
+      <text>“(a-1)(1) Except as provided in paragraph (2) of this subsection, a person may not be appointed as a guardian if the person:</text>
+      <text>“(A) Provides substantial services to the incapacitated individual in a professional or business capacity;</text>
+      <text>“(B) Is a creditor of the incapacitated individual; or</text>
+      <text>“(C) Is employed by any person or entity that provides services to the incapacitated individual in a professional or business capacity.</text>
+      <text>“(2) Notwithstanding the provisions of subsection (a-1) of this section, a person may be appointed as a guardian if the person is the incapacitated individual’s spouse, domestic partner, adult child, parent, adult sibling, or relative with whom the incapacitated individual has resided for more than 6 months prior to the filing of the petition and the court determines that the potential conflict of interest is insubstantial and that the appointment would clearly be in the best interests of the incapacitated individual. The court may not appoint a guardian in any other circumstance in which a conflict of interest may occur.”</text>
+      <text>“(3A) An adult sibling of the incapacitated individual or a person nominated by will of a deceased sibling or by other writing signed by an adult sibling and attested by at least 2 witnesses;”</text>
+      <text>“(e) A guardian shall limit his or her caseload to a size that allows the guardian:</text>
+      <text>“(1) To accurately and adequately support and protect each ward;</text>
+      <text>“(2) To make a minimum of one visit per month with each ward; and</text>
+      <text>“(3) To have regular contact with service providers.”.</text>
       <text>Section 6(b) of D.C. Law 16-194 provided that the act shall expire after 225 days of its having taken effect.</text>
       <text>Section 2(d) of D.C. Law 17-100 added subsecs. (a-1), (c)(3A), and (e) to read as follows:</text>
-      <text>"(a-1)(1) Except as provided in paragraph (2) of this subsection, a person may not be appointed as a guardian if the person:</text>
-      <text>"(A) Provides substantial services to the incapacitated individual in a professional or business capacity;</text>
-      <text>"(B) Is a creditor of the incapacitated individual; or</text>
-      <text>"(C) Is employed by any person or entity that provides services to the incapacitated individual in a professional or business capacity.</text>
-      <text>"(2) Notwithstanding the provisions of paragraph (1) of this subsection, a person may be appointed as a guardian if:</text>
-      <text>"(A) The person is the incapacitated individual's spouse, domestic partner, adult child, parent, adult sibling, or relative with whom the incapacitated individual has resided for more than 6 months prior to the filing of the petition; and</text>
-      <text>"(B) The court determines that the potential conflict of interest is insubstantial and that the appointment would clearly be in the best interests of the incapacitated individual. The court may not appoint a guardian in any other circumstance in which a conflict of interest may occur."</text>
-      <text>"(3A) An adult sibling of the incapacitated individual or a person nominated by will of a deceased sibling or by other writing signed by an adult sibling and attested by at least 2 witnesses;"</text>
-      <text>"(e) A guardian shall limit his or her caseload to a size that allows the guardian:</text>
-      <text>"(1) To accurately and adequately support and protect each ward;</text>
-      <text>"(2) To make a minimum of one visit per month with each ward; and</text>
-      <text>"(3) To have regular contact with service providers."</text>
+      <text>“(a-1)(1) Except as provided in paragraph (2) of this subsection, a person may not be appointed as a guardian if the person:</text>
+      <text>“(A) Provides substantial services to the incapacitated individual in a professional or business capacity;</text>
+      <text>“(B) Is a creditor of the incapacitated individual; or</text>
+      <text>“(C) Is employed by any person or entity that provides services to the incapacitated individual in a professional or business capacity.</text>
+      <text>“(2) Notwithstanding the provisions of paragraph (1) of this subsection, a person may be appointed as a guardian if:</text>
+      <text>“(A) The person is the incapacitated individual’s spouse, domestic partner, adult child, parent, adult sibling, or relative with whom the incapacitated individual has resided for more than 6 months prior to the filing of the petition; and</text>
+      <text>“(B) The court determines that the potential conflict of interest is insubstantial and that the appointment would clearly be in the best interests of the incapacitated individual. The court may not appoint a guardian in any other circumstance in which a conflict of interest may occur.”</text>
+      <text>“(3A) An adult sibling of the incapacitated individual or a person nominated by will of a deceased sibling or by other writing signed by an adult sibling and attested by at least 2 witnesses;”</text>
+      <text>“(e) A guardian shall limit his or her caseload to a size that allows the guardian:</text>
+      <text>“(1) To accurately and adequately support and protect each ward;</text>
+      <text>“(2) To make a minimum of one visit per month with each ward; and</text>
+      <text>“(3) To have regular contact with service providers.”</text>
       <text>Section 6(b) of D.C. Law 17-100 provided that the act shall expire after 225 days of its having taken effect.</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Amendment Act of 2006 (D.C. Act 16-480, September 25, 2006, 53 DCR 7940).</text>
-      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-566, December 19, 2006, 53 DCR 10272).</text>
-      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2007 (D.C. Act 17-161, October 18, 2007, 54 DCR 10932).</text>
-      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-245, January 23, 2008, 55 DCR 1230).</text>
-      <text>For temporary (90 day) amendment, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008, 55 DCR 9167).</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Amendment Act of 2006 (D.C. Act 16-480, September 25, 2006,  53 DCR 7940).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-566, December 19, 2006,  53 DCR 10272).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2007 (D.C. Act 17-161, October 18, 2007,  54 DCR 10932).</text>
+      <text>For temporary (90 day) amendment of section, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-245, January 23, 2008,  55 DCR 1230).</text>
+      <text>For temporary (90 day) amendment, see § 2(d) of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008,  55 DCR 9167).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 6-204</heading>
-      <text>For legislative history of D.C. Law 6-204, see Historical and Statutory Notes following § 21-2001.</text>
+      <heading>Legislative history of Law 6-204</heading>
+      <text>For legislative history of D.C. Law 6-204, see Historical and Statutory Notes following § 21-2001.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 16-79</heading>
-      <text>For Law 16-79, see notes following § 21-2011.</text>
+      <heading>Legislative history of Law 16-79</heading>
+      <text>For Law 16-79, see notes following § 21-2011.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 17-249</heading>
-      <text>For Law 17-249, see notes following § 21-2002.</text>
+      <heading>Legislative history of Law 17-249</heading>
+      <text>For Law 17-249, see notes following § 21-2002.</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
-      <text>Uniform Law: This section is based upon § 2-205 of the Uniform Guardianship and Protective Proceedings Act (1982 Act).</text>
+      <heading>Legislative history of Law 20-230</heading>
+      <text>See note to § 21-2011.</text>
+    </level>
+    <level>
+      <heading>Editor’s notes</heading>
+      <text>Uniform Law: This section is based upon § 2-205 of the Uniform Guardianship and Protective Proceedings Act (1982 Act).</text>
     </level>
   </level>
 </level>

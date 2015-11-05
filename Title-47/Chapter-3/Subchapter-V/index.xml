@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Fund Accounting</heading>
+  <heading>Fund Accounting.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-371.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-372.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-373.xml"/>

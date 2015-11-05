@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VI</num>
-  <heading>Tax on Residents and Nonresidents</heading>
+  <heading>Tax on Residents and Nonresidents.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.03.xml"/>
@@ -26,4 +26,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.09f.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.10.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.11~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.13.xml"/>
 </level>

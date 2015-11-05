@@ -9,7 +9,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The CFO's request shall:</text>
+      <text>The CFO’s request shall:</text>
       <level>
         <num>(A)</num>
         <text>Include the full name of the obligor and any other names known to be used by the obligor;</text>
@@ -57,12 +57,12 @@
         </level>
         <level>
           <num>(v)</num>
-          <text>For each account of the obligor, the obligor's account number and balance.</text>
+          <text>For each account of the obligor, the obligor’s account number and balance.</text>
         </level>
       </level>
       <level>
         <num>(B)</num>
-        <text>For a financial institution that submits reports through the Federal Parent Locator Service under 42 U.S.C. § 666(a)(17), a report that contains the information that meets the specifications required for financial-data-match reports under the Federal Parent Locator Service shall meet the requirements of this subsection.</text>
+        <text>For a financial institution that submits reports through the Federal Parent Locator Service under 42 U.S.C. § 666(a)(17), a report that contains the information that meets the specifications required for financial-data-match reports under the Federal Parent Locator Service shall meet the requirements of this subsection.</text>
       </level>
     </level>
   </level>
@@ -87,26 +87,26 @@
     <text>For the purposes of this section, the term:</text>
     <level>
       <num>(1)</num>
-      <text>"Account" means any funds from a demand deposit account, checking account, negotiable order of withdrawal account, savings account, time deposit account, money market mutual fund account, or certificate of deposit account, any funds paid towards the purchase of shares or other interest in a financial institution, and any funds or property held by a financial institution, and does not include an account or portion of an account to which an obligor does not have access due to the pledge of the funds as security for a loan or other obligation, funds on property deposited to an account after the time that the financial institution initially attaches the account, an account or portion of an account to which the financial institution has a present right to exercise a right of setoff, an account or portion of an account that has an account holder of interest named as an owner on the account, or an account or portion of an account to which the obligor does not have an unconditional right of access.</text>
+      <text>“Account” means any funds from a demand deposit account, checking account, negotiable order of withdrawal account, savings account, time deposit account, money market mutual fund account, or certificate of deposit account, any funds paid towards the purchase of shares or other interest in a financial institution, and any funds or property held by a financial institution, and does not include an account or portion of an account to which an obligor does not have access due to the pledge of the funds as security for a loan or other obligation, funds on property deposited to an account after the time that the financial institution initially attaches the account, an account or portion of an account to which the financial institution has a present right to exercise a right of setoff, an account or portion of an account that has an account holder of interest named as an owner on the account, or an account or portion of an account to which the obligor does not have an unconditional right of access.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>"Account holder of interest" means any person, other than the obligor, who asserts an ownership interest in an account.</text>
+      <text>“Account holder of interest” means any person, other than the obligor, who asserts an ownership interest in an account.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>"CFO" means the Chief Financial Officer of the District of Columbia.</text>
+      <text>“CFO” means the Chief Financial Officer of the District of Columbia.</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>"Financial institution" means a:</text>
+      <text>“Financial institution” means a:</text>
       <level>
         <num>(A)</num>
-        <text>Depository institution, as defined in the Federal Deposit Insurance Act under 12 U.S.C. § 1813(c);</text>
+        <text>Depository institution, as defined in the Federal Deposit Insurance Act under 12 U.S.C. § 1813(c);</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>Federal credit union or State credit union, as defined in the Federal Credit Union Act under 12 U.S.C. § 1752; or</text>
+        <text>Federal credit union or State credit union, as defined in the Federal Credit Union Act under 12 U.S.C. § 1752; or</text>
       </level>
       <level>
         <num>(C)</num>
@@ -115,21 +115,21 @@
     </level>
     <level>
       <num>(5)</num>
-      <text>"Obligor" means a person, whose property is subject to a tax lien.</text>
+      <text>“Obligor” means a person, whose property is subject to a tax lien.</text>
     </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 14, 2011, D.C. Law 19-21, § 8082(b), 58 DCR 6226.)</text>
+      <text>(Sept. 14, 2011, D.C. Law 19-21, § 8082(b), 58 DCR 6226.)</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-21</heading>
-      <text>For history of Law 19-21, see notes under § 47-305.02.</text>
+      <heading>Legislative history of Law 19-21</heading>
+      <text>For history of Law 19-21, see notes under § 47-305.02.</text>
     </level>
     <level>
-      <heading>Short Title</heading>
-      <text>Short title: Section 8081 of D.C. Law 19-21 provided that subtitle I of title VIII of the act may be cited as "Bank Account Tax Offset Act of 2011".</text>
+      <heading>Short title</heading>
+      <text>Short title: Section 8081 of D.C. Law 19-21 provided that subtitle I of title VIII of the act may be cited as “Bank Account Tax Offset Act of 2011”.</text>
     </level>
   </level>
 </level>

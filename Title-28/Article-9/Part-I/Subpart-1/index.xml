@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subpart</prefix>
   <num>1</num>
-  <heading>Short Title, Definitions, and General Concepts</heading>
+  <heading>Short Title, Definitions, and General Concepts.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-103.xml"/>

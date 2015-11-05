@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VII</num>
-  <heading>Tax on Corporations and Financial Institutions</heading>
+  <heading>Tax on Corporations and Financial Institutions.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.02a~P.xml"/>
@@ -12,4 +12,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1807.11.xml"/>
 </level>

@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>31D</num>
-  <heading>Health Benefit Exchange</heading>
+  <heading>Health Benefit Exchange.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.03.xml"/>
@@ -11,6 +11,8 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.09a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.09b.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.10.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.11.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-3171.12.xml"/>

@@ -39,7 +39,7 @@
     <text>The number of answers filed for moving infractions:</text>
     <level>
       <num>(A)</num>
-      <text>The number of "admit" answers filed for moving infractions:</text>
+      <text>The number of “admit” answers filed for moving infractions:</text>
       <level>
         <num>(i)</num>
         <text>The number of hearings held for respondents who admit the commission of moving infractions; and</text>
@@ -51,11 +51,11 @@
     </level>
     <level>
       <num>(B)</num>
-      <text>The number of "admit with explanation" answers filed for moving infractions; the number of suspensions and revocations of respondents who admit with explanation the commission of a moving infraction;</text>
+      <text>The number of “admit with explanation” answers filed for moving infractions; the number of suspensions and revocations of respondents who admit with explanation the commission of a moving infraction;</text>
     </level>
     <level>
       <num>(C)</num>
-      <text>The number of "deny" answers filed for moving infractions:</text>
+      <text>The number of “deny” answers filed for moving infractions:</text>
       <level>
         <num>(i)</num>
         <text>The number of determinations of liability of respondents who deny the commission of moving infractions;</text>
@@ -83,15 +83,15 @@
     <text>The number of answers filed for parking, standing, stopping and pedestrian infractions:</text>
     <level>
       <num>(A)</num>
-      <text>The number of "admit" answers filed for parking, standing, stopping and pedestrian infractions;</text>
+      <text>The number of “admit” answers filed for parking, standing, stopping and pedestrian infractions;</text>
     </level>
     <level>
       <num>(B)</num>
-      <text>The number of "admit with explanation" answers filed for parking, standing, stopping and pedestrian infractions; and</text>
+      <text>The number of “admit with explanation” answers filed for parking, standing, stopping and pedestrian infractions; and</text>
     </level>
     <level>
       <num>(C)</num>
-      <text>The number of "deny" answers filed for parking, standing, stopping and pedestrian infractions:</text>
+      <text>The number of “deny” answers filed for parking, standing, stopping and pedestrian infractions:</text>
       <level>
         <num>(i)</num>
         <text>The number of determinations of liability of respondents who deny the commission of parking, standing, stopping and pedestrian infractions; and</text>
@@ -120,22 +120,22 @@
   </level>
   <level>
     <num>(6)</num>
-    <text>The number of notices of infraction issued to lessors covered under § 50-2303.04:</text>
+    <text>The number of notices of infraction issued to lessors covered under § 50-2303.04:</text>
     <level>
       <num>(A)</num>
-      <text>The penalties and fines imposed for infractions under § 50-2303.04;</text>
+      <text>The penalties and fines imposed for infractions under § 50-2303.04;</text>
     </level>
     <level>
       <num>(B)</num>
-      <text>The penalties and fines actually paid under § 50-2303.04;</text>
+      <text>The penalties and fines actually paid under § 50-2303.04;</text>
     </level>
     <level>
       <num>(C)</num>
-      <text>The number of outstanding infractions under § 50-2303.04; and</text>
+      <text>The number of outstanding infractions under § 50-2303.04; and</text>
     </level>
     <level>
       <num>(D)</num>
-      <text>The amount of fines and penalties outstanding under § 50-2303.04;</text>
+      <text>The amount of fines and penalties outstanding under § 50-2303.04;</text>
     </level>
   </level>
   <level>
@@ -203,7 +203,7 @@
     </level>
     <level>
       <num>(D)</num>
-      <text>The average cost of each booting; and</text>
+      <text>The average cost of each booting;</text>
     </level>
   </level>
   <level>
@@ -219,22 +219,53 @@
     </level>
     <level>
       <num>(C)</num>
-      <text>The total collected in booting fees.</text>
+      <text>The total collected in booting fees; and</text>
+    </level>
+  </level>
+  <level>
+    <num>(12)</num>
+    <text>The number of requests for reconsideration filed after an initial finding of liability:</text>
+    <level>
+      <num>(A)</num>
+      <text>The number of violations dismissed after reconsideration; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The number of violations affirmed after reconsideration.</text>
     </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Sept. 12, 1978, D.C. Law 2-104, § 108, 25 DCR 1275.)</text>
+      <text>(Sept. 12, 1978, D.C. Law 2-104, § 108, 25 DCR 1275; July 23, 2014, D.C. Law 20-127, § 3(c), 61 DCR 5711.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 40-608.</text>
-      <text>1973 Ed., § 40-1108.</text>
+      <text>1981 Ed., § 40-608.</text>
+      <text>1973 Ed., § 40-1108.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 2-104</heading>
-      <text>For legislative history of D.C. Law 2-104, see Historical and Statutory Notes following § 50-2301.01.</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-127 added (12) and made related changes.</text>
+    </level>
+    <level>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 days) amendment of D.C. Law 20-127, § 5, see § 7009 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of D.C. Law 20-127, § 5, see § 7009 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of D.C. Law 20-127, § 5, see § 7009 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 2-104</heading>
+      <text>For legislative history of D.C. Law 2-104, see Historical and Statutory Notes following § 50-2301.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-127</heading>
+      <text>See note to § 50-2301.04.</text>
+    </level>
+    <level>
+      <heading>Editor's notes</heading>
+      <text>Applicability of D.C. Law 20-127: Section 5 of D.C. Law 20-127, as amended by D.C. Law 20-155, § 7009, provided that the act shall apply as of October 1, 2014.</text>
+      <text>Section 5 of D.C. Law 20-127, as amended by D.C. Law 20-155, § 7009, provided that the act shall apply as of October 1, 2014.</text>
     </level>
   </level>
 </level>

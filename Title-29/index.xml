@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Title</prefix>
   <num>29</num>
-  <heading>Business Organizations</heading>
+  <heading>Business Organizations.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>

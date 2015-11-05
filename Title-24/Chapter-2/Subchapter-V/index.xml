@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>V</num>
-  <heading>Work Release Program</heading>
+  <heading>Work Release Program.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-241.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-241.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-241.03.xml"/>

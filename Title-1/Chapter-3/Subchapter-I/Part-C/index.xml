@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>C</num>
-  <heading>The Council</heading>
+  <heading>The Council.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.41.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.42.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.43.xml"/>

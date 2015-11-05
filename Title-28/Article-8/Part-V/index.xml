@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>V</num>
-  <heading>Security Entitlements</heading>
+  <heading>Security Entitlements.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-501.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_8-503.xml"/>

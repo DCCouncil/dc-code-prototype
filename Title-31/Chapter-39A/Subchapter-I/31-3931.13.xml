@@ -3,7 +3,14 @@
   <heading>Annual report.</heading>
   <level>
     <num>(a)</num>
-    <text>On or before March 2 of each year, a captive insurer shall submit to the Commissioner, on a form prescribed by the Commissioner by regulation, a report of its financial condition, as prepared by a certified public accountant. A captive insurer shall file a consolidated report on behalf of each of its segregated accounts. A captive insurer shall use generally accepted accounting principles and include any useful or necessary modifications or adaptations thereof that have been approved or accepted by the Commissioner for the type of insurance and kinds of insurers to be reported upon, as supplemented by additional information required by the Commissioner.</text>
+    <level>
+      <num>(1)</num>
+      <text>On or before March 2 of each year, a captive insurer, including, if applicable, each protected cell, shall submit to the Commissioner, on a form prescribed by the Commissioner, a report of its financial condition, as prepared by a certified public accountant. A captive insurer shall file a consolidated report on behalf of each of its protected cells.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A captive insurer, including, if applicable, each protected cell, shall use generally accepted accounting principles and include any useful or necessary modifications or adaptations of these principles that have been approved or accepted by the Commissioner for the type of insurance and kinds of insurers to be reported upon, as supplemented by additional information required by the Commissioner.</text>
+    </level>
   </level>
   <level>
     <num>(b)</num>
@@ -14,37 +21,42 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The pure captive insurer shall file on or before March 2 of each year such forms as required by the Commissioner by regulation to provide sufficient detail to support its premium tax return filed pursuant to § 31-3931.12.</text>
+      <text>The pure captive insurer shall file on or before March 2 of each year such forms as required by the Commissioner by regulation to provide sufficient detail to support its premium tax return filed pursuant to § 31-3931.12.</text>
     </level>
   </level>
   <level>
     <num>(c)</num>
-    <text>All risk retention groups licensed as captive insurers shall comply with Chapter 3 of this title [§ 31-301 et seq.], except that the exemption in § 31-314(a) shall not apply to risk retention groups. All risk retention groups licensed as captive insurers shall comply with the actuarial opinion filing requirements set forth in §§ 31-2502.26a and 31-2502.26b.</text>
+    <text>All risk retention groups licensed as captive insurers shall comply with Chapter 3 of this title [§ 31-301 et seq.], except that the exemption in § 31-314(a) shall not apply to risk retention groups. All risk retention groups licensed as captive insurers shall comply with the actuarial opinion filing requirements set forth in §§ 31-2502.26a and 31-2502.26b.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 14, 52 DCR 1205; Mar. 14, 2012, D.C. Law 19-103, § 2(d), 59 DCR 432.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 14, 52 DCR 1205; Mar. 14, 2012, D.C. Law 19-103, § 2(d), 59 DCR 432; Mar. 10, 2015, D.C. Law 20-203, § 2(h), 61 DCR 12572.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-3932.03.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-3932.03.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
+      <heading>Effect of amendments</heading>
       <text>D.C. Law 19-103 added subsec. (c).</text>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted “insurer” for “insurance company” in (6); substituted “branch captive insurer, protected cell” for “segregated account” in (9); added (13A); substituted “protected cell” for “segregated account” throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) addition of section, see § 14 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 14 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004,  52 DCR 1238).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-262</heading>
-      <text>For Law 15-262, see notes following § 31-3931.01.</text>
+      <heading>Legislative history of Law 15-262</heading>
+      <text>For Law 15-262, see notes following § 31-3931.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-103</heading>
-      <text>For history of Law 19-103, see notes under § 31-3931.03.</text>
+      <heading>Legislative history of Law 19-103</heading>
+      <text>For history of Law 19-103, see notes under § 31-3931.03.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>

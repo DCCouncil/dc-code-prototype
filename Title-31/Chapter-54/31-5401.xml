@@ -4,35 +4,47 @@
   <text>For the purposes of this chapter, the term:</text>
   <level>
     <num>(1)</num>
-    <text>"Account" means either of the 2 accounts created under § 31-5403.</text>
+    <text>“Account” means either of the 2 accounts created under § 31-5403.</text>
   </level>
   <level>
     <num>(2)</num>
-    <text>"Association" means the District of Columbia Life and Health Insurance Guaranty Association created under § 31-5403.</text>
+    <text>“Association” means the District of Columbia Life and Health Insurance Guaranty Association created under § 31-5403.</text>
+  </level>
+  <level>
+    <num>(2A)</num>
+    <text>“Benefit plan” means a specific employee, union, or association of natural persons benefit plan.</text>
+  </level>
+  <level>
+    <num>(2B)</num>
+    <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
   </level>
   <level>
     <num>(3)</num>
-    <text>"Contractual obligation" means any obligation under a policy or contract or certificate under a group policy or contract, or portion thereof for which coverage is provided under § 31-5402.</text>
+    <text>“Contractual obligation” means any obligation under a policy or contract or certificate under a group policy or contract, or portion thereof for which coverage is provided under § 31-5402.</text>
   </level>
   <level>
     <num>(4)</num>
-    <text>"Covered policy" means any policy, contract or group certificate within the scope of § 31-5402.</text>
+    <text>“Covered policy” means any policy, contract or group certificate within the scope of § 31-5402.</text>
+  </level>
+  <level>
+    <num>(4A)</num>
+    <text>“Extra-contractual claims” shall include claims relating to bad faith in the payment of claims, punitive or exemplary damages, or attorneys' fees and costs.</text>
   </level>
   <level>
     <num>(5)</num>
-    <text>"Impaired insurer" means a member insurer which, after July 22, 1992, is not an insolvent insurer, and (A) is deemed by the Mayor to be potentially unable to fulfill its contractual obligations, or (B) is placed under an order of rehabilitation or conservation by a court of competent jurisdiction.</text>
+    <text>“Impaired insurer” means a member insurer which, after July 22, 1992, is not an insolvent insurer, and (A) is deemed by the Mayor to be potentially unable to fulfill its contractual obligations, or (B) is placed under an order of rehabilitation or conservation by a court of competent jurisdiction.</text>
   </level>
   <level>
     <num>(6)</num>
-    <text>"Insolvent insurer" means a member insurer which, after July 22, 1992, is placed under an order of liquidation by a court of competent jurisdiction with a finding of insolvency.</text>
+    <text>“Insolvent insurer” means a member insurer which, after July 22, 1992, is placed under an order of liquidation by a court of competent jurisdiction with a finding of insolvency.</text>
   </level>
   <level>
     <num>(7)</num>
-    <text>"Mayor" means the Mayor of the District of Columbia or the Mayor's designee.</text>
+    <text>“Mayor” means the Mayor of the District of Columbia or the Mayor’s designee.</text>
   </level>
   <level>
     <num>(8)</num>
-    <text>"Member insurer" means any insurer licensed or holding a certificate of authority in the District of Columbia to sell any kind of insurance for which coverage is provided under § 31-5402. The term "member insurer" shall include Group Hospitalization and Medical Services, Inc., as well as any insurer whose license or certificate of authority in the District of Columbia may have been suspended, revoked, not renewed, or voluntarily withdrawn, but does not include:</text>
+    <text>“Member insurer” means any insurer licensed or holding a certificate of authority after July 22, 1992, in the District of Columbia to sell any kind of insurance for which coverage is provided under § 31-5402. The term “member insurer” shall include Group Hospitalization and Medical Services, Inc., as well as any insurer whose license or certificate of authority in the District of Columbia may have been suspended, revoked, not renewed, or voluntarily withdrawn, but does not include:</text>
     <level>
       <num>(A)</num>
       <text>A nonprofit hospital or medical service organization;</text>
@@ -62,66 +74,154 @@
       <text>An insurance exchange; or</text>
     </level>
     <level>
+      <num>(G-i)</num>
+      <text>An organization that has a certificate or license limited to the issuance of charitable gift annuities; or</text>
+    </level>
+    <level>
       <num>(H)</num>
       <text>Any entity similar to any of the above.</text>
     </level>
   </level>
   <level>
     <num>(9)</num>
-    <text>"Moody's Corporate Bond Yield Average" means the Monthly Average Corporates as published by Moody's Investors Services, Inc., or any successor thereto.</text>
+    <text>“Moody’s Corporate Bond Yield Average” means the Monthly Average Corporates as published by Moody’s Investors Services, Inc., or any successor thereto.</text>
+  </level>
+  <level>
+    <num>(9A)</num>
+    <text>“Owner” of a policy or contract and “policy owner” and “contract owner” mean the person who is identified as the legal owner under the terms of the policy or contract or who is otherwise vested with legal title to the policy or contract through a valid assignment completed in accordance with the terms of the policy or contract and properly recorded as the owner on the books of the insurer, and does not include persons with a mere beneficial interest in a policy or contract.</text>
   </level>
   <level>
     <num>(10)</num>
-    <text>"Person" means any individual, corporation, partnership, association, or voluntary organization.</text>
+    <text>“Person” means any individual, corporation, partnership, association, or voluntary organization.</text>
+  </level>
+  <level>
+    <num>(10A)</num>
+    <text>“Plan sponsor” means:</text>
+    <level>
+      <num>(A)</num>
+      <text>The employer in the case of a benefit plan established or maintained by a single employer;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The employee organization in the case of a benefit plan established or maintained by an employee organization; or</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>In the case of a benefit plan established or maintained by 2 or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the benefit plan.</text>
+    </level>
   </level>
   <level>
     <num>(11)</num>
-    <text>"Premiums" means amounts received on covered policies or contracts, less premiums, considerations, and deposits returned, and less dividends and experience credits. The term "premiums" does not include any amounts received for policies or contracts for which coverage is not provided under § 31-5402(b), except that assessable premiums shall not be reduced on account of § 31-5402(b)(2)(C) relating to interest limitations, and § 31-5402(c)(2) relating to limitations with respect to any 1 individual, any 1 participant, and any 1 contract holder.</text>
+    <text>“Premiums” means amounts (or consideration by whatever name called) received on covered policies or contracts, or for the portions of policies or contracts, less premiums, considerations, deposits returned, dividends, and experience credits. The term “premiums” shall not include:</text>
+    <level>
+      <num>(A)</num>
+      <text>Any amounts received for policies or contracts for which coverage is not provided under § 31-5402(b), except that assessable premiums shall not be reduced on account of § 31-5402(b)(2)(C) relating to interest limitations, and § 31-5402(c)(2) relating to limitations with respect to any one individual, any one participant, and any one contract holder; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>With respect to multiple non-group policies of life insurance owned by one owner, whether the policy owner is an individual, firm, corporation, or other person, and whether the persons insured are officers, managers, employees or other persons, premiums in excess of $ 5,000,000 with respect to these policies or contracts, regardless of the number of policies or contracts held by the owner.</text>
+    </level>
+  </level>
+  <level>
+    <num>(11A)</num>
+    <level>
+      <num>(A)</num>
+      <text>“Principal place of business” means the single state in which the natural persons who establish the policy for the direction, control, and coordination of the operations of the entity as a whole primarily exercise that function, determined by the Association in its reasonable judgment by considering the following factors:</text>
+      <level>
+        <num>(i)</num>
+        <text>The state in which the primary executive and administrative headquarters of the entity is located;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>The state in which the principal office of the chief executive officer of the entity is located;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>The state in which the entity’s board of directors (or similar governing person or persons) conducts the majority of its meetings;</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>The state in which the executive or management committee of the entity’s board of directors (or similar governing person or persons) conducts the majority of its meetings;</text>
+      </level>
+      <level>
+        <num>(v)</num>
+        <text>The state from which the management of the overall operations of the entity is directed; and</text>
+      </level>
+      <level>
+        <num>(vi)</num>
+        <text>In the case of a benefit plan sponsored by affiliated companies comprising a consolidated corporation, the state in which the holding company or controlling affiliate has its principal place of business as determined using the factors set forth in sub-subparagraphs (i) through (v) of this subparagraph; provided, that in the case of a plan sponsor, if more than 50% of the participants in the benefit plan are employed in a single state, that state shall be deemed to be the principal place of business of the plan sponsor.</text>
+      </level>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The principal place of business of a plan sponsor of a benefit plan described in paragraph (10A)(C) of this section shall be deemed to be the principal place of business of the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the benefit plan that, in lieu of a specific or clear designation of a principal place of business, shall be deemed to be the principal place of business of the employer or employee organization that has the largest investment in the benefit plan in question.</text>
+    </level>
+  </level>
+  <level>
+    <num>(11B)</num>
+    <text>“Receivership court” means the court in the insolvent or impaired insurer’s state having jurisdiction over the conservation, rehabilitation, or liquidation of the insurer.</text>
   </level>
   <level>
     <num>(12)</num>
-    <text>"Resident" means any person who resides in the District of Columbia at the time a member insurer is determined to be impaired or insolvent and to whom the member insurer owes a contractual obligation. A person may reside in only 1 state, which, in the case of a person other than a natural person, shall be its domiciliary jurisdiction.</text>
+    <text>“Resident” means any person who resides in the District of Columbia on the date of the entry of a court order determining a member insurer to be an impaired insurer or an insolvent insurer, and to whom the member insurer owes a contractual obligation. A person may reside in only one state, which, in the case of a person other than a natural person, shall be its principal place of business. Citizens of the United States that are either residents of foreign countries, or residents of United States possessions, territories, or protectorates that do not have an association similar to the Association established by this chapter, shall be deemed residents of the state of domicile of the insurer that issued the policies or contracts.</text>
+  </level>
+  <level>
+    <num>(12A)</num>
+    <text>“State” means a state, the District of Columbia, Puerto Rico, or a United States possession, territory, or protectorate.</text>
+  </level>
+  <level>
+    <num>(12B)</num>
+    <text>“Structured settlement annuity” means an annuity purchased in order to fund periodic payments for a plaintiff or other claimant in payment for or with respect to personal injury suffered by the plaintiff or other claimant.</text>
   </level>
   <level>
     <num>(13)</num>
-    <text>"Commissioner" means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(14)</num>
-    <text>"Supplemental contract" means any agreement entered into for the distribution of policy or proceeds.</text>
+    <text>“Supplemental contract” means any agreement entered into for the distribution of policy or proceeds.</text>
+  </level>
+  <level>
+    <num>(15)</num>
+    <text>“Unallocated annuity contract” means an annuity contract or group annuity certificate which is not issued to and owned by an individual, except to the extent of any annuity benefits guaranteed to an individual by an insurer under the contract or certificate.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-129, § 2, 39 DCR 4036; May 21, 1997, D.C. Law 11-268, § 10(u), 44 DCR 1730; June 11, 2004, D.C. Law 15-166, § 4(gg), 51 DCR 2817.)</text>
+      <text>(July 22, 1992, D.C. Law 9-129, § 2, 39 DCR 4036; May 21, 1997, D.C. Law 11-268, § 10(u), 44 DCR 1730; June 11, 2004, D.C. Law 15-166, § 4(gg), 51 DCR 2817; July 23, 2014, D.C. Law 20-130, § 2(a), 61 DCR 5900.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 35-1941.</text>
+      <text>1981 Ed., § 35-1941.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 15-166, in par. (13), substituted "Commissioner of the Department of Insurance, Securities, and Banking" for "Commissioner of Insurance and Securities".</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 15-166, in par. (13), substituted “Commissioner of the Department of Insurance, Securities, and Banking” for “Commissioner of Insurance and Securities”.</text>
+      <text>The 2014 amendment by D.C. Law 20-130 added (2A), (2B), and (4A); added “after July 22, 1992” in the introductory paragraph of (8); made a minor stylistic change in (8)(G); and added (8)(G-1), (9A) and (10A); rewrote (11); added (11A) and (11B); rewrote (12); added (12A) and (12B); repealed (13); and added (15).</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) amendment of section, see § 4(gg) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 4(gg) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 9-129</heading>
-      <text>Law 9-129, the "Life and Health Insurance Guaranty Association Act of 1992," was introduced in Council and assigned Bill No. 9-186, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on April 7, 1992, and May 6, 1992, respectively. Signed by the Mayor on May 28, 1992, it was assigned Act No. 9-214 and transmitted to both Houses of Congress for its review. D.C. Law 9-129 became effective on July 22, 1992.</text>
+      <heading>Legislative history of Law 9-129</heading>
+      <text>Law 9-129, the “Life and Health Insurance Guaranty Association Act of 1992,” was introduced in Council and assigned Bill No. 9-186, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on April 7, 1992, and May 6, 1992, respectively. Signed by the Mayor on May 28, 1992, it was assigned Act No. 9-214 and transmitted to both Houses of Congress for its review. D.C. Law 9-129 became effective on July 22, 1992.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 11-268</heading>
-      <text>Law 11-268, the "Department of Insurance and Securities Regulation Establishment Act of 1996," was introduced in Council and assigned Bill No. 11-415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective May 21, 1997.</text>
+      <heading>Legislative history of Law 11-268</heading>
+      <text>Law 11-268, the “Department of Insurance and Securities Regulation Establishment Act of 1996,” was introduced in Council and assigned Bill No. 11-415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective May 21, 1997.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-166</heading>
-      <text>For Law 15-166, see notes following § 31-1004.</text>
+      <heading>Legislative history of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 31-1004.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-130</heading>
+      <text>Law 20-130, the “Life and Health Insurance Guaranty Association Consumer Protection Amendment Act of 2013,” was introduced in Council and assigned Bill No. 20-212. The Bill was adopted on first and second readings on April 8, 2014, and May 6, 2014, respectively. Signed by the Mayor on June 4, 2014, it was assigned Act No. 20-347 and transmitted to Congress for its review. D.C. Law 20-130 became effective on July 23, 2014.</text>
     </level>
     <level>
       <heading>Delegation of Authority</heading>
-      <text>Delegation of authority under D.C. Law 9-129, the Life and Health Insurance Guaranty Association Act of 1992, see Mayor's Order 92-120, October 13, 1992.</text>
+      <text>Delegation of authority under D.C. Law 9-129, the Life and Health Insurance Guaranty Association Act of 1992, see Mayor’s Order 92-120, October 13, 1992.</text>
     </level>
   </level>
 </level>

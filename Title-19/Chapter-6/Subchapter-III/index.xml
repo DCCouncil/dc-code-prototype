@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>III</num>
-  <heading>Uniform Tod Security Registration</heading>
+  <heading>Uniform TOD Security Registration.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-603.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-603.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-603.03.xml"/>

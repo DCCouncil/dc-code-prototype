@@ -3,7 +3,7 @@
   <heading>Requirements for transacting business.</heading>
   <level>
     <num>(a)</num>
-    <text>A captive insurer shall not transact business in the District unless the captive insurer and, if applicable, each segregated account of a captive insurer, first obtains a certificate of authority from the Commissioner.</text>
+    <text>A captive insurer shall not transact business in the District unless the captive insurer and, if applicable, each protected cell of a captive insurer, first obtains a certificate of authority from the Commissioner.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -48,7 +48,7 @@
       <num>(2)</num>
       <level>
         <num>(A)</num>
-        <text>Appoint a person in the District of Columbia, consistent with the requirements of § 31-202(b), as the agent for service of process and to otherwise act on behalf of the captive insurer in the District.</text>
+        <text>Appoint a person in the District of Columbia, consistent with the requirements of § 31-202(b), as the agent for service of process and to otherwise act on behalf of the captive insurer in the District.</text>
       </level>
       <level>
         <num>(B)</num>
@@ -82,7 +82,7 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>Each a segregated account maintained by a captive insurer shall not have to comply with subsection (c) of this section unless the segregated account is organized as a separate legal entity.</text>
+    <text>Repealed.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -91,19 +91,27 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 17, 2005, D.C. Law 15-262, § 12, 52 DCR 1205.)</text>
+      <text>(Mar. 17, 2005, D.C. Law 15-262, § 12, 52 DCR 1205; Mar. 10, 2015, D.C. Law 20-203, § 2(g), 61 DCR 12572.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-3932.03 and § 31-3932.04.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-3932.03 and § 31-3932.04.</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) addition of section, see § 12 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004, 52 DCR 1238).</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-203 rewrote (5); substituted “insurer” for “insurance company” in (6); substituted “branch captive insurer, protected cell” for “segregated account” in (9); added (13A); substituted “protected cell” for “segregated account” throughout (18) and (19); added (20A) and (20B); and repealed (26).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-262</heading>
-      <text>For Law 15-262, see notes following § 31-3931.01.</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) addition of section, see § 12 of Captive Insurance Company Emergency Act of 2004 (D.C. Act 15-640, November 30, 2004,  52 DCR 1238).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 15-262</heading>
+      <text>For Law 15-262, see notes following § 31-3931.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-203</heading>
+      <text>See note to § 31-3931.01.</text>
     </level>
   </level>
 </level>

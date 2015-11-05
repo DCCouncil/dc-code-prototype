@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Application for a pesticide operator license shall be made in writing on a form prescribed by the Mayor. Each application shall contain information regarding the applicant's proposed operations, license classification or classifications applied for, and shall include the following:</text>
+    <text>Application for a pesticide operator license shall be made in writing on a form prescribed by the Mayor. Each application shall contain information regarding the applicant’s proposed operations, license classification or classifications applied for, and shall include the following:</text>
     <level>
       <num>(1)</num>
       <text>The full name of the person applying for the license;</text>
@@ -37,11 +37,11 @@
     <num>(c)</num>
     <level>
       <num>(1)</num>
-      <text>No licensed pesticide operator (as defined in § 8-401(bb)(1) and (bb)(3)) shall permit the use of any pesticide by any person who is not a licensed commercial or public applicator designated pursuant to § 8-406, or a registered employee of the pesticide operator acting under the direct supervision of the licensed applicator.</text>
+      <text>No licensed pesticide operator (as defined in § 8-401(bb)(1) and (bb)(3) ) shall permit the use of any pesticide by any person who is not a licensed commercial or public applicator designated pursuant to § 8-406, or a registered employee of the pesticide operator acting under the direct supervision of the licensed applicator.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>No licensed pesticide operator (as defined in § 8-401(bb)(2)) shall permit the use of any restricted use pesticide by any person who is not a licensed commercial or public applicator designated pursuant to § 8-406(b)(5), or a registered employee of the pesticide operator acting under the direct supervision of the licensed applicator.</text>
+      <text>No licensed pesticide operator (as defined in § 8-401(bb)(2) ) shall permit the use of any restricted use pesticide by any person who is not a licensed commercial or public applicator designated pursuant to § 8-406(b)(5), or a registered employee of the pesticide operator acting under the direct supervision of the licensed applicator.</text>
     </level>
   </level>
   <level type="annotations">
@@ -54,7 +54,7 @@
       <text>1981 Ed., § 6-751.6.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 2-70</heading>
+      <heading>Legislative history of Law 2-70</heading>
       <text>For legislative history of D.C. Law 2-70, see Historical and Statutory Notes following § 8-401.</text>
     </level>
   </level>

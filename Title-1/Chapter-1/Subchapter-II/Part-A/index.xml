@@ -1,7 +1,8 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>Constitutional Convention Initiative</heading>
+  <heading>Constitutional Convention Initiative.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-1/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-2/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subpart-3/index.xml"/>
 </level>

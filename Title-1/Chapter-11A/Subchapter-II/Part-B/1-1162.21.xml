@@ -70,11 +70,15 @@
       <num>(5)</num>
       <level>
         <num>(A)</num>
-        <text>If the person against whom a civil penalty is assessed fails to pay the penalty, the Ethics Board may file a petition for enforcement of its order assessing the penalty in the Superior Court of the District of Columbia. The petition shall designate the person against whom the order is sought to be enforced as the respondent. A copy of the petition shall be sent by registered or certified mail to the respondent and the respondent's attorney of record, if any, and the Ethics Board shall certify and file with the court the record upon which the order sought to be enforced was issued.</text>
+        <text>If the person against whom a civil penalty is assessed fails to pay the penalty, the Ethics Board may file a petition for enforcement of its order assessing the penalty in the Superior Court of the District of Columbia. The petition shall designate the person against whom the order is sought to be enforced as the respondent. A copy of the petition shall be sent by registered or certified mail to the respondent and the respondent’s attorney of record, if any, and the Ethics Board shall certify and file with the court the record upon which the order sought to be enforced was issued.</text>
       </level>
       <level>
         <num>(B)</num>
-        <text>The court shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside, in whole or in part, the order and the decision of the Ethics Board or it may remand the proceedings to the Ethics Board for such further action as it may direct. The court may determine de novo all issues of law, but the Ethics Board's findings of fact, if supported by substantial evidence, shall be conclusive.</text>
+        <text>The court shall have jurisdiction to enter a judgment enforcing, modifying, and enforcing as so modified, or setting aside, in whole or in part, the order and the decision of the Ethics Board or it may remand the proceedings to the Ethics Board for such further action as it may direct. The court may determine de novo all issues of law, but the Ethics Board’s findings of fact, if supported by substantial evidence, shall be conclusive.</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Any failure to obey the order of the court may be treated by the court as contempt.</text>
       </level>
     </level>
   </level>
@@ -115,32 +119,38 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 27, 2012, D.C. Law 19-124, § 221, 59 DCR 1862; Feb. 22, 2014, D.C. Law 20-75, § 2(b), 61 DCR 36.)</text>
+      <text>(Apr. 27, 2012, D.C. Law 19-124, § 221, 59 DCR 1862; Feb. 22, 2014, D.C. Law 20-75, § 2(b), 61 DCR 36; July 15, 2014, D.C. Law 20-122, § 2(g), 61 DCR 5688.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
+      <heading>Section references</heading>
       <text>This section is referenced in § 1-1161.01, § 1-1162.10, § 1-1162.15, § 1-1162.22, § 1-1162.32, and § 1-1163.38.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>The 2014 amendment by D.C. Law 20-75 rewrote (a)(4), which previously read, "In addition to any civil penalty imposed under this subchapter, a violation of the Code of Conduct may result in remedial action in accordance with Chapter 6 of this title."</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-75 rewrote (a)(4), which previously read, “In addition to any civil penalty imposed under this subchapter, a violation of the Code of Conduct may result in remedial action in accordance with Chapter 6 of this title.”</text>
+      <text>The 2014 amendment by D.C. Law 20-122 added (a)(5)(C).</text>
     </level>
     <level>
-      <heading>Temporary Legislation</heading>
+      <heading>Temporary legislation</heading>
       <text>For temporary (225 days) amendment of this section, see § 2(b) of the Board of Ethics and Government Accountability Temporary Amendment Act of 2013 (D.C. Law 20-3, May 18, 2013, 60 DCR 4622, 20 DCSTAT 1266).</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
+      <heading>Emergency legislation</heading>
       <text>For temporary (90 days) amendment of this section, see § 2(b) of the Board of Ethics and Government Accountability Emergency Amendment Act of 2013 (D.C. Act 20-24, March 7, 2013, 60 DCR 3984, 20 DCSTAT 483).</text>
       <text>For temporary (90 days) amendment of this section, see § 2(b) of the Board of Ethics and Government Accountability Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-245, December 27, 2013, 61 DCR 135, 20 DCSTAT 2639).</text>
+      <text>For temporary (90 days) amendment of this section, see § 2(g) of the Comprehensive Code of Conduct and BEGA Emergency Amendment Act of 2014, (D.C. Act 20-323, Apr. 28, 2014, 61 DCR 4681).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-124</heading>
+      <heading>Legislative history of Law 19-124</heading>
       <text>For history of Law 19-124, see notes under § 1-1161.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 20-75</heading>
-      <text>Law 20-75, the "Board of Ethics and Government Accountability Amendment Act of 2013," was introduced in Council and assigned Bill No. 20-116. The Bill was adopted on first and second readings on November 5, 2013 and December 3, 2013, respectively. Signed by the Mayor on December 23, 2013, it was assigned Act No. 20-241 and transmitted to Congress for its review. D.C. Law 20-75 became effective on February 22, 2014.</text>
+      <heading>Legislative history of Law 20-75</heading>
+      <text>Law 20-75, the “Board of Ethics and Government Accountability Amendment Act of 2013,” was introduced in Council and assigned Bill No. 20-116. The Bill was adopted on first and second readings on November 5, 2013 and December 3, 2013, respectively. Signed by the Mayor on December 23, 2013, it was assigned Act No. 20-241 and transmitted to Congress for its review. D.C. Law 20-75 became effective on February 22, 2014.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-122</heading>
+      <text>See note to § 1-1161.01.</text>
     </level>
   </level>
 </level>

@@ -1,6 +1,6 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>IV</num>
-  <heading>[Reserved]</heading>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1374.01~P.xml"/>
+  <heading>[Reserved].</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1374.01.xml"/>
 </level>

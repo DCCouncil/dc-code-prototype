@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Part</prefix>
   <num>D</num>
-  <heading>The Mayor</heading>
+  <heading>The Mayor.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.61.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.62~1-301.68~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.69.xml"/>
@@ -14,5 +14,4 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.76.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.77.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.78.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.79.xml"/>
 </level>

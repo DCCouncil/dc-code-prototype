@@ -4,66 +4,69 @@
   <text>Compensation for disability shall be paid to the employee as follows:</text>
   <level>
     <num>(1)</num>
-    <text>In case of total disability adjudged to be permanent, 66<span style="font-style: italic; ">2</span>/<span style="">3</span>% of the employee's average weekly wages shall be paid to the employee during the continuance thereof. Loss of both hands, or both arms, or both feet, or both legs, or both eyes, or of any 2 thereof shall, in the absence of conclusive proof to the contrary, constitute permanent total disability. In all other cases permanent total disability shall be determined only if, as a result of the injury, the employee is unable to earn any wages in the same or other employment;</text>
+    <text>In case of total disability adjudged to be permanent, 662/3% of the employee’s average weekly wages shall be paid to the employee during the continuance thereof. Loss of both hands, or both arms, or both feet, or both legs, or both eyes, or of any 2 thereof shall, in the absence of conclusive proof to the contrary, constitute permanent total disability. In all other cases permanent total disability shall be determined only if, as a result of the injury, the employee is unable to earn any wages in the same or other employment;</text>
+    <text>23</text>
   </level>
   <level>
     <num>(2)</num>
-    <text>In case of disability total in character but temporary in quality, 66<span style="font-style: italic; ">2</span>/<span style="">3</span>% of the employee's average weekly wages shall be paid to the employee during the continuance thereof;</text>
+    <text>In case of disability total in character but temporary in quality, 662/3% of the employee’s average weekly wages shall be paid to the employee during the continuance thereof;</text>
+    <text>23</text>
   </level>
   <level>
     <num>(3)</num>
-    <text>In case of disability partial in character but permanent in quality, the compensation shall be 66<span style="font-style: italic; ">2</span>/<span style="">3</span>% of the employee's average weekly wages which shall be in addition to compensation for temporary total disability or temporary partial disability paid in accordance with paragraph (2) or (4) of this subsection respectively, and shall be paid to the employee, as follows:</text>
+    <text>In case of disability partial in character but permanent in quality, the compensation shall be 662/3% of the employee’s average weekly wages which shall be in addition to compensation for temporary total disability or temporary partial disability paid in accordance with paragraph (2) or (4) of this subsection respectively, and shall be paid to the employee, as follows:</text>
+    <text>23</text>
     <level>
       <num>(A)</num>
-      <text>Arm lost, 312 weeks' compensation;</text>
+      <text>Arm lost, 312 weeks’ compensation;</text>
     </level>
     <level>
       <num>(B)</num>
-      <text>Leg lost, 288 weeks' compensation;</text>
+      <text>Leg lost, 288 weeks’ compensation;</text>
     </level>
     <level>
       <num>(C)</num>
-      <text>Hand lost, 244 weeks' compensation;</text>
+      <text>Hand lost, 244 weeks’ compensation;</text>
     </level>
     <level>
       <num>(D)</num>
-      <text>Foot lost, 205 weeks' compensation;</text>
+      <text>Foot lost, 205 weeks’ compensation;</text>
     </level>
     <level>
       <num>(E)</num>
-      <text>Eye lost, 160 weeks' compensation;</text>
+      <text>Eye lost, 160 weeks’ compensation;</text>
     </level>
     <level>
       <num>(F)</num>
-      <text>Thumb lost, 75 weeks' compensation;</text>
+      <text>Thumb lost, 75 weeks’ compensation;</text>
     </level>
     <level>
       <num>(G)</num>
-      <text>First finger lost, 46 weeks' compensation;</text>
+      <text>First finger lost, 46 weeks’ compensation;</text>
     </level>
     <level>
       <num>(H)</num>
-      <text>Great toe lost, 38 weeks' compensation;</text>
+      <text>Great toe lost, 38 weeks’ compensation;</text>
     </level>
     <level>
       <num>(I)</num>
-      <text>Second finger lost, 30 weeks' compensation;</text>
+      <text>Second finger lost, 30 weeks’ compensation;</text>
     </level>
     <level>
       <num>(J)</num>
-      <text>Third finger lost, 25 weeks' compensation;</text>
+      <text>Third finger lost, 25 weeks’ compensation;</text>
     </level>
     <level>
       <num>(K)</num>
-      <text>Toe other than great toe lost, 16 weeks' compensation;</text>
+      <text>Toe other than great toe lost, 16 weeks’ compensation;</text>
     </level>
     <level>
       <num>(L)</num>
-      <text>Fourth finger lost, 15 weeks' compensation;</text>
+      <text>Fourth finger lost, 15 weeks’ compensation;</text>
     </level>
     <level>
       <num>(M)</num>
-      <text>Compensation for loss of hearing of 1 ear, 52 weeks. Compensation for loss of hearing of both ears, 200 weeks, provided that the Mayor may establish a waiting period, not to exceed 6 months, during which an employee may not file a claim for loss of hearing resulting from nontraumatic causes in his occupational environment until the employee has been away from such environment for such period, and provided further, that nothing in this subparagraph shall limit an employee's right to file a claim for temporary partial disability pursuant to paragraph (5) of this section;</text>
+      <text>Compensation for loss of hearing of 1 ear, 52 weeks. Compensation for loss of hearing of both ears, 200 weeks, provided that the Mayor may establish a waiting period, not to exceed 6 months, during which an employee may not file a claim for loss of hearing resulting from nontraumatic causes in his occupational environment until the employee has been away from such environment for such period, and provided further, that nothing in this subparagraph shall limit an employee’s right to file a claim for temporary partial disability pursuant to paragraph (5) of this section;</text>
     </level>
     <level>
       <num>(N)</num>
@@ -99,7 +102,8 @@
     </level>
     <level>
       <num>(U-i)</num>
-      <text>In determining disability pursuant to subparagraphs (A) through (S) of this subsection, the most recent edition of the American Medical Association's <span style="font-style: italic; ">Guides to the Evaluation of Permanent Impairment </span>may be utilized, along with the following 5 factors:</text>
+      <text>In determining disability pursuant to subparagraphs (A) through (S) of this subsection, the most recent edition of the American Medical Association’s Guides to the Evaluation of Permanent Impairment may be utilized, along with the following 5 factors:</text>
+      <text>Guides to the Evaluation of Permanent Impairment</text>
       <level>
         <num>(i)</num>
         <text>Pain;</text>
@@ -137,10 +141,11 @@
       </level>
       <level>
         <num>(ii)</num>
-        <text>The compensation shall be 66<span style="font-style: italic; ">2</span>/<span style="">3</span>% of the greater of:</text>
+        <text>The compensation shall be 662/3% of the greater of:</text>
+        <text>23</text>
         <level>
           <num>(I)</num>
-          <text>The difference between the employee's actual wage at the time of injury and the average weekly wage, at the time of injury, of the job that the employee holds after the employee has a disability; or</text>
+          <text>The difference between the employee’s actual wage at the time of injury and the average weekly wage, at the time of injury, of the job that the employee holds after the employee has a disability; or</text>
         </level>
         <level>
           <num>(II)</num>
@@ -149,12 +154,12 @@
       </level>
       <level>
         <num>(iii)</num>
-        <text>If the employee voluntarily limits his or her income or fails to accept employment commensurate with the employee's abilities, the employee's wages after the employee becomes disabled shall be deemed to be the amount the employee would earn if the employee did not voluntarily limit his or her income or did accept employment commensurate with the employee's abilities. Notwithstanding the provisions of this section, in the case of injury occurring on or after April 16, 1999, the periods of compensation set forth in subparagraphs (A) through (S) of this paragraph shall each be reduced by a proportion of 25% of the stated period of weeks, rounded upward to the nearest whole week.</text>
+        <text>If the employee voluntarily limits his or her income or fails to accept employment commensurate with the employee’s abilities, the employee’s wages after the employee becomes disabled shall be deemed to be the amount the employee would earn if the employee did not voluntarily limit his or her income or did accept employment commensurate with the employee’s abilities. Notwithstanding the provisions of this section, in the case of injury occurring on or after April 16, 1999, the periods of compensation set forth in subparagraphs (A) through (S) of this paragraph shall each be reduced by a proportion of 25% of the stated period of weeks, rounded upward to the nearest whole week.</text>
       </level>
     </level>
     <level>
       <num>(W)</num>
-      <text>The compensation and remuneration payable to a professional athlete claimant pursuant to subparagraph (V)(ii) of this paragraph shall be determined by referring to the date of the claimant's disability and a date that is not later than the date on which the claimant's employment as a professional athlete would have ended, as determined pursuant to § 32-1501(17C), if the disability for which he or she seeks compensation and remuneration pursuant to subparagraph (V)(ii) of this paragraph had not occurred.</text>
+      <text>The compensation and remuneration payable to a professional athlete claimant pursuant to subparagraph (V)(ii) of this paragraph shall be determined by referring to the date of the claimant’s disability and a date that is not later than the date on which the claimant’s employment as a professional athlete would have ended, as determined pursuant to § 32-1501(17C), if the disability for which he or she seeks compensation and remuneration pursuant to subparagraph (V)(ii) of this paragraph had not occurred.</text>
     </level>
   </level>
   <level>
@@ -178,12 +183,13 @@
     </level>
     <level>
       <num>(E)</num>
-      <text>If there be no surviving spouse or domestic partner and no surviving children, such unpaid amount of the award shall be paid to the survivors specified in § 32-1509 (other than a spouse, domestic partner, or child); and the amount to be paid each such survivor shall be determined by multiplying such unpaid amount of the award by the appropriate percentage specified in § 32-1509(4), but if the aggregate amount to which all such survivors are entitled, as so determined, is less than such unpaid amount of the award, the excess amount shall be divided among such survivors pro rata according to the amount otherwise payable to each.</text>
+      <text>If there be no surviving spouse or domestic partner and no surviving children, such unpaid amount of the award shall be paid to the survivors specified in § 32-1509 (other than a spouse, domestic partner, or child); and the amount to be paid each such survivor shall be determined by multiplying such unpaid amount of the award by the appropriate percentage specified in § 32-1509(4), but if the aggregate amount to which all such survivors are entitled, as so determined, is less than such unpaid amount of the award, the excess amount shall be divided among such survivors pro rata according to the amount otherwise payable to each.</text>
     </level>
   </level>
   <level>
     <num>(5)</num>
-    <text>In case of temporary partial disability, the compensation shall be 66<span style="font-style: italic; ">2</span>/<span style="">3</span>% of the injured employee's wage loss to be paid during the continuance of such disability, but shall not be paid for a period exceeding 5 years. Wage loss shall be the difference between the employee's average weekly wage before the employee had the disability and the employee's actual wages after the employee had the disability. If the employee voluntarily limits his income or fails to accept employment commensurate with his abilities, then his wages after the employee had the disability shall be deemed to be the amount he would earn if he did not voluntarily limit his income or did accept employment commensurate with his abilities.</text>
+    <text>In case of temporary partial disability, the compensation shall be 662/3% of the injured employee’s wage loss to be paid during the continuance of such disability, but shall not be paid for a period exceeding 5 years. Wage loss shall be the difference between the employee’s average weekly wage before the employee had the disability and the employee’s actual wages after the employee had the disability. If the employee voluntarily limits his income or fails to accept employment commensurate with his abilities, then his wages after the employee had the disability shall be deemed to be the amount he would earn if he did not voluntarily limit his income or did accept employment commensurate with his abilities.</text>
+    <text>23</text>
   </level>
   <level>
     <num>(6)</num>
@@ -214,11 +220,12 @@
   </level>
   <level>
     <num>(7)</num>
-    <text>In each case, payment of benefits shall be 66<span style="font-style: italic; ">2</span>/<span style="">3</span> % of the employee's average weekly wage.</text>
+    <text>In each case, payment of benefits shall be 662/3 % of the employee’s average weekly wage.</text>
+    <text>23</text>
   </level>
   <level>
     <num>(8)</num>
-    <text>The Mayor may approve lump-sum settlements agreed to in writing by the interested parties, discharging the liability of the employer for compensation, notwithstanding §§ 32-1516 and 32-1517, in any case where the Mayor determines that it is in the best interest of an injured employee entitled to compensation or individuals entitled to benefits pursuant to § 32-1509. The Mayor shall approve the settlement, where both parties are represented by legal counsel who are eligible to receive attorney fees pursuant to § 32-1530. These settlements shall be the complete and final dispositions of a case and shall be a final binding compensation order.</text>
+    <text>The Mayor may approve lump-sum settlements agreed to in writing by the interested parties, discharging the liability of the employer for compensation, notwithstanding §§ 32-1516 and 32-1517, in any case where the Mayor determines that it is in the best interest of an injured employee entitled to compensation or individuals entitled to benefits pursuant to § 32-1509. The Mayor shall approve the settlement, where both parties are represented by legal counsel who are eligible to receive attorney fees pursuant to § 32-1530. These settlements shall be the complete and final dispositions of a case and shall be a final binding compensation order.</text>
   </level>
   <level>
     <num>(9)</num>
@@ -231,58 +238,58 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 1, 1980, D.C. Law 3-77, § 9, 27 DCR 2503; May 10, 1989, D.C. Law 7-231, § 44, 36 DCR 492; Mar. 6, 1991, D.C. Law 8-198, § 2(d), 37 DCR 6890; Apr. 16, 1999, D.C. Law 12-229, § 2(e), 46 DCR 891; Oct. 14, 1999, D.C. Law 13-49, § 12(b), 46 DCR 5153; Apr. 24, 2007, D.C. Law 16-305, § 48(c), 53 DCR 6198; Sept. 12, 2008, D.C. Law 17-231, § 31(d), 55 DCR 6758; Sept. 26, 2012, D.C. Law 19-171, § 37(b), 59 DCR 6190.)</text>
+      <text>(July 1, 1980, D.C. Law 3-77, § 9, 27 DCR 2503; May 10, 1989, D.C. Law 7-231, § 44, 36 DCR 492; Mar. 6, 1991, D.C. Law 8-198, § 2(d), 37 DCR 6890; Apr. 16, 1999, D.C. Law 12-229, § 2(e), 46 DCR 891; Oct. 14, 1999, D.C. Law 13-49, § 12(b), 46 DCR 5153; Apr. 24, 2007, D.C. Law 16-305, § 48(c), 53 DCR 6198; Sept. 12, 2008, D.C. Law 17-231, § 31(d), 55 DCR 6758; Sept. 26, 2012, D.C. Law 19-171, § 37(b), 59 DCR 6190.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 32-1501, § 32-1524, and § 32-1540.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 32-1501, § 32-1524, and § 32-1540.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 36-308.</text>
+      <text>1981 Ed., § 36-308.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
+      <heading>Effect of amendments</heading>
       <text>D.C. Law 13-49 made a clarifying technical amendment.</text>
-      <text>D.C. Law 16-305, in par. (3)(V)(ii), substituted "has a disability" for "becomes disabled" and "had the disability" for "became disabled"; and in par. (5), substituted "the employee had the disability" for "becoming disabled".</text>
-      <text>D.C. Law 17-231, in par. (4), substituted "spouse or domestic partner" for "widow or widower"; and, in par. (4)(E), substituted "surviving spouse or domestic partner" for "surviving spouse" and substituted "spouse, domestic partner, or child" for "wife, husband, or child".</text>
-      <text>The 2012 amendment made a technical correction to D.C. Law 17-231, § 31(d) which did not affect this section as codified.</text>
+      <text>D.C. Law 16-305, in par. (3)(V)(ii), substituted “has a disability” for “becomes disabled” and “had the disability” for “became disabled”; and in par. (5), substituted “the employee had the disability” for “becoming disabled”.</text>
+      <text>D.C. Law 17-231, in par. (4), substituted “spouse or domestic partner” for “widow or widower”; and, in par. (4)(E), substituted “surviving spouse or domestic partner” for “surviving spouse” and substituted “spouse, domestic partner, or child” for “wife, husband, or child”.</text>
+      <text>The 2012 amendment made a technical correction to D.C. Law 17-231, § 31(d) which did not affect this section as codified.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 3-77</heading>
-      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
+      <heading>Legislative history of Law 3-77</heading>
+      <text>For legislative history of D.C. Law 3-77, see Historical and Statutory Notes following § 32-1501.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 7-231</heading>
-      <text>Law 7-231, the "Technical Amendments Act of 1988," was introduced in Council and assigned Bill No. 7-586, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 29, 1988, and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-285 and transmitted to both Houses of Congress for its review.</text>
+      <heading>Legislative history of Law 7-231</heading>
+      <text>Law 7-231, the “Technical Amendments Act of 1988,” was introduced in Council and assigned Bill No. 7-586, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 29, 1988, and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-285 and transmitted to both Houses of Congress for its review.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 8-198</heading>
-      <text>For legislative history of D.C. Law 8-198, see Historical and Statutory Notes following § 32-1542.01.</text>
+      <heading>Legislative history of Law 8-198</heading>
+      <text>For legislative history of D.C. Law 8-198, see Historical and Statutory Notes following § 32-1542.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 12-229</heading>
-      <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
+      <heading>Legislative history of Law 12-229</heading>
+      <text>For legislative history of D.C. Law 12-229, see Historical and Statutory Notes following § 32-1501.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-49</heading>
-      <text>For Law 13-49, see notes following § 32-1501.</text>
+      <heading>Legislative history of Law 13-49</heading>
+      <text>For Law 13-49, see notes following § 32-1501.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 16-305</heading>
-      <text>For Law 16-305, see notes following § 32-241.</text>
+      <heading>Legislative history of Law 16-305</heading>
+      <text>For Law 16-305, see notes following § 32-241.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 17-231</heading>
-      <text>For Law 17-231, see notes following § 32-408.</text>
+      <heading>Legislative history of Law 17-231</heading>
+      <text>For Law 17-231, see notes following § 32-408.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-171</heading>
-      <text>Law 19-171, the "Technical Amendments Act of 2012," was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
+      <heading>Legislative history of Law 19-171</heading>
+      <text>Law 19-171, the “Technical Amendments Act of 2012,” was introduced in Council and assigned Bill No. 19-397. The Bill was adopted on first and second readings on Mar. 20, 2012, and Apr. 17, 2012, respectively. Signed by the Mayor on May 23, 2012, it was assigned Act No. 19-376 and transmitted to Congress for its review. D.C. Law 19-171 became effective on September 26, 2012.</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
-      <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 32-1501.</text>
+      <heading>Editor’s notes</heading>
+      <text>Mayor authorized to issue rules: See Historical and Statutory Notes following § 32-1501.</text>
     </level>
   </level>
 </level>

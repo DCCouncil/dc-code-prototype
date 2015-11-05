@@ -16,7 +16,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>Either § 31-706(a)(2) or a provision like the following: "Each registered insurer shall keep current the information required to be disclosed in its registration statement by reporting all material changes or additions within 15 days after the end of the month in which it learns of each change or addition.".</text>
+        <text>Either § 31-706(a)(2) or a provision like the following: “Each registered insurer shall keep current the information required to be disclosed in its registration statement by reporting all material changes or additions within 15 days after the end of the month in which it learns of each change or addition.”</text>
       </level>
     </level>
     <level>
@@ -52,7 +52,7 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>Guarantees or undertakings for the benefit of an affiliate which result in an actual contingent exposure of the insurer's assets to liability, other than insurance contracts entered into in the ordinary course of the insurer's business;</text>
+        <text>Guarantees or undertakings for the benefit of an affiliate which result in an actual contingent exposure of the insurer’s assets to liability, other than insurance contracts entered into in the ordinary course of the insurer’s business;</text>
       </level>
       <level>
         <num>(E)</num>
@@ -73,11 +73,23 @@
     </level>
     <level>
       <num>(4)</num>
-      <text>Any pledge of the insurer's stock, including stock of any subsidiary or controlling affiliate, for a loan made to any member of the insurance holding company system; and</text>
+      <text>Any pledge of the insurer’s stock, including stock of any subsidiary or controlling affiliate, for a loan made to any member of the insurance holding company system;</text>
+    </level>
+    <level>
+      <num>(4A)</num>
+      <text>If requested by the Mayor, the insurer shall include financial statements of or within an insurance holding company system, including all affiliates. Financial statements may include annual audited financial statements filed with the U.S. Securities and Exchange Commission (“SEC”) pursuant to the Securities Act of 1933, approved May 27, 1933 (48 Stat. 74; 15 U.S.C. § 77a et seq.), or the Securities Exchange Act of 1934, approved June 6, 1934 (48 Stat. 881; 15 U.S.C. § 78a et seq.). An insurer required to file financial statements pursuant to this paragraph may satisfy the request by providing the Mayor with the most recently filed parent corporation financial statements that have been filed with the SEC;</text>
     </level>
     <level>
       <num>(5)</num>
-      <text>Other matters concerning transactions between registered insurers and any affiliates as may be included from time to time in any registration forms adopted or approved by the Mayor.</text>
+      <text>Other matters concerning transactions between registered insurers and any affiliates as may be included from time to time in any registration forms adopted or approved by the Mayor;</text>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>Statements that the insurer’s board of directors oversees corporate governance and internal controls and that the insurer’s officers or senior management have approved, implemented, and continue to maintain and monitor corporate governance and internal control procedures; and</text>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>Any other information required by the Mayor by rule or regulation.</text>
     </level>
   </level>
   <level>
@@ -86,11 +98,11 @@
   </level>
   <level>
     <num>(d)</num>
-    <text>No information need be disclosed on the registration statement filed pursuant to subsection (b) of this section if the information is not material for the purposes of this section. Unless the Mayor by rule, regulation, or order provides otherwise, sales, purchases, exchanges, loans or extensions of credit, investments, or guarantees involving one-half of 1% or less of an insurer's admitted assets as of the 31st day of December next preceding shall not be deemed material for purposes of this section.</text>
+    <text>No information need be disclosed on the registration statement filed pursuant to subsection (b) of this section if the information is not material for the purposes of this section. Unless the Mayor by rule, regulation, or order provides otherwise, sales, purchases, exchanges, loans or extensions of credit, investments, or guarantees involving one-half of 1% or less of an insurer’s admitted assets as of the 31st day of December next preceding shall not be deemed material for purposes of this section.</text>
   </level>
   <level>
     <num>(e)</num>
-    <text>Subject to § 31-706(b), each registered insurer shall report to the Mayor all dividends and other distributions to shareholders within 15 business days following their declaration.</text>
+    <text>Subject to § 31-706(b), each registered insurer shall report to the Mayor all dividends and other distributions to shareholders within 15 business days following their declaration.</text>
   </level>
   <level>
     <num>(f)</num>
@@ -114,40 +126,52 @@
   </level>
   <level>
     <num>(k)</num>
-    <text>Any person may file with the Mayor a disclaimer of affiliation with any authorized insurer or such a disclaimer may be filed by the insurer or any member of an insurance holding company system. The disclaimer shall fully disclose all material relationships and bases for affiliation between the person and the insurer as well as the basis for disclaiming the affiliation. After a disclaimer has been filed, the insurer shall be relieved of any duty to register or report under this section which may arise out of the insurer's relationship with the person unless and until the Mayor disallows such a disclaimer. The Mayor shall disallow such a disclaimer only after furnishing all parties in interest with notice and opportunity to be heard and after making specific findings of fact to support the disallowance.</text>
+    <text>Any person may file with the Mayor a disclaimer of affiliation with any authorized insurer or the disclaimer may be filed by the insurer or any member of an insurance holding company system. The disclaimer shall fully disclose all material relationships and bases for affiliation between the person and the insurer as well as the basis for disclaiming the affiliation. A disclaimer of affiliation shall be deemed to have been granted, unless the Mayor, within 30 days following receipt of a complete disclaimer, notifies the filing party that the disclaimer is disallowed. In the event of disallowance, the disclaiming party may request an administrative hearing, which shall be granted. The disclaiming party shall be relieved of its duty to register under this section if approval of the disclaimer has been granted by the Mayor or has been deemed approved.</text>
+  </level>
+  <level>
+    <num>(k-1)</num>
+    <text>The ultimate controlling person of every insurer subject to registration shall also file an annual enterprise risk report. The report shall, to the best of the ultimate controlling person’s knowledge and belief, identify the material risks within the insurance holding company system that could pose enterprise risk to the insurer. The report shall be filed with the lead state commissioner of the insurance holding company system as determined by the procedures within the Financial Analysis Handbook adopted by the National Association of Insurance Commissioners.</text>
   </level>
   <level>
     <num>(l)</num>
-    <text>The failure to file a registration statement or any summary of the registration statement required by this section within the time specified for such a filing shall be a violation of this section.</text>
+    <text>The failure to file a registration statement or any summary of the registration statement or enterprise risk filing required by this section within the time specified for such a filing shall be a violation of this section.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 21, 1993, D.C. Law 10-44, § 6, 40 DCR 6027; May 16, 1995, D.C. Law 10-255, § 32(b), 41 DCR 5193; Apr. 9, 1997, D.C. Law 11-255, § 43, 44 DCR 1271.)</text>
+      <text>(Oct. 21, 1993, D.C. Law 10-44, § 6, 40 DCR 6027; May 16, 1995, D.C. Law 10-255, § 32(b), 41 DCR 5193; Apr. 9, 1997, D.C. Law 11-255, § 43, 44 DCR 1271; Mar. 11, 2015, D.C. Law 20-235, § 2(d), 62 DCR 461.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-701, § 31-707, § 31-708, and § 31-710.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-701, § 31-707, § 31-708, and § 31-710.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 35-3705.</text>
+      <text>1981 Ed., § 35-3705.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 10-44</heading>
-      <text>For legislative history of D.C. Law 10-44, see Historical and Statutory Notes following § 31-701.</text>
+      <heading>Effect of amendments -</heading>
+      <text>The 2015 amendment by D.C. Law 20-235 added (b)(4A), (b)(6), and (b)(7) and made related changes; rewrote (k); added (k-1); and substituted “statement or enterprise risk filing required” for “statement required” in (l).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 10-255</heading>
-      <text>For legislative history of D.C. Law 10-255, see Historical and Statutory Notes following § 31-701.</text>
+      <heading>Legislative history of Law 10-44</heading>
+      <text>For legislative history of D.C. Law 10-44, see Historical and Statutory Notes following § 31-701.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 11-255</heading>
-      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+      <heading>Legislative history of Law 10-255</heading>
+      <text>For legislative history of D.C. Law 10-255, see Historical and Statutory Notes following § 31-701.</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
-      <text>Because of the codification of D.C. Law 11-159 as subchapter II of Chapter 37 of Title 35 [subchapter II of Chapter 7 of Title 31, 2001 Ed.], and the designation of the preexisting text as subchapter I, "subchapter" has been substituted for "chapter" in the introductory language of (a)(1) and in (f).</text>
+      <heading>Legislative history of Law 11-255</heading>
+      <text>Law 11-255, the “Second Technical Amendments Act of 1996,” was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-235</heading>
+      <text>See note to § 31-701.</text>
+    </level>
+    <level>
+      <heading>Editor’s notes</heading>
+      <text>Because of the codification of D.C. Law 11-159 as subchapter II of Chapter 37 of Title 35 [subchapter II of Chapter 7 of Title 31, 2001 Ed.], and the designation of the preexisting text as subchapter I, “subchapter” has been substituted for “chapter” in the introductory language of (a)(1) and in (f).</text>
     </level>
   </level>
 </level>

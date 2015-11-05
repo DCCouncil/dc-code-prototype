@@ -10,11 +10,11 @@
     <text>There shall be 2 assessments, as follows:</text>
     <level>
       <num>(1)</num>
-      <text>Class A assessments shall be made for the purposes of meeting administrative and legal costs and other expenses and examinations conducted under the authority of § 31-5409(e). Class A assessments may be made whether or not related to a particular impaired or insolvent insurer.</text>
+      <text>Class A assessments shall be made for the purposes of meeting administrative and legal costs and other expenses and examinations conducted under the authority of § 31-5409(e). Class A assessments may be made whether or not related to a particular impaired or insolvent insurer.</text>
     </level>
     <level>
       <num>(2)</num>
-      <text>Class B assessments shall be made to the extent necessary to carry out the powers and duties of the Association under § 31-5405 with regard to an impaired or insolvent insurer.</text>
+      <text>Class B assessments shall be made to the extent necessary to carry out the powers and duties of the Association under § 31-5405 with regard to an impaired or insolvent insurer.</text>
     </level>
   </level>
   <level>
@@ -29,7 +29,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Assessments for funds to meet the requirements of the Association with respect to an impaired or insolvent insurer shall not be made until necessary to implement the purposes of this chapter. Classification of assessments under subsection (b) of this section and computation of assessments under this subsection shall be made with a reasonable degree of accuracy, recognizing that exact determinations may not always be possible.</text>
+      <text>Assessments for funds to meet the requirements of the Association with respect to an impaired or insolvent insurer shall not be authorized or called until necessary to implement the purposes of this chapter. Classification of assessments under subsection (b) of this section and computation of assessments under this subsection shall be made with a reasonable degree of accuracy, recognizing that exact determinations may not always be possible.</text>
     </level>
   </level>
   <level>
@@ -47,7 +47,7 @@
     <num>(e)</num>
     <level>
       <num>(1)</num>
-      <text>The total of all assessments upon a member insurer for the life and annuity account and for each subaccount thereunder shall not in any 1 calendar year exceed 2% and for the health account shall not in any 1 calendar year exceed 2% of the insurer's average premiums received in the District of Columbia on the policies and contracts covered by the account during the 3 calendar years preceding the year in which the insurer is declared impaired or insolvent. If the maximum assessment, together with the other assets of the Association in any account, does not provide in any 1 year in either account an amount sufficient to carry out the responsibilities of the Association, the necessary additional funds shall be assessed as soon thereafter as permitted by this chapter.</text>
+      <text>The total of all assessments upon a member insurer for the life and annuity account and for each subaccount thereunder shall not in any 1 calendar year exceed 2% and for the health account shall not in any 1 calendar year exceed 2% of the insurer’s average premiums received in the District of Columbia on the policies and contracts covered by the account during the 3 calendar years preceding the year in which the insurer is declared impaired or insolvent. If the maximum assessment, together with the other assets of the Association in any account, does not provide in any 1 year in either account an amount sufficient to carry out the responsibilities of the Association, the necessary additional funds shall be assessed as soon thereafter as permitted by this chapter.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -55,7 +55,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>If a 1% assessment for any subaccount of the life and annuity account in any 1 year does not provide an amount sufficient to carry out the responsibilities of the Association, then pursuant to subsection (c)(2) of this section, the Board shall assess all subaccounts of the life and annuity account for the necessary additional amount, subject to the maximum stated in paragraph (1) of this subsection.</text>
+      <text>If the maximum assessment for any subaccount of the life and annuity account in any 1 year does not provide an amount sufficient to carry out the responsibilities of the Association, then pursuant to subsection (c)(2) of this section, the Board shall assess all subaccounts of the life and annuity account for the necessary additional amount, subject to the maximum stated in paragraph (1) of this subsection.</text>
     </level>
   </level>
   <level>
@@ -77,26 +77,46 @@
     <num>(h)</num>
     <text>The Association shall issue to each insurer paying an assessment under this chapter, other than a Class A assessment, a certificate of contribution, in a form prescribed by the Mayor, for the amount of the assessment so paid. All outstanding certificates shall be of equal value, dignity, and priority without references to amounts or dates of issue. A certificate of contribution may be shown by the insurer in its financial statement as an asset in the form and for the amount, if any, and period of time as the Mayor may approve.</text>
   </level>
+  <level>
+    <num>(i)</num>
+    <text>For the purposes of this section, the term:</text>
+    <level>
+      <num>(1)</num>
+      <text>“Authorized” means, when used in the context of assessments, a resolution by the Board of Directors that has been passed by which an assessment will be called immediately or in the future from member insurers for a specified amount. An assessment is authorized when the resolution is passed.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>“Called” means, when used in the context of assessments, that a notice has been issued by the Association to member insurers requiring that an authorized assessment be paid within the time frame set forth within the notice. An authorized assessment becomes a called assessment when notice is mailed by the Association to member insurers.</text>
+    </level>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-129, § 7, 39 DCR 4036.)</text>
+      <text>(July 22, 1992, D.C. Law 9-129, § 7, 39 DCR 4036; July 23, 2014, D.C. Law 20-130, § 2(d), 61 DCR 5900.)</text>
     </level>
     <level>
-      <heading>Cross References</heading>
-      <text>Premium tax liability offsets, see § 31-205.</text>
+      <heading>Cross references</heading>
+      <text>Premium tax liability offsets, see § 31-205.</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-205, § 31-5405, § 31-5407, and § 31-5410.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-205, § 31-5405, § 31-5407, and § 31-5410.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 35-1946.</text>
+      <text>1981 Ed., § 35-1946.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 9-129</heading>
-      <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following § 31-5401.</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-130 substituted “authorized or called” for “made” in (c)(3); substituted “the maximum assessment” for “a 1% assessment” in (e)(3); and added (i).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 9-129</heading>
+      <text>For legislative history of D.C. Law 9-129, see Historical and Statutory Notes following §31-5401.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-130</heading>
+      <text>See note to § 31-5401.</text>
     </level>
   </level>
 </level>

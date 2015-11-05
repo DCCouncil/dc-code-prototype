@@ -3,7 +3,7 @@
   <heading>John A. Wilson Building designated.</heading>
   <level>
     <num>(a)</num>
-    <text>Notwithstanding the provisions of Chapter 8 of this title, or any other law, the building and all property located in Square 255, located at 1350 Pennsylvania Avenue, N.W., popularly referred to as the "District Building" ("Property"), is hereby designated under the exclusive authority of the Council to determine the use, management, maintenance, operation, repair, renovation, security, lease, sale, or other disposition of the Property.</text>
+    <text>Notwithstanding the provisions of Chapter 8 of this title, or any other law, the building and all property located in Square 255, located at 1350 Pennsylvania Avenue, N.W., popularly referred to as the “District Building” (“Property”), is hereby designated under the exclusive authority of the Council to determine the use, management, maintenance, operation, repair, renovation, security, lease, sale, or other disposition of the Property.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -20,11 +20,15 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>Enter into contracts or other agreements with private entities to provide goods or services for the use, management, maintenance, operation, repair, renovation, security, lease, sale, or other disposition of the Property; and</text>
+        <text>Enter into contracts or other agreements with private entities to provide goods or services for the use, management, maintenance, operation, repair, renovation, security, lease, sale, or other disposition of the Property;</text>
       </level>
       <level>
         <num>(C)</num>
-        <text>Enter into lease or other agreements, with or without monetary consideration, with entities of the District government and with private entities for the use of space within the Property.</text>
+        <text>Enter into lease or other agreements, with or without monetary consideration, with entities of the District government and with private entities for the use of space within the Property; and</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>Enter into lease or other agreements, with or without monetary consideration, with entities of the District government and with private entities for establishing healthy food retail opportunities within the Property.</text>
       </level>
     </level>
     <level>
@@ -86,10 +90,10 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Nov. 25, 1993, D.C. Law 10-65, § 601, 40 DCR 7351.)</text>
+      <text>(Nov. 25, 1993, D.C. Law 10-65, § 601, 40 DCR 7351; Feb. 26, 2015, D.C. Law 20-155, § 1094, 61 DCR 9990.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
+      <heading>Section references</heading>
       <text>This section is referenced in § 10-1331.</text>
     </level>
     <level>
@@ -97,26 +101,37 @@
       <text>1981 Ed., § 9-701.</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) establishment of the John A. Wilson Building Centennial Fund, see § 4 of Fiscal Year 2008 Supplemental Appropriations Emergency Act of 2007 (D.C. Act 17-239, January 11, 2008, 55 DCR 967).</text>
-      <text>For temporary (90 day) addition, see § 1015 of Fiscal Year 2009 Budget Support Emergency Act of 2008 (D.C. Act 17-468, July 28, 2008, 55 DCR 8746).</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-155 added (b)(2)(D) and made related changes.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 10-65</heading>
-      <text>D.C. Law 10-65, the "Omnibus Spending Reduction Act of 1993," was introduced in Council and assigned Bill No. 10-323, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on July 21, 1993, and September 21, 1993, respectively. Signed by the Mayor on October 6, 1993, it was assigned Act No. 10-120 and transmitted to both Houses of Congress for its review. D.C. Law 10-65 became effective on November 25, 1993.</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) establishment of the John A. Wilson Building Centennial Fund, see § 4 of Fiscal Year 2008 Supplemental Appropriations Emergency Act of 2007 (D.C. Act 17-239, January 11, 2008, 55 DCR 967).</text>
+      <text>For temporary (90 day) addition, see § 1015 of Fiscal Year 2009 Budget Support Emergency Act of 2008 (D.C. Act 17-468, July 28, 2008, 55 DCR 8746).</text>
+      <text>For temporary (90 days) amendment of this section, see §  1094 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see §  1094 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see §  1094 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 10-65</heading>
+      <text>D.C. Law 10-65, the “Omnibus Spending Reduction Act of 1993,” was introduced in Council and assigned Bill No. 10-323, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on July 21, 1993, and September 21, 1993, respectively. Signed by the Mayor on October 6, 1993, it was assigned Act No. 10-120 and transmitted to both Houses of Congress for its review. D.C. Law 10-65 became effective on November 25, 1993.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-155</heading>
+      <text>See note to § 32-1661.</text>
     </level>
     <level>
       <heading>Resolutions</heading>
-      <text>Resolution 14-10, the "Assignment of the General Services Administration Lease Approval Emergency Resolution of 2001", was approved effective January 2, 2001.</text>
-      <text>Resolution 14-61, the "Wilson Building Settlement Agreement Approval Emergency Resolution of 2001", was approved effective March 13, 2001.</text>
+      <text>Resolution 14-10, the “Assignment of the General Services Administration Lease Approval Emergency Resolution of 2001”, was approved effective January 2, 2001.</text>
+      <text>Resolution 14-61, the “Wilson Building Settlement Agreement Approval Emergency Resolution of 2001”, was approved effective March 13, 2001.</text>
     </level>
     <level>
-      <heading>Mayor's orders</heading>
-      <text>Designation of District Building for use by the Council of the District of Columbia: See Mayor's Order 93-14, March 5, 1993.</text>
-      <text>Establishment and Appointments - Task Force on the Historical John A. Wilson Building, see Mayor's Order 2002-42, March 8, 2002 (49 DCR 2242).</text>
+      <heading>Mayor’s Orders</heading>
+      <text>Designation of District Building for use by the Council of the District of Columbia: See Mayor’s Order 93-14, March 5, 1993.</text>
+      <text>Establishment and Appointments — Task Force on the Historical John A. Wilson Building, see Mayor’s Order 2002-42, March 8, 2002 ( 49 DCR 2242).</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
+      <heading>Editor’s notes</heading>
       <text>Unsolicited Proposal to Enter Into a Memorandum of Understanding to Authorize the Washington Development Group, Inc., to Submit a Development Proposal for the Restoration and Renovation of the Wilson Building Resolution of 1995: Pursuant to Resolution 11-97, effective July 11, 1995, the Council approved an unsolicited proposal for a memorandum of understanding to authorize the development of a proposal for the restoration and renovation of the John A. Wilson Building.</text>
       <text>Endorsement of the Establishment of the John A. Wilson Building Foundation and Washington Development Group, Inc., Development Plan Conditional Approval Resolution of 1995: Pursuant to Resolution 11-172, effective November 7, 1995, the Council endorsed the formation of the John A. Wilson Building Foundation, a nonprofit organization to raise funds to pay for the renovation and restoration, or the full municipal use, of the John A. Wilson Building, and conditionally approved the development plan for the renovation and restoration of the John A. Wilson Building submitted by the Washington Development Group, Inc.</text>
       <text>General Services Administration Lease Approval Emergency Resolution of 1996: Pursuant to Resolution 11-470, effective July 17, 1996, Council approved, on an emergency basis, the lease between the Council of the District of Columbia and the United States General Services Administration for office space in the John A. Wilson Building to generate funds for the renovation and restoration of the John A. Wilson Building.</text>

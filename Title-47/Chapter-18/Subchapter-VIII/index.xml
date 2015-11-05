@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>VIII</num>
-  <heading>Tax on Unincorporated Businesses</heading>
+  <heading>Tax on Unincorporated Businesses.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.03.xml"/>
@@ -13,4 +13,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.07.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1808.11.xml"/>
 </level>

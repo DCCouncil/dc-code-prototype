@@ -3,7 +3,7 @@
   <heading>Presentment.</heading>
   <level>
     <num>(a)</num>
-    <text>"Presentment" means a demand made by or on behalf of a person entitled to enforce an instrument (i) to pay the instrument made to the drawee or a party obliged to pay the instrument or, in the case of a note or accepted draft payable at a bank, to the bank, or (ii) to accept a draft made to the drawee.</text>
+    <text>“Presentment” means a demand made by or on behalf of a person entitled to enforce an instrument (i) to pay the instrument made to the drawee or a party obliged to pay the instrument or, in the case of a note or accepted draft payable at a bank, to the bank, or (ii) to accept a draft made to the drawee.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -28,24 +28,28 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Dec. 30, 1963, 77 Stat. 687, Pub. L. 88-243, § 1; Aug. 30, 1964, 78 Stat. 679, Pub. L. 88-509, § 5; Mar. 16, 1982, D.C. Law 4-85, § 6, 29 DCR 309; Mar. 23, 1995, D.C. Law 10-249, § 2(d), 42 DCR 467.)</text>
+      <text>(Dec. 30, 1963, 77 Stat. 687, Pub. L. 88-243, § 1; Aug. 30, 1964, 78 Stat. 679, Pub. L. 88-509, § 5; Mar. 16, 1982, D.C. Law 4-85, § 6, 29 DCR 309; Mar. 23, 1995, D.C. Law 10-249, § 2(d), 42 DCR 467.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 28:3-103, § 28:4-104, and § 28:4-212.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 28:3-103, § 28:4-104, and § 28:4-212.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 28:3-501.</text>
-      <text>1973 Ed., § 28:3-501.</text>
+      <text>1981 Ed., § 28:3-501.</text>
+      <text>1973 Ed., § 28:3-501.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 4-85</heading>
-      <text>Law 4-85, the "Uniform Commercial Code Amendments Act of 1981," was introduced in Council and assigned Bill No. 4-89, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 24, 1981, and December 8, 1981, respectively. Signed by the Mayor on January 18, 1982, it was assigned Act No. 4-139 and transmitted to both Houses of Congress for its review.</text>
+      <heading>Legislative history of Law 4-85</heading>
+      <text>Law 4-85, the “Uniform Commercial Code Amendments Act of 1981,” was introduced in Council and assigned Bill No. 4-89, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 24, 1981, and December 8, 1981, respectively. Signed by the Mayor on January 18, 1982, it was assigned Act No. 4-139 and transmitted to both Houses of Congress for its review.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 10-249</heading>
-      <text>For legislative history of D.C. Law 10-249, see Historical and Statutory Notes following § 28:3-101.</text>
+      <heading>Legislative history of Law 10-249</heading>
+      <text>For legislative history of D.C. Law 10-249, see Historical and Statutory Notes following § 28:3-101.</text>
+    </level>
+    <level>
+      <heading>Uniform Commercial Code Comment</heading>
+      <text>Subsection (a) defines presentment. Subsection (b)(1) states the place and manner of presentment. Electronic presentment is authorized. The communication of the demand for payment or acceptance is effective when received. Subsection (b)(2) restates former  Section 3-505. Subsection (b)(2)(i) allows the person to whom presentment is made to require exhibition of the instrument, unless the parties have agreed otherwise as in an electronic presentment agreement. Former  Section 3-507(3) is the antecedent of subsection (b)(3)(i). Since a payor must decide whether to pay or accept on the day of presentment, subsection (b)(4) allows the payor to set a cut-off hour for receipt of instruments presented.</text>
     </level>
   </level>
 </level>

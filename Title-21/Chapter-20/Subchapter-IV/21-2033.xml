@@ -3,22 +3,29 @@
   <heading>Guardian ad litem; counsel; visitor.</heading>
   <level>
     <num>(a)</num>
-    <text>At any point in a proceeding, a court may appoint a guardian ad litem to prosecute or defend the interest of individuals in any legal proceeding if the court determines that representation of the interest otherwise would be inadequate. If not precluded by a conflict of interest, a guardian ad litem may be appointed to represent several individuals or interests. In addition, a guardian ad litem may be appointed by the court to assist the subject of an intervention proceeding to determine his or her interests in regard to the guardianship or protective proceeding or to make that determination if the subject of the proceeding is unconscious or otherwise wholly incapable of determining his or her interests in that proceeding even with assistance. In either case the guardian ad litem shall not serve as an independent finder of fact, investigator, ombudsman, or other neutral party in the proceeding. The court, as a part of the record of the proceeding, shall set out its reasons for appointing a guardian ad litem and his or her specific duties.</text>
+    <text>At any point in a proceeding, a court may appoint a guardian ad litem to prosecute or defend the best interests of individuals in any legal proceeding if the court determines that representation of the interest otherwise would be inadequate. If not precluded by a conflict of interest, a guardian ad litem may be appointed to represent several individuals or interests. In addition, a guardian ad litem may be appointed by the court to assist the subject of an intervention proceeding to determine his or her best interests in regard to the guardianship or protective proceeding or to make that determination if the subject of the proceeding is unconscious or otherwise wholly incapable of determining his or her interests in that proceeding even with assistance. In either case the guardian ad litem shall not serve as an independent finder of fact, investigator, ombudsman, or other neutral party in the proceeding. The court, as a part of the record of the proceeding, shall set out its reasons for appointing a guardian ad litem and his or her specific duties.</text>
   </level>
   <level>
     <num>(b)</num>
-    <text>The duty of counsel for the subject of a guardianship or protective proceeding is to represent zealously that individual's legitimate interests. At a minimum, this shall include:</text>
     <level>
       <num>(1)</num>
-      <text>Personal interviews with the subject of the intervention proceeding;</text>
+      <text>The duty of counsel for the subject of a guardianship or protective proceeding is to represent zealously that individual’s expressed wishes. At a minimum, this shall include:</text>
+      <level>
+        <num>(A)</num>
+        <text>Personal interviews with the subject of the intervention proceeding;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Explaining to the subject of the intervention proceeding, in the language, mode of communication, and terms that the individual is most likely to understand, the nature and possible consequences of the proceeding, the alternatives that are available, and the rights to which the individual is entitled; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Securing and presenting evidence and testimony and offering arguments to protect the rights of the subject of the guardianship or protective proceeding and further the subject of the guardianship’s expressed wishes.</text>
+      </level>
     </level>
     <level>
       <num>(2)</num>
-      <text>Explaining to the subject of the intervention proceeding, in the language, mode of communication, and terms that the individual is most likely to understand, the nature and possible consequences of the proceeding, the alternatives that are available, and the rights to which the individual is entitled; and</text>
-    </level>
-    <level>
-      <num>(3)</num>
-      <text>Securing and presenting evidence and testimony and offering arguments to protect the rights of the subject of the guardianship or protective proceeding and further that individual's interests.</text>
+      <text>If the subject of the guardianship or protective proceeding is unconscious or otherwise wholly incapable of expressing his or her wishes, counsel shall advocate zealously for the result that is the least restrictive option in type, duration, and scope, consistent with the subject’s interests as determined by the guardian ad litem.</text>
     </level>
   </level>
   <level>
@@ -28,19 +35,27 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632.)</text>
+      <text>(Feb. 28, 1987, D.C. Law 6-204, § 2(a), 34 DCR 632; Mar. 11, 2015, D.C. Law 20-230, § 2(c), 62 DCR 278.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 21-2033.</text>
+      <text>1981 Ed., § 21-2033.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 6-204</heading>
-      <text>For legislative history of D.C. Law 6-204, see Historical and Statutory Notes following § 21-2001.</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-230 substituted “to prosecute or defend the best interests of individuals” for “to prosecute or defend the interest of individuals” in the first sentence of (a); substituted “to determine his or her best interests” for “to determine his or her interests” in the third sentence of (a); redesignated (b) as (b)(1) and redesignated former (b)(1) through (b)(3) as (b)(1)(A) through (b)(1)(C); substituted “expressed wishes” for “legitimate interests” in the introductory language of (b)(1); substituted “further the subject of the guardianship’s expressed wishes” for “further that individual’s interests” in (b)(1)(C); and added (b)(2).</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
-      <text>Uniform Law: This section is based upon § 1-403 of the Uniform Guardianship and Protective Proceedings Act (1982 Act).</text>
+      <heading>Legislative history of Law 6-204</heading>
+      <text>For legislative history of D.C. Law 6-204, see Historical and Statutory Notes following § 21-2001.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-230</heading>
+      <text>See note to § 21-2011.</text>
+    </level>
+    <level>
+      <heading>Editor’s notes</heading>
+      <text>Uniform Law: This section is based upon § 1-403 of the Uniform Guardianship and Protective Proceedings Act (1982 Act).</text>
     </level>
   </level>
 </level>

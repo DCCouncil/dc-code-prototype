@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>7C</num>
-  <heading>Department on Disability Services</heading>
+  <heading>Department on Disability Services.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.03.xml"/>
@@ -16,4 +16,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.10.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-761.12.xml"/>
 </level>

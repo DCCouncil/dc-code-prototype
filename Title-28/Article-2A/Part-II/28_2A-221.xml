@@ -1,7 +1,7 @@
 <level type="section">
   <num>28:2A-221</num>
   <heading>Casualty to identified goods.</heading>
-  <text>If a lease contract requires goods identified when the lease contract is made, and the goods suffer casualty without fault of the lessee, the lessor, or the supplier before delivery, or the goods suffer casualty before risk of loss passes to the lessee pursuant to the lease agreement or § 28:2A-219, then:</text>
+  <text>If a lease contract requires goods identified when the lease contract is made, and the goods suffer casualty without fault of the lessee, the lessor, or the supplier before delivery, or the goods suffer casualty before risk of loss passes to the lessee pursuant to the lease agreement or § 28:2A-219, then:</text>
   <level>
     <num>(1)</num>
     <text>If the loss is total, the lease contract is avoided; and</text>
@@ -13,15 +13,34 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830.)</text>
+      <text>(July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830.)</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 28:2A-221.</text>
+      <text>1981 Ed., § 28:2A-221.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 9-128</heading>
-      <text>For legislative history of D.C. Law 9-128, see Historical and Statutory Notes following § 28:2A-101.</text>
+      <heading>Legislative history of Law 9-128</heading>
+      <text>For legislative history of D.C. Law 9-128, see Historical and Statutory Notes following § 28:2A-101.</text>
+    </level>
+    <level>
+      <heading>Uniform Commercial Code Comment</heading>
+      <text>Uniform Statutory Source:Section 2-613.</text>
+      <text>Changes: Revised to reflect leasing practices and terminology. Purpose: Due to the vagaries of determining the amount of due allowance ( Section 2-613(b), no attempt was made in subsection (b) to treat a problem unique to lease contracts and installment sales contracts: determining how to recapture the allowance, e.g., application to the first or last rent payments or allocation, pro rata, to all rent payments.</text>
+      <text>Cross References:Section 2-613.</text>
+      <text>Definitional Cross References: “Conforming”. Section 2A-103(1)(d).</text>
+      <text>“Consumer lease”. Section 2A-103(1)(e).</text>
+      <text>“Delivery”.  Section 1-201(14).</text>
+      <text>“Fault”. Section 2A-103(1)(f).</text>
+      <text>“Finance lease”. Section 2A-103(1)(g).</text>
+      <text>“Goods”. Section 2A-103(1)(h).</text>
+      <text>“Lease”. Section 2A-103(1)(j).</text>
+      <text>“Lease agreement”. Section 2A-103(1)(k).</text>
+      <text>“Lease contract”. Section 2A-193(1)(l).</text>
+      <text>“Lessee”. Section 2A-103(1)(n).</text>
+      <text>“Lessor”. Section 2A-103(1)(p).</text>
+      <text>“Rights”.  Section 1-201(36).</text>
+      <text>“Supplier”. Section 2A-103(1)(x).</text>
     </level>
   </level>
 </level>

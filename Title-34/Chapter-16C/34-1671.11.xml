@@ -21,7 +21,7 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>Has disclosed information about a customer or used information about a customer for any purpose other than the purpose for which the information was originally acquired, without the customer's written consent, unless the disclosure is for bill collection or credit rating reporting purposes;</text>
+        <text>Has disclosed information about a customer or used information about a customer for any purpose other than the purpose for which the information was originally acquired, without the customer’s written consent, unless the disclosure is for bill collection or credit rating reporting purposes or a lawful disclosure about the energy consumption of a non-residential tenant to the tenant’s building owner; provided, that disclosure of aggregated consumption data to the owner of the building for which the data is requested shall be permissible if at least 5 customer accounts are aggregated and no single customer account represents more than 80% of the total aggregated energy consumption;</text>
       </level>
       <level>
         <num>(E)</num>
@@ -89,7 +89,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>The Commission, on its own initiative or upon proper motion of the People's Counsel or any aggrieved party, may take any of the following actions:</text>
+    <text>The Commission, on its own initiative or upon proper motion of the People’s Counsel or any aggrieved party, may take any of the following actions:</text>
     <level>
       <num>(1)</num>
       <text>Require any person to file a statement or report in writing under oath as to the facts and circumstances concerning the rendition of any service or conduct of any sale incidental to the discharge of this chapter;</text>
@@ -126,7 +126,7 @@
       </level>
       <level>
         <num>(C)</num>
-        <text>The degree of the violator's culpability;</text>
+        <text>The degree of the violator’s culpability;</text>
       </level>
       <level>
         <num>(D)</num>
@@ -144,16 +144,28 @@
   </level>
   <level>
     <num>(e)</num>
-    <text>The Commission or the People's Counsel, in addition to any other proceeding authorized by law, may seek and obtain in a summary proceeding in the Superior Court of the District of Columbia an injunction prohibiting the act or practice.</text>
+    <text>The Commission or the People’s Counsel, in addition to any other proceeding authorized by law, may seek and obtain in a summary proceeding in the Superior Court of the District of Columbia an injunction prohibiting the act or practice.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 16, 2005, D.C. Law 15-227, § 12, 51 DCR 10549.)</text>
+      <text>(Mar. 16, 2005, D.C. Law 15-227, § 12, 51 DCR 10549; Dec. 17, 2014, D.C. Law 20-142, § 103, 61 DCR 8045.)</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-227</heading>
-      <text>For Law 15-227, see notes following § 34-1651.01.</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-142 added “or a lawful disclosure about the energy consumption of a non-residential tenant to the tenant’s building owner; provided, that disclosure of aggregated consumption data to the owner of the building for which the data is requested shall be permissible if at least 5 customer accounts are aggregated and no single customer account represents more than 80% of the total aggregated energy consumption” in (a)(1)(D).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 15-227</heading>
+      <text>For Law 15-227, see notes following § 34-1651.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-142</heading>
+      <text>Law 20-142, the “Sustainable DC Omnibus Act of 2014,” was introduced in Council and assigned Bill No. 20-573. The Bill was adopted on first and second readings on June 24, 2014, and July 14, 2014, respectively. Signed by the Mayor on July 29, 2014, it was assigned Act No. 20-385 and transmitted to Congress for its review. D.C. Law 20-142 became effective on Dec. 17, 2014.</text>
+    </level>
+    <level>
+      <heading>Editor's notes</heading>
+      <text>Applicability of D.C. Law 20-142: Section 502(a) of D.C. Law 20-142 provided that Title I of the act, §§ 101-111, shall apply as of January 1, 2015.</text>
     </level>
   </level>
 </level>

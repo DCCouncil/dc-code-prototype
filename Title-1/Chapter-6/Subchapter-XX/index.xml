@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XX</num>
-  <heading>Safety and Health</heading>
+  <heading>Safety and Health.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-620.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-620.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-620.03.xml"/>

@@ -1,7 +1,7 @@
 <level type="section">
   <num>31-5604.02</num>
   <heading>Exempt transactions.</heading>
-  <text>The following transactions are exempt from §§ 31-5603.01, 31-5603.07, and 31-5604.05:</text>
+  <text>The following transactions are exempt from §§ 31-5603.01, 31-5603.07, and 31-5604.05:</text>
   <level>
     <num>(1)</num>
     <text>An isolated nonissuer transaction, whether or not effected through a broker-dealer;</text>
@@ -23,14 +23,14 @@
     </level>
     <level>
       <num>(D)</num>
-      <text>A nationally recognized securities manual designated by rule or order of the Commissioner or a document filed with the Securities and Exchange Commission which is publicly available through the Securities and Exchange Commission's Electronic Data Gathering and Retrieval System contains:</text>
+      <text>A nationally recognized securities manual designated by rule or order of the Commissioner or a document filed with the Securities and Exchange Commission which is publicly available through the Securities and Exchange Commission’s Electronic Data Gathering and Retrieval System contains:</text>
       <level>
         <num>(i)</num>
         <text>A description of the business and operations of the issuer;</text>
       </level>
       <level>
         <num>(ii)</num>
-        <text>The names of the issuer's officers and directors, if any, or, in the case of a non-United States issuer, the corporate equivalents of such persons in the issuer's country of domicile;</text>
+        <text>The names of the issuer’s officers and directors, if any, or, in the case of a non-United States issuer, the corporate equivalents of such persons in the issuer’s country of domicile;</text>
       </level>
       <level>
         <num>(iii)</num>
@@ -38,7 +38,7 @@
       </level>
       <level>
         <num>(iv)</num>
-        <text>An audited income statement for each of the issuer's immediately preceding 2 fiscal years or for the period of existence of the issuer, if in existence for less than 2 years or, in the case of a reorganization or merger where the parties to the reorganization or merger had an audited income statement, a pro forma income statement; and</text>
+        <text>An audited income statement for each of the issuer’s immediately preceding 2 fiscal years or for the period of existence of the issuer, if in existence for less than 2 years or, in the case of a reorganization or merger where the parties to the reorganization or merger had an audited income statement, a pro forma income statement; and</text>
       </level>
     </level>
     <level>
@@ -72,7 +72,7 @@
   </level>
   <level>
     <num>(4)</num>
-    <text>A nonissuer transaction in an outstanding security if the issuer of the security has a class of securities subject to registration under section 12 of the Securities Exchange Act 1934 [15 U.S.C. § 78l] and has been subject to the reporting requirements of sections 13 or 15(d) of the Securities Exchange Act of 1934 [15 U.S.C. § 78m or 15 U.S.C. § 78o(d)] for not less than 90 days next preceding the transaction, or has filed and maintained with the Commissioner for not less than 90 days preceding the transaction information, in the form that the Commissioner, by rule, specifies, substantially comparable to the information that the issuer would be required to file under section 12(b) or (g) [15 U.S.C. § 78l] of the Securities Exchange Act of 1934 if the issuer had a class of its securities registered under section 12 of the Securities Exchange Act of 1934 [15 U.S.C. § 78l];</text>
+    <text>A nonissuer transaction in an outstanding security if the issuer of the security has a class of securities subject to registration under section 12 of the Securities Exchange Act 1934 [15 U.S.C. § 78l] and has been subject to the reporting requirements of sections 13 or 15(d) of the Securities Exchange Act of 1934 [15 U.S.C. § 78m or 15 U.S.C. § 78o(d)] for not less than 90 days next preceding the transaction, or has filed and maintained with the Commissioner for not less than 90 days preceding the transaction information, in the form that the Commissioner, by rule, specifies, substantially comparable to the information that the issuer would be required to file under section 12(b) or (g) [15 U.S.C. § 78l] of the Securities Exchange Act of 1934 if the issuer had a class of its securities registered under section 12 of the Securities Exchange Act of 1934 [15 U.S.C. § 78l];</text>
   </level>
   <level>
     <num>(5)</num>
@@ -110,7 +110,7 @@
     <num>(12)</num>
     <level>
       <num>(A)</num>
-      <text>Subject to subparagraph (B) of this paragraph, a transaction pursuant to an offer directed by the offeror to not more than 25 persons, other than those designated in § 31-5602.02(a)(1), in the District during any period of 12 consecutive months, whether or not the offeror, or any of the offerees, is then present in the District at the time of the transaction, if:</text>
+      <text>Subject to subparagraph (B) of this paragraph, a transaction pursuant to an offer directed by the offeror to not more than 25 persons, other than those designated in § 31-5602.02(a)(1), in the District during any period of 12 consecutive months, whether or not the offeror, or any of the offerees, is then present in the District at the time of the transaction, if:</text>
       <level>
         <num>(i)</num>
         <text>The seller reasonably believes that all the purchasers in the District are purchasing for investment; and</text>
@@ -127,7 +127,7 @@
   </level>
   <level>
     <num>(13)</num>
-    <text>To the extent permitted by rule or order of the Commissioner, an offer or sale within the District by an issuer now or hereafter exempt from section 5 of the Securities Act of 1933 [15 U.S.C. § 77e] by a rule or regulation adopted by the Securities and Exchange Commission under section 3(b) or section 4(2) of that Act [15 U.S.C. § 77c or 15 U.S.C. § 77d] if the issuer files with the Commissioner a notice of intent to claim exemption under this paragraph, at such time, in such form, and containing such information as the Commissioner determines;</text>
+    <text>To the extent permitted by rule or order of the Commissioner, an offer or sale within the District by an issuer now or hereafter exempt from section 5 of the Securities Act of 1933 [15 U.S.C. § 77e] by a rule or regulation adopted by the Securities and Exchange Commission under section 3(b) or section 4(2) of that Act [15 U.S.C. § 77c or 15 U.S.C. § 77d] if the issuer files with the Commissioner a notice of intent to claim exemption under this paragraph, at such time, in such form, and containing such information as the Commissioner determines;</text>
   </level>
   <level>
     <num>(14)</num>
@@ -158,7 +158,7 @@
     </level>
     <level>
       <num>(B)</num>
-      <text>A registration statement, if required, has been filed under § 31-5603.02, but is not effective; and</text>
+      <text>A registration statement, if required, has been filed under § 31-5603.02, but is not effective; and</text>
     </level>
     <level>
       <num>(C)</num>
@@ -174,7 +174,7 @@
     <text>A transaction involving an offer to sell, but not a sale, of a security if:</text>
     <level>
       <num>(A)</num>
-      <text>A registration statement has been filed under § 31-5603.04, but is not effective; and</text>
+      <text>A registration statement has been filed under § 31-5603.04, but is not effective; and</text>
     </level>
     <level>
       <num>(B)</num>
@@ -204,23 +204,23 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 26, 2000, D.C. Law 13-203, § 402, 47 DCR 7837; June 25, 2002, D.C. Law 14-150, § 2(j), 49 DCR 4238.)</text>
+      <text>(Oct. 26, 2000, D.C. Law 13-203, § 402, 47 DCR 7837; June 25, 2002, D.C. Law 14-150, § 2(j), 49 DCR 4238.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-5601.01, § 31-5603.01, § 31-5603.08, § 31-5604.04, § 31-5604.05, § 31-5604.06, and § 31-5605.02.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-5601.01, § 31-5603.01, § 31-5603.08, § 31-5604.04, § 31-5604.05, § 31-5604.06, and § 31-5605.02.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 14-150, in par. (11), substituted "financial institution" for "financial"; added par. (11A); and in par. (12)(A), substituted "subparagraph (B) of this paragraph" for "paragraph (2) of this subsection".</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 14-150, in par. (11), substituted “financial institution” for “financial”; added par. (11A); and in par. (12)(A), substituted “subparagraph (B) of this paragraph” for “paragraph (2) of this subsection”.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-203</heading>
-      <text>For Law 13-203, see notes following § 31-5601.01.</text>
+      <heading>Legislative history of Law 13-203</heading>
+      <text>For Law 13-203, see notes following § 31-5601.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 14-150</heading>
-      <text>For Law 14-150, see notes following § 31-5601.01.</text>
+      <heading>Legislative history of Law 14-150</heading>
+      <text>For Law 14-150, see notes following § 31-5601.01.</text>
     </level>
   </level>
 </level>

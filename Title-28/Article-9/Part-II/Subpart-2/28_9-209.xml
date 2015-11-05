@@ -15,7 +15,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Within 10 days after receiving an authenticated demand by the debtor, a secured party shall send to an account debtor that has received notification of an assignment to the secured party as assignee under § 28:9-406(a) an authenticated record that releases the account debtor from any further obligation to the secured party.</text>
+    <text>Within 10 days after receiving an authenticated demand by the debtor, a secured party shall send to an account debtor that has received notification of an assignment to the secured party as assignee under § 28:9-406(a) an authenticated record that releases the account debtor from any further obligation to the secured party.</text>
   </level>
   <level>
     <num>(c)</num>
@@ -24,15 +24,20 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 28:9-625.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 28:9-625.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-201</heading>
-      <text>For Law 13-201, see notes following § 28:9-101.</text>
+      <heading>Legislative history of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:9-101.</text>
+    </level>
+    <level>
+      <heading>Uniform Commercial Code Comment</heading>
+      <text>1. Source. New.</text>
+      <text>2. Scope and Purpose. Like  Sections 9-208 and  9-513, which require a secured party to relinquish control of collateral and to file or provide a termination statement for a financing statement, this section requires a secured party to free up collateral when there no longer is any outstanding secured obligation or any commitment to give value in the future. This section addresses the case in which account debtors have been notified to pay a secured party to whom the receivables have been assigned. It requires the secured party (assignee) to inform the account debtors that they no longer are obligated to make payment to the secured party. See subsection (b). It does not apply to account debtors whose obligations on an account, chattel paper, or payment intangible have been sold. See subsection (c).</text>
     </level>
   </level>
 </level>

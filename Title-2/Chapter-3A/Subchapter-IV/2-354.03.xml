@@ -21,8 +21,12 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Each RFP shall include a statement of work or other description of the District's specific needs, which shall be used as a basis for the evaluation of proposals.</text>
+      <text>Each RFP shall include a statement of work or other description of the District’s specific needs, which shall be used as a basis for the evaluation of proposals.</text>
     </level>
+  </level>
+  <level>
+    <num>(d-1)</num>
+    <text>An RFP for the construction of a road, bridge, other transportation system, or a facility or structure appurtenant to a road, bridge, or other transportation system, may allow prospective offerors or contractors to submit alternative technical concepts as a part of their proposals. The agency’s determination on the alternative technical concepts may be considered by the contracting officer as part of the evaluation and ranking of proposals.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -36,7 +40,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The RFQ shall include a description of the statement of work to be solicited by the RFP, the deadline for submission of information, and how prospective offerors may apply for consideration. The RFQ shall require information only on the prospective contractor's qualifications, experience, and ability to perform the requirements of the contract.</text>
+      <text>The RFQ shall include a description of the statement of work to be solicited by the RFP, the deadline for submission of information, and how prospective offerors may apply for consideration. The RFQ shall require information only on the prospective contractor’s qualifications, experience, and ability to perform the requirements of the contract.</text>
     </level>
     <level>
       <num>(3)</num>
@@ -59,7 +63,7 @@
     <num>(h)</num>
     <level>
       <num>(1)</num>
-      <text>After ranking the prospective contractors, the contracting officer may elect to proceed with negotiations in accordance with paragraph (2) of this subsection. The contracting officer's decision shall not be subject to review.</text>
+      <text>After ranking the prospective contractors, the contracting officer may elect to proceed with negotiations in accordance with paragraph (2) of this subsection. The contracting officer’s decision shall not be subject to review.</text>
     </level>
     <level>
       <num>(2)</num>
@@ -77,15 +81,29 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 8, 2011, D.C. Law 18-371, § 403, 58 DCR 1185.)</text>
+      <text>(Apr. 8, 2011, D.C. Law 18-371, § 403, 58 DCR 1185; Feb. 26, 2015, D.C. Law 20-155, §  6034(c), 61 DCR 9990.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
+      <heading>Section references</heading>
       <text>This section is referenced in § 1-301.91, § 2-351.04, § 2-354.01, § 2-355.02, and § 2-356.02.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-371</heading>
+      <heading>Effect of amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-155 added (d-1).</text>
+    </level>
+    <level>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 6044(c) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</text>
+      <text>For temporary (90 days) amendment of this section, see § 6034(c) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</text>
+      <text>For temporary (90 days) amendment of this section, see § 6034(c) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 18-371</heading>
       <text>For history of Law 18-371, see notes under § 2-351.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-155</heading>
+      <text>See note to § 2-351.04.</text>
     </level>
   </level>
 </level>

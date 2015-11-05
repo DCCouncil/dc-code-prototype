@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Property Exempt from Taxation</heading>
+  <heading>Property Exempt from Taxation.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1001.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1002.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1003.xml"/>
@@ -94,8 +94,13 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1086.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1087.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1088.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1088.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1089.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1090.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1091.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1092.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1093.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1094.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1095.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1096.xml"/>
 </level>

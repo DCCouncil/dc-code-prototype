@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>21</num>
-  <heading>Joint Contracts</heading>
+  <heading>Joint Contracts.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-2101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-2102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="16-2103.xml"/>

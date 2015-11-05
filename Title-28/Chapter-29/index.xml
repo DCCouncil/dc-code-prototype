@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>29</num>
-  <heading>Fiduciary Security Transfers</heading>
+  <heading>Fiduciary Security Transfers.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-2901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-2902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-2903.xml"/>

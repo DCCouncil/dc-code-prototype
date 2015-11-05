@@ -70,11 +70,13 @@
     <level>
       <num>(6)</num>
       <text>Each contract between an employment agency and a job-seeker shall contain the following notice in type which is more prominent than the type used for the remainder of the contract:</text>
+      <level>
+        <heading>NOTICE</heading>
+        <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment agency) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
+        <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
+      </level>
     </level>
   </level>
-  <text class="centered">NOTICE</text>
-  <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment agency) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
-  <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
   <level>
     <num>(g)</num>
     <text>No employment agency shall charge any job-seeker a registration fee or collect from any job-seeker any payment for any service in advance of performing the service.</text>
@@ -85,7 +87,7 @@
   </level>
   <level>
     <num>(i)</num>
-    <text>Any attempt by any employment agency or its representative to collect a fee from a job-seeker who has accepted a job with an employer with which the employment agency did not make an appointment for the job-seeker shall be considered fraud and grounds for suspension of the employment agency's license. Any job-seeker aggrieved by this improper attempt to collect a fee may file a complaint with and request a hearing by the Mayor.</text>
+    <text>Any attempt by any employment agency or its representative to collect a fee from a job-seeker who has accepted a job with an employer with which the employment agency did not make an appointment for the job-seeker shall be considered fraud and grounds for suspension of the employment agency’s license. Any job-seeker aggrieved by this improper attempt to collect a fee may file a complaint with and request a hearing by the Mayor.</text>
   </level>
   <level>
     <num>(j)</num>
@@ -95,12 +97,13 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Any promissory note executed by a person in consideration of an employment agency finding that person employment shall not be held in due course for a period of 120 days after the commencement of employment even though the holder during that period meets all the requirements set forth in § 28:3-302.</text>
+      <text>Any promissory note executed by a person in consideration of an employment agency finding that person employment shall not be held in due course for a period of 120 days after the commencement of employment even though the holder during that period meets all the requirements set forth in § 28:3-302.</text>
     </level>
   </level>
   <level>
     <num>(k)</num>
-    <text>Employment shall not be considered permanent when, within 12 weeks after employment commences, that employment is terminated by the employer through no fault of the job-seeker, or is terminated by the job-seeker if the employment is not as represented to the job-seeker. In that event, the employment agency making the job placement shall refund to the job-seeker the portion of the placement fee that exceeds <span style="font-style: italic; ">1</span>/<span style="">12</span> of that fee for each week or portion thereof that the employment continued.</text>
+    <text>Employment shall not be considered permanent when, within 12 weeks after employment commences, that employment is terminated by the employer through no fault of the job-seeker, or is terminated by the job-seeker if the employment is not as represented to the job-seeker. In that event, the employment agency making the job placement shall refund to the job-seeker the portion of the placement fee that exceeds 1/12 of that fee for each week or portion thereof that the employment continued.</text>
+    <text>112</text>
   </level>
   <level>
     <num>(l)</num>
@@ -151,7 +154,7 @@
     </level>
     <level>
       <num>(9)</num>
-      <text>Offer, divide, or share, directly or indirectly, any fee, charge, or compensation received or to be received from any job-seeker with any employer or person in any way connected with the employer's business;</text>
+      <text>Offer, divide, or share, directly or indirectly, any fee, charge, or compensation received or to be received from any job-seeker with any employer or person in any way connected with the employer’s business;</text>
     </level>
     <level>
       <num>(10)</num>
@@ -159,7 +162,7 @@
     </level>
     <level>
       <num>(11)</num>
-      <text>Enter into any contract with any person under 18 years of age who is not an emancipated minor unless that person's parent or guardian co-signs the contract; or</text>
+      <text>Enter into any contract with any person under 18 years of age who is not an emancipated minor unless that person’s parent or guardian co-signs the contract; or</text>
     </level>
     <level>
       <num>(12)</num>
@@ -169,19 +172,19 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 13, 1985, D.C. Law 5-136, § 5, 31 DCR 5727.)</text>
+      <text>(Mar. 13, 1985, D.C. Law 5-136, § 5, 31 DCR 5727.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 28-3904 and § 32-402.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 28-3904 and § 32-402.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 36-1004.</text>
+      <text>1981 Ed., § 36-1004.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 5-136</heading>
-      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
+      <heading>Legislative history of Law 5-136</heading>
+      <text>For legislative history of D.C. Law 5-136, see Historical and Statutory Notes following § 32-401.</text>
     </level>
   </level>
 </level>

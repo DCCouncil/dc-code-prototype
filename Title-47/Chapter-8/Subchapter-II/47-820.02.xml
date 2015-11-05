@@ -12,7 +12,15 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The base assessment amount shall be the amount paid by the current property owner in exchange for the property, not including any grants or other amounts received by the property owner from government agencies, housing organizations, and other entities that are not likely to be repaid (absent a violation of the terms of the limitations, encumbrances, or other restrictions attached to the sale).</text>
+        <text>The base assessment amount shall be the amount paid by the current property owner in exchange for the property, not including:</text>
+        <level>
+          <num>(i)</num>
+          <text>Any grants or other amounts received by the property owner from government agencies, housing organizations, and other entities that are not likely to be repaid (absent a violation of the terms of the limitations, encumbrances, or other restrictions attached to the sale); and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Any preexisting equity as defined in [§ 42-2801(8A)], in the case of resale restricted properties subject to [Chapter 28 of Title 42 (§  42-2801 et seq.)].</text>
+        </level>
       </level>
     </level>
     <level>
@@ -22,11 +30,11 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>If the purchase price is not ascertainable or the property has been transferred from a government entity or tax-exempt organization to a property owner without significant consideration, the property shall be assessed taking into account all limitations, encumbrances, and restrictions and shall be assessed in its initial year at a value not to exceed the price the property owner would receive under a sale under the terms of the limitations, encumbrances, and restrictions associated with the property. In any subsequent year in which the limitations, encumbrances, or restrictions remain in effect, the property's assessed value shall be calculated under subsection (a)(2) of this section.</text>
+    <text>If the purchase price is not ascertainable or the property has been transferred from a government entity or tax-exempt organization to a property owner without significant consideration, the property shall be assessed taking into account all limitations, encumbrances, and restrictions and shall be assessed in its initial year at a value not to exceed the price the property owner would receive under a sale under the terms of the limitations, encumbrances, and restrictions associated with the property. In any subsequent year in which the limitations, encumbrances, or restrictions remain in effect, the property’s assessed value shall be calculated under subsection (a)(2) of this section.</text>
   </level>
   <level>
     <num>(c)</num>
-    <text>For the purposes of this section, the term "resale restricted properties" means any properties for which a United States or District of Columbia government entity, or a charitable organization with tax-exempt status under section 501(c)(3) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 501(c)(3)), directly or indirectly, imposes limitations, encumbrances, or restrictions upon the properties' subsequent sale or transfer that are intended to preserve or promote the affordability of housing for low- and moderate-income owners, for a period of not less than 5 years.</text>
+    <text>For the purposes of this section, the term “resale restricted properties” means any properties for which a United States or District of Columbia government entity, or a charitable organization with tax-exempt status under section 501(c)(3) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 501(c)(3)), directly or indirectly, imposes limitations, encumbrances, or restrictions upon the properties’ subsequent sale or transfer that are intended to preserve or promote the affordability of housing for low- and moderate-income owners, for a period of not less than 5 years.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -35,23 +43,31 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Oct. 20, 2005, D.C. Law 16-33, § 1281(a)(3), 52 DCR 7503.)</text>
+      <text>(Oct. 20, 2005, D.C. Law 16-33, § 1281(a)(3), 52 DCR 7503; Mar. 10, 2015, D.C. Law 20-190, § 3, 61 DCR 12156.)</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) additions, see §§ 1281(a)(3), 1282, 1283 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2015 amendment by D.C. Law 20-190 added the (a)(1)(B)(i) designation; and added (a)(1)(B)(ii).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 16-33</heading>
-      <text>For Law 16-33, see notes following § 47-308.01.</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) additions, see §§ 1281(a)(3), 1282, 1283 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</text>
     </level>
     <level>
-      <heading>Editor’s Notes</heading>
-      <text>Applicability and expiration of subtitle HH of title I, §§ 1280 to 1284, of D.C. Law 16-33: Sections 1282 and 1283 of D.C. Law 16-33, as amended by D.C. Law 17-219, § 7068(f), (g), provided:</text>
-      <text>"Sec. 1282. Applicability; conditional effect.</text>
-      <text>"(a) Section 1281 shall apply for taxable years beginning after September 30, 2005.</text>
-      <text>"(b) Repealed.</text>
-      <text>"Sec. 1283. Repealed."</text>
+      <heading>Legislative history of Law 16-33</heading>
+      <text>For Law 16-33, see notes following § 47-308.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-190</heading>
+      <text>Law 20-190, the “Affordable Homeownership Preservation and Equity Accumulation Amendment Act of 2014,” was introduced in Council and assigned Bill No. 20-604. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Returned without the Mayor’s signature on Nov. 19, 2014, it was assigned Act No. 20-482 and transmitted to Congress for its review. D.C. Law 20-190 became effective on Mar. 10, 2015.</text>
+    </level>
+    <level>
+      <heading>Editor’s notes</heading>
+      <text>Applicability and expiration of subtitle HH of title I, §§ 1280 to 1284, of D.C. Law 16-33: Sections 1282 and 1283 of D.C. Law 16-33, as amended by D.C. Law 17-219, § 7068(f), (g), provided:</text>
+      <text>“Sec. 1282. Applicability; conditional effect.</text>
+      <text>“(a) Section 1281 shall apply for taxable years beginning after September 30, 2005.</text>
+      <text>“(b) Repealed.</text>
+      <text>“Sec. 1283. Repealed.”</text>
     </level>
   </level>
 </level>

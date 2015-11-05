@@ -12,7 +12,7 @@
   </level>
   <level>
     <num>(3)</num>
-    <text>While the per student cost for students in the public schools of the District of Columbia is one of the highest in the United States, test scores for such students continue to be among the lowest in the Nation. The National Assessment of Educational Progress (NAEP), an annual report released by the National Center for Education Statistics, reported in its 2009 study that students in the District of Columbia were being outperformed by every State in the Nation. On the 2009 NAEP, 56 percent of fourth grade students scored "below basic" in reading, and 44 percent scored "below basic" in mathematics. Among eighth grade students, 49 percent scored "below basic" in reading and 60 percent scored "below basic" in mathematics. On the 2009 NAEP reading assessment, only 17 percent of the District of Columbia fourth grade students could read proficiently, while only 13 percent of the eighth grade students scored at the proficient or advanced level.</text>
+    <text>While the per student cost for students in the public schools of the District of Columbia is one of the highest in the United States, test scores for such students continue to be among the lowest in the Nation. The National Assessment of Educational Progress (NAEP), an annual report released by the National Center for Education Statistics, reported in its 2009 study that students in the District of Columbia were being outperformed by every State in the Nation. On the 2009 NAEP, 56 percent of fourth grade students scored “below basic” in reading, and 44 percent scored “below basic” in mathematics. Among eighth grade students, 49 percent scored “below basic” in reading and 60 percent scored “below basic” in mathematics. On the 2009 NAEP reading assessment, only 17 percent of the District of Columbia fourth grade students could read proficiently, while only 13 percent of the eighth grade students scored at the proficient or advanced level.</text>
   </level>
   <level>
     <num>(4)</num>
@@ -20,7 +20,8 @@
   </level>
   <level>
     <num>(5)</num>
-    <text>The DC OSP was established in accordance with the Supreme Court decision, <span style="font-style: italic; ">Zelman v. Simmons-Harris</span>, 536 U.S. 639 (2002), which found that a program enacted for the valid secular purpose of providing educational assistance to low-income children in a demonstrably failing public school system is constitutional if it is neutral with respect to religion and provides assistance to a broad class of citizens who direct government aid to religious and secular schools solely as a result of their genuine and independent private choices.</text>
+    <text>The DC OSP was established in accordance with the Supreme Court decision, Zelman v. Simmons-Harris, 536 U.S. 639 (2002), which found that a program enacted for the valid secular purpose of providing educational assistance to low-income children in a demonstrably failing public school system is constitutional if it is neutral with respect to religion and provides assistance to a broad class of citizens who direct government aid to religious and secular schools solely as a result of their genuine and independent private choices.</text>
+    <text>Zelman v. Simmons-Harris</text>
   </level>
   <level>
     <num>(6)</num>
@@ -33,11 +34,11 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 15, 2011, 125 Stat. 199, Pub. L. 112-10, Div. C, § 3002.)</text>
+      <text>(Apr. 15, 2011, 125 Stat. 199, Pub. L. 112-10, Div. C, § 3002.)</text>
     </level>
     <level>
-      <heading>References in Text</heading>
-      <text>The Elementary and Secondary Education Act of 1965, referred to in par. (2), is 20 U.S.C. §§ 6301 et seq.</text>
+      <heading>References in text</heading>
+      <text>The Elementary and Secondary Education Act of 1965, referred to in par. (2), is  20 U.S.C. §§ 6301 et seq.</text>
     </level>
   </level>
 </level>

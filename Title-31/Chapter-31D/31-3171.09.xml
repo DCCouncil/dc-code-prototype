@@ -9,7 +9,7 @@
       <text>Provide the essential health benefits package described in section 1302(a) of the Federal Act; except, that the plan is not required to provide essential benefits that duplicate the minimum benefits of qualified dental plans, as provided in subsection (e) of this section, if:</text>
       <level>
         <num>(A)</num>
-        <text>The Authority has determined that at least one qualified dental plan is available to supplement the plan's coverage; and</text>
+        <text>The Authority has determined that at least one qualified dental plan is available to supplement the plan’s coverage; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -22,11 +22,11 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Provide at least a bronze level of coverage, as determined by § 31-3171.04(a)(11), unless the plan is certified as a qualified catastrophic plan, meets the requirements of section 1302(e) of the Federal Act, and will only be offered to individuals eligible for catastrophic coverage;</text>
+      <text>Provide at least a bronze level of coverage, as determined by § 31-3171.04(a)(11), unless the plan is certified as a qualified catastrophic plan, meets the requirements of section 1302(e) of the Federal Act, and will only be offered to individuals eligible for catastrophic coverage;</text>
     </level>
     <level>
       <num>(4)</num>
-      <text>Ensure that the cost-sharing requirements of the plan do not exceed the limits established under section 1302(c)(1) of the Federal Act, and if the plan is offered through the SHOP Exchange, the plan's deductible does not exceed the limits established under section 1302(c)(2) of the Federal Act;</text>
+      <text>Ensure that the cost-sharing requirements of the plan do not exceed the limits established under section 1302(c)(1) of the Federal Act, and if the plan is offered through the SHOP Exchange, the plan’s deductible does not exceed the limits established under section 1302(c)(2) of the Federal Act;</text>
     </level>
     <level>
       <num>(5)</num>
@@ -39,11 +39,11 @@
         <num>(B)</num>
         <level>
           <num>(i)</num>
-          <text>Offers at least one qualified health plan at the silver level and at least one plan at the gold level through each component of the Authority in which the health carrier participates;</text>
+          <text>Offers at least one qualified health plan at the bronze level, at least one qualified health plan at the silver level, and at least one qualified health plan at the gold level through each component of the Authority in which the health carrier participates;</text>
         </level>
         <level>
           <num>(ii)</num>
-          <text>For the purposes of this subparagraph, the term "component" refers to the SHOP Exchange and the exchange for individual coverage within the American Health Benefit Exchange;</text>
+          <text>For the purposes of this subparagraph, the term “component” refers to the SHOP Exchange and the exchange for individual coverage within the American Health Benefit Exchange;</text>
         </level>
       </level>
       <level>
@@ -52,11 +52,27 @@
       </level>
       <level>
         <num>(D)</num>
-        <text>Does not charge any cancellation fees or penalties in violation of § 31-3171.04(c); and</text>
+        <text>Does not charge any cancellation fees or penalties in violation of § 31-3171.04(c);</text>
       </level>
       <level>
         <num>(E)</num>
         <text>Complies with the regulations established by the Secretary under section 1311(d) of the Federal Act and any other requirements as the Authority may establish;</text>
+      </level>
+      <level>
+        <num>(E)</num>
+        <text>Quality improvement;</text>
+      </level>
+      <level>
+        <num>(F)</num>
+        <text>Uniform enrollment forms and descriptions of coverage; and</text>
+      </level>
+      <level>
+        <num>(G)</num>
+        <text>Information on quality measures for health benefit plan performance; and</text>
+      </level>
+      <level>
+        <num>(H)</num>
+        <text>Offers plans subject to the meaningful difference standard, as defined in section 4(ii) of Chapter 1 of the Affordable Exchanges Guidance, dated March 1, 2013, by the Centers for Consumer Information and Insurance Oversight at the Centers for Medicare and Medicaid Services in the U.S. Department of Health and Human Services, or as may be defined by the executive board for the Authority;</text>
       </level>
     </level>
     <level>
@@ -88,12 +104,24 @@
       </level>
       <level>
         <num>(G)</num>
-        <text>Information on quality measures for health benefit plan performance; and</text>
+        <text>Information on quality measures for health benefit plan performance;</text>
       </level>
     </level>
     <level>
       <num>(7)</num>
-      <text>Be determined by the Authority that making the plan available through the exchanges is in the interest of qualified individuals and qualified employers.</text>
+      <text>Be determined by the Authority that making the plan available through the exchanges is in the interest of qualified individuals and qualified employers;</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>Comply with section 512 of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008, approved October 3, 2008 (Pub. L. No. 110-343; 122 Stat. 3881), as applied to the Federal Act, including covering behavioral health inpatient and outpatient services for mental health and substance use disorders without day or visit limitations;</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <text>Provide a drug formulary that includes, at a minimum, the greater of either the number of drugs listed in each category and class found in the District's base-benchmark plan formulary, or the minimum number of drugs, by category and class, as established by the Center for Consumer Information and Insurance Oversight in the Centers for Medicare and Medicaid Services at the U.S. Department of Health and Human Services; and</text>
+    </level>
+    <level>
+      <num>(10)</num>
+      <text>Provide benefits identical to the essential health benefits benchmark plan, as defined in federal regulations promulgated pursuant to section 1302(a) of the Federal Act, as defined by the District without benefit substitution.</text>
     </level>
   </level>
   <level>
@@ -105,11 +133,15 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Through the imposition of premium price controls by the Authority; or</text>
+      <text>Through the imposition of premium price controls by the Authority;</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>On the basis that the health benefit plan provides treatments necessary to prevent patients' deaths in circumstances the Authority determines are inappropriate or too costly.</text>
+      <text>On the basis that the health benefit plan provides treatments necessary to prevent patients’ deaths in circumstances the Authority determines are inappropriate or too costly; or</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>On the basis of the number of qualified health plans being offered.</text>
     </level>
   </level>
   <level>
@@ -168,7 +200,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Permit individuals to learn, in a timely manner upon the request of the individual, the amount of cost-sharing, including deductibles, copayments, and coinsurance, under the individual's plan or coverage that the individual would be responsible for paying with respect to the furnishing of a specific item or service by a participating provider and make this information available to the individual through a website that is publically accessible, and through other means for individuals without access to the Internet; and</text>
+      <text>Permit individuals to learn, in a timely manner upon the request of the individual, the amount of cost-sharing, including deductibles, copayments, and coinsurance, under the individual’s plan or coverage that the individual would be responsible for paying with respect to the furnishing of a specific item or service by a participating provider and make this information available to the individual through a website that is publically accessible, and through other means for individuals without access to the Internet; and</text>
     </level>
     <level>
       <num>(4)</num>
@@ -202,32 +234,46 @@
     <num>(f)</num>
     <text>The Authority shall take the information required by subsection (c)(1) of this section, along with the information and the recommendations provided to the Authority by the Commissioner under section 2794(b) of the PHSA, into consideration when determining whether to allow the health carrier to make plans available through the exchanges.</text>
   </level>
+  <level>
+    <num>(g)</num>
+    <text>A qualified health plan may provide additional services that are not in the essential health benefits package required in subsection (a)(1) of this section, if the services are eligible for claims submission and reimbursement.</text>
+  </level>
+  <level>
+    <num>(h)</num>
+    <text>For the purposes of the essential health benefits benchmark plan, as defined in federal regulations promulgated pursuant to section 1302(a) of the Federal Act, the term “habilitative services” includes health care services that help a person keep, learn, or improve skills and functioning for daily living, including applied behavioral analysis for the treatment of autism spectrum disorder.</text>
+  </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 2, 2012, D.C. Law 19-94, § 10, 59 DCR 213.)</text>
+      <text>(Mar. 2, 2012, D.C. Law 19-94, § 10, 59 DCR 213; July 16, 2014, D.C. Law 20-123, § 2(b), 61 DCR 5379.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 31-3171.01 and § 31-3171.04.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 31-3171.01 and § 31-3171.04.</text>
     </level>
     <level>
-      <heading>Temporary Legislation</heading>
-      <text>For temporary (225 days) amendment of this section, see § 2(b) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013, 60 DCR 10880).</text>
-      <text>For temporary (225 days) addition of D.C. Law 19-94, § 10a, concerning distribution of individual and small group health benefit plans, see § 2(c) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013, 60 DCR 10880).</text>
-      <text>For temporary (225 days) addition of D.C. Law 19-94, § 10b, concerning sale, solicitation, and negotiation by insurance producers, see § 2(c) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013, 60 DCR 10880).</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-123 added “at least one qualified health plan at the bronze level,” in (a)(5)(B)(i); deleted “and” at the end of (a)(5)(D); added (a)(5)(F), (a)(5)(G), and (a)(5)(H); made minor stylistic changes in (a)(6) and (a)(7); added (a)(8), (a)(9), and (a)(10); made minor stylistic changes in (b)(2) and (b)(3); and added (b)(4), (g), and (h).</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Act of 2013 (D.C. Act 20-87, June 19, 2013, 60 DCR 9542, 20 DCSTAT 1446).</text>
-      <text>For temporary (90 days) addition of D.C. Law 19-94, § 10a, concerning distribution of individual and small group health benefit plans, see § 2(c) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Amendment Act of 2013 (D.C. Act 20-87, June 19, 2013, 60 DCR 9542, 20 DCSTAT 1446).</text>
-      <text>For temporary (90 days) addition of D.C. Law 19-94, § 10b, concerning sale, solicitation, and negotiation by insurance producers, see § 2(c) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Amendment Act of 2013 (D.C. Act 20-87, June 19, 2013, 60 DCR 9542, 20 DCSTAT 1446).</text>
-      <text>For temporary (90 days) amendment of this section, see §§ 2(b) and 3 of the Better Prices, Better Quality, Better Choices for Health Coverage Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-170, September 26, 2013, 60 DCR 14742).</text>
-      <text>For temporary (90 days) addition of D.C. Law 19-94, § 10a, see §§ 2(c) and 3 of the Better Prices, Better Quality, Better Choices for Health Coverage Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-170, September 26, 2013, 60 DCR 14742).</text>
+      <heading>Temporary legislation</heading>
+      <text>For temporary (225 days) amendment of this section, see § 2(b) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013,  60 DCR 10880).</text>
+      <text>For temporary (225 days) addition of D.C. Law 19-94, § 10a, concerning distribution of individual and small group health benefit plans, see § 2(c) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013,  60 DCR 10880).</text>
+      <text>For temporary (225 days) addition of D.C. Law 19-94, § 10b, concerning sale, solicitation, and negotiation by insurance producers, see § 2(c) of the Better Prices, Better Quality, Better Choices for Health Coverage Temporary Amendment Act of 2013 (D.C. Law 20-22, October 3, 2013,  60 DCR 10880).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 19-94</heading>
-      <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 days) amendment of this section, see § 2(b) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Act of 2013 (D.C. Act 20-87, June 19, 2013,  60 DCR 9542,20 DCSTAT 1446).</text>
+      <text>For temporary (90 days) amendment of this section, see §§ 2(b) and 3 of the Better Prices, Better Quality, Better Choices for Health Coverage Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-170, September 26, 2013,  60 DCR 14742).</text>
+      <text>For temporary (90 days) amendment of section, see § 2(b) of the Better Prices, Better Quality, Better Choices for Health Coverage Emergency Amendment Act of 2014, (D.C. Act 20-335, May 22, 2014,  61 DCR 5375).</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 19-94</heading>
+      <text>For history of Law 19-94, see notes under § 31-3171.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-123</heading>
+      <text>See note to § 31-3171.01.</text>
     </level>
   </level>
 </level>

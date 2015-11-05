@@ -4,7 +4,11 @@
   <text>For the purposes of this chapter, the term:</text>
   <level>
     <num>(1)</num>
-    <text>"Community development" means:</text>
+    <text>“CFO” means the Chief Financial Officer of the District of Columbia, established by § 1-204.24a.</text>
+  </level>
+  <level>
+    <num>(1A)</num>
+    <text>“Community development” means:</text>
     <level>
       <num>(A)</num>
       <text>Affordable housing (including single-family and multi-family rental housing and homeownership) for low-income or moderate-income individuals and families and related retail and community facilities development;</text>
@@ -27,20 +31,56 @@
     </level>
   </level>
   <level>
+    <num>(1B)</num>
+    <text>“Community development loan” means a loan that:</text>
+    <level>
+      <num>(A)</num>
+      <text>Has as its primary purpose community development; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Except in the case of a wholesale or limited purpose bank, and unless a multifamily dwelling loan, has not been reported or collected by the bank or an affiliate for consideration in the bank’s assessment as a:</text>
+      <level>
+        <num>(i)</num>
+        <text>Home mortgage;</text>
+      </level>
+      <level>
+        <num>(ii)</num>
+        <text>Small business loan;</text>
+      </level>
+      <level>
+        <num>(iii)</num>
+        <text>Small farm loan; or</text>
+      </level>
+      <level>
+        <num>(iv)</num>
+        <text>Consumer loan; and</text>
+      </level>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>Benefits the bank’s assessment area or a broader District-wide or regional area that includes the bank’s assessment area.</text>
+    </level>
+  </level>
+  <level>
     <num>(2)</num>
-    <text>"Community Reinvestment Act" shall mean the Community Reinvestment Act of 1977, approved October 12, 1977 (91 Stat. 1147; 12 U.S.C. § 2901 et seq.).</text>
+    <text>“Community Reinvestment Act” shall mean the Community Reinvestment Act of 1977, approved October 12, 1977 (91 Stat. 1147; 12 U.S.C. § 2901 et seq.).</text>
   </level>
   <level>
     <num>(3)</num>
-    <text>"Commissioner" shall have the same meaning as set forth in § 26-551.02(7).</text>
+    <text>“Commissioner” shall have the same meaning as set forth in § 26-551.02(7).</text>
   </level>
   <level>
     <num>(4)</num>
-    <text>"Department" shall have the same meaning as set forth in § 26-551.02(9).</text>
+    <text>“Department” shall have the same meaning as set forth in § 26-551.02(9).</text>
+  </level>
+  <level>
+    <num>(4A)</num>
+    <text>“Deposit-receiving institution” means a federal, state, or District chartered bank, savings institution, or credit union that receives after March 11, 2015, District contracts pursuant to §§ 47-351.02(c) and 47-351.03, including any chartered bank, savings institution, or credit union that has applied to be or is regulated, supervised, examined, or licensed by the Department or a District chartered bank that is engaged in activity covered by §§ 47-351.02(c) and 47- 351.03; except, that the provision of services provided for and deposits made with regard to District debt transactions does not create a deposit-receiving institution, notwithstanding that deposit receiving institutions may provide those services or receive those deposits.</text>
   </level>
   <level>
     <num>(5)</num>
-    <text>"Designated development areas" means any of the following located in the District:</text>
+    <text>“Designated development areas” means any of the following located in the District:</text>
     <level>
       <num>(A)</num>
       <text>A low-income or moderate-income area;</text>
@@ -55,36 +95,40 @@
     </level>
   </level>
   <level>
+    <num>(5A)</num>
+    <text>“Elderly resident” means a District resident 55 years of age or older.</text>
+  </level>
+  <level>
     <num>(6)</num>
-    <text>"Federal financial supervisory agency" means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision and any successor to any of the foregoing agencies, as applicable to the specific type of bank.</text>
+    <text>“Federal financial supervisory agency” means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of Thrift Supervision and any successor to any of the foregoing agencies, as applicable to the specific type of bank.</text>
   </level>
   <level>
     <num>(7)</num>
-    <text>"Financial institution" shall have the same meaning as in § 26-551.02(18).</text>
+    <text>“Financial institution” shall have the same meaning as in § 26-551.02(18).</text>
   </level>
   <level>
     <num>(8)</num>
-    <text>"Low-income" shall have the same meaning as set forth in § 26-1401.02(21).</text>
+    <text>“Low-income” shall have the same meaning as set forth in § 26-1401.02(21).</text>
   </level>
   <level>
     <num>(9)</num>
-    <text>"Low-income area" means a census tract or block numbering area in which the median individual or family income does not exceed 65% of the median income of the Washington, D.C., metropolitan area as determined by the statistics of the United States Department of Housing and Urban Development.</text>
+    <text>“Low-income area” means a census tract or block numbering area in which the median individual or family income does not exceed 65% of the median income of the Washington, D.C., metropolitan area as determined by the statistics of the United States Department of Housing and Urban Development.</text>
   </level>
   <level>
     <num>(10)</num>
-    <text>"Moderate-income" shall have the same meaning as set forth in § 26-1401.02(22).</text>
+    <text>“Moderate-income” shall have the same meaning as set forth in § 26-1401.02(22).</text>
   </level>
   <level>
     <num>(11)</num>
-    <text>"Moderate-income area" means a census tract or block numbering area in which the median individual or family income does not exceed 80% of the median income for the Washington, D.C. metropolitan area as determined by the statistics of the United States Department of Housing and Urban Development.</text>
+    <text>“Moderate-income area” means a census tract or block numbering area in which the median individual or family income does not exceed 80% of the median income for the Washington, D.C. metropolitan area as determined by the statistics of the United States Department of Housing and Urban Development.</text>
   </level>
   <level>
     <num>(12)</num>
-    <text>"Minority group" means African-Americans, Hispanic-Americans, Latinos, Asian-Americans, Pacific Islander-Americans, American Indians, Native Americans, or Alaskan-Natives.</text>
+    <text>“Minority group” means African-Americans, Hispanic-Americans, Latinos, Asian-Americans, Pacific Islander-Americans, American Indians, Native Americans, or Alaskan-Natives.</text>
   </level>
   <level>
     <num>(13)</num>
-    <text>"Minority-owned business" means a business in which:</text>
+    <text>“Minority-owned business” means a business in which:</text>
     <level>
       <num>(A)</num>
       <text>At least 51% ownership and control is held by individuals who are members of a minority group;</text>
@@ -100,15 +144,19 @@
   </level>
   <level>
     <num>(14)</num>
-    <text>"Mortgage loan" means a loan that is secured by residential real property.</text>
+    <text>“Mortgage loan” means a loan that is secured by residential real property.</text>
+  </level>
+  <level>
+    <num>(14A)</num>
+    <text>“Qualified investments” means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.</text>
   </level>
   <level>
     <num>(15)</num>
-    <text>"Small business loan" means a small business loan as defined in Federal Reserve System Regulation BB, 12 C.F.R. Part 228.</text>
+    <text>“Small business loan” means a small business loan as defined in Federal Reserve System Regulation BB, 12 C.F.R. Part 228.</text>
   </level>
   <level>
     <num>(16)</num>
-    <text>"Women-owned business" means a business in which:</text>
+    <text>“Women-owned business” means a business in which:</text>
     <level>
       <num>(A)</num>
       <text>At least 51% of the ownership and control is held by a woman or women;</text>
@@ -125,25 +173,30 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 9, 2001, D.C. Law 13-308, § 402, 48 DCR 3244; June 11, 2004, D.C. Law 15-166, § 2(k), 51 DCR 2817.)</text>
+      <text>(June 9, 2001, D.C. Law 13-308, § 402, 48 DCR 3244; June 11, 2004, D.C. Law 15-166, § 2(k), 51 DCR 2817; Mar 11, 2015, D.C. Law 20-226, § 2(a), 62 DCR 255.)</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
+      <heading>Effect of amendments</heading>
       <text>D.C. Law 15-166 rewrote pars. (3) and (4) which had read as follows:</text>
-      <text>"(3) 'Commissioner' means the Commissioner of the Department of Banking and Financial Institutions.</text>
-      <text>"(4) 'Department' means the Department of Banking and Financial Institutions."</text>
+      <text>“(3) ‘Commissioner’ means the Commissioner of the Department of Banking and Financial Institutions.</text>
+      <text>“(4) ‘Department’ means the Department of Banking and Financial Institutions.”</text>
+      <text>The 2015 amendment by D.C. Law 20-226 redesignated (1) as (1A); added (1), (1B), (4A), (5A) and (14A).</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90 day) amendment of section, see § 2(k) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004, 51 DCR 2653).</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90 day) amendment of section, see § 2(k) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-308</heading>
-      <text>For Law 13-308, see notes following § 26-431.01.</text>
+      <heading>Legislative history of Law 13-308</heading>
+      <text>For Law 13-308, see notes following § 26-431.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-166</heading>
-      <text>For Law 15-166, see notes following § 26-131.02.</text>
+      <heading>Legislative history of Law 15-166</heading>
+      <text>For Law 15-166, see notes following § 26-131.02.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-226</heading>
+      <text>Law 20-226, the “Community Development Amendment Act of 2014,” was introduced in Council and assigned Bill No. 20-540. The Bill was adopted on first and second readings on Nov. 18, 2014, and Dec. 2, 2014, respectively. Signed by the Mayor on Dec. 29, 2014, it was assigned Act No. 20-548 and transmitted to Congress for its review. D.C. Law 20-226 became effective on Mar. 11, 2015.</text>
     </level>
   </level>
 </level>

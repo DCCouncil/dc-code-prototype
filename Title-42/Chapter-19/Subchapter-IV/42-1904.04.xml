@@ -10,7 +10,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>The applicant's name, address, and the form, date, and jurisdiction of organization, the address of each of its offices in the District of Columbia, the names and addresses of all general partners if applicant is a partnership, and all directors and owners of 10% or more of the beneficial interest in the stock of applicant if applicant is a corporation;</text>
+      <text>The applicant’s name, address, and the form, date, and jurisdiction of organization, the address of each of its offices in the District of Columbia, the names and addresses of all general partners if applicant is a partnership, and all directors and owners of 10% or more of the beneficial interest in the stock of applicant if applicant is a corporation;</text>
     </level>
     <level>
       <num>(3)</num>
@@ -29,7 +29,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>A projected budget for at least the first year of the condominium's operation (including projected common expense assessments for each unit);</text>
+        <text>A projected budget for at least the first year of the condominium’s operation (including projected common expense assessments for each unit);</text>
       </level>
       <level>
         <num>(C)</num>
@@ -45,11 +45,11 @@
       </level>
       <level>
         <num>(F)</num>
-        <text>A description of any restraints on alienation; and</text>
+        <text>A description of any restraints on alienation, including restrictions on the rental of units; and</text>
       </level>
       <level>
         <num>(G)</num>
-        <text>A description of any service not reflected in the proposed budget that the declarant shall provide or expenses that he or she shall pay, and that he or she expects may become, at any subsequent time, a common expense of the unit owners' association, and the projected common expense assessment attributable to each of those services or expenses for the association and for each type of unit;</text>
+        <text>A description of any service not reflected in the proposed budget that the declarant shall provide or expenses that he or she shall pay, and that he or she expects may become, at any subsequent time, a common expense of the unit owners’ association, and the projected common expense assessment attributable to each of those services or expenses for the association and for each type of unit;</text>
       </level>
     </level>
     <level>
@@ -69,11 +69,11 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>The project's compliance with zoning, site plan and building permit regulations;</text>
+        <text>The project’s compliance with zoning, site plan and building permit regulations;</text>
       </level>
       <level>
         <num>(C)</num>
-        <text>Source of financing available and the estimated amount necessary to complete all improvements shown on the plats and plans as "not yet completed" or "not yet begun" which declarant is obligated to complete; and</text>
+        <text>Source of financing available and the estimated amount necessary to complete all improvements shown on the plats and plans as “not yet completed” or “not yet begun” which declarant is obligated to complete; and</text>
       </level>
       <level>
         <num>(D)</num>
@@ -90,7 +90,7 @@
     </level>
     <level>
       <num>(11)</num>
-      <text>The provisions and any significant limitations of any warranties provided by the declarant on the units and the common elements, other than the warranty prescribed by § 42-1903.07(b) [(b) repealed];</text>
+      <text>The provisions and any significant limitations of any warranties provided by the declarant on the units and the common elements, other than the warranty prescribed by § 42-1903.07(b) [(b) repealed];</text>
     </level>
     <level>
       <num>(12)</num>
@@ -129,7 +129,7 @@
       <text>A statement that shall include:</text>
       <level>
         <num>(A)</num>
-        <text>Any service that the declarant shall provide or any expense that the declarant shall pay, if the service or expense is not reflected in the budget and the declarant expects that the expense or service may later become a common expense of the unit owners' association; and</text>
+        <text>Any service that the declarant shall provide or any expense that the declarant shall pay, if the service or expense is not reflected in the budget and the declarant expects that the expense or service may later become a common expense of the unit owners’ association; and</text>
       </level>
       <level>
         <num>(B)</num>
@@ -172,36 +172,45 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Mar. 29, 1977, D.C. Law 1-89, title IV, § 405, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(rr), 38 DCR 261; Mar. 20, 1992, D.C. Law 9-82, § 2(n), 39 DCR 683; Mar. 24, 1998, D.C. Law 12-81, § 54, 45 DCR 745.)</text>
+      <text>(Mar. 29, 1977, D.C. Law 1-89, title IV, § 405, 23 DCR 9532b; Mar. 8, 1991, D.C. Law 8-233, § 2(rr), 38 DCR 261; Mar. 20, 1992, D.C. Law 9-82, § 2(n), 39 DCR 683; Mar. 24, 1998, D.C. Law 12-81, § 54, 45 DCR 745; June 21, 2014, D.C. Law 20-109, § 2(n), 61 DCR 4304.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 42-1903.12, § 42-1904.01, § 42-1904.03, and § 42-1904.08.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 42-1903.12, § 42-1904.01, § 42-1904.03, and § 42-1904.08.</text>
+      <text>See note to § 42-1901.01.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 45-1864.</text>
-      <text>1973 Ed., § 5-1264.</text>
+      <text>1981 Ed., § 45-1864.</text>
+      <text>1973 Ed., § 5-1264.</text>
     </level>
     <level>
-      <heading>Temporary Amendment of Section</heading>
-      <text>For temporary (225 day) amendment of section, see § 2(l) of Condominium Act of 1976 Technical and Clarifying Temporary Amendment Act of 1991 (D.C. Law 9-38, August 17, 1991, law notification 38 DCR 5805).</text>
+      <heading>Effect of amendments</heading>
+      <text>The 2014 amendment by D.C. Law 20-109 added “including restrictions on the rental of units” in (a)(5)(F).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 1-89</heading>
-      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
+      <heading>Temporary legislation</heading>
+      <text>For temporary (225 day) amendment of section, see § 2(l) of Condominium Act of 1976 Technical and Clarifying Temporary Amendment Act of 1991 (D.C. Law 9-38, August 17, 1991, law notification  38 DCR 5805).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 8-233</heading>
-      <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
+      <heading>Legislative history of Law 1-89</heading>
+      <text>For legislative history of D.C. Law 1-89, see Historical and Statutory Notes following § 42-1901.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 9-82</heading>
-      <text>For legislative history of D.C. Law 9-82, see Historical and Statutory Notes following § 42-1901.01.</text>
+      <heading>Legislative history of Law 8-233</heading>
+      <text>For legislative history of D.C. Law 8-233, see Historical and Statutory Notes following § 42-1901.07.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 12-81</heading>
-      <text>Law 12-81, the "Technical Amendments Act of 1998," was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+      <heading>Legislative history of Law 9-82</heading>
+      <text>For legislative history of D.C. Law 9-82, see Historical and Statutory Notes following § 42-1901.01.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 12-81</heading>
+      <text>Law 12-81, the “Technical Amendments Act of 1998,” was introduced in Council and assigned Bill No. 12-408, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 4, 1997, and December 4, 1997, respectively. Signed by the Mayor on December 22, 1997, it was assigned Act No. 12-246 and transmitted to both Houses of Congress for its review. D.C. Law 12-81 became effective on March 24, 1998.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-109</heading>
+      <text>See note to § 42-1901.01.</text>
     </level>
   </level>
 </level>

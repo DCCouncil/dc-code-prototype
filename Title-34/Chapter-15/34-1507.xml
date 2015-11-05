@@ -17,7 +17,39 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>This restriction shall not apply to lawful disclosures for bill collection or credit rating reporting purposes.</text>
+      <text>This restriction shall not apply to:</text>
+      <level>
+        <num>(A)</num>
+        <text>Lawful disclosures for bill collection or credit rating reporting purposes; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Lawful disclosures to a building owner about the energy consumption of a non-residential tenant of the building.</text>
+      </level>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Aggregated consumption data may be provided under the following circumstances:</text>
+      <level>
+        <num>(A)</num>
+        <text>When at least 5 customer accounts are being aggregated;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>When no single customer account represents more than 80% of the total aggregated energy consumption; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>When no individual customer-identifying information is included, unless:</text>
+        <level>
+          <num>(i)</num>
+          <text>The customer-identifying information is supplied by the person requesting the consumption data; and</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>The person requesting the consumption data owns the building for which the consumption data is requested.</text>
+        </level>
+      </level>
     </level>
   </level>
   <level>
@@ -33,11 +65,11 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>Unless the customer consents, a market participant may not change a customer's electricity supplier.</text>
+    <text>Unless the customer consents, a market participant may not change a customer’s electricity supplier.</text>
   </level>
   <level>
     <num>(d)</num>
-    <text>Unless the customer consents, a market participant may not add services or new charges to a customer's existing retail electric service options.</text>
+    <text>Unless the customer consents, a market participant may not add services or new charges to a customer’s existing retail electric service options.</text>
   </level>
   <level>
     <num>(e)</num>
@@ -47,7 +79,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>A market participant must provide adequate and accurate information to each customer about the market participant's available services and charges.</text>
+      <text>A market participant must provide adequate and accurate information to each customer about the market participant’s available services and charges.</text>
     </level>
   </level>
   <level>
@@ -56,7 +88,7 @@
   </level>
   <level>
     <num>(g)</num>
-    <text>A market participant may not refuse to provide service to a customer except by the application of standards that are reasonably related to the market participant's economic and business purposes.</text>
+    <text>A market participant may not refuse to provide service to a customer except by the application of standards that are reasonably related to the market participant’s economic and business purposes.</text>
   </level>
   <level>
     <num>(h)</num>
@@ -65,23 +97,32 @@
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(May 9, 2000, D.C. Law 13-107, § 107, 47 DCR 1091; June 25, 2008, D.C. Law 17-177, § 18(b), 55 DCR 3696.)</text>
+      <text>(May 9, 2000, D.C. Law 13-107, § 107, 47 DCR 1091; June 25, 2008, D.C. Law 17-177, § 18(b), 55 DCR 3696; Dec. 17, 2014, D.C. Law 20-142, § 102, 61 DCR 8045.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 34-1504 and § 34-1518.01.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 34-1504 and § 34-1518.01.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 17-177, in subsec. (f), substituted "sexual orientation, or gender identity or expression" for "or sexual orientation".</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 17-177, in subsec. (f), substituted “sexual orientation, or gender identity or expression” for “or sexual orientation”.</text>
+      <text>The 2014 amendment by D.C. Law 20-142 rewrote (a)(2); and added (a)(3).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-107</heading>
-      <text>For Law 13-107, see notes following § 34-1501.</text>
+      <heading>Legislative history of Law 13-107</heading>
+      <text>For Law 13-107, see notes following § 34-1501.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 17-177</heading>
-      <text>For Law 17-177, see notes following § 32-401.</text>
+      <heading>Legislative history of Law 17-177</heading>
+      <text>For Law 17-177, see notes following § 32-401.</text>
+    </level>
+    <level>
+      <heading>Legislative history of Law 20-142</heading>
+      <text>Law 20-142, the “Sustainable DC Omnibus Act of 2014,” was introduced in Council and assigned Bill No. 20-573. The Bill was adopted on first and second readings on June 24, 2014, and July 14, 2014, respectively. Signed by the Mayor on July 29, 2014, it was assigned Act No. 20-385 and transmitted to Congress for its review. D.C. Law 20-142 became effective on Dec. 17, 2014.</text>
+    </level>
+    <level>
+      <heading>Editor’s notes</heading>
+      <text>Applicability of D.C. Law 20-142: Section 502(a) of D.C. Law 20-142 provided that Title I of the act, §§ 101-111, shall apply as of January 1, 2015.</text>
     </level>
   </level>
 </level>

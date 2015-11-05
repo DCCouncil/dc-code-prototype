@@ -1,13 +1,14 @@
 <level type="toc">
   <prefix>Subchapter</prefix>
   <num>XII</num>
-  <heading>Hours of Work; Legal Holidays; Leave</heading>
+  <heading>Hours of Work; Legal Holidays; Leave.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.02a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.03a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.03b.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.03c.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-612.06.xml"/>

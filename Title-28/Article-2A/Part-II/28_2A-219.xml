@@ -7,7 +7,7 @@
   </level>
   <level>
     <num>(b)</num>
-    <text>Subject to the provisions of this article on the effect of default on risk of loss (§ 28:2A-220), if risk of loss is to pass to the lessee and the time of passage is not stated, the following rules apply:</text>
+    <text>Subject to the provisions of this article on the effect of default on risk of loss (§ 28:2A-220), if risk of loss is to pass to the lessee and the time of passage is not stated, the following rules apply:</text>
     <level>
       <num>(1)</num>
       <text>If the lease contract requires or authorizes the goods to be shipped by carrier</text>
@@ -22,29 +22,46 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>If the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the lessee on acknowledgment by the bailee of the lessee's right to possession of the goods.</text>
+      <text>If the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the lessee on acknowledgment by the bailee of the lessee’s right to possession of the goods.</text>
     </level>
     <level>
       <num>(3)</num>
-      <text>In any case not within paragraph (1) or (2) of this subsection, the risk of loss passes to the lessee on the lessee's receipt of the goods if the lessor, or, in the case of a finance lease, the supplier, is a merchant; otherwise the risk passes to the lessee on tender of delivery.</text>
+      <text>In any case not within paragraph (1) or (2) of this subsection, the risk of loss passes to the lessee on the lessee’s receipt of the goods if the lessor, or, in the case of a finance lease, the supplier, is a merchant; otherwise the risk passes to the lessee on tender of delivery.</text>
     </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830.)</text>
+      <text>(July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830.)</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 28:2A-221 and § 28:2A-529.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 28:2A-221 and § 28:2A-529.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 28:2A-219.</text>
+      <text>1981 Ed., § 28:2A-219.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 9-128</heading>
-      <text>For legislative history of D.C. Law 9-128, see Historical and Statutory Notes following § 28:2A-101.</text>
+      <heading>Legislative history of Law 9-128</heading>
+      <text>For legislative history of D.C. Law 9-128, see Historical and Statutory Notes following § 28:2A-101.</text>
+    </level>
+    <level>
+      <heading>Uniform Commercial Code Comment</heading>
+      <text>Uniform Statutory Source:Section 2-509(1) through (3).</text>
+      <text>Changes: Subsection (1) is new. The introduction to subsection (2) is new, but subparagraph (a) incorporates the provisions of  Section 2-509(1); subparagraph (b) incorporates the provisions of  Section 2-509(2) only in part, reflecting current practice in lease transactions.</text>
+      <text>Purposes: Subsection (1) states rules related to retention or passage of risk of loss consistent with current practice in lease transactions. The provisions of subsection (4) of  Section 2-509 are not incorporated as they are not necessary. This section does not deal with responsibility for loss caused by the wrongful act of either the lesser or the lessee.</text>
+      <text>Cross References:Sections 2-509(1),  2-509(2) and  2-509(4).</text>
+      <text>Definitional Cross References: “Delivery”.  Section 1-201(14).</text>
+      <text>“Finance lease”. Section 2A-103(1)(g).</text>
+      <text>“Goods”. Section 2A-103(1)(h).</text>
+      <text>“Lease contract”. Section 2A-103(1)(l).</text>
+      <text>“Lessee”. Section 2A-103(1)(n).</text>
+      <text>“Lessor”. Section 2A-103(1)(p).</text>
+      <text>“Merchant”.  Section 2-104(1).</text>
+      <text>“Receipt”.  Section 2-103(1)(c).</text>
+      <text>“Rights”.  Section 1-201(36).</text>
+      <text>“Supplier”. Section 2A-103(1)(x).</text>
     </level>
   </level>
 </level>

@@ -4,8 +4,8 @@
   <text>Except as otherwise provided, for purposes of this chapter:</text>
   <level>
     <num>(1)</num>
-    <heading>Appropriate congressional committees</heading>
-    <text>The term "appropriate congressional committees" means: -</text>
+    <heading>Appropriate congressional committees. —</heading>
+    <text>The term “appropriate congressional committees” means:—</text>
     <level>
       <num>(A)</num>
       <text>The Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate;</text>
@@ -21,13 +21,13 @@
   </level>
   <level>
     <num>(2)</num>
-    <heading>Authority</heading>
-    <text>The term "Authority" means the District of Columbia Financial Responsibility and Management Assistance Authority established under § 47-391.01(a).</text>
+    <heading>Authority. —</heading>
+    <text>The term “Authority” means the District of Columbia Financial Responsibility and Management Assistance Authority established under § 47-391.01(a).</text>
   </level>
   <level>
     <num>(3)</num>
-    <heading>Average daily attendance</heading>
-    <text>The term "average daily attendance" means the aggregate attendance of students of the school during the period divided by the number of days during the period in which:</text>
+    <heading>Average daily attendance. —</heading>
+    <text>The term “average daily attendance” means the aggregate attendance of students of the school during the period divided by the number of days during the period in which:</text>
     <level>
       <num>(A)</num>
       <text>The school is in session; and</text>
@@ -39,8 +39,8 @@
   </level>
   <level>
     <num>(4)</num>
-    <heading>Average daily membership</heading>
-    <text>The term "average daily membership" means the aggregate enrollment of students of the school during the period divided by the number of days during the period in which:</text>
+    <heading>Average daily membership. —</heading>
+    <text>The term “average daily membership” means the aggregate enrollment of students of the school during the period divided by the number of days during the period in which:</text>
     <level>
       <num>(A)</num>
       <text>The school is in session; and</text>
@@ -52,36 +52,46 @@
   </level>
   <level>
     <num>(5)</num>
-    <heading>Board of Education</heading>
-    <text>The term "Board of Education" means the Board of Education of the District of Columbia.</text>
+    <heading>Board of Education. —</heading>
+    <text>The term “Board of Education” means the Board of Education of the District of Columbia.</text>
   </level>
   <level>
     <num>(6)</num>
-    <heading>Board of Trustees</heading>
-    <text>The term "Board of Trustees" means the governing board of a public charter school, the members of which are selected pursuant to the charter granted to the school and in a manner consistent with this chapter.</text>
+    <heading>Board of Trustees. —</heading>
+    <text>The term “Board of Trustees” means the governing board of a public charter school, the members of which are selected pursuant to the charter granted to the school and in a manner consistent with this chapter.</text>
+  </level>
+  <level>
+    <num>(6A)</num>
+    <heading>Charter school facility incubator.—</heading>
+    <text>The term “charter school facility incubator” means a nonprofit organization that uses its facility or property to house a charter school for 5 years or until the charter school can acquire its own property, whichever occurs first.</text>
   </level>
   <level>
     <num>(7)</num>
-    <heading>Consensus Commission</heading>
-    <text>The term "Consensus Commission" means the Commission on Consensus Reform in the District of Columbia public schools established under subchapter VIII of this chapter.</text>
+    <heading>Consensus Commission. —</heading>
+    <text>The term “Consensus Commission” means the Commission on Consensus Reform in the District of Columbia public schools established under subchapter VIII of this chapter.</text>
   </level>
   <level>
     <num>(8)</num>
-    <heading>Core curriculum</heading>
-    <text>The term "core curriculum" means the concepts, factual knowledge, and skills that students in the District of Columbia should learn in kindergarten through grade 12 in academic content areas, including, at a minimum, English, mathematics, science, and history.</text>
+    <heading>Core curriculum. —</heading>
+    <text>The term “core curriculum” means the concepts, factual knowledge, and skills that students in the District of Columbia should learn in kindergarten through grade 12 in academic content areas, including, at a minimum, English, mathematics, science, and history.</text>
+  </level>
+  <level>
+    <num>(8A)</num>
+    <heading>DCPS. —</heading>
+    <text>The term “DCPS” means the District of Columbia Public Schools, established by §  38-171.</text>
   </level>
   <level>
     <num>(9)</num>
-    <heading>District of Columbia Council</heading>
-    <text>The term "District of Columbia Council" means the Council of the District of Columbia established pursuant to § 1-204.01.</text>
+    <heading>District of Columbia Council. —</heading>
+    <text>The term “District of Columbia Council” means the Council of the District of Columbia established pursuant to § 1-204.01.</text>
   </level>
   <level>
     <num>(10)</num>
-    <heading>District of Columbia government</heading>
+    <heading>District of Columbia government. —</heading>
     <level>
       <num>(A)</num>
-      <heading>In general</heading>
-      <text>The term "District of Columbia Government" means the government of the District of Columbia, including:</text>
+      <heading>In general. —</heading>
+      <text>The term “District of Columbia Government” means the government of the District of Columbia, including:</text>
       <level>
         <num>(i)</num>
         <text>Any department, agency, or instrumentality of the government of the District of Columbia;</text>
@@ -109,22 +119,22 @@
     </level>
     <level>
       <num>(B)</num>
-      <heading>Exception</heading>
-      <text>The term "District of Columbia Government" neither includes the Authority nor a public charter school.</text>
+      <heading>Exception. —</heading>
+      <text>The term “District of Columbia Government” neither includes the Authority nor a public charter school.</text>
     </level>
   </level>
   <level>
     <num>(11)</num>
-    <heading>District of Columbia Government Retirement System</heading>
-    <text>The term "District of Columbia Government retirement system" means the retirement programs authorized by the District of Columbia Council or the Congress for employees of the District of Columbia Government.</text>
+    <heading>District of Columbia Government Retirement System. —</heading>
+    <text>The term “District of Columbia Government retirement system” means the retirement programs authorized by the District of Columbia Council or the Congress for employees of the District of Columbia Government.</text>
   </level>
   <level>
     <num>(12)</num>
-    <heading>District of Columbia public school</heading>
+    <heading>District of Columbia public school. —</heading>
     <level>
       <num>(A)</num>
-      <heading>In general</heading>
-      <text>The term "District of Columbia public school" means a public school in the District of Columbia that offers classes:</text>
+      <heading>In general. —</heading>
+      <text>The term “District of Columbia public school” means a public school in the District of Columbia that offers classes:</text>
       <level>
         <num>(i)</num>
         <text>At any of the grade levels from prekindergarten through grade 12; or</text>
@@ -136,17 +146,17 @@
     </level>
     <level>
       <num>(B)</num>
-      <heading>Exception</heading>
-      <text>The term "District of Columbia public school" does not include a public charter school.</text>
+      <heading>Exception. —</heading>
+      <text>The term “District of Columbia public school” does not include a public charter school.</text>
     </level>
   </level>
   <level>
     <num>(13)</num>
-    <heading>Districtwide assessments</heading>
-    <text>The term "districtwide assessments" means a variety of assessment tools and strategies (including individual student assessments under subparagraph (E)(ii) of this paragraph administered by the Superintendent to students enrolled in District of Columbia public schools and public charter schools that:</text>
+    <heading>Districtwide assessments. —</heading>
+    <text>The term “districtwide assessments” means a variety of assessment tools and strategies (including individual student assessments under subparagraph (E)(ii) of this paragraph administered by the Superintendent to students enrolled in District of Columbia public schools and public charter schools that:</text>
     <level>
       <num>(A)</num>
-      <text>Are aligned with the District of Columbia's content standards and core curriculum;</text>
+      <text>Are aligned with the District of Columbia’s content standards and core curriculum;</text>
     </level>
     <level>
       <num>(B)</num>
@@ -173,33 +183,33 @@
       </level>
       <level>
         <num>(iii)</num>
-        <text>The reasonable adaptations and accommodations for students with special needs (as defined in paragraph (32) of this section) necessary to measure the achievement of such students relative to the District of Columbia's content standards; and</text>
+        <text>The reasonable adaptations and accommodations for students with special needs (as defined in paragraph (32) of this section) necessary to measure the achievement of such students relative to the District of Columbia’s content standards; and</text>
       </level>
       <level>
         <num>(iv)</num>
-        <text>The inclusion of limited-English proficient students, who shall be assessed, to the extent practicable, in the language and form most likely to yield accurate and reliable information regarding such students' knowledge and abilities.</text>
+        <text>The inclusion of limited-English proficient students, who shall be assessed, to the extent practicable, in the language and form most likely to yield accurate and reliable information regarding such students’ knowledge and abilities.</text>
       </level>
     </level>
   </level>
   <level>
     <num>(14)</num>
-    <heading>Electronic data transfer system</heading>
-    <text>The term "electronic data transfer system" means a computer-based process for the maintenance and transfer of student records designed to permit the transfer of individual student records among District of Columbia public schools and public charter schools.</text>
+    <heading>Electronic data transfer system. —</heading>
+    <text>The term “electronic data transfer system” means a computer-based process for the maintenance and transfer of student records designed to permit the transfer of individual student records among District of Columbia public schools and public charter schools.</text>
   </level>
   <level>
     <num>(15)</num>
-    <heading>Elementary school</heading>
-    <text>The term "elementary school" means an institutional day or residential school that provides elementary education, as determined under District of Columbia law.</text>
+    <heading>Elementary school. —</heading>
+    <text>The term “elementary school” means an institutional day or residential school that provides elementary education, as determined under District of Columbia law.</text>
   </level>
   <level>
     <num>(16)</num>
-    <heading>Eligible applicant</heading>
-    <text>The term "eligible applicant" means a person, including a private, public, or quasi-public entity, or an institution of higher education (as defined in § 1201(a) of the Higher Education Act of 1965 (20 U.S.C. § 1141(a) [repealed]), that seeks to establish a public charter school in the District of Columbia.</text>
+    <heading>Eligible applicant. —</heading>
+    <text>The term “eligible applicant” means a person, including a private, public, or quasi-public entity, or an institution of higher education (as defined in § 1201(a) of the Higher Education Act of 1965 (20 U.S.C. § 1141(a) [repealed]), that seeks to establish a public charter school in the District of Columbia.</text>
   </level>
   <level>
     <num>(17)</num>
-    <heading>Eligible chartering authority</heading>
-    <text>The term "eligible chartering authority" means any of the following:</text>
+    <heading>Eligible chartering authority. —</heading>
+    <text>The term “eligible chartering authority” means any of the following:</text>
     <level>
       <num>(A)</num>
       <text>The Board of Education;</text>
@@ -214,12 +224,38 @@
     </level>
   </level>
   <level>
-    <num>(18)</num>
-    <heading>Family resource center</heading>
-    <text>The term "family resource center" means an information desk:</text>
+    <num>(17A)</num>
+    <heading>Eligible entity. —</heading>
+    <text>The term “eligible entity” means:</text>
     <level>
       <num>(A)</num>
-      <text>Located in a District of Columbia public school or a public charter school serving a majority of students whose family income is not greater than 185 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with § 673(2) of the Community Services Block Grant Act applicable to a family of the size involved (42 U.S.C. § 9902(3)); and</text>
+      <text>A public charter school;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>An eligible applicant whose petition to establish a public charter school has been conditionally approved pursuant to §  38–1802.03(d)(2);</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>A Board of Trustees; or</text>
+    </level>
+    <level>
+      <num>(D)</num>
+      <text>A charter school facility incubator.</text>
+    </level>
+  </level>
+  <level>
+    <num>(17B)</num>
+    <heading>Excess. —</heading>
+    <text>The term “excess” means no longer needed for operational purposes for DCPS or another District agency.</text>
+  </level>
+  <level>
+    <num>(18)</num>
+    <heading>Family resource center. —</heading>
+    <text>The term “family resource center” means an information desk:</text>
+    <level>
+      <num>(A)</num>
+      <text>Located in a District of Columbia public school or a public charter school serving a majority of students whose family income is not greater than 185 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with § 673(2) of the Community Services Block Grant Act applicable to a family of the size involved (42 U.S.C. § 9902(3)); and</text>
     </level>
     <level>
       <num>(B)</num>
@@ -227,63 +263,73 @@
     </level>
   </level>
   <level>
+    <num>(18A)</num>
+    <heading>IDEA. —</heading>
+    <text>The term “ IDEA” means the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1400et seq.), and its implementing regulations.</text>
+  </level>
+  <level>
     <num>(19)</num>
-    <heading>Individual career path</heading>
-    <text>The term "individual career path" means a program of study that provides a secondary school student the skills necessary to compete in the 21st century workforce.</text>
+    <heading>Individual career path. —</heading>
+    <text>The term “individual career path” means a program of study that provides a secondary school student the skills necessary to compete in the 21st century workforce.</text>
+  </level>
+  <level>
+    <num>(19A)</num>
+    <heading>Individualized education program or IEP. —</heading>
+    <text>The term “individualized education plan” or “IEP” means a written plan that specifies the special education programs and services to be provided to meet the unique educational needs of a child with a disability, as required under section 614(d) of IDEA (20 U.S. C. § 1414(d)).</text>
   </level>
   <level>
     <num>(20)</num>
-    <heading>Literacy</heading>
-    <text>The term "literacy" means:</text>
+    <heading>Literacy. —</heading>
+    <text>The term “literacy” means:</text>
     <level>
       <num>(A)</num>
-      <text>In the case of a minor student, such student's ability to read, write, and speak in English, and compute and solve problems at levels of proficiency necessary to function in society, to achieve such student's goals, and develop such student's knowledge and potential; and</text>
+      <text>In the case of a minor student, such student’s ability to read, write, and speak in English, and compute and solve problems at levels of proficiency necessary to function in society, to achieve such student’s goals, and develop such student’s knowledge and potential; and</text>
     </level>
     <level>
       <num>(B)</num>
-      <text>In the case of an adult, such adult's ability to read, write, and speak in English, and compute and solve problems at levels of proficiency necessary to function on the job and in society, to achieve such adult's goals, and develop such adult's knowledge and potential.</text>
+      <text>In the case of an adult, such adult’s ability to read, write, and speak in English, and compute and solve problems at levels of proficiency necessary to function on the job and in society, to achieve such adult’s goals, and develop such adult’s knowledge and potential.</text>
     </level>
   </level>
   <level>
     <num>(21)</num>
-    <heading>Long-term reform plan</heading>
-    <text>The term "long-term reform plan" means the plan submitted by the Superintendent under § 38-1801.01.</text>
+    <heading>Long-term reform plan. —</heading>
+    <text>The term “long-term reform plan” means the plan submitted by the Superintendent under § 38-1801.01.</text>
   </level>
   <level>
     <num>(22)</num>
-    <heading>Mayor</heading>
-    <text>The term "Mayor" means the Mayor of the District of Columbia.</text>
+    <heading>Mayor. —</heading>
+    <text>The term “Mayor” means the Mayor of the District of Columbia.</text>
   </level>
   <level>
     <num>(23)</num>
-    <heading>Metrobus and Metrorail Transit System</heading>
-    <text>The term "Metrobus and Metrorail Transit System" means the bus and rail systems administered by the Washington Metropolitan Area Transit Authority.</text>
+    <heading>Metrobus and Metrorail Transit System. —</heading>
+    <text>The term “Metrobus and Metrorail Transit System” means the bus and rail systems administered by the Washington Metropolitan Area Transit Authority.</text>
   </level>
   <level>
     <num>(24)</num>
-    <heading>Minor student</heading>
-    <text>The term "minor student" means an individual who:</text>
+    <heading>Minor student. —</heading>
+    <text>The term “minor student” means an individual who:</text>
     <level>
       <num>(A)</num>
       <text>Is enrolled in a District of Columbia public school or a public charter school; and</text>
     </level>
     <level>
       <num>(B)</num>
-      <text>Is not beyond the age of compulsory school attendance, as prescribed in §§ 38-201 and 38-202.</text>
+      <text>Is not beyond the age of compulsory school attendance, as prescribed in §§ 38-201 and 38-202.</text>
     </level>
   </level>
   <level>
     <num>(24A)</num>
-    <heading>Nonprofit Corporation Act</heading>
-    <text>The term "Nonprofit Corporation Act" means Chapter 4 of Title 29.</text>
+    <heading>Nonprofit Corporation Act. —</heading>
+    <text>The term “Nonprofit Corporation Act” means Chapter 4 of Title 29.</text>
   </level>
   <level>
     <num>(25)</num>
-    <heading>Nonresident student</heading>
-    <text>The term "nonresident student" means:</text>
+    <heading>Nonresident student. —</heading>
+    <text>The term “nonresident student” means:</text>
     <level>
       <num>(A)</num>
-      <text>An individual under the age of 18 who is enrolled in a District of Columbia public school or a public charter school, and does not have a parent, guardian, custodian, or primary care giver, as determined pursuant to Chapter 3 of this title [§ 38-302 et seq.], residing in the District of Columbia; or</text>
+      <text>An individual under the age of 18 who is enrolled in a District of Columbia public school or a public charter school, and does not have a parent, guardian, custodian, or primary care giver, as determined pursuant to Chapter 3 of this title [§ 38-302 et seq.], residing in the District of Columbia; or</text>
     </level>
     <level>
       <num>(B)</num>
@@ -292,13 +338,13 @@
   </level>
   <level>
     <num>(25A)</num>
-    <heading>Office of the State Superintendent of Education or OSSE</heading>
-    <text>The term "Office of the State Superintendent of Education" or "OSSE" means the Office of the State Superintendent of Education established by § 38-2601.</text>
+    <heading>Office of the State Superintendent of Education or OSSE. —</heading>
+    <text>The term “Office of the State Superintendent of Education” or “OSSE” means the Office of the State Superintendent of Education established by § 38-2601.</text>
   </level>
   <level>
     <num>(26)</num>
-    <heading>Parent</heading>
-    <text>The term "parent" means a person who has custody of a child, and who:</text>
+    <heading>Parent. —</heading>
+    <text>The term “parent” means a person who has custody of a child, and who:</text>
     <level>
       <num>(A)</num>
       <text>Is a natural parent of the child;</text>
@@ -318,127 +364,156 @@
   </level>
   <level>
     <num>(27)</num>
-    <heading>Petition</heading>
-    <text>The term "petition" means a written application.</text>
+    <heading>Petition. —</heading>
+    <text>The term “petition” means a written application.</text>
   </level>
   <level>
     <num>(28)</num>
-    <heading>Promotion gate</heading>
-    <text>The term "promotion gate" means the criteria, developed by the Superintendent and approved by the Board of Education, that are used to determine student promotion at different grade levels. Such criteria shall include student achievement on districtwide assessments established under subchapter III of this chapter.</text>
+    <heading>Promotion gate. —</heading>
+    <text>The term “promotion gate” means the criteria, developed by the Superintendent and approved by the Board of Education, that are used to determine student promotion at different grade levels. Such criteria shall include student achievement on districtwide assessments established under subchapter III of this chapter.</text>
   </level>
   <level>
     <num>(29)</num>
-    <heading>Public charter school</heading>
-    <text>The term "public charter school" means a publicly funded school in the District of Columbia that:</text>
+    <heading>Public charter school. —</heading>
+    <text>The term “public charter school” means a publicly funded school in the District of Columbia that:</text>
     <level>
       <num>(A)</num>
       <text>Is established pursuant to subchapter II of this chapter; and</text>
     </level>
     <level>
       <num>(B)</num>
-      <text>Except as provided under §§ 38-1802.12(d)(5) and 38-1802.13(c)(5) is not a part of the District of Columbia public schools.</text>
+      <text>Except as provided under §§ 38-1802.12(d)(5) and 38-1802.13(c)(5) is not a part of the District of Columbia public schools.</text>
     </level>
   </level>
   <level>
     <num>(30)</num>
-    <heading>Public Charter School Board</heading>
-    <text>The term "Public Charter School Board" means the Public Charter School Board established under § 38-1802.14.</text>
+    <heading>Public Charter School Board. —</heading>
+    <text>The term “Public Charter School Board” means the Public Charter School Board established under § 38-1802.14.</text>
+  </level>
+  <level>
+    <num>(30A)</num>
+    <heading>Rehabilitation Act. —</heading>
+    <text>The term “Rehabilitation Act” means the Rehabilitation Act of 1973, approved September 26, 1973 (87 Stat. 355; 29 U.S. C. § 701et seq.).</text>
+    <text>et seq.</text>
+  </level>
+  <level>
+    <num>(30B)</num>
+    <heading>School facility. —</heading>
+    <text>The term “school facility” means a structure or real property that:</text>
+    <level>
+      <num>(A)</num>
+      <text>Is under the control of DCPS; or</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>Was previously under the control of DCPS or the Board of Education and is now under the control of the Mayor or another agency of the District government.</text>
+    </level>
   </level>
   <level>
     <num>(31)</num>
-    <heading>Secondary school</heading>
-    <text>The term "secondary school" means an institutional day or residential school that provides secondary education, as determined by District of Columbia law, except that such term does not include any education beyond grade 12.</text>
+    <heading>Secondary school. —</heading>
+    <text>The term “secondary school” means an institutional day or residential school that provides secondary education, as determined by District of Columbia law, except that such term does not include any education beyond grade 12.</text>
   </level>
   <level>
     <num>(32)</num>
-    <heading>Student with special needs</heading>
-    <text>The term "student with special needs" means a student who is a child with a disability as provided in § 602(a)(1) of the Individuals with Disabilities Education Act (20 U.S.C. § 1401(a)(1)) or a student who is an individual with a disability as provided in § 7(8) of the Rehabilitation Act of 1973 (29 U.S.C. § 706(8) [29 U.S.C. § 705(20)]).</text>
+    <heading>Student with special needs. —</heading>
+    <text>The term “student with special needs” means a student who is a child with a disability as provided in § 602(a)(1) of the Individuals with Disabilities Education Act (20 U.S.C. § 1401(a)(1)) or a student who is an individual with a disability as provided in § 7(8) of the Rehabilitation Act of 1973 (29 U.S.C. § 706(8) [29 U.S.C. § 705(20)]).</text>
   </level>
   <level>
     <num>(33)</num>
-    <heading>Superintendent</heading>
-    <text>The term "Superintendent" means the Superintendent of the District of Columbia public schools.</text>
+    <heading>Superintendent. —</heading>
+    <text>The term “Superintendent” means the Superintendent of the District of Columbia public schools.</text>
   </level>
   <level>
     <num>(34)</num>
-    <heading>Teacher</heading>
-    <text>The term "teacher" means any person employed as a teacher by the Board of Education or by a public charter school.</text>
+    <heading>Teacher. —</heading>
+    <text>The term “teacher” means any person employed as a teacher by the Board of Education or by a public charter school.</text>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(Apr. 26, 1996, 110 Stat. 1321 226, Pub. L. 104-134, § 2002; Apr. 13, 2005, D.C. Law 15-348, § 102(a), 52 DCR 1991; Mar. 14, 2007, D.C. Law 16-268, § 4(a), 54 DCR 833; Sept. 18, 2007, D.C. Law 17-20, § 4032(a), 54 DCR 7052; July 2, 2011, D.C. Law 18-378, § 3(dd)(1), 58 DCR 1720.)</text>
+      <text>(Apr. 26, 1996, 110 Stat. 1321 226, Pub. L. 104-134, § 2002; Apr. 13, 2005, D.C. Law 15-348, § 102(a), 52 DCR 1991; Mar. 14, 2007, D.C. Law 16-268, § 4(a), 54 DCR 833; Sept. 18, 2007, D.C. Law 17-20, § 4032(a), 54 DCR 7052; July 2, 2011, D.C. Law 18-378, § 3(dd)(1), 58 DCR 1720; June 21, 2014, D.C. Law 20-114, § 2(a), 61 DCR 4669; Mar. 10, 2015, D.C. Law 20-196, § 102(a), 61 DCR 12425.)</text>
     </level>
     <level>
-      <heading>Cross References</heading>
-      <text>Disposition of certain school property, preference for public charter school, see § 47-392.25.</text>
+      <heading>Cross references</heading>
+      <text>Disposition of certain school property, preference for public charter school, see § 47-392.25.</text>
     </level>
     <level>
-      <heading>Section References</heading>
-      <text>This section is referenced in § 5-132.01, § 6-1102, § 38-771.01, § 38-2601.02, § 38-2602, and § 47-392.25.</text>
+      <heading>Section references</heading>
+      <text>This section is referenced in § 5-132.01, § 6-1102, § 38-771.01, § 38-2601.02, § 38-2602, and § 47-392.25.</text>
     </level>
     <level>
       <heading>Prior Codifications</heading>
-      <text>1981 Ed., § 31-2852.</text>
+      <text>1981 Ed., § 31-2852.</text>
     </level>
     <level>
-      <heading>Effect of Amendments</heading>
-      <text>D.C. Law 15-348, in par. (25)(A), substituted "parent, guardian, custodian, or primary care giver, as determined pursuant to Chapter 3 of this title," for "parent".</text>
+      <heading>Effect of amendments</heading>
+      <text>D.C. Law 15-348, in par. (25)(A), substituted “parent, guardian, custodian, or primary care giver, as determined pursuant to Chapter 3 of this title,” for “parent”.</text>
       <text>D.C. Law 16-268 added par. (24A).</text>
       <text>D.C. Law 17-20 added par. (25A).</text>
-      <text>D.C. Law 18-378, in par. (24A), substituted "Chapter 4 of Title 29" for "subchapter I of Chapter 3 of Title 29".</text>
+      <text>D.C. Law 18-378, in par. (24A), substituted “Chapter 4 of Title 29” for “subchapter I of Chapter 3 of Title 29”.</text>
+      <text>The 2014 amendment by D.C. Law 20-114 added (6A), (8A), (17A), (17B), and (30A).</text>
+      <text>The 2015 amendment by D.C. Law 20-196 added (18A), (19A), and (30A).</text>
     </level>
     <level>
-      <heading>Temporary Amendment of Section</heading>
-      <text>Section 3(a) of D.C. Laws 13-199 in subsec. (25)(A), substituted "parent, guardian or custodian" for "parent".</text>
+      <heading>Temporary legislation</heading>
+      <text>Section 3(a) of D.C. Laws 13-199 in subsec. (25)(A), substituted “parent, guardian or custodian” for “parent”.</text>
       <text>Section 6(b) of D.C. Laws 13-427 provided that the act shall expire after 225 days of its having taken effect.</text>
-      <text>Section 3(a) of D.C. Law 14-38, in subsec. (25)(A) is amended by striking the word "parent" and inserting the phrase "parent, guardian or custodian" in its place.</text>
+      <text>Section 3(a) of D.C. Law 14-38, in subsec. (25)(A) is amended by striking the word “parent” and inserting the phrase “parent, guardian or custodian” in its place.</text>
       <text>Section 6(b) of D.C. Law 14-38 provided that the act shall expire after 225 days of its having taken effect.</text>
-      <text>Section 3(a) of D.C. Law 15-67, in par. (25)(A), substituted "parent, guardian or custodian" for "parent".</text>
+      <text>Section 3(a) of D.C. Law 15-67, in par. (25)(A), substituted “parent, guardian or custodian” for “parent”.</text>
       <text>Section 6(b) of D.C. Law 15-67 provided that the act shall expire after 225 days of its having taken effect.</text>
     </level>
     <level>
-      <heading>Emergency Legislation</heading>
-      <text>For temporary (90-day) amendment of section, see § 3(a) of the Public School Enrollment Integrity Emergency Amendment Act of 2000 (D.C. Act 13-409, August 14, 2000, 47 DCR 7264).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of the Public School Enrollment Integrity Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-453, November 7, 2000, 47 DCR 9406).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Emergency Amendment Act of 2001 (D.C. Act 14-86, July 9, 2001, 48 DCR 6373).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-192, November 29, 2001, 48 DCR 11239).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Emergency Amendment Act of 2003 (D.C. Act 15-174, October 6, 2003, 50 DCR 9181).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-282, December 18, 2003, 51 DCR 191).</text>
-      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Emergency Amendment Act of 2004 (D.C. Act 15-519, August 2, 2004, 51 DCR 8995).</text>
-      <text>For temporary (90 day) amendment of section, see § 4032(a) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007, 54 DCR 7549).</text>
+      <heading>Emergency legislation</heading>
+      <text>For temporary (90-day) amendment of section, see § 3(a) of the Public School Enrollment Integrity Emergency Amendment Act of 2000 (D.C. Act 13-409, August 14, 2000,  47 DCR 7264).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of the Public School Enrollment Integrity Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-453, November 7, 2000,  47 DCR 9406).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Emergency Amendment Act of 2001 (D.C. Act 14-86, July 9, 2001,  48 DCR 6373).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-192, November 29, 2001,  48 DCR 11239).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Emergency Amendment Act of 2003 (D.C. Act 15-174, October 6, 2003,  50 DCR 9181).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-282, December 18, 2003  51 DCR 191).</text>
+      <text>For temporary (90 day) amendment of section, see § 3(a) of Public School Enrollment Integrity Clarification Emergency Amendment Act of 2004 (D.C. Act 15-519, August 2, 2004,  51 DCR 8995).</text>
+      <text>For temporary (90 day) amendment of section, see § 4032(a) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</text>
     </level>
     <level>
-      <heading>Legislative History of Law 14-38</heading>
-      <text>Law 14-38, the "Public School Enrollment Integrity Temporary Amendment Act of 2001", was introduced in Council and assigned Bill No. 14-242, which was retained by Council. The Bill was adopted on first and second readings on June 5, 2001, and June 26, 2001, respectively. Signed by the Mayor on July 12, 2001, it was assigned Act No. 14-100 and transmitted to both Houses of Congress for its review. D.C. Law 14-38 became effective on October 13, 2001.</text>
+      <heading>Legislative history of Law 14-38</heading>
+      <text>Law 14-38, the “Public School Enrollment Integrity Temporary Amendment Act of 2001”, was introduced in Council and assigned Bill No. 14-242, which was retained by Council. The Bill was adopted on first and second readings on June 5, 2001, and June 26, 2001, respectively. Signed by the Mayor on July 12, 2001, it was assigned Act No. 14-100 and transmitted to both Houses of Congress for its review. D.C. Law 14-38 became effective on October 13, 2001.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-67</heading>
-      <text>Law 15-67, the "Public School Enrollment Integrity Clarification Temporary Amendment Act of 2003", was introduced in Council and assigned Bill No. 15-433, and was retained by Council. The Bill was adopted on first and second readings on September 16, 2003, and October 7, 2003, respectively. Signed by the Mayor on October 24, 2003, it was assigned Act No. 15-185 and transmitted to both Houses of Congress for its review. D.C. Law 15-67 became effective on February 6, 2004.</text>
+      <heading>Legislative history of Law 15-67</heading>
+      <text>Law 15-67, the “Public School Enrollment Integrity Clarification Temporary Amendment Act of 2003”, was introduced in Council and assigned Bill No. 15-433, and was retained by Council. The Bill was adopted on first and second readings on September 16, 2003, and October 7, 2003, respectively. Signed by the Mayor on October 24, 2003, it was assigned Act No. 15-185 and transmitted to both Houses of Congress for its review. D.C. Law 15-67 became effective on February 6, 2004.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 15-348</heading>
-      <text>Law 15-348, the "Public School Enrollment Integrity Clarification and Board of Education Honoraria Amendment Act of 2004", was introduced in Council and assigned Bill No. 15-411 which was referred to the Committee Education, Libraries and Recreation. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on January 22, 2005, it was assigned Act No. 15-742 and transmitted to both Houses of Congress for its review. D.C. Law 15-348 became effective on April 13, 2005.</text>
+      <heading>Legislative history of Law 15-348</heading>
+      <text>Law 15-348, the “Public School Enrollment Integrity Clarification and Board of Education Honoraria Amendment Act of 2004”, was introduced in Council and assigned Bill No. 15-411 which was referred to the Committee Education, Libraries and Recreation. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on January 22, 2005, it was assigned Act No. 15-742 and transmitted to both Houses of Congress for its review. D.C. Law 15-348 became effective on April 13, 2005.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 16-268</heading>
-      <text>For Law 16-268, see notes following § 38-1701.01.</text>
+      <heading>Legislative history of Law 16-268</heading>
+      <text>For Law 16-268, see notes following § 38-1701.01.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 17-20</heading>
-      <text>For Law 17-20, see notes following § 38-451.</text>
+      <heading>Legislative history of Law 17-20</heading>
+      <text>For Law 17-20, see notes following § 38-451.</text>
     </level>
     <level>
-      <heading>Legislative History of Law 18-378</heading>
-      <text>For history of Law 18-378, see notes under § 38-1202.08.</text>
+      <heading>Legislative history of Law 18-378</heading>
+      <text>For history of Law 18-378, see notes under § 38-1202.08.</text>
     </level>
     <level>
-      <heading>Short Title</heading>
-      <text>Short title: Section 4031 of D.C. Law 17-20 provided that subtitle D of title IV of the act may be cited as the "Student Funding Formula Assessment, Educational Data Warehouse, and Enrollment Fund Establishment Amendment Act of 2007".</text>
+      <heading>Legislative history of Law 20-114</heading>
+      <text>Law 20-114, the “Comprehensive Planning and Utilization of School Facilities Act of 2013,” was introduced in Council and assigned Bill No. 20-313. The Bill was adopted on first and second readings on Mar. 4, 2014, and April 8, 2014, respectively. Signed by the Mayor on April 28, 2014, it was assigned Act No. 20-319 and transmitted to Congress for its review. D.C. Law 20-114 became effective on June 21. 2014.</text>
     </level>
     <level>
-      <heading>References in Text</heading>
-      <text>"Part F of title IV of the District of Columbia Home Rule Act," referred to in (10)(A)(ii), is part F of title IV of the Act of December 24, 1973, 87 Stat. 774, Pub. L. 93-198 which is codified as §§ 1-204.61 through 1-204.66.</text>
+      <heading>Legislative history of Law 20-196</heading>
+      <text>Law 20-196, the “Special Education Quality Improvement Amendment Act of 2014,” was introduced in Council and assigned Bill No. 20-725. The Bill was adopted on first and second readings on Oct. 7, 2014 and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 18, 2014, it was assigned Act No. 20-488 and transmitted to Congress for its review. D.C. Law 20-196 became effective on Mar. 10, 2015.</text>
+    </level>
+    <level>
+      <heading>Short title</heading>
+      <text>Short title: Section 4031 of D.C. Law 17-20 provided that subtitle D of title IV of the act may be cited as the “Student Funding Formula Assessment, Educational Data Warehouse, and Enrollment Fund Establishment Amendment Act of 2007”.</text>
+    </level>
+    <level>
+      <heading>References in text</heading>
+      <text>“Part F of title IV of the District of Columbia Home Rule Act,” referred to in (10)(A)(ii), is part F of title IV of the Act of December 24, 1973, 87 Stat. 774, Pub. L. 93-198 which is codified as §§ 1-204.61 through 1-204.66.</text>
     </level>
   </level>
 </level>

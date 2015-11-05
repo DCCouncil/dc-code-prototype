@@ -1,7 +1,7 @@
 <level type="toc">
   <prefix>Chapter</prefix>
   <num>7C</num>
-  <heading>Testing Integrity</heading>
+  <heading>Testing Integrity.</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-771.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-771.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-771.03.xml"/>

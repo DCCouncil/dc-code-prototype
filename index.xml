@@ -2,15 +2,24 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <recency>
-      <last-act>approximately D.C. Act 20-107</last-act>
-      <effective-date>2014-06-04</effective-date>
-      <publication-date>2014-08-12</publication-date>
+      <law>
+        <law>20-241</law>
+        <effective>2015-04-13</effective>
+      </law>
+      <emergency>
+        <law>20-617</law>
+        <effective>2015-01-28</effective>
+      </emergency>
+      <federal>
+        <law>113-235</law>
+        <effective>2014-12-16</effective>
+      </federal>
     </recency>
   </meta>
   <level type="toc">
     <prefix>Division</prefix>
     <num>I</num>
-    <heading>Government of District</heading>
+    <heading>Government of District.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-3/index.xml"/>
@@ -25,7 +34,7 @@
   <level type="toc">
     <prefix>Division</prefix>
     <num>II</num>
-    <heading>Judiciary and Judicial Procedure</heading>
+    <heading>Judiciary and Judicial Procedure.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-11/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-12/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-13/index.xml"/>
@@ -37,7 +46,7 @@
   <level type="toc">
     <prefix>Division</prefix>
     <num>III</num>
-    <heading>Decedents' Estates and Fiduciary Relations</heading>
+    <heading>Decedents’ Estates and Fiduciary Relations.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-18/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-19/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-20/index.xml"/>
@@ -46,7 +55,7 @@
   <level type="toc">
     <prefix>Division</prefix>
     <num>IV</num>
-    <heading>Criminal Law and Procedure and Prisoners</heading>
+    <heading>Criminal law and procedure and prisoners.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-22/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-23/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-24/index.xml"/>
@@ -54,7 +63,7 @@
   <level type="toc">
     <prefix>Division</prefix>
     <num>V</num>
-    <heading>Local Business Affairs</heading>
+    <heading>Local Business Affairs.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-25/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-26/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-27/index.xml"/>
@@ -73,14 +82,14 @@
   <level type="toc">
     <prefix>Division</prefix>
     <num>VI</num>
-    <heading>Education, Libraries, and Public Institutions</heading>
+    <heading>Education, Libraries, and Public Institutions.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-38/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-39/index.xml"/>
   </level>
   <level type="toc">
     <prefix>Division</prefix>
     <num>VII</num>
-    <heading>Property</heading>
+    <heading>Property.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-40/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-41/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-42/index.xml"/>
@@ -88,7 +97,7 @@
   <level type="toc">
     <prefix>Division</prefix>
     <num>VIII</num>
-    <heading>General Laws</heading>
+    <heading>General Laws.</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-43/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-44/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-45/index.xml"/>

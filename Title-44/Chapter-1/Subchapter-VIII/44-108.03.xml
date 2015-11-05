@@ -8,11 +8,11 @@
   </level>
   <level>
     <num>(2)</num>
-    <text>Level of support and intervention, including any special equipment and supplies, required to compensate for the individual's deficits in activities of daily living;</text>
+    <text>Level of support and intervention, including any special equipment and  supplies, required to compensate for the individual’s deficits in activities  of daily living;</text>
   </level>
   <level>
     <num>(3)</num>
-    <text>Current physical or psychological symptoms of the individual requiring monitoring, support, or other intervention by the ALR;</text>
+    <text>Current physical or psychological symptoms of the individual requiring  monitoring, support, or other intervention by the ALR;</text>
   </level>
   <level>
     <num>(4)</num>
@@ -20,7 +20,7 @@
   </level>
   <level>
     <num>(5)</num>
-    <text>Presence of disruptive behavior or behavior which presents a risk to the physical or emotional health and safety of self or others;</text>
+    <text>Presence of disruptive behavior or behavior which presents a risk to the  physical or emotional health and safety of self or others;</text>
   </level>
   <level>
     <num>(6)</num>
@@ -35,17 +35,17 @@
     </level>
     <level>
       <num>(C)</num>
-      <text>Ability to participate in structured and group activities and the resident's current involvement in such activities.</text>
+      <text>Ability to participate in structured and group activities and the resident’s current involvement in such activities.</text>
     </level>
   </level>
   <level type="annotations">
     <level>
       <heading>History</heading>
-      <text>(June 24, 2000, D.C. Law 13-127, § 803, 47 DCR 2647.)</text>
+      <text>(June 24, 2000, D.C. Law 13-127, § 803, 47 DCR 2647.)</text>
     </level>
     <level>
-      <heading>Legislative History of Law 13-127</heading>
-      <text>For Law 13-127, see notes following § 44-101.01.</text>
+      <heading>Legislative history of Law 13-127</heading>
+      <text>For Law 13-127, see notes following § 44-101.01.</text>
     </level>
   </level>
 </level>
